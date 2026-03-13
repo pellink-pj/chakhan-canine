@@ -1,0 +1,442 @@
+[
+  {
+    "id": "afghan-hound",
+    "name_en": "Afghan Hound",
+    "name_ko": "아프간 하운드",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Long"],
+      "coat_type": ["Silky"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 2,
+      "trainability": 1,
+      "barking": 2,
+      "grooming_needs": 5,
+      "good_with_children": 3,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 2
+    },
+    "description_ko": "독특한 실크 코트와 우아한 외모를 가진 고대 견종입니다. 독립적인 성격으로 훈련이 어렵지만 충성스럽고 애정이 넘칩니다.",
+    "tags": ["대형견", "장모종", "우아한"]
+  },
+  {
+    "id": "beagle",
+    "name_en": "Beagle",
+    "name_ko": "비글",
+    "physical": {
+      "size": "medium",
+      "coat_length": ["Short"],
+      "coat_type": ["Smooth"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 3,
+      "trainability": 3,
+      "barking": 5,
+      "grooming_needs": 2,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 2
+    },
+    "description_ko": "활발하고 호기심 많은 견종입니다. 어린이와 다른 반려동물과 잘 어울리며 충성스럽습니다. 냄새를 매우 잘 맡아 추적 능력이 뛰어납니다.",
+    "tags": ["중형견", "단모종", "가족적"]
+  },
+  {
+    "id": "border-collie",
+    "name_en": "Border Collie",
+    "name_ko": "보더 콜리",
+    "physical": {
+      "size": "medium",
+      "coat_length": ["Medium", "Long"],
+      "coat_type": ["Double"]
+    },
+    "traits_score": {
+      "energy": 5,
+      "shedding": 3,
+      "trainability": 5,
+      "barking": 3,
+      "grooming_needs": 3,
+      "good_with_children": 4,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 1
+    },
+    "description_ko": "세계에서 가장 영리한 견종 중 하나입니다. 엄청난 운동 에너지와 훈련 능력을 가지고 있으며, 적극적인 야외 활동을 즐깁니다.",
+    "tags": ["중형견", "초고지능", "활동적"]
+  },
+  {
+    "id": "bulldog",
+    "name_en": "Bulldog",
+    "name_ko": "불독",
+    "physical": {
+      "size": "medium",
+      "coat_length": ["Short"],
+      "coat_type": ["Smooth"]
+    },
+    "traits_score": {
+      "energy": 2,
+      "shedding": 3,
+      "trainability": 2,
+      "barking": 2,
+      "grooming_needs": 2,
+      "good_with_children": 5,
+      "good_with_other_pets": 4,
+      "apartment_friendly": 5
+    },
+    "description_ko": "느긋하고 다정한 성격을 가진 견종입니다. 어린이와 잘 어울리며 아파트 생활에도 적합합니다. 과격한 운동은 피해야 합니다.",
+    "tags": ["중형견", "단모종", "느긋한"]
+  },
+  {
+    "id": "chihuahua",
+    "name_en": "Chihuahua",
+    "name_ko": "치와와",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Short", "Long"],
+      "coat_type": ["Smooth", "Wavy"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 2,
+      "trainability": 3,
+      "barking": 5,
+      "grooming_needs": 2,
+      "good_with_children": 2,
+      "good_with_other_pets": 2,
+      "apartment_friendly": 5
+    },
+    "description_ko": "세계에서 가장 작은 견종 중 하나입니다. 충성심이 강하고 보호 본능이 있으며 아파트에서 키우기 좋습니다.",
+    "tags": ["소형견", "충성스러운", "아파트 적합"]
+  },
+  {
+    "id": "dachshund",
+    "name_en": "Dachshund",
+    "name_ko": "닥스훈트",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Short", "Long", "Medium"],
+      "coat_type": ["Smooth", "Wirehaired", "Longhaired"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 2,
+      "trainability": 2,
+      "barking": 4,
+      "grooming_needs": 2,
+      "good_with_children": 3,
+      "good_with_other_pets": 2,
+      "apartment_friendly": 4
+    },
+    "description_ko": "긴 몸통과 짧은 다리가 특징인 귀여운 견종입니다. 용감하고 호기심이 많으며 완고한 성격을 가지고 있습니다.",
+    "tags": ["소형견", "단모종", "개성있는"]
+  },
+  {
+    "id": "german-shepherd",
+    "name_en": "German Shepherd",
+    "name_ko": "저먼 셰퍼드",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Medium"],
+      "coat_type": ["Double"]
+    },
+    "traits_score": {
+      "energy": 5,
+      "shedding": 5,
+      "trainability": 5,
+      "barking": 3,
+      "grooming_needs": 3,
+      "good_with_children": 4,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 2
+    },
+    "description_ko": "용감하고 충성스러운 경찰견·군용견으로 유명합니다. 뛰어난 지능과 훈련 능력을 보유하고 있으며 가족을 잘 보호합니다.",
+    "tags": ["대형견", "고지능", "충성스러운"]
+  },
+  {
+    "id": "golden-retriever",
+    "name_en": "Golden Retriever",
+    "name_ko": "골든 리트리버",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Long"],
+      "coat_type": ["Double", "Wavy"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 4,
+      "trainability": 5,
+      "barking": 2,
+      "grooming_needs": 3,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 2
+    },
+    "description_ko": "온순하고 친근한 성격으로 가장 인기 있는 가족견 중 하나입니다. 어린이와 다른 동물과도 잘 어울리며 훈련하기 쉽습니다.",
+    "tags": ["대형견", "장모종", "가족적"]
+  },
+  {
+    "id": "labrador-retriever",
+    "name_en": "Labrador Retriever",
+    "name_ko": "래브라도 리트리버",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Short"],
+      "coat_type": ["Double"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 4,
+      "trainability": 5,
+      "barking": 2,
+      "grooming_needs": 2,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 2
+    },
+    "description_ko": "활발하고 다정하며 유순한 성격을 가진 세계에서 가장 인기 있는 견종입니다. 안내견·치료견으로 많이 활용됩니다.",
+    "tags": ["대형견", "단모종", "가족적"]
+  },
+  {
+    "id": "maltese",
+    "name_en": "Maltese",
+    "name_ko": "말티즈",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Long"],
+      "coat_type": ["Silky"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 1,
+      "trainability": 4,
+      "barking": 4,
+      "grooming_needs": 5,
+      "good_with_children": 4,
+      "good_with_other_pets": 4,
+      "apartment_friendly": 5
+    },
+    "description_ko": "부드럽고 새하얀 털이 특징인 우아한 소형견입니다. 사람을 매우 좋아하며 아파트 생활에 잘 적응합니다.",
+    "tags": ["소형견", "장모종", "아파트 적합"]
+  },
+  {
+    "id": "pomeranian",
+    "name_en": "Pomeranian",
+    "name_ko": "포메라니안",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Long"],
+      "coat_type": ["Double", "Fluffy"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 4,
+      "trainability": 4,
+      "barking": 5,
+      "grooming_needs": 4,
+      "good_with_children": 3,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 4
+    },
+    "description_ko": "폭신한 이중 코트와 여우 같은 얼굴이 특징입니다. 호기심이 많고 활발하며 주인에게 충성스럽습니다.",
+    "tags": ["소형견", "장모종", "활발한"]
+  },
+  {
+    "id": "poodle",
+    "name_en": "Poodle",
+    "name_ko": "푸들",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Medium"],
+      "coat_type": ["Curly"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 1,
+      "trainability": 5,
+      "barking": 3,
+      "grooming_needs": 5,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 4
+    },
+    "description_ko": "매우 지능이 높고 다재다능한 견종입니다. 털 빠짐이 거의 없어 알레르기가 있는 가정에 적합합니다.",
+    "tags": ["소형견", "저알레르기", "고지능"]
+  },
+  {
+    "id": "shih-tzu",
+    "name_en": "Shih Tzu",
+    "name_ko": "시추",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Long"],
+      "coat_type": ["Silky", "Double"]
+    },
+    "traits_score": {
+      "energy": 2,
+      "shedding": 2,
+      "trainability": 3,
+      "barking": 3,
+      "grooming_needs": 5,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 5
+    },
+    "description_ko": "온순하고 다정한 성격을 가진 실내견입니다. 가족과 함께하는 것을 즐기며 어린이와도 잘 어울립니다.",
+    "tags": ["소형견", "장모종", "온순한"]
+  },
+  {
+    "id": "siberian-husky",
+    "name_en": "Siberian Husky",
+    "name_ko": "시베리안 허스키",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Medium"],
+      "coat_type": ["Double"]
+    },
+    "traits_score": {
+      "energy": 5,
+      "shedding": 5,
+      "trainability": 3,
+      "barking": 4,
+      "grooming_needs": 3,
+      "good_with_children": 4,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 1
+    },
+    "description_ko": "강인하고 활동적인 썰매견입니다. 독립적인 성격을 가지며 충분한 운동이 필요합니다. 늑대같은 외모가 특징입니다.",
+    "tags": ["대형견", "중모종", "활동적"]
+  },
+  {
+    "id": "yorkshire-terrier",
+    "name_en": "Yorkshire Terrier",
+    "name_ko": "요크셔 테리어",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Long"],
+      "coat_type": ["Silky"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 1,
+      "trainability": 3,
+      "barking": 4,
+      "grooming_needs": 5,
+      "good_with_children": 3,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 5
+    },
+    "description_ko": "작지만 용감한 성격을 가진 견종입니다. 부드러운 실크 코트가 특징이며 아파트 생활에 잘 어울립니다.",
+    "tags": ["소형견", "장모종", "용감한"]
+  },
+  {
+    "id": "french-bulldog",
+    "name_en": "French Bulldog",
+    "name_ko": "프렌치 불독",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Short"],
+      "coat_type": ["Smooth"]
+    },
+    "traits_score": {
+      "energy": 2,
+      "shedding": 3,
+      "trainability": 3,
+      "barking": 2,
+      "grooming_needs": 1,
+      "good_with_children": 5,
+      "good_with_other_pets": 4,
+      "apartment_friendly": 5
+    },
+    "description_ko": "귀여운 박쥐 귀와 코가 납작한 외모가 특징입니다. 도시 생활에 적합하며 주인에게 매우 애착이 강합니다.",
+    "tags": ["소형견", "단모종", "아파트 적합"]
+  },
+  {
+    "id": "corgi",
+    "name_en": "Pembroke Welsh Corgi",
+    "name_ko": "웰시 코기",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Medium"],
+      "coat_type": ["Double"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 4,
+      "trainability": 4,
+      "barking": 3,
+      "grooming_needs": 3,
+      "good_with_children": 4,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 3
+    },
+    "description_ko": "짧은 다리와 큰 귀가 트레이드마크인 영국 왕실의 사랑받는 견종입니다. 영리하고 활동적이며 훈련하기 쉽습니다.",
+    "tags": ["소형견", "중모종", "영리한"]
+  },
+  {
+    "id": "samoyed",
+    "name_en": "Samoyed",
+    "name_ko": "사모예드",
+    "physical": {
+      "size": "large",
+      "coat_length": ["Long"],
+      "coat_type": ["Double", "Fluffy"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 5,
+      "trainability": 4,
+      "barking": 3,
+      "grooming_needs": 5,
+      "good_with_children": 5,
+      "good_with_other_pets": 4,
+      "apartment_friendly": 2
+    },
+    "description_ko": "미소 짓는 듯한 표정과 새하얀 솜털이 매력적입니다. 친절하고 온순한 성격으로 가족 모두와 잘 어울립니다.",
+    "tags": ["대형견", "장모종", "온순한"]
+  },
+  {
+    "id": "miniature-schnauzer",
+    "name_en": "Miniature Schnauzer",
+    "name_ko": "미니어처 슈나우저",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Medium"],
+      "coat_type": ["Wirehaired"]
+    },
+    "traits_score": {
+      "energy": 4,
+      "shedding": 1,
+      "trainability": 4,
+      "barking": 4,
+      "grooming_needs": 4,
+      "good_with_children": 4,
+      "good_with_other_pets": 3,
+      "apartment_friendly": 4
+    },
+    "description_ko": "수염과 눈썹이 특징적인 활달한 견종입니다. 영리하고 훈련하기 쉬우며 털 빠짐이 적어 관리하기 좋습니다.",
+    "tags": ["소형견", "저사모종", "영리한"]
+  },
+  {
+    "id": "bichon-frise",
+    "name_en": "Bichon Frise",
+    "name_ko": "비숑 프리제",
+    "physical": {
+      "size": "small",
+      "coat_length": ["Medium"],
+      "coat_type": ["Curly"]
+    },
+    "traits_score": {
+      "energy": 3,
+      "shedding": 1,
+      "trainability": 4,
+      "barking": 3,
+      "grooming_needs": 4,
+      "good_with_children": 5,
+      "good_with_other_pets": 5,
+      "apartment_friendly": 5
+    },
+    "description_ko": "하얀 솜뭉치 같은 외모의 귀여운 견종입니다. 알레르기를 유발하지 않는 털을 가지며 사교적이고 명랑합니다.",
+    "tags": ["소형견", "저알레르기", "사교적"]
+  }
+]
