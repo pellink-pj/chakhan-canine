@@ -1,0 +1,1313 @@
+{
+    "settings": {
+        "current_breed": "sealyham-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "parent_club_health_statement_link": null,
+                    "mp_health": "<p>Sealyham Terriers are generally a healthy breed. Like all breeds there may be some health issues, eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Sealyham Terriers are healthy dogs.</p>",
+                    "akc_org_health": "<p>Allergies are fairly common in the breed but are seldom of a really serious nature. There are several genetic eye diseases that potential sires and dams should be tested for before breeding. The American Sealyham Terrier Club provides detailed information on breed health. Non-genetic eye conditions such as tearing and infections can occur because of the breed's long eyebrows. If the dog is a pet, a shorter eyebrow fall is a good idea. Ear infections can occur due to the weight and position of the ears, but keeping the ears clean is usually all that is required for prevention and maintenance.</p>",
+                    "akc_org_nutrition": "<p>The Sealyham Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). For a Sealy who competes in dog shows, avoid food containing extra dye, as the dye tends to stain beards and may also color the urine, which can leave hair yellowish. Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                    "akc_org_grooming": "<p>The breed's weather-resistant, double 'jacket'\u009d and profuse leg and body furnishings must be combed and brushed every two or three days, as Sealy coats tend to mat easily. The coat does not shed but must be hand-stripped or clipped on a regular basis. Pet Sealyhams can be kept trimmed short with minimal furnishings, which makes their care easier. Bathing every three to four weeks is a good idea. For Sealyhams in show coat, washing at least the furnishings frequently is a must. The nails should be trimmed regularly, and the eyes and ears &nbsp;should be checked during grooming sessions.</p>",
+                    "akc_org_exercise": "<p>Sealys love to run in a safely enclosed area and enjoy plenty of exercise. They can overheat in hot, humid weather, so exercise is best in the early morning and in the evening. Grass stains are common, and it may be necessary to wash furnishings and condition often. Encourage Sealys to exercise so they get moderately tired, but not exhausted, and they will be calmer in the house. Sealys can be very active, and exercise helps them be better house pets.</p>",
+                    "akc_org_training": "<p>As with most terriers, Sealys require a firm but not harsh training technique. The Sealy puppy should be socialized early, being gently exposed to a wide range of dogs, people, and places, and this will help to discourage any dog aggression later on. Sealys can be food guarders, and this must be corrected right away. Don't allow the dog to get away with it, ever.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Ophthalmologist Evaluation",
+                    "test_2": "Primary Lens Luxation (PLL) - DNA Test",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Ophthalmologist Evaluation | Primary Lens Luxation (PLL) - DNA Test"
+                }
+            },
+            "basics": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "breed_name_oracle": "Sealyham Terrier",
+                    "matches_oracle": "Sealyham Terrier",
+                    "akc_code": "219",
+                    "breed_name_plural": "Sealyham Terriers",
+                    "breed_nicknames": "Sealy",
+                    "origin": "Wales",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1911",
+                    "life_expectancy": "12-14 years",
+                    "related_breeds": "Glen of Imaal Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Dandie Dinmont Terrier",
+                    "links": [],
+                    "popularity_2025": 163,
+                    "popularity_2024": 168,
+                    "popularity_2023": 169,
+                    "popularity_2022": 164,
+                    "popularity_2021": 139,
+                    "popularity_2020": 148,
+                    "popularity_2019": 156,
+                    "popularity_2018": 164,
+                    "popularity_2017": 150,
+                    "popularity_2016": 155,
+                    "popularity_2015": 158,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "glen-of-imaal-terrier",
+                        "norfolk-terrier",
+                        "norwich-terrier",
+                        "scottish-terrier",
+                        "dandie-dinmont-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "glen-of-imaal-terrier": {
+                            "breed_name_url": "glen-of-imaal-terrier",
+                            "breed_name": "Glen of Imaal Terrier",
+                            "breed_name_oracle": "Glen of Imaal Terrier",
+                            "matches_oracle": "Glen of Imaal Terrier",
+                            "akc_code": "229",
+                            "breed_name_plural": "Glen of Imaal Terriers",
+                            "breed_nicknames": "Glen",
+                            "origin": "Ireland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "2004",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Skye Terrier, Dandie Dinmont Terrier, Norfolk Terrier, Sealyham Terrier, Norwich Terrier",
+                            "links": [],
+                            "popularity_2025": 165,
+                            "popularity_2024": 176,
+                            "popularity_2023": 170,
+                            "popularity_2022": 169,
+                            "popularity_2021": 175,
+                            "popularity_2020": 169,
+                            "popularity_2019": 170,
+                            "popularity_2018": 174,
+                            "popularity_2017": 158,
+                            "popularity_2016": 180,
+                            "popularity_2015": 168,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "spirited / gentle / bold"
+                        },
+                        "norfolk-terrier": {
+                            "breed_name_url": "norfolk-terrier",
+                            "breed_name": "Norfolk Terrier",
+                            "breed_name_oracle": "Norfolk Terrier",
+                            "matches_oracle": "Norfolk Terrier",
+                            "akc_code": "216",
+                            "breed_name_plural": "Norfolk Terriers",
+                            "breed_nicknames": "Norfolk",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1979",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Norwich Terrier, Glen of Imaal Terrier, West Highland White Terrier, Cairn Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 126,
+                            "popularity_2024": 130,
+                            "popularity_2023": 134,
+                            "popularity_2022": 138,
+                            "popularity_2021": 130,
+                            "popularity_2020": 130,
+                            "popularity_2019": 133,
+                            "popularity_2018": 126,
+                            "popularity_2017": 128,
+                            "popularity_2016": 134,
+                            "popularity_2015": 131,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / fearless / fun-loving"
+                        },
+                        "norwich-terrier": {
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "breed_name_oracle": "Norwich Terrier",
+                            "matches_oracle": "Norwich Terrier",
+                            "akc_code": "215",
+                            "breed_name_plural": "Norwich Terriers",
+                            "breed_nicknames": "Norwich",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Terrier, Norfolk Terrier, Australian Terrier, West Highland White Terrier, Cairn Terrier",
+                            "links": [],
+                            "popularity_2025": 109,
+                            "popularity_2024": 104,
+                            "popularity_2023": 105,
+                            "popularity_2022": 109,
+                            "popularity_2021": 111,
+                            "popularity_2020": 109,
+                            "popularity_2019": 104,
+                            "popularity_2018": 108,
+                            "popularity_2017": 105,
+                            "popularity_2016": 103,
+                            "popularity_2015": 103,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / curious / loyal / affectionate / gregarious"
+                        },
+                        "scottish-terrier": {
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "breed_name_oracle": "Scottish Terrier",
+                            "matches_oracle": "Scottish Terrier",
+                            "akc_code": "218",
+                            "breed_name_plural": "Scottish Terriers",
+                            "breed_nicknames": "Scottie, Diehard",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Skye Terrier, Cairn Terrier, West Highland White Terrier, Soft Coated Wheaten Terrier, Kerry Blue Terrier",
+                            "links": [],
+                            "popularity_2025": 57,
+                            "popularity_2024": 54,
+                            "popularity_2023": 59,
+                            "popularity_2022": 60,
+                            "popularity_2021": 58,
+                            "popularity_2020": 57,
+                            "popularity_2019": 57,
+                            "popularity_2018": 57,
+                            "popularity_2017": 58,
+                            "popularity_2016": 58,
+                            "popularity_2015": 58,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "independent / confident / spirited"
+                        },
+                        "dandie-dinmont-terrier": {
+                            "breed_name_url": "dandie-dinmont-terrier",
+                            "breed_name": "Dandie Dinmont Terrier",
+                            "breed_name_oracle": "Dandie Dinmont Terrier",
+                            "matches_oracle": "Dandie Dinmont Terrier",
+                            "akc_code": "208",
+                            "breed_name_plural": "Dandie Dinmont Terriers",
+                            "breed_nicknames": "Dandie",
+                            "origin": "English-Scottish border",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Glen of Imaal Terrier, Cesky Terrier, West Highland White Terrier, Skye Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 186,
+                            "popularity_2024": 180,
+                            "popularity_2023": 186,
+                            "popularity_2022": 186,
+                            "popularity_2021": 174,
+                            "popularity_2020": 181,
+                            "popularity_2019": 176,
+                            "popularity_2018": 176,
+                            "popularity_2017": 182,
+                            "popularity_2016": 167,
+                            "popularity_2015": 172,
+                            "related_groups_characteristics": "",
+                            "temperament": "independent / proud / smart"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "temperament": "alert / outgoing / sense of humor",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "akc_org_blurb": "The Sealyham Terrier is brave and spirited, but not as spiky as smaller terriers. These sturdy, outgoing companions are recognized by their 'fall,'\u009d the mass of hair covering the forehead. Sealy fans enjoy their dog's sly sense of humor.",
+                    "akc_org_about": "Standing less than 11 inches at the shoulder and weighing about 24 pounds, Sealys are not big enough to be considered medium-sized dogs, but they stand among the strongest and most substantial of what we think of as small dogs.\n\n\n\n A typical Sealy is well-muscled, built low to ground, and moves easily with long, determined strides. The weatherproof coat is predominantly white, and a long, broad head is furnished with lavish facial hair. Despite their rep as the bruiser among short-legged terriers, Sealys are cute, funny, affectionate, outgoing, and trainable, if a bit stubborn. Their alertness and a big-dog bark make Sealys excellent watchdogs. Blessed with an adaptable nature, Sealys are amenable to city dwelling or country life.",
+                    "mp_description": "As small as he is, the Sealyham Terrier is a strong, substantial dog, with an outgoing, charming personality. He makes an excellent companion, if you remember that he's first and foremost, all terrier. He may have a stubborn streak, tempered with a sense of humor that can't help but amuse. Your Sealyham Terrier puppy is trainable and friendly. He needs exercise, both physical and mental and lots of time with his family. The breed excels at dog sports, like agility, earthdog and rally."
+                }
+            },
+            "standards": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "title_1": "Head",
+                    "description_1": "<p>Long, broad and powerful, without coarseness. It should, however, be in perfect balance with the body, joining neck smoothly. Length of head roughly three-quarters height at withers, or about an inch longer than neck. Breadth between ears a little less than one-half length of head. stop. Cheeks - Smoothly formed and flat, without heavy jowls. Jaws - Powerful and square. Nose - Black, with large nostrils. White, cherry or butterfly bad faults.</p>",
+                    "title_2": "Body",
+                    "description_2": "<p>Strong, short-coupled and substantial, so as to permit great flexibility. Brisket deep and well let down between forelegs. Ribs well sprung.Neck: Length slightly less than two-thirds of height of dog at withers. Muscular without coarseness, with good reach, refinement at throat, and set firmly on shoulders.Shoulders: Well laid back and powerful, but not over-muscled. Sufficiently wide to permit freedom of action. Upright or straight shoulder placement highly undesirable.</p>",
+                    "title_3": "Forequarters",
+                    "description_3": "<p>Forelegs strong, with good bone; and as straight as is consistent with chest being well let down between them. Down on pasterns, knuckled over, bowed, and out at elbow, bad faults. Hind legs longer than forelegs and not so heavily boned. Feet - Large but compact, round with thick pads, strong nails. Toes well arched and pointing straight ahead. Forefeet larger, though not quite so long as hind feet. Thin, spread or flat feet bad faults.</p>",
+                    "title_4": "Coat",
+                    "description_4": "<p>Weather-resisting, comprised of soft, dense undercoat and hard, wiry top coat. Silky or curly coat bad fault.</p>",
+                    "title_5": "Hindquarters",
+                    "description_5": "<p>Very powerful, and protruding well behind the set-on of tail. Strong second thighs, stifles well bent, and hocks well let down. Cowhocks bad fault.</p>",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "10.5",
+                    "height_max": "10.5",
+                    "weight_min": null,
+                    "weight_max": "24",
+                    "size": "<p>Small</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/SealyhamTerrier.pdf",
+                    "height_min_f": "10.5",
+                    "height_max_f": "10.5",
+                    "height_min_m": "10.5",
+                    "height_max_m": "10.5",
+                    "height_display": "10.5 inches",
+                    "weight_min_f": "23",
+                    "weight_max_f": "24",
+                    "weight_min_m": "23",
+                    "weight_max_m": "24",
+                    "weight_display": "23-24 pounds (male), slightly less (females)"
+                }
+            },
+            "markings": {
+                "sealyham-terrier": {
+                    "markings": [
+                        {
+                            "marking_index": 94,
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "standard_alternate": "S",
+                            "cde_markings": "001",
+                            "markings_long": "Badger Markings",
+                            "markings_short": "BDGR MKGS"
+                        },
+                        {
+                            "marking_index": 95,
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "standard_alternate": "A",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 96,
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        },
+                        {
+                            "marking_index": 97,
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "standard_alternate": "S",
+                            "cde_markings": "063",
+                            "markings_long": "Lemon Markings",
+                            "markings_short": "LMN MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "sealyham-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 341,
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "breed_club_name": "American Sealyham Terrier Club",
+                    "breed_club_url": "sealyham.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/04/08104108/Sealyham-Terrier-20220407.pdf",
+                    "breed_rescue_url": "http://sealyham.org/home/rescue/",
+                    "national_breed_club": "American Sealyham Terrier Club",
+                    "national_breed_club_url": "sealyham.org",
+                    "breed_referral_contact_name": "Barbara Shapiro",
+                    "breed_referral_contact_phone_number": "(732) 915-9180",
+                    "breed_referral_contact_email": "schnzrsgrl@aol.com",
+                    "breed_referral_contact_address": "12631 Copper Mountain Pass\nBoynton Beach, FL 33473",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://sealyham.org/home/rescue/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1631,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 217,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 1148,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1150,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1147,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1149,
+                            "breed_id": "221",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "sealyham-terrier": {
+                    "breed_name_url": "sealyham-terrier",
+                    "breed_name": "Sealyham Terrier",
+                    "akc_org_history": "The name Sealyham Terrier honors the Sealy Ham estate on the Seal River, in southwestern Wales, where this sturdy and confident terrier was first bred. The father of the breed was an army captain named John Edwardes, who in the mid-1800s retired at age 40 and spent the rest of his life developing his dream dog.\n \n \n \n The Sealy's primary purpose was to work in support of the captain's Otterhound pack. Otters in those days were considered pests who depleted the fish population on sprawling estates like Sealy Ham. Edwardes bred his terrier to be strong and tough enough to dig razor-clawed otters out of their lairs. Edwardes left behind no written records of his breedings, and modern authorities disagree as to the exact pedigree of the captain's original Sealys. Among the breed names bandied about in their theories are the Bull, Dandie Dinmont, and West Highland White terriers. Whatever the exact breed mix, the captain succeeded admirably, creating a fearless, hardworking hunter who was also a delightful companion by the fireside. The years between the world wars were the breed's American heyday. Sealys won Westminster's Best in Show award three times in this era, among them was the most famous show dog of the Prohibition era, a Sealy named Bootlegger. Their high profile was further boosted by A-list Hollywood owners like Humphrey Bogart, Gary Cooper, and Cary Grant.\n \n \n \n Sealy popularity with pet owners has waned since those heady days'\u00bfpuzzling, considering the breed's many fine qualities. 'They could be one of the best-kept secrets in dogs,'\u009d says one Sealy lover. The breed today is a bit larger and more affable than the feisty terriers first bred by Captain Edwardes. Their friendliness is put to good use as therapy workers in nursing homes and children's hospitals.",
+                    "mp_history_job": "In the mid-1800s, army captain John Edwardes retired at age 40 to his Sealy Ham estate in Wales and spent the rest of his life developing his dream dog. He crossed several breeds to create a terrier strong and game enough to tangle with dangerous prey like badgers and otters. The years between the world wars were the breed\u00bfs American heyday. Sealys won Westminster three times in this era, and their popularity was boosted by celebrity owners like Humphrey Bogart, Gary Cooper, and Cary Grant.",
+                    "did_you_know": "The Sealyham Terrier was originally bred in Wales. | The English Kennel Club first recognized the Sealyham breed in 1910 when Sealyhams were first shown in a Kennel Club sponsored Championship dog Show. | The Sealyham Terrier derives its name from Sealy Ham, Haverfordwest, Wales, the estate of Captain John Edwards, who developed from obscure ancestry a strain of dogs noted for their prowess in quarrying badger, fox and otter. | Sources believe the Sealyham was produced from crosses between the Corgi, Dandie Dinmont, West Highland White, Wirehaired Fox Terriers, the Bull Terrier and perhaps even some hounds. | The Sealyham's first recorded show appearance was in 1903 at a local affair in Wales and the breed was first imported to the U.S. in 1911."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25619%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-in-three-quarter-view.1.jpg",
+                    "alt": "Sealyham Terrier standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "Thomas Pitera \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-sitting-outdoors.jpg",
+                    "alt": "Sealyham Terrier sitting on a terrace outdoors.",
+                    "caption": "",
+                    "credit": "Liliya Kulianionak/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-stacked-outdoors.jpg",
+                    "alt": "Sealyham Terrier standing stacked in the grass.",
+                    "caption": "",
+                    "credit": "CaptureLight/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-in-three-quarter-view.jpg",
+                    "alt": "Sealyham Terrier standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "Thomas Pitera \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-sitting.jpg",
+                    "alt": "Sealyham Terrier sitting in three-quarter view.",
+                    "caption": "",
+                    "credit": "Nataliya Sdobnikova/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-in-profile.jpg",
+                    "alt": "Sealyham Terrier standing in profile.",
+                    "caption": "",
+                    "credit": "Thomas Pitera \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-at-the-AKC-National-Championship.jpg",
+                    "alt": "Sealyham Terrier at the AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier.jpg",
+                    "alt": "Sealyham Terrier sitting in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Dixi_ - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-Illo-3.jpg",
+                "alt": "Sealyham Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-Illo-3.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-puppy.jpg",
+                "alt": "Sealyham Terrier laying down."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/sealyham-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Sealyham Terrier",
+        "shopCta": false
+    }
+}

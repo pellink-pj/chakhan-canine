@@ -1,0 +1,1615 @@
+{
+    "settings": {
+        "current_breed": "tibetan-terrier",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/03/01140512/Tibetan-Terrier-Health-Statement-March-2023.pdf",
+                    "mp_health": "<p>Tibetan Terriers are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, patellar luxation, hypothyroidism, cancer, deafness, cataracts, progressive retinal atrophy, lens luxation and neuronal ceroid lipofuscinosis. Some dogs may be faced with these health challenges in their lives, but the majority of TTs are healthy dogs.</p>",
+                    "akc_org_health": "<p>TTs can be a hardy, healthy breed that ages gracefully. But just as second-generation immigrants to Western countries succumb to Western diseases, the same phenomenon might be linked to the shift in TT health issues due to environmental changes in diet and lifestyle from its country of origin. Early spay and neuters can predispose dogs to joint issues. Many breeders request that the dog reach maturity before altering. Geriatric heart murmurs and cataracts are not uncommon in aging TTs. Occasionally senior TTs are struck with vestibular disease, which is fortunately something from which they can recover. Cancer is an increasing concern in aging TTs. Responsible breeders screen their stock for health conditions such as allergies, thyroid issues, bladder stones, periodontal disease, hip and patella issues. Genetic tests (such as for NCL, LL, PRA, etc.) are a valuable tool used by breeders to eliminate the expression of those diseases in their puppies.</p>",
+                    "akc_org_nutrition": "<p>Tibetan Terriers evolved in a challenging land that experienced both feast and fast as a way of life. A traditional Tibetan diet would include staples such as easily digestible gruel (cooked barley flour), and meat broth. TTs often received the leftover gruel as food. Naturally lean animals that savor their food (they chew it!), it is not unusual for TTs to leave some in their bowls. Historically, the diet of peasants promoted longevity, while the rich foods of kings created disease. With this in mind, it is best to feed an honest food with real ingredients, and trust a TT to eat what he needs rather than rely on the instructions on a feed bag. A lean dog is more energetic, healthier, and full of happy life force!</p>",
+                    "akc_org_grooming": "<p>Prospective TT owners may mistakenly think this is not the dog for them based upon the manicured, flowing coats seen on televised dog shows. But there's an agile, versatile dog underneath with a multi-purpose coat suited for everyday life. TTs have a double coat, the undercoat being wool, resistant to moisture and a natural insulator. Coat textures can vary from softer to harder to more or less prone to matting. The natural coat of the breed can stand up to most anything nature can dish out. It may be convenient to keep the dog in a puppy cut if a full coat hinders desired outdoor adventures. That being said, the real benefit of grooming a TT is that it strengthens the bond in relationship, is great training, and is a way to monitor the dog's health. It may come as a surprise how enjoyable grooming can be.</p>",
+                    "akc_org_exercise": "<p>TTs love to take walks and be outdoors with their people. Individuals within the breed may have more or less drive for exercise. A good breeder will be able to place match each prospective owner with a compatible dog. If you want to hike up a mountain, there's a TT for that. If you're more of a homebody and simply walk around the block or take the stairs a couple times a day, there's a TT for that. Many TTs enjoy a post in the house where they can look out a window or door and perform sentry duty for their household. If this spot is an overlook like a stair landing or balcony, all the better.</p>",
+                    "akc_org_training": "<p>This is an independent-minded breed that is quick to learn and will wither under obsessive repetition or harsh methods. Training practices that allow the dog to choose the right behavior are recommended. Clicker-training instruction is widely available, and both human and dog will enjoy the developing partnership from training together. TTs are enthusiastic students who love working closely with their owner (in things such as agility, rally, and nose work) and performing jobs that contribute to the household. They seek companionship based on mutual cooperation, trust, and respect. They have great capacity for love and devotion to their people.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "BAER Testing",
+                    "test_5": "Neuronal Ceroid Lipofuscinosis (Tibetan Terrier) (NCL) - DNA Test",
+                    "test_6": "Primary Lens Luxation (PLL) - DNA Test",
+                    "test_7": "Progressive Retinal Atrophy, PRA3 (Tibetan Terrier & Spaniel Type) (PRA3) - DNA TEST",
+                    "test_8": "Progressive Retinal Atrophy, Rod-Cone Dysplasia 4 (PRA-rcd4) - DNA Test",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Ophthalmologist Evaluation | BAER Testing | Neuronal Ceroid Lipofuscinosis (Tibetan Terrier) (NCL) - DNA Test | Primary Lens Luxation (PLL) - DNA Test | Progressive Retinal Atrophy, PRA3 (Tibetan Terrier & Spaniel Type) (PRA3) - DNA TEST | Progressive Retinal Atrophy, Rod-Cone Dysplasia 4 (PRA-rcd4) - DNA Test"
+                }
+            },
+            "basics": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "breed_name_oracle": "Tibetan Terrier",
+                    "matches_oracle": "Tibetan Terrier",
+                    "akc_code": "311",
+                    "breed_name_plural": "Tibetan Terriers",
+                    "breed_nicknames": "TT, Luck Bringer, Holy Dog of Tibet",
+                    "origin": "Tibet",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1973",
+                    "life_expectancy": "15-16 years",
+                    "related_breeds": "Shih Tzu, Lhasa Apso, Tibetan Mastiff, Tibetan Spaniel, L\u00f6wchen",
+                    "links": [],
+                    "popularity_2025": 118,
+                    "popularity_2024": 117,
+                    "popularity_2023": 108,
+                    "popularity_2022": 106,
+                    "popularity_2021": 112,
+                    "popularity_2020": 99,
+                    "popularity_2019": 103,
+                    "popularity_2018": 96,
+                    "popularity_2017": 101,
+                    "popularity_2016": 91,
+                    "popularity_2015": 90,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "shih-tzu",
+                        "lhasa-apso",
+                        "tibetan-mastiff",
+                        "tibetan-spaniel",
+                        "lowchen"
+                    ],
+                    "related_breeds_items": {
+                        "shih-tzu": {
+                            "breed_name_url": "shih-tzu",
+                            "breed_name": "Shih Tzu",
+                            "breed_name_oracle": "Shih Tzu",
+                            "matches_oracle": "Shih Tzu",
+                            "akc_code": "513",
+                            "breed_name_plural": "Shih Tzu",
+                            "breed_nicknames": "",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1969",
+                            "life_expectancy": "10-18 years",
+                            "related_breeds": "Tibetan Spaniel, Tibetan Terrier, Russian Tsvetnaya Bolonka, Lhasa Apso, Havanese",
+                            "links": [],
+                            "popularity_2025": 21,
+                            "popularity_2024": 20,
+                            "popularity_2023": 20,
+                            "popularity_2022": 20,
+                            "popularity_2021": 22,
+                            "popularity_2020": 20,
+                            "popularity_2019": 20,
+                            "popularity_2018": 20,
+                            "popularity_2017": 20,
+                            "popularity_2016": 20,
+                            "popularity_2015": 19,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / affectionate / outgoing"
+                        },
+                        "lhasa-apso": {
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "breed_name_oracle": "Lhasa Apso",
+                            "matches_oracle": "Lhasa Apso",
+                            "akc_code": "307",
+                            "breed_name_plural": "Lhasa Apsos",
+                            "breed_nicknames": "Lhasa, Lion Dog",
+                            "origin": "Tibet",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1935",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Shih Tzu, Havanese, Russian Tsvetnaya Bolonka, Bolognese, Coton de Tulear",
+                            "links": [],
+                            "popularity_2025": 83,
+                            "popularity_2024": 94,
+                            "popularity_2023": 85,
+                            "popularity_2022": 86,
+                            "popularity_2021": 84,
+                            "popularity_2020": 78,
+                            "popularity_2019": 79,
+                            "popularity_2018": 71,
+                            "popularity_2017": 77,
+                            "popularity_2016": 71,
+                            "popularity_2015": 65,
+                            "related_groups_characteristics": "Smallest Dog Breeds, ",
+                            "temperament": "confident / smart / comical"
+                        },
+                        "tibetan-mastiff": {
+                            "breed_name_url": "tibetan-mastiff",
+                            "breed_name": "Tibetan Mastiff",
+                            "breed_name_oracle": "Tibetan Mastiff",
+                            "matches_oracle": "Tibetan Mastiff",
+                            "akc_code": "640",
+                            "breed_name_plural": "Tibetan Mastiffs",
+                            "breed_nicknames": "TM",
+                            "origin": "Tibet",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2006",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Spanish Mastiff, Mastiff, Pyrenean Mastiff",
+                            "links": [],
+                            "popularity_2025": 142,
+                            "popularity_2024": 148,
+                            "popularity_2023": 143,
+                            "popularity_2022": 137,
+                            "popularity_2021": 147,
+                            "popularity_2020": 140,
+                            "popularity_2019": 130,
+                            "popularity_2018": 131,
+                            "popularity_2017": 153,
+                            "popularity_2016": 135,
+                            "popularity_2015": 133,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "reserved / independent / intelligent"
+                        },
+                        "tibetan-spaniel": {
+                            "breed_name_url": "tibetan-spaniel",
+                            "breed_name": "Tibetan Spaniel",
+                            "breed_name_oracle": "Tibetan Spaniel",
+                            "matches_oracle": "Tibetan Spaniel",
+                            "akc_code": "312",
+                            "breed_name_plural": "Tibetan Spaniels",
+                            "breed_nicknames": "Tibbie",
+                            "origin": "Tibet",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1983",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "English Toy Spaniel, Japanese Chin, Pug, Tibetan Terrier, Pekingese",
+                            "links": [],
+                            "popularity_2025": 122,
+                            "popularity_2024": 126,
+                            "popularity_2023": 121,
+                            "popularity_2022": 127,
+                            "popularity_2021": 125,
+                            "popularity_2020": 118,
+                            "popularity_2019": 119,
+                            "popularity_2018": 119,
+                            "popularity_2017": 121,
+                            "popularity_2016": 118,
+                            "popularity_2015": 115,
+                            "related_groups_characteristics": "",
+                            "temperament": "playful / bright / self-confident"
+                        },
+                        "lowchen": {
+                            "breed_name_url": "lowchen",
+                            "breed_name": "L\u00f6wchen",
+                            "breed_name_oracle": "L\u00f6wchen",
+                            "matches_oracle": "L\u00f6wchen",
+                            "akc_code": "317",
+                            "breed_name_plural": "L\u00f6wchen",
+                            "breed_nicknames": "Little Lion Dog",
+                            "origin": "Unknown",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1996",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Lhasa Apso, Havanese, Biewer Terrier, Portuguese Water Dog, Tibetan Terrier",
+                            "links": [],
+                            "popularity_2025": 159,
+                            "popularity_2024": 154,
+                            "popularity_2023": 159,
+                            "popularity_2022": 165,
+                            "popularity_2021": 157,
+                            "popularity_2020": 161,
+                            "popularity_2019": 160,
+                            "popularity_2018": 168,
+                            "popularity_2017": 169,
+                            "popularity_2016": 171,
+                            "popularity_2015": 161,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers, ",
+                            "temperament": "affectionate / outgoing / positive"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "temperament": "loyal / affectionate / sensitive",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "akc_org_blurb": "The Tibetan Terrier, 'Holy Dog of Tibet,'\u009d is an ancient watchdog and companion long associated with Buddhist monasteries. A profusely coated, small-to-medium-sized dog with 'snowshoe'\u009d feet, the TT is affectionate, sensitive, and clever.",
+                    "akc_org_about": "Bearing a passing resemblance to their smaller cousin, the Lhasa Apso, Tibetan Terriers reside at the lower end of medium-sized breeds, standing about 15 inches at the shoulder and weighing between 20 and 24 pounds. A breed hallmark is the beautiful and profuse double coat'\u00bfwooly underneath, with a long, fine topcoat. TTs are unique among dogs for their large, flat 'snowshoe'\u009d feet, adapted over centuries to help them negotiate the snowy, mountainous terrain of their homeland.",
+                    "mp_description": "Having a Tibetan Terrier is a little like having another family member, not a pet. He's extremely attuned to his people's moods and is loyal and affectionate. He's also a bit of a mischief maker, so low-key, patient and varied training is important. Your Tibetan Terrier puppy comes from an ancient breed, over 2,000 years old. His ancestors were bred by the lamas in Tibetan monasteries and could negotiate the rugged mountain terrain. He's smart and independent and will thrive on lots of stimulating play, regular exercise and joining you in outdoor activities."
+                }
+            },
+            "standards": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The Tibetan Terrier is a medium-sized dog, profusely coated, of powerful build, and square in proportion. A fall of hair covers the eyes and foreface. The well-feathered tail curls up and falls forward over the back. The feet are large, flat, and round in shape producing a snowshoe effect that provides traction. The Tibetan Terrier is well balanced and capable of both strong and efficient movement. The Tibetan Terrier is shown as naturally as possible.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>Eyes - Large, set fairly wide apart, dark brown and may appear black in color, neither prominent nor sunken. Eye rims are dark in color. Ears - Pendant, falling not too close to the head, heavily feathered with a \"V\" shaped leather proportionate to the head. Faults - Weak pointed muzzle. Any color other than a black nose. Overshot bite or a very undershot bite or a wry mouth. Long narrow head. Lack of fall over the eyes and foreface.</p>",
+                    "title_3": "Body",
+                    "description_3": "<p>Neck - Length proportionate to the body and head. Body - Compact, square and strong, capable of both speed and endurance. Topline - The back is level in motion. Chest - Heavily furnished. The brisket extends downward to the top of the elbow in the mature Tibetan Terrier. Ribs - The body is well ribbed up and never cloddy or coarse. The rib cage is not too wide across the chest and narrows slightly to permit the forelegs to work free at the sides. Loin - Slightly arched.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>Shoulders - Sloping, well muscled and well laid back. Legs - Straight and strong when viewed from the front. Heavily furnished. The vertical distance from the withers to the elbow equals the distance from the elbows to the ground. Feet - The feet of the Tibetan Terrier are unique in form among dogs. They are large, flat, and round in shape producing a snowshoe effect that provides traction.</p>",
+                    "title_5": "Coat",
+                    "description_5": "<p>Double coat. Undercoat is soft and woolly. Outer coat is profuse and fine but never silky or woolly. May be wavy or straight. Coat is long but should not hang to the ground. When standing on a hard surface an area of light should be seen under the dog. The coat of puppies is shorter, single and often has a softer texture than that of adults. A natural part is often present over the neck and back. Fault - Lack of double coat in adults. Sculpturing, scissoring, stripping or shaving are totally contrary to breed type and are serious faults.</p>",
+                    "title_6": "Hindquarters",
+                    "description_6": "<p>Legs - Well furnished, with well bent stifles and the hind legs are slightly longer than the forelegs. Thighs - Relatively broad and well muscled. Hocks - Low set and turn neither in nor out. Feet - Same as forefeet. Dewclaws May be removed.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "14",
+                    "height_max": "17",
+                    "weight_min": null,
+                    "weight_max": "30",
+                    "size": "<p>Small</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/TibetanTerrier.pdf",
+                    "height_min_f": "14",
+                    "height_max_f": "17",
+                    "height_min_m": "14",
+                    "height_max_m": "17",
+                    "height_display": "14-17 inches",
+                    "weight_min_f": "18",
+                    "weight_max_f": "30",
+                    "weight_min_m": "18",
+                    "weight_max_m": "30",
+                    "weight_display": "18-30 pounds (male), slightly smaller (female)"
+                }
+            },
+            "markings": {
+                "tibetan-terrier": {
+                    "markings": [
+                        {
+                            "marking_index": 163,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 164,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 165,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "cde_markings": "019",
+                            "markings_long": "Black Points",
+                            "markings_short": "BLK PTS"
+                        },
+                        {
+                            "marking_index": 166,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 167,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 168,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "tibetan-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 558,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 559,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 560,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "032",
+                            "color_long": "Black White & Gold",
+                            "color_short": "BLK WH & GLD"
+                        },
+                        {
+                            "color_index": 561,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "208",
+                            "color_long": "White & Gold",
+                            "color_short": "WH & GLD"
+                        },
+                        {
+                            "color_index": 562,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "092",
+                            "color_long": "Gold & White",
+                            "color_short": "GLD & WH"
+                        },
+                        {
+                            "color_index": 563,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "096",
+                            "color_long": "Golden Brindle",
+                            "color_short": "GLDN BRDL"
+                        },
+                        {
+                            "color_index": 564,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 565,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "202",
+                            "color_long": "White & Black",
+                            "color_short": "WH & BLK"
+                        },
+                        {
+                            "color_index": 566,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "164",
+                            "color_long": "Sable",
+                            "color_short": "SBL"
+                        },
+                        {
+                            "color_index": 567,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 568,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "091",
+                            "color_long": "Gold",
+                            "color_short": "GLD"
+                        },
+                        {
+                            "color_index": 569,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "234",
+                            "color_long": "Black & Gold",
+                            "color_short": "BLK & GLD"
+                        },
+                        {
+                            "color_index": 570,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "063",
+                            "color_long": "Brown & White",
+                            "color_short": "BR & WH"
+                        },
+                        {
+                            "color_index": 571,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 572,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "177",
+                            "color_long": "Silver & Black",
+                            "color_short": "SLVR & BLK"
+                        },
+                        {
+                            "color_index": 573,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "182",
+                            "color_long": "Silver & White",
+                            "color_short": "SLVR & WH"
+                        },
+                        {
+                            "color_index": 574,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 575,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 576,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 577,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 578,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 579,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 580,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "009",
+                            "color_long": "Black & Brown",
+                            "color_short": "BLK & BR"
+                        },
+                        {
+                            "color_index": 581,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "020",
+                            "color_long": "Black & White Brindle",
+                            "color_short": "BLK & WH BRDL"
+                        },
+                        {
+                            "color_index": 582,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "022",
+                            "color_long": "Black Brown & White",
+                            "color_short": "BLK BR & WH"
+                        },
+                        {
+                            "color_index": 583,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        },
+                        {
+                            "color_index": 584,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "105",
+                            "color_long": "Gray & White",
+                            "color_short": "GR & WH"
+                        },
+                        {
+                            "color_index": 585,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 586,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "148",
+                            "color_long": "Red Brindle",
+                            "color_short": "RD BRDL"
+                        },
+                        {
+                            "color_index": 587,
+                            "breed_name_url": "tibetan-terrier",
+                            "breed_name": "Tibetan Terrier",
+                            "akc_code": "311",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "008",
+                            "color_long": "Black & Brindle",
+                            "color_short": "BLK & BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "breed_club_name": "Tibetan Terrier Club of America, Inc.",
+                    "breed_club_url": "https://www.ttclubofamerica.org/",
+                    "breed_club_pdf_url": "http://cdn.akc.org/TibetanTerrier-club-flier.pdf",
+                    "breed_rescue_url": "http://www.ttca-online.org/html/rescue.html",
+                    "national_breed_club": "Tibetan Terrier Club of America, Inc.",
+                    "national_breed_club_url": "https://www.ttclubofamerica.org/",
+                    "breed_referral_contact_name": "Stacey La Forge",
+                    "breed_referral_contact_phone_number": "(908) 723-1696",
+                    "breed_referral_contact_email": "laforge-gross@comcast.net",
+                    "breed_referral_contact_address": "87 PLEASANTVIEW AVE\nNEW PROVIDENCE, NJ 07974-2538",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.atftc.com/breeders/breeders.htm",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "website",
+                    "breed_referral_breed_mentor_url": "http://www.atftc.com/board/board.htm",
+                    "breed_rescue_link": "http://www.ttca-online.org/html/rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1660,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 246,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Founded in 1957, the Tibetan Terrier Club of America is the official AKC Parent Club for the Tibetan Terrier."
+                        },
+                        {
+                            "id": 1264,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1266,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1263,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1265,
+                            "breed_id": "251",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "tibetan-terrier": {
+                    "breed_name_url": "tibetan-terrier",
+                    "breed_name": "Tibetan Terrier",
+                    "akc_org_history": "<p>The breed name gets it only half right: Tibetan Terriers are Tibetan, but they're not true terriers' not by blood, temperament, or job description. Westerners carelessly hung the name 'terrier' on this typically Asian dog, and it stuck. An ancient breed developed in the splendid isolation of the Lost Valley, TTs are among several Tibetan dogs associated with Buddhist monasteries and the Dalai Lama. TTs are best known as companions and watchdogs, but during their long history they've worked as herders and flock guardians.</p>",
+                    "mp_history_job": "<p>The breed name gets it only half right: Tibetan Terriers are Tibetan, but they're not true terriers' not by blood, temperament, or job description. Westerners carelessly hung the name 'terrier' on this typically Asian dog, and it stuck. An ancient breed developed in the splendid isolation of the Lost Valley, TTs are among several Tibetan dogs associated with Buddhist monasteries and the Dalai Lama. TTs are best known as companions and watchdogs, but during their long history they've worked as herders and flock guardians.</p>",
+                    "did_you_know": "The Tibetan Terrier originated in Tibet. | The Tibetan Terrier, along with the Lhasa Apso and the Tibetan Spaniel, is one of three native Tibetan breeds in the Non-Sporting group. | The Tibetan Terrier was bred and raised in monasteries by lamas almost 2000 years ago. | Tibetan Terriers are native to the Lost Valley of Tibet, where they were prized companions and \"luck bringers\" for those fortunate enough to own them. | The first \"official\" Tibetan Terrier was brought to the US in 1956. | The Tibetan Terrier is not actually a \"Terrier,\" but was dubbed that because of his Terrier size."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25894%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-On-White-01.jpg",
+                    "alt": "Tibetan Terrier standing in three-quarter view facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Non_Sporting-Group-David-0E9A7276.jpg",
+                    "alt": "Best of Breed: GCH CH Kimik's Some People Are Worth Melting For, Tibetan Terrier; Non-Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-Illo-2.jpg",
+                "alt": "Tibetan Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-MP.jpg",
+                "alt": "Tibetan Terrier puppy laying down next to its bowl outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/tibetan-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Tibetan Terrier",
+        "shopCta": false
+    }
+}

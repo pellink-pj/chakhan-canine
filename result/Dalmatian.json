@@ -1,0 +1,1291 @@
+{
+    "settings": {
+        "current_breed": "dalmatian",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Dalmatian.pdf",
+                    "mp_health": "The Dalmatian is a comparatively healthy breed with few known health issues. The sire and dam of your Dalmatian should both have completed their health testing with normal results. It is very important to make sure that your puppy has completed his series of vaccinations, in particular the series for parvovirus. Regular veterinary care, yearly vaccinations and proper diet are essential to maintaining your dog's good health. A peculiarity intrinsic to the Dalmatian is the tendency to form urinary stones. This occurs in some male Dalmatians and occasionally in females. Constant availability of fresh water and frequent opportunity to urinate are very important. If your dog has trouble urinating or if you see blood in the urine, contact your veterinarian. Dalmatians do not require a special diet for this unless the problem is present.",
+                    "akc_org_health": "If your Dalmatian came from a reputable breeder, you will have a record of genetic health testing done on the parents. Deafness is present in the breed, and responsible breeders will have had the parents tested and will have entire litters tested to be certain that all can hear. A unilaterally hearing dog (deaf in one ear) can usually lead a fairly normal life; a bilaterally (both sides) deaf dog often cannot and will require special considerations. Kidney stones are also present in Dals. Your breeder or vet can tell you what you should feed to avoid the problem. Usually quite healthy, Dalmatians aren't picky eaters and don't require a lot of supplements to keep them looking fit.",
+                    "akc_org_nutrition": "A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the Dalmatian needs. To avoid tipping the scales, watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.",
+                    "akc_org_grooming": "The Dalmatian's coat is a thing of beauty with its colored spots on a sparkling white background, and it doesn't take much work to keep it in good condition. Occasional baths and weekly brushing with a horsehair mitt or rubber curry comb to pull away dead hairs will keep the Dal looking his best. His nails should be trimmed at least monthly. Because his ears flop down, they should be checked regularly'\u00bfyour breeder and your veterinarian can suggest a good routine and cleaning materials, and will show you how to care for them.",
+                    "akc_org_exercise": "All Dalmatians need regular exercise to stay fit and happy. This exercise can consist of chasing a ball tossed across the backyard, running alongside a biking or jogging owner, or taking a nice, long hike through the woods. Since a puppy's bones and joints aren't at their mature strength until two years of age, be wary of strenuously exercising the dog before then. Dalmatians can be very high-energy dogs and can easily get into mischief if they don't have enough opportunity for physical and mental exercise.",
+                    "akc_org_training": "It is very important that you expose your puppy to as many new and unusual but pleasant situations as possible as part of his training. If he understands that new places and people are nothing to be afraid of, it will not only make his life happier but will make life with him much easier for you. He should be taught to behave from the very beginning, but Dalmatians can be very sensitive, so positive, reward-based training is a must. Early socialization and puppy training classes will help to ensure that your Dal grows into a well-adjusted, well-mannered companion.",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "BAER Testing",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | BAER Testing"
+                }
+            },
+            "basics": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "breed_name_oracle": "Dalmatian",
+                    "matches_oracle": "Dalmatian",
+                    "akc_code": "304",
+                    "breed_name_plural": "Dalmatians",
+                    "breed_nicknames": "Dal, Coach Dog",
+                    "origin": "Dalmatia (today, Croatia)",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1888",
+                    "life_expectancy": "11-13 years",
+                    "related_breeds": "German Shorthaired Pointer, Weimaraner, Pointer, Rhodesian Ridgeback, Vizsla",
+                    "links": [],
+                    "popularity_2025": 50,
+                    "popularity_2024": 48,
+                    "popularity_2023": 47,
+                    "popularity_2022": 49,
+                    "popularity_2021": 49,
+                    "popularity_2020": 51,
+                    "popularity_2019": 60,
+                    "popularity_2018": 56,
+                    "popularity_2017": 63,
+                    "popularity_2016": 62,
+                    "popularity_2015": 62,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "german-shorthaired-pointer",
+                        "weimaraner",
+                        "pointer",
+                        "rhodesian-ridgeback",
+                        "vizsla"
+                    ],
+                    "related_breeds_items": {
+                        "german-shorthaired-pointer": {
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "breed_name_oracle": "German Shorthaired Pointer",
+                            "matches_oracle": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "breed_name_plural": "German Shorthaired Pointers",
+                            "breed_nicknames": "GSP",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "German Wirehaired Pointer, Portuguese Pointer, Slovakian Wirehaired Pointer, German Longhaired Pointer, Pointer",
+                            "links": [],
+                            "popularity_2025": 9,
+                            "popularity_2024": 10,
+                            "popularity_2023": 10,
+                            "popularity_2022": 10,
+                            "popularity_2021": 9,
+                            "popularity_2020": 9,
+                            "popularity_2019": 9,
+                            "popularity_2018": 9,
+                            "popularity_2017": 10,
+                            "popularity_2016": 11,
+                            "popularity_2015": 11,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / smart / willing to please"
+                        },
+                        "weimaraner": {
+                            "breed_name_url": "weimaraner",
+                            "breed_name": "Weimaraner",
+                            "breed_name_oracle": "Weimaraner",
+                            "matches_oracle": "Weimaraner",
+                            "akc_code": "123",
+                            "breed_name_plural": "Weimaraners",
+                            "breed_nicknames": "The Gray Ghost",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1943",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Vizsla, Pointer, Dalmatian, Braque Francais Pyrenean, German Shorthaired Pointer",
+                            "links": [],
+                            "popularity_2025": 54,
+                            "popularity_2024": 55,
+                            "popularity_2023": 48,
+                            "popularity_2022": 44,
+                            "popularity_2021": 40,
+                            "popularity_2020": 39,
+                            "popularity_2019": 39,
+                            "popularity_2018": 36,
+                            "popularity_2017": 34,
+                            "popularity_2016": 34,
+                            "popularity_2015": 34,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds",
+                            "temperament": "friendly / fearless / obedient"
+                        },
+                        "pointer": {
+                            "breed_name_url": "pointer",
+                            "breed_name": "Pointer",
+                            "breed_name_oracle": "Pointer",
+                            "matches_oracle": "Pointer",
+                            "akc_code": "101",
+                            "breed_name_plural": "Pointers",
+                            "breed_nicknames": "Pointer",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Portuguese Pointer, German Shorthaired Pointer, Slovakian Wirehaired Pointer, Pudelpointer, Braque du Bourbonnais",
+                            "links": [],
+                            "popularity_2025": 111,
+                            "popularity_2024": 121,
+                            "popularity_2023": 125,
+                            "popularity_2022": 107,
+                            "popularity_2021": 120,
+                            "popularity_2020": 116,
+                            "popularity_2019": 117,
+                            "popularity_2018": 114,
+                            "popularity_2017": 113,
+                            "popularity_2016": 117,
+                            "popularity_2015": 114,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / hardworking / even-tempered"
+                        },
+                        "rhodesian-ridgeback": {
+                            "breed_name_url": "rhodesian-ridgeback",
+                            "breed_name": "Rhodesian Ridgeback",
+                            "breed_name_oracle": "Rhodesian Ridgeback",
+                            "matches_oracle": "Rhodesian Ridgeback",
+                            "akc_code": "416",
+                            "breed_name_plural": "Rhodesian Ridgebacks",
+                            "breed_nicknames": "RR",
+                            "origin": "Zambia/Zimbabwe (formerly Rhodesia)",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1955",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Boerboel, Thai Ridgeback, Weimaraner, Great Dane, Vizsla",
+                            "links": [],
+                            "popularity_2025": 41,
+                            "popularity_2024": 43,
+                            "popularity_2023": 41,
+                            "popularity_2022": 41,
+                            "popularity_2021": 41,
+                            "popularity_2020": 42,
+                            "popularity_2019": 42,
+                            "popularity_2018": 41,
+                            "popularity_2017": 41,
+                            "popularity_2016": 42,
+                            "popularity_2015": 40,
+                            "related_groups_characteristics": "Best Family Dogs",
+                            "temperament": "dignified / affectionate / even-tempered"
+                        },
+                        "vizsla": {
+                            "breed_name_url": "vizsla",
+                            "breed_name": "Vizsla",
+                            "breed_name_oracle": "Vizsla",
+                            "matches_oracle": "Vizsla",
+                            "akc_code": "122",
+                            "breed_name_plural": "Vizslas",
+                            "breed_nicknames": "V",
+                            "origin": "Hungary",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1960",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Wirehaired Vizsla, German Shorthaired Pointer, Pointer, Weimaraner",
+                            "links": [],
+                            "popularity_2025": 36,
+                            "popularity_2024": 35,
+                            "popularity_2023": 35,
+                            "popularity_2022": 33,
+                            "popularity_2021": 32,
+                            "popularity_2020": 35,
+                            "popularity_2019": 34,
+                            "popularity_2018": 31,
+                            "popularity_2017": 30,
+                            "popularity_2016": 31,
+                            "popularity_2015": 32,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "energetic / affectionate / gentle"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "temperament": "dignified / outgoing / smart",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "akc_org_blurb": "<p>The dignified Dalmatian, dogdom's citizen of the world, is famed for his spotted coat and unique job description. During their long history, these \"coach dogs\" have accompanied the horse-drawn rigs of nobles and firefighters.</p>",
+                    "akc_org_about": "<p>The Dalmatian's delightful, eye-catching spots of black or liver adorn one of the most distinctive coats in the animal kingdom. Beneath the spots is a graceful, elegantly proportioned trotting dog standing between 19 and 23 inches at the shoulder. Dals are muscular, built to go the distance; the powerful hindquarters provide the drive behind the smooth, effortless gait. &nbsp;&nbsp;&nbsp;&nbsp;The Dal was originally bred to guard horses and coaches, and some of the old protective instinct remains. Reserved and dignified, Dals can be aloof with strangers and are dependable watchdogs. With their preferred humans, Dals are bright, loyal, and loving house dogs. They are strong, active athletes with great stamina's a wonderful partner for runners and hikers.</p>",
+                    "mp_description": "<p>The Dalmatian is one of the most recognizable dogs, but he's so much more than his spots. Your Dalmatian puppy, as cute as a plush toy, has a unique history as a 'coach dog,' protecting and following horse-drawn vehicles. The breed has many other assets, including intelligence, endurance and speed. He's warm and affectionate with his family and a star performer in agility and the show ring. The Dalmatian is a strong, high-energy dog who thrives on physical activity, like running and hiking, with his family.</p>"
+                }
+            },
+            "standards": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "title_1": "General Appearance",
+                    "description_1": "The Dalmatian is a distinctively spotted dog; poised and alert; strong, muscular and active; free of shyness; intelligent in expression; symmetrical in outline; and without exaggeration or coarseness. The Dalmatian is capable of great endurance, combined with fair amount of speed. Deviations from the described ideal should be penalized in direct proportion to the degree of the deviation.",
+                    "title_2": "Head",
+                    "description_2": "The head is in balance with the overall dog. It is of fair length and is free of loose skin. The Dalmatian's expression is alert and intelligent, indicating a stable and outgoing temperament. The eyes are set moderately well apart, are medium sized and somewhat rounded in appearance, and are set well into the skull. Eye color is brown or blue, or any combination thereof; the darker the better and usually darker in black-spotted than in liver-spotted dogs. Abnormal position of the eyelids or eyelashes (ectropion, entropion, trichiasis) is a major fault. Incomplete pigmentation of the eye rims is a major fault. The ears are of moderate size, proportionately wide at the base and gradually tapering to a rounded tip. They are set rather high, and are carried close to the head, and are thin and fine in texture. When the Dalmatian is alert, the top of the ear is level with the top of the skull and the tip of the ear reaches to the bottom line of the cheek. The nose is completely pigmented on the leather, black in black-spotted dogs and brown in liver-spotted dogs. Incomplete nose pigmentation is a major fault. The lips are clean and close fitting.",
+                    "title_3": "Body",
+                    "description_3": "The shoulders are smoothly muscled and well laid back. The upper arm is approximately equal in length to the shoulder blade and joins it at an angle sufficient to insure that the foot falls under the shoulder. The elbows are close to the body. The legs are straight, strong and sturdy in bone. There is a slight angle at the pastern denoting flexibility.",
+                    "title_4": "Coat",
+                    "description_4": "The coat is short, dense, fine and close fitting. It is neither woolly nor silky. It is sleek, glossy and healthy in appearance.",
+                    "title_5": "Hindquarters",
+                    "description_5": "The hindquarters are powerful, having smooth, yet well defined muscles. The stifle is well bent. The hocks are well let down. When the Dalmatian is standing, the hind legs, viewed from the rear, are parallel to each other from the point of the hock to the heel of the pad. Cowhocks are a major fault.\nFeet: Feet are very important. Both front and rear feet are round and compact with thick, elastic pads and well arched toes. Flat feet are a major fault. Toenails are black and/or white in black- spotted dogs and brown and/or white in liver- spotted dogs. Dewclaws may be removed.",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "19",
+                    "height_max": "24",
+                    "weight_min": "45",
+                    "weight_max": "70",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Dalmatian.pdf",
+                    "height_min_f": "19",
+                    "height_max_f": "24",
+                    "height_min_m": "19",
+                    "height_max_m": "24",
+                    "height_display": "19-24 inches",
+                    "weight_min_f": "45",
+                    "weight_max_f": "70",
+                    "weight_min_m": "45",
+                    "weight_max_m": "70",
+                    "weight_display": "45-70 pounds"
+                }
+            },
+            "colors": {
+                "dalmatian": {
+                    "colors": [
+                        {
+                            "color_index": 500,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "202",
+                            "color_long": "White & Black",
+                            "color_short": "WH & BLK"
+                        },
+                        {
+                            "color_index": 501,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "280",
+                            "color_long": "White & Liver Brown",
+                            "color_short": "WH & LVR BR"
+                        },
+                        {
+                            "color_index": 502,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "213",
+                            "color_long": "White & Orange",
+                            "color_short": "WH & ORG"
+                        },
+                        {
+                            "color_index": 503,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "211",
+                            "color_long": "White & Lemon",
+                            "color_short": "WH & LMN"
+                        },
+                        {
+                            "color_index": 504,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "219",
+                            "color_long": "White Black & Tan",
+                            "color_short": "WH BLK & TN"
+                        },
+                        {
+                            "color_index": 505,
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "akc_code": "304",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "443",
+                            "color_long": "White, Liver & Tan",
+                            "color_short": "WH, LVR & TAN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "breed_club_name": "Dalmatian Club of America, Inc.",
+                    "breed_club_url": "https://dalmatianclubofamerica.org/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/11/09085658/Dalmatian-club-flier.pdf",
+                    "breed_rescue_url": "http://www.thedca.org/rescue.html",
+                    "national_breed_club": "Dalmatian Club of America, Inc.",
+                    "national_breed_club_url": "https://dalmatianclubofamerica.org/",
+                    "breed_referral_contact_name": "Linda McSherry",
+                    "breed_referral_contact_phone_number": "(207) 527-2141",
+                    "breed_referral_contact_email": "",
+                    "breed_referral_contact_address": "748 GREENWOOD RD\nNORWAY, ME 04268-4124",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.thedca.org/referral.html",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.thedca.org/reg-club.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.thedca.org/rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1501,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 87,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 628,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 630,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 627,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 629,
+                            "breed_id": "87",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "dalmatian": {
+                    "breed_name_url": "dalmatian",
+                    "breed_name": "Dalmatian",
+                    "akc_org_history": "<p>Many AKC breeds have obscure and disputed origins, none more so than the Dalmatian. Researchers have used ancient artifacts and writings to support theories placing the Dal's birth in the British Isles, Europe, North Africa, and Asia. There is no doubt, however, that by the early 1800s the breed was closely associated with a swath of Central Europe along the Adriatic Sea, the region once known as Dalmatia.<br>\n</p>\n<p>Dalmatians have a job description unique among AKC breeds: coach dog. Their traditional occupation was to trot beside horse-drawn coaches, and to guard the horses and rig when otherwise unattended. Dals were alongside the caravans of the Romani people, during their ceaseless wanderings around Europe. This association with the peripatetic Romani helps explain why Dal origins are so difficult to pin down' as with the travelers themselves, the world was their home.&nbsp;</p>\n<p><br></p>\n<p>British nobles, too, employed Dals as handsome accents to their livery. The English had a close affinity with the breed and gave it such nicknames as the English Coach Dog, Spotted Dick, and the Plum Pudding Dog (the Dal's spots resembling the candied fruit and nuts that fleck Britain's traditional holiday dessert). Back in the 1800s, when horses pulled fire engines, Dals began their long association with firefighters. These days, Dals accompany the famous Budweiser Clydesdales on parade.&nbsp;</p>\n<p><br></p>\n<p>Dals entered the AKC Stud Book in 1888. The Dalmatian Club of America holds road trials to test their dogs' 'coach dog' ability.</p>",
+                    "mp_history_job": "<p>Dalmatians have a job description unique among AKC breeds: coach dog. They were bred to trot beside horse-drawn coaches, and to guard the horses and rig when otherwise unattended. Dals were alongside the caravans of the Romani people, during their ceaseless wanderings around Europe. British nobles, too, employed Dals as handsome accents to their livery. Back when horses pulled fire engines, Dals began their long association with firefighters. These days, Dals accompany the famous Budweiser Clydesdales on parade.</p>",
+                    "did_you_know": "Dalmatian puppies are born without spots. | The Dalmatian has frequently been found in bands of Romani people, and like its traveling masters, it has been well-known but not located definitely in any one place. | The Dalmatian is also known as the English Coach Dog, the Carriage Dog, the Plum Pudding Dog, and the Spotted Dick. | Dalmatians are famous for being the \"fire house dog\", and they are often featured in older ads and spots riding on fire engines. | Authoritative writers place the Dalmatian's first positive entry in Dalmatia, a region in the west of the former country of Yugoslavia, now Croatia, in the 19th and early 20th centuries. | The Dalmatian has served in many areas, including border sentinel in Dalmatia and Croatia, draft dog and shepherd, sporting dog, pack dog, performer, and above all, coach dog."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775351598",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24183%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-On-White-01.jpg",
+                    "alt": "Dalmatian standing in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/IMG_9468.jpg",
+                    "alt": "Best of Breed: GCHG CH Spotlight Maybe It's Maybelline, Dalmatian; Non-Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-running-across-the-grass.jpg",
+                    "alt": "Dalmatian running across the grass.",
+                    "caption": "",
+                    "credit": "\u00a9PicDeal - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-Illo-2.jpg",
+                "alt": "Dalmatian illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-puppies-sitting-in-a-row.jpg",
+                "alt": "Dalmatian puppies sitting in a row."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/dalmatian",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Dalmatian",
+        "shopCta": false
+    }
+}

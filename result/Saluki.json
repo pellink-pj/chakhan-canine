@@ -1,0 +1,1468 @@
+{
+    "settings": {
+        "current_breed": "saluki",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Saluki.pdf",
+                    "mp_health": "Salukis are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Salukis are healthy dogs.",
+                    "akc_org_health": "As a breed, Salukis are free from serious genetic diseases. Some may develop heart conditions such as valve disease or arrhythmia, and enlarged hearts are not unknown. Certain cancers such as hemangiosarcoma or osteosarcoma, lymphoma, or mammary cancers (the latter is prevented by early spaying) can occur, and some autoimmune and blood conditions have been reported. Vigorous running and playing after eating can cause bloat, or gastric torsion (which is a life-threatening emergency and needs immediate intervention). Generally, however, Salukis enjoy a healthy, active life from birth to old age.",
+                    "akc_org_nutrition": "The Saluki should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times. Saluki appetites can range from the skimpy to the gluttonous. Dogs with the latter will often eat other dogs' food as well as their own, so they may have to be separated at mealtimes to prevent becoming overweight.",
+                    "akc_org_grooming": "Salukis have two types of coats'\u00bffeathered and smooth'\u00bfand both are easily groomed with weekly brushing, although if they have long ear or tail feathering, that may take a bit more attention. Many Saluki owners use a snood to keep ear feathering out of the food bowl (smooth Salukis do not have that problem). Salukis are very clean dogs and known for not having a 'doggy'\u009d odor. Bathing need only be done if they get dirty or before a dog show.",
+                    "akc_org_exercise": "Salukis need regular exercise to keep fit, and daily walks (always on a leash) will help both hound and owner stay in shape, physically and mentally. Salukis love to run and should have a well-fenced yard to keep them safely away from traffic. Like other dogs, Salukis can be escape artists or destructive chewers when bored or unhappy at home, so good fencing and safe toys and chew-bones are a must.",
+                    "akc_org_training": "The Saluki will benefit from three types of training: (1) Crate training is recommended for those times when the dog needs to be safely confined in the home or while traveling. (2) Basic obedience training will help the dog learn manners in the home and community. Well-behaved dogs are welcome almost everywhere. (3) For mental stimulation and exercise, canine sports such as lure coursing, flyball, and agility are all fun options. Lastly, if you start when they are young, it is possible to train Salukis to hold still for nail trimming and daily teeth brushing.",
+                    "text_yumove_link": null,
+                    "test_1": "Cardiac Exam",
+                    "test_2": "Thyroid Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Cardiac Exam | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "breed_name_oracle": "Saluki",
+                    "matches_oracle": "Saluki",
+                    "akc_code": "417",
+                    "breed_name_plural": "Salukis",
+                    "breed_nicknames": "",
+                    "origin": "Middle East",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1929",
+                    "life_expectancy": "10-17 years",
+                    "related_breeds": "Sloughi, Azawakh, Pharaoh Hound, Greyhound, Afghan Hound",
+                    "links": [],
+                    "popularity_2025": 135,
+                    "popularity_2024": 141,
+                    "popularity_2023": 120,
+                    "popularity_2022": 135,
+                    "popularity_2021": 128,
+                    "popularity_2020": 144,
+                    "popularity_2019": 127,
+                    "popularity_2018": 120,
+                    "popularity_2017": 123,
+                    "popularity_2016": 125,
+                    "popularity_2015": 132,
+                    "related_groups_characteristics": "Medium Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "sloughi",
+                        "azawakh",
+                        "pharaoh-hound",
+                        "greyhound",
+                        "afghan-hound"
+                    ],
+                    "related_breeds_items": {
+                        "sloughi": {
+                            "breed_name_url": "sloughi",
+                            "breed_name": "Sloughi",
+                            "breed_name_oracle": "Sloughi",
+                            "matches_oracle": "Sloughi",
+                            "akc_code": "435",
+                            "breed_name_plural": "Sloughis",
+                            "breed_nicknames": "",
+                            "origin": "Arabian Greyhound",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2016",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Azawakh, Saluki, Borzoi, Greyhound, Pharaoh Hound",
+                            "links": [],
+                            "popularity_2025": 201,
+                            "popularity_2024": 197,
+                            "popularity_2023": 200,
+                            "popularity_2022": 197,
+                            "popularity_2021": 193,
+                            "popularity_2020": 189,
+                            "popularity_2019": 193,
+                            "popularity_2018": 192,
+                            "popularity_2017": 188,
+                            "popularity_2016": 185,
+                            "related_groups_characteristics": "Largest Dog Breeds, ",
+                            "temperament": "reserved / graceful / noble"
+                        },
+                        "azawakh": {
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "breed_name_oracle": "Azawakh",
+                            "matches_oracle": "Azawakh",
+                            "akc_code": "437",
+                            "breed_name_plural": "Azawakhs",
+                            "breed_nicknames": "Azawakh",
+                            "origin": "Sahel Region",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2019",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                            "links": [],
+                            "popularity_2025": 195,
+                            "popularity_2024": 192,
+                            "popularity_2023": 196,
+                            "popularity_2022": 194,
+                            "popularity_2021": 185,
+                            "popularity_2020": 193,
+                            "popularity_2019": 192,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / loyal / deeply affectionate"
+                        },
+                        "pharaoh-hound": {
+                            "breed_name_url": "pharaoh-hound",
+                            "breed_name": "Pharaoh Hound",
+                            "breed_name_oracle": "Pharaoh Hound",
+                            "matches_oracle": "Pharaoh Hound",
+                            "akc_code": "421",
+                            "breed_name_plural": "Pharaoh Hounds",
+                            "breed_nicknames": "Pharaoh, the Blushing Dog",
+                            "origin": "Malta",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1983",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Portuguese Podengo, Greyhound, Saluki, Azawakh, Ibizan Hound",
+                            "links": [],
+                            "popularity_2025": 180,
+                            "popularity_2024": 185,
+                            "popularity_2023": 176,
+                            "popularity_2022": 174,
+                            "popularity_2021": 176,
+                            "popularity_2020": 180,
+                            "popularity_2019": 163,
+                            "popularity_2018": 172,
+                            "popularity_2017": 174,
+                            "popularity_2016": 168,
+                            "popularity_2015": 171,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / noble"
+                        },
+                        "greyhound": {
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "breed_name_oracle": "Greyhound",
+                            "matches_oracle": "Greyhound",
+                            "akc_code": "411",
+                            "breed_name_plural": "Greyhounds",
+                            "breed_nicknames": "greyhound",
+                            "origin": "Egypt",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                            "links": [],
+                            "popularity_2025": 151,
+                            "popularity_2024": 118,
+                            "popularity_2023": 127,
+                            "popularity_2022": 129,
+                            "popularity_2021": 132,
+                            "popularity_2020": 142,
+                            "popularity_2019": 164,
+                            "popularity_2018": 145,
+                            "popularity_2017": 156,
+                            "popularity_2016": 151,
+                            "popularity_2015": 147,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                            "temperament": "independent / gentle / noble"
+                        },
+                        "afghan-hound": {
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "breed_name_oracle": "Afghan Hound",
+                            "matches_oracle": "Afghan Hound",
+                            "akc_code": "401",
+                            "breed_name_plural": "Afghan Hounds",
+                            "breed_nicknames": "Afghan",
+                            "origin": "Afghanistan",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1926",
+                            "life_expectancy": "12-18 years",
+                            "related_breeds": "Borzoi, Saluki, Scottish Deerhound, Greyhound, Azawakh",
+                            "links": [],
+                            "popularity_2025": 117,
+                            "popularity_2024": 110,
+                            "popularity_2023": 111,
+                            "popularity_2022": 117,
+                            "popularity_2021": 114,
+                            "popularity_2020": 122,
+                            "popularity_2019": 113,
+                            "popularity_2018": 113,
+                            "popularity_2017": 93,
+                            "popularity_2016": 113,
+                            "popularity_2015": 100,
+                            "related_groups_characteristics": "Hypoallergenic Dogs, Largest Dog Breeds",
+                            "temperament": "independent / sweet"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "temperament": "dignified / gentle / independent-minded",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "akc_org_blurb": "Among the world's oldest breeds, the slim but rugged Saluki was the hunting hound of kings for thousands of years. Salukis are swift and agile sprinters who love a good chase. They make gentle, dignified, and independent but loyal pets.",
+                    "akc_org_about": "The beauty of Salukis has been a thing of wonder for thousands of years. They're slim and leggy, but very strong and perfectly balanced, like a great athlete or dancer. Males can stand between 23 and 28 inches at the shoulder; females can be much shorter. They come in a many colors and patterns. Their large, oval-shaped eyes are warm and intelligent.\n\n\n\n Salukis are highly adaptable, able to live and work in any climate. They're magnificent animals, but owning them comes with many special challenges.",
+                    "mp_description": "Don't let the apparent delicacy of the Saluki fool you. This swift hunting breed is the royalty of sighthounds. One of the oldest known breeds, images of the Saluki appear in Egyptian tombs as early as 2100 B.C. This agile and graceful breed was born for the chase and has an almost cat-like independent mind. Despite his fragile appearance, he's got the ruggedness and endurance to chase prey over long distances of difficult terrain. Your Saluki puppy thrives on physical and mental exercise. Training may take patience and consistency because he's always ready to chase after anything that moves. This instinct also makes Salukis a great choice for dog sports like lure coursing."
+                }
+            },
+            "standards": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The whole appearance of this breed should give an impression of grace and symmetry and of great speed and endurance coupled with strength and activity to enable it to kill gazelle or other quarry over deep sand or rocky mountains. The expression should be dignified and gentle with deep, faithful, far-seeing eyes. Dogs should average in height from 23 to 28 inches and bitches may be considerably smaller, this being very typical of the breed.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>Long and narrow, skull moderately wide between the ears, not domed, stop not pronounced, the whole showing great quality. Nose black or liver. Ears Long and covered with long silky hair hanging close to the skull and mobile. Eyes Dark to hazel and bright; large and oval, but not prominent. Teeth Strong and level.</p>",
+                    "title_3": "Body",
+                    "description_3": "<p>Neck: Long, supple and well muscled. Chest: Deep and moderately narrow. Loin and Back: Back fairly broad, muscles slightly arched over loin.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>Shoulders sloping and set well back, well muscled without being coarse. Forelegs Straight and long from the elbow to the knee.</p>",
+                    "title_5": "Coat",
+                    "description_5": "<p>Smooth and of a soft silky texture, slight feather on the legs, feather at the back of the thighs and sometimes with slight woolly feather on the thigh and shoulder.</p>",
+                    "title_6": "Hindquarters",
+                    "description_6": "<p>Strong, hipbones set well apart and stifle moderately bent, hocks low to the ground, showing galloping and jumping power.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": null,
+                    "height_max": "28",
+                    "weight_min": "40",
+                    "weight_max": "65",
+                    "size": "<p>Large</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Saluki.pdf",
+                    "height_min_f": "23",
+                    "height_max_f": "28",
+                    "height_min_m": "23",
+                    "height_max_m": "28",
+                    "height_display": "23-28 inches (male), considerably smaller (female)",
+                    "weight_min_f": "40",
+                    "weight_max_f": "65",
+                    "weight_min_m": "40",
+                    "weight_max_m": "65",
+                    "weight_display": "40-65 pounds"
+                }
+            },
+            "markings": {
+                "saluki": {
+                    "markings": [
+                        {
+                            "marking_index": 259,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        },
+                        {
+                            "marking_index": 260,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 261,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "064",
+                            "markings_long": "Grizzle Markings",
+                            "markings_short": "GRZL MKGS"
+                        },
+                        {
+                            "marking_index": 262,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "115",
+                            "markings_long": "Irish Marked",
+                            "markings_short": "IRSH MRKD"
+                        },
+                        {
+                            "marking_index": 263,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "123",
+                            "markings_long": "Irish Marked Grizzle",
+                            "markings_short": "IRSH MRKD GRZL"
+                        },
+                        {
+                            "marking_index": 264,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "124",
+                            "markings_long": "Parti-Color Grizzle",
+                            "markings_short": "PRTI GRZL"
+                        },
+                        {
+                            "marking_index": 265,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "125",
+                            "markings_long": "Irish Marked Sable",
+                            "markings_short": "IRSH MRKD SBL"
+                        },
+                        {
+                            "marking_index": 266,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "cde_markings": "126",
+                            "markings_long": "Sable Parti-Color",
+                            "markings_short": "SBL PRTI"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "saluki": {
+                    "colors": [
+                        {
+                            "color_index": 908,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 909,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "030",
+                            "color_long": "Black Tan & White",
+                            "color_short": "BLK TN & WH"
+                        },
+                        {
+                            "color_index": 910,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 911,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 912,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "093",
+                            "color_long": "Golden",
+                            "color_short": "GLDN"
+                        },
+                        {
+                            "color_index": 913,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 914,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 915,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 916,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "071",
+                            "color_long": "Chocolate",
+                            "color_short": "CHLT"
+                        },
+                        {
+                            "color_index": 917,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "072",
+                            "color_long": "Chocolate & Tan",
+                            "color_short": "CHLT & TN"
+                        },
+                        {
+                            "color_index": 918,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 919,
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "akc_code": "417",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "016",
+                            "color_long": "Black & Silver",
+                            "color_short": "BLK & SLVR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "breed_club_name": "Saluki Club of America",
+                    "breed_club_url": "www.salukiclub.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Saluki-club-flyer.pdf",
+                    "breed_rescue_url": "http://www.salukiclub.org/saluki-rescue.html",
+                    "national_breed_club": "Saluki Club of America",
+                    "national_breed_club_url": "www.salukiclub.org",
+                    "breed_referral_contact_name": "Lauren Westover",
+                    "breed_referral_contact_phone_number": "",
+                    "breed_referral_contact_email": "lbjohnson2@gmail.com",
+                    "breed_referral_contact_address": "",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.samoyedclubofamerica.org/sca/about/breeder_ref.html",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.salukiclub.org/saluki-rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1625,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 211,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 1124,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1126,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1123,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1125,
+                            "breed_id": "215",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "saluki": {
+                    "breed_name_url": "saluki",
+                    "breed_name": "Saluki",
+                    "akc_org_history": "The Saluki is among the oldest dog breeds. Experts tell us Salukis might go as far back as 7000 b.c. Like other sighthounds, Salukis were special favorites of kings: Egyptian pharaohs, Alexander the Great, and on through history. The breed today is remarkably similar in shape and personality to its ancient ancestors. We can still marvel at the same sleek lines and natural dignity that thrilled royal families of the Middle East, Egypt, and Asia since before the Pyramids were built.",
+                    "mp_history_job": "The Saluki is among the oldest dog breeds. Experts tell us Salukis might go as far back as 7000 b.c. Like other sighthounds, Salukis were special favorites of kings: Egyptian pharaohs, Alexander the Great, and on through history. The breed today is remarkably similar in shape and personality to its ancient ancestors. We can still marvel at the same sleek lines and natural dignity that thrilled royal families of the Middle East, Egypt, and Asia since before the Pyramids were built.",
+                    "did_you_know": "The Saluki, royal dog of Egypt, is perhaps the oldest known breed of domesticated dog, identified by some historians as \"a distinct breed and type as long ago as 329 BC when Alexander the Great invaded India.\" | The Saluki was officially recognized by the American Kennel Club in 1927. | Having tremendous speed, the Saluki was used by the Arabs principally to track and bring down gazelle, the fastest of the antelopes. | Salukis were widespread and appeared in Egypt, where they were held in such great esteem that their bodies were often mummified like the bodies of the pharaohs themselves. | Salukis were first brought into England in 1840. | The Saluki's sight is remarkable, as is his strong constitution and ability to withstand very harsh conditions despite an aristocratic appearance."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25544%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/AKC-121716-139.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Hound-Group-David-0E9A5709.jpg",
+                    "alt": "Best of Breed: GCHG CH Baghdad Eleganza Extravaganza, Saluki; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki.jpg",
+                    "alt": "Saluki standing facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki.coat_.jpg",
+                    "alt": "Saluki coat detail.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki.profile.jpg",
+                    "alt": "Saluki head and shoulders facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HP27265506-06.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki3_head.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki1_stacked.jpg",
+                    "alt": "Saluki",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki-Illo-2.jpg",
+                "alt": "Saluki illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Saluki-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Saluki-MP.jpg",
+                "alt": "Saluki"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/saluki",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Saluki",
+        "shopCta": false
+    }
+}

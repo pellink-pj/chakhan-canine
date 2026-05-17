@@ -1,0 +1,1380 @@
+{
+    "settings": {
+        "current_breed": "chinook",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/03/01153407/Chinook-Health-Statement-September-2022.pdf",
+                    "mp_health": "<p>Chinooks are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, eye disease or patellar luxation, Some dogs may be faced with these health challenges in their lives, but the majority of Chinooks are healthy dogs.</p>",
+                    "akc_org_health": "<p>The Chinook is a robust, healthy breed, but there are certain health conditions that it is prone to. These include hip dysplasia, cryptorchidism (the absence of one or both testes from the scrotum), gastrointestinal disorders, and allergies. Some Chinooks suffer from a condition called 'Chinook seizures,'\u009d although it is generally thought to be a movement disorder and not true seizures. As with all breeds, a Chinook's ears should be checked regularly for signs of infection, and the teeth should be brushed often.</p>",
+                    "akc_org_nutrition": "<p>Breeders recommend that the Chinook be fed a high-quality dog food appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The Chinook's plush double coat is fairly easy to care for. Like all mammals, Chinooks shed a bit throughout the year. Weekly brushing will help to remove dirt and loose hair and keep the dog looking his best. Longer, daily brushing sessions will be required during shedding season, which generally occurs twice a year, but happens more often with spayed or neutered animals. As with all breeds, the nails should be trimmed regularly, as overly long nails can be painful to the dog and cause problems walking and running.</p>",
+                    "akc_org_exercise": "<p>While they often appear relaxed and mellow around the house, Chinooks have a tremendous amount of energy, and they thrive on exercise and play. Because they bond strongly with their owners, they make great companions on long walks, hikes, bicycle rides, and camping trips. They even enjoy swimming and boating with their human family. Of course, Chinooks were bred to pull sleds, so it's no surprise that they excel at sports such as sledding, skijoring, bikejoring, and scootering. Chinooks also enjoy participating in agility, obedience, rally, tracking, and lure coursing events.</p>",
+                    "akc_org_training": "<p>Early socialization and puppy training classes are recommended for all dogs and help to ensure that the Chinook grows into a well-adjusted, well-mannered companion. Chinooks are easy to train using positive reinforcement techniques. Unlike most sledding breeds, they can be reliable off-leash. Chinooks, especially young ones, are enthusiastic and affectionate, and they tend to jump up and go face to face with human friends and family members unless they are trained early on not to do so. Because of his friendly, confident, outgoing personality, no amount of training will make a guard dog out of a Chinook.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Chondrodysplasia (Karelian Bear Dog & Norwegian Elkhound) - DNA Test",
+                    "test_4": "Multidrug Resistance 1 (MDR1) - DNA Test",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Chondrodysplasia (Karelian Bear Dog & Norwegian Elkhound) - DNA Test | Multidrug Resistance 1 (MDR1) - DNA Test"
+                }
+            },
+            "basics": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "breed_name_oracle": "Chinook",
+                    "matches_oracle": "Chinook",
+                    "akc_code": "653",
+                    "breed_name_plural": "Chinooks",
+                    "breed_nicknames": "Chinook",
+                    "origin": "United States",
+                    "breed_group": "Working Group",
+                    "year_recognized": "2013",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Siberian Husky, Mastiff, Samoyed, Yakutian Laika, Alaskan Malamute",
+                    "links": [],
+                    "popularity_2025": 198,
+                    "popularity_2024": 182,
+                    "popularity_2023": 179,
+                    "popularity_2022": 180,
+                    "popularity_2021": 172,
+                    "popularity_2020": 186,
+                    "popularity_2019": 186,
+                    "popularity_2018": 190,
+                    "popularity_2017": 179,
+                    "popularity_2016": 175,
+                    "popularity_2015": 177,
+                    "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "siberian-husky",
+                        "mastiff",
+                        "samoyed",
+                        "yakutian-laika",
+                        "alaskan-malamute"
+                    ],
+                    "related_breeds_items": {
+                        "siberian-husky": {
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "breed_name_oracle": "Siberian Husky",
+                            "matches_oracle": "Siberian Husky",
+                            "akc_code": "626",
+                            "breed_name_plural": "Siberian Huskies",
+                            "breed_nicknames": "Husky",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Alaskan Malamute, Yakutian Laika, Akita, Chinook, Samoyed",
+                            "links": [],
+                            "popularity_2025": 30,
+                            "popularity_2024": 26,
+                            "popularity_2023": 24,
+                            "popularity_2022": 21,
+                            "popularity_2021": 19,
+                            "popularity_2020": 16,
+                            "popularity_2019": 15,
+                            "popularity_2018": 14,
+                            "popularity_2017": 12,
+                            "popularity_2016": 12,
+                            "popularity_2015": 12,
+                            "related_groups_characteristics": "Largest Dog Breeds, ",
+                            "temperament": "Loyal / Outgoing / mischievous"
+                        },
+                        "mastiff": {
+                            "breed_name_url": "mastiff",
+                            "breed_name": "Mastiff",
+                            "breed_name_oracle": "Mastiff",
+                            "matches_oracle": "Mastiff",
+                            "akc_code": "618",
+                            "breed_name_plural": "Mastiffs",
+                            "breed_nicknames": "Gentle Giant",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "6-10 years",
+                            "related_breeds": "Neapolitan Mastiff, Bullmastiff, Pyrenean Mastiff, Tibetan Mastiff, Spanish Mastiff",
+                            "links": [],
+                            "popularity_2025": 40,
+                            "popularity_2024": 40,
+                            "popularity_2023": 38,
+                            "popularity_2022": 37,
+                            "popularity_2021": 35,
+                            "popularity_2020": 33,
+                            "popularity_2019": 32,
+                            "popularity_2018": 29,
+                            "popularity_2017": 28,
+                            "popularity_2016": 28,
+                            "popularity_2015": 25,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / good-natured / courageous"
+                        },
+                        "samoyed": {
+                            "breed_name_url": "samoyed",
+                            "breed_name": "Samoyed",
+                            "breed_name_oracle": "Samoyed",
+                            "matches_oracle": "Samoyed",
+                            "akc_code": "624",
+                            "breed_name_plural": "Samoyeds",
+                            "breed_nicknames": "Sammy, Sam, The Smiling Dog",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Norwegian Elkhound, Swedish Lapphund, Lapponian Herder",
+                            "links": [],
+                            "popularity_2025": 55,
+                            "popularity_2024": 53,
+                            "popularity_2023": 50,
+                            "popularity_2022": 53,
+                            "popularity_2021": 55,
+                            "popularity_2020": 56,
+                            "popularity_2019": 59,
+                            "popularity_2018": 59,
+                            "popularity_2017": 57,
+                            "popularity_2016": 65,
+                            "popularity_2015": 61,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / gentle / adaptable"
+                        },
+                        "yakutian-laika": {
+                            "breed_name_url": "yakutian-laika",
+                            "breed_name": "Yakutian Laika",
+                            "breed_name_oracle": "Yakutian Laika",
+                            "matches_oracle": "Yakutian Laika",
+                            "akc_code": "670",
+                            "breed_name_plural": "Yakutian Laikas",
+                            "breed_nicknames": "Yakuts",
+                            "origin": "Yakutia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Swedish Lapphund, Lapponian Herder, Alaskan Malamute, Samoyed, Siberian Husky",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / active / affectionate"
+                        },
+                        "alaskan-malamute": {
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "breed_name_oracle": "Alaskan Malamute",
+                            "matches_oracle": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "breed_name_plural": "Alaskan Malamutes",
+                            "breed_nicknames": "Mal",
+                            "origin": "Alaska",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1935",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Samoyed, Chinook, Lapponian Herder",
+                            "links": {
+                                "mp_url": "https://marketplace.akc.org/puppies/alaskan-malamute",
+                                "akc_url": "https://www.akc.org/dog-breeds/alaskan-malamute"
+                            },
+                            "popularity_2025": 81,
+                            "popularity_2024": 79,
+                            "popularity_2023": 71,
+                            "popularity_2022": 67,
+                            "popularity_2021": 68,
+                            "popularity_2020": 65,
+                            "popularity_2019": 65,
+                            "popularity_2018": 58,
+                            "popularity_2017": 59,
+                            "popularity_2016": 59,
+                            "popularity_2015": 54,
+                            "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds",
+                            "temperament": "loyal / playful / affectionate"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "temperament": "devoted / smart / patient",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "akc_org_blurb": "<p>The pride of Wonalancet, New Hampshire, the Chinook is a rugged working dog and devoted family pet known for intelligence, patience, and eagerness to please. Once on the verge of extinction, the Chinook is among the scarcest AKC breeds.</p>",
+                    "akc_org_about": "<p>Tawny-coated, no-frills Chinooks are muscular and substantial, with males standing as high as 26 inches at the shoulder. Females, with their distinctly feminine look, are a bit smaller. Chinooks were conceived as dual-purpose haulers, with the power of freighting dogs and the speed of sled racers. They are the picture of stouthearted dignity, with a kindly twinkle in their dark, almond eyes. &nbsp;&nbsp;&nbsp;&nbsp;Chinooks are calm, people-oriented dogs with a special feel for children. They are trainable workers who aim to please. Sledding, carting, obedience, agility, search-and-rescue work, and herding are a few pursuits they've mastered. Chinooks are not particularly busy dogs, but they need consistent exercise to stay in proper hard condition.</p>\n<p><br></p>\n<p>Pronunciation - Sha-Nook</p>",
+                    "mp_description": "<p>Even if you don't happen to need a sled pulled, this American sled dog will find many ways into your heart. The Chinook is very trainable and eager to please. He's a playful family pet, especially fond of children. With his strength and speed, he excels at dog sports like obedience, agility, herding and of course, sledding. Your Chinook puppy needs socialization, training and exercise. He'll be happiest with a fenced yard where he can romp and play with the family.</p>"
+                }
+            },
+            "standards": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "title_1": "General Appearance",
+                    "description_1": "The Chinook was developed in the United States as a sled dog whose function was drafting and sled dog racing. Bred to combine the power of freighting breeds with the speed of the lighter racing sled dogs, he is an athletic, hard bodied dog showing good forward reach and rear extension in a seemingly tireless gait. The Chinook is an impressive dog, with an aquiline muzzle, dark almond eyes, black eye markings, a variety of ear carriages, and a tawny, close fitting coat. His saber tail is held in a graceful sickle curve. The male should appear unquestionably masculine; the female should have a distinctly feminine look and be judged equally with the male. A dignified and affectionate family dog, the Chinook is known for his love of children. The Chinook is to be presented in a natural condition with no trimming. The following is a description of the ideal Chinook.\nSize, Proportion, Substance: The Chinook is a slow maturing breed. Size - Ideal height at the withers: males 24 to 26 inches; females 22 to 24 inches. Proportion - When measuring from point of shoulder to the point of buttocks the Chinook is slightly longer than tall. The proportion of height to length of body being as 9:10 in ratio. Substance - Muscular with moderate bone, a gender difference is easily discernible. The Chinook exemplifies a sound athlete in grace, muscle tone, movement, and carriage.",
+                    "title_2": "Head",
+                    "description_2": "The head is broad, wedge-shaped, and impressive but in balance with the size of the dog. Cheeks are well-developed and slightly rounded. The expression is intelligent, inquisitive and kind. The eyes are medium in size and almond in shape with black rims. The eye can be any shade of brown but dark brown is preferred. Dark markings around the eye that accentuate the eye and give character are desirable. Extended black pigment in an apostrophe shape at the inner corner of each eye is preferred. Disqualification-Any eye color other than brown. The ears are set near the top line of the skull. They are medium in size, V-shaped, and slightly rounded at the tip. The ear tip should be just long enough to reach the inside corner of the eye. Any ear type is allowed, including drop, prick, or propeller ears that maintain a fold when at attention. For aesthetic purposes, dropped and matched ears are preferred. The topskull is broad and slightly arched between the ears. When viewed from above, the topskull is almost square, gradually narrowing and flattening on top as it approaches the eyes. The stop is moderate and marked with a central furrow extending up the top skull. The muzzle is aquiline and shorter in length than the top skull, measuring from nose to stop as 2:3 in ratio with stop to occiput. Viewed from the front, the muzzle is tapered to form a blunt wedge. Viewed from the side, the top of the muzzle to the nasal cartilage and the top skull are almost parallel. The nose is large, prominent and the leather is solid black. The lips are black. Bite - The Chinook has a full complement of strong teeth meeting in a scissors or a level bite.",
+                    "title_3": "Body",
+                    "description_3": "The neck is strong, balanced in length, arched, and covered with fur that forms a protective ruff. The skin on the neck is pliable but a pendulous dewlap is a fault. The neck blends smoothly into the withers. Topline - The back is straight, strong and level, with no sign of weakness. There is a slight arch over the loins. Faults-sloping topline, roach or sway back. The body is well muscled and hard. The chest is moderately broad, well filled and deep, and neither too broad or too narrow. The forechest has a prominent prosternum that extends beyond the point of shoulders when viewed from the side. The brisket reaches to or nearly to the elbows. The ribs are well sprung, oval in shape, flattening toward the lower end to allow for elbow clearance and efficient movement. The loins are muscular with a slight arch, having enough length to be athletic but still in proportion. The underline has a moderate tuck-up. The croup is muscular, slightly sloping, broad and without exaggeration. Faults-Narrow or barrel chest, dropped croup. Tail - The saber tail is moderately set just below the level of the topline and is well coated with distinct but moderate fringing. It is broad at the base, tapering to the end and reaches to the hock with a slight curve at the tip when relaxed. When alert or moving, the tail is carried in a graceful sickle curve, neither curling to the side of the body nor touching the back. The tail should never be docked. Faults-low or high tail set.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulders are moderately laid back with the shoulder and upper arm forming an angle of approximately 110 degrees. The shoulder blade and upper arm are equal in length. The forelegs are straight, well-muscled, with moderate, oval bone. When viewed from the front, the legs are parallel, and straight. The elbows turn neither in nor out. The pasterns are flexible, moderate in length, strong, and slightly sloping when viewed from the side. Dewclaws may be removed. The feet are tight, oval in shape, with arched toes, webbing between the toes, and with strong nails. The pads are thick, tough, and darkly pigmented. The front feet may turn slightly outward when standing.",
+                    "title_5": "Hindquarters",
+                    "description_5": "The hindquarters are muscular and strong, moderately angulated, and in balance with the forequarters. The slope of the pelvis is approximately 30 degrees off the horizontal with the angle of the stifle at about 110 degrees. The upper and lower thigh muscles are well-defined. The rear pasterns are parallel to each other, and perpendicular to the ground when viewed from any angle. The rear feet point straight ahead. Rear dewclaws must be removed.",
+                    "title_6": "Coat",
+                    "description_6": "The Chinook has a thick double coat lying close to the body. The outer coat is straight, strong, and coarse. The length of the outer coat is longer over the ruff, shoulder blades, withers, breeches, and along the underline and the underside of the tail but is never so long as to obscure the clean-cut outline of the dog. The undercoat is short and dense, downy in texture, providing insulation. The groin and inside of the rear legs are protected by coat. A winter coat feels soft and plush with coarser hair following the topline. A summer coat may be thinner, feel coarser, and should not be penalized. The tail is well-furred with feathering starting about four to five inches from the root. There is slight feathering of shorter hair along the back of the forelegs. The Chinook is shown naturally and trimming is not acceptable. Faults-Thin, sparse, or excessively short coat, long, rough, or shaggy coat, unprotected belly and/or groin. Trimming of the coat is to be severely penalized.\nColor: Tawny coloration, ranging from a pale honey to a deep reddish-gold, is a distinguishing characteristic of the Chinook. Dilute tawny, and its associated diluted pigmentation of nose, lips, pads, and eye rims, is acceptable but not preferred. It is desirable for the ears and muzzle to have darker coloring than the body. This darker ear and muzzle coloring runs from a tawny that is darker than the body to a black shading, with some black shading being the most preferred. A black apostrophe shape mark at the inner corner of each eye is desirable. Symmetrical white or cream to pale gold markings are acceptable on the cheeks, throat, chest, breeches, and underside. Any other white markings are undesirable including blazes, socks, and scarves. Disqualification- Any color other than tawny as described.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "26",
+                    "weight_min": "50",
+                    "weight_max": "90",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Chinook.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "26",
+                    "height_min_m": "22",
+                    "height_max_m": "26",
+                    "height_display": "24-26 inches (male), 22-24 inches (female)",
+                    "weight_min_f": "50",
+                    "weight_max_f": "90",
+                    "weight_min_m": "50",
+                    "weight_max_m": "90",
+                    "weight_display": "55-90 pounds (male), 50-65 pounds (female)"
+                }
+            },
+            "markings": {
+                "chinook": {
+                    "markings": [
+                        {
+                            "marking_index": 478,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 479,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 480,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "cde_markings": "031",
+                            "markings_long": "Buff Markings",
+                            "markings_short": "BF MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "chinook": {
+                    "colors": [
+                        {
+                            "color_index": 1568,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "152",
+                            "color_long": "Red Gold",
+                            "color_short": "RD GLD"
+                        },
+                        {
+                            "color_index": 1569,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1570,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "198",
+                            "color_long": "Tawny",
+                            "color_short": "TWNY"
+                        },
+                        {
+                            "color_index": 1571,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "282",
+                            "color_long": "Palomino",
+                            "color_short": "PLMNO"
+                        },
+                        {
+                            "color_index": 1572,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "458",
+                            "color_long": "Gray Red",
+                            "color_short": "GRY RD"
+                        },
+                        {
+                            "color_index": 1573,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "187",
+                            "color_long": "Silver Fawn",
+                            "color_short": "SLVR FN"
+                        },
+                        {
+                            "color_index": 1574,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "068",
+                            "color_long": "Buff",
+                            "color_short": "BF"
+                        },
+                        {
+                            "color_index": 1575,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1576,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1577,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "103",
+                            "color_long": "Gray & Tan",
+                            "color_short": "GR & TN"
+                        },
+                        {
+                            "color_index": 1578,
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "akc_code": "653",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "breed_club_name": "Chinook Club of America",
+                    "breed_club_url": "www.chinookclubofamerica.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Chinook-club-flyer.pdf",
+                    "breed_rescue_url": "http://www.chinookclubofamerica.org/",
+                    "national_breed_club": "Chinook Club of America",
+                    "national_breed_club_url": "www.chinookclubofamerica.org",
+                    "breed_referral_contact_name": "Keirsten Wagner",
+                    "breed_referral_contact_phone_number": "(267) 454-0254",
+                    "breed_referral_contact_email": "wagzmom2@gmail.com",
+                    "breed_referral_contact_address": "10 ENDSLOW LN\nPERKASIE, PA 18944-2600",
+                    "breed_referral_directory_title": "See Parent Club website - Breeders List",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.chinookclubofamerica.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1490,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 76,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Chinook Club of America is the official AKC Parent Club representing the Chinook breed."
+                        },
+                        {
+                            "id": 584,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 586,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 583,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 585,
+                            "breed_id": "76",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "chinook": {
+                    "breed_name_url": "chinook",
+                    "breed_name": "Chinook",
+                    "akc_org_history": "<p>The Chinook was founded by adventurer Arthur Walden, of Wonalancet, New Hampshire. In 1896, the 24-year-old New Englander's wanderlust led him to Alaska at the height of the Gold Rush. For six years Walden worked his way across the Klondike as a prospector, stevedore, logger, riverboat pilot, and, most significantly, a sled-dog driver. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>&nbsp;By the time Walden returned to his hometown, he was a devoted musher determined to breed his own line of sled dogs. As his foundation stock, Walden used a mastiff-type dog and descendants of one of Admiral Robert Peary's Greenland huskies. The pups he bred were admired for their all-around sledding ability and a friendly, affectionate nature. Walden named the breed after Chinook, the lead dog of his sled team. (Chinook is a Native American word meaning 'warm wind.') This dog was the breed's granddaddy and the one to which all Chinooks trace their lineage. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>Walden's breeding program was a fabulous success, and he and his new breed became well-known in sledding circles. Their fame was soon eclipsed, however, by Len Seppala and his Siberian Huskies, who became international celebrities for their 1925 'Serum Run' to Nome, Alaska. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>Walden and his Chinook team accompanied Admiral Richard Byrd's celebrated 1928 expedition to Antarctica. Byrd was duly impressed by the grit of the 58-year-old Walden and his 11-year-old lead dog, Chinook. He wrote, 'Walden's single team of thirteen dogs moved 3,500 pounds of supplies from ship to base, a distance of 16 miles each trip, in two journeys. Walden's team was the backbone of our transport.' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>Walden died in 1947 while saving his wife's life from the fire that destroyed their Wonalancet farmhouse. In the following years, the numbers of the breed he created dwindled to the point of near extinction. In 1965, Guinness World Records listed the Chinook as the rarest dog breed, with only 125 known specimens. That number dipped even lower before dedicated Chinook enthusiasts around the world slowly brought the breed back from the brink. Their hard work paid off in 2013, when the Chinook joined the AKC Working Group. The Chinook is the official state dog of New Hampshire.</p>",
+                    "mp_history_job": "<p>The Chinook was founded by sled-driver and explorer Arthur Walden, of Wonalancet, New Hampshire, in the years before World War I. As his foundation stock, Walden used a mastiff-type dog and descendants of one of Admiral Peary's Greenland huskies. The pups he bred were admired for their all-around sledding ability and a friendly, affectionate nature. Walden named the breed after Chinook, the lead dog of his sled team. This dog was the breed's granddaddy and the one to which all Chinooks trace their lineage.</p>",
+                    "did_you_know": "Chinook is the Inuit word for warm winter winds. | The Chinook Breed was developed by Polar Explorer Arthur Treadwell Walden during the early 1900's on his farm in Wonalancet, New Hampshire. | In 1927 Arthur Walden, along with 16 of his male Chinooks, went with Admiral Richard Byrd's first expedition to Antarctica. The Chinook dogs were used to haul the expedition freighting sleds."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24045%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinook-at-the-2016-AKC-National-Championship-presented-by-Royal-Canin.jpg",
+                    "alt": "Chinook at the 2016 AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "t: David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinook-closeup.jpg",
+                    "alt": "Chinook sitting outdoors - head and shoulders.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/1-IMGP4320.jpg",
+                    "alt": "Chinook head outdoors facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/six-dog-Chinook-team-cropped-2.jpg",
+                    "alt": "Six dog Chinook sled team.",
+                    "caption": "",
+                    "credit": "AKC"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinook.21.jpg",
+                "alt": "Chinook illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chinook.21.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinook-Puppy-2.jpg",
+                "alt": "Chinook puppy sitting in a field of wildflowers."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/chinook",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Chinook",
+        "shopCta": false
+    }
+}

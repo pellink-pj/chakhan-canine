@@ -1,0 +1,1250 @@
+{
+    "settings": {
+        "current_breed": "harrier",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Harrier.pdf",
+                    "mp_health": "<p>Harriers are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Harriers are healthy dogs.</p>",
+                    "akc_org_health": "<p>While Harriers are generally healthy dogs, there are several health and genetic screening considerations specific to the breed. Responsible breeders test their stock for conditions the breed can be prone to and communicate with other dedicated breeders regularly, working together for breed health and the preservation of the breed's qualities. A Harrier's ears should be checked weekly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs. Regular visits to the vet for checkups and parasite control help to ensure the dog a long, healthy life. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>Recommended Health Tests from the National Breed Club: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hip Evaluation &nbsp;&nbsp;&nbsp;&nbsp;Ophthalmologist Evaluation &nbsp;&nbsp;&nbsp;&nbsp;Read the Official Breed Club Health Statement.</p>",
+                    "akc_org_nutrition": "<p>The Harrier should be fed a high-quality dog food appropriate to the dog's age (puppy, adult, or senior) and activity level. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with overly high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The Harrier's short, glossy coat requires minimal maintenance. A weekly brushing with a soft-bristle brush or a hound glove will help to remove dirt and loose hair and keep the dog looking his best, and an occasional bath(using a gentle shampoo) can help keep him from having a doggy odor. The ears should be regularly inspected and cleaned if needed with soft gauze and an ear-cleaning solution'\u00bfthe dog's breeder or the veterinarian can recommend a good brand to use. The nails should be trimmed often if not worn down naturally, as overly long nails can cause the dog discomfort and problems walking and running.</p>",
+                    "akc_org_exercise": "<p>Harriers were bred specifically to spend hours in the field chasing after prey, so they need ample exercise every day'\u00bfwithout sufficient exercise, a Harrier may become bored and destructive. If they get all the activity they need, they can be adaptable to a range of home situations. While they are happiest living indoors with their human family, they make great companions on long walks or hikes. Because they were bred to hunt and chase animals and to follow a scent, they should only be allowed loose in areas that are securely fenced, and any walks must be taken on a leash. The breed also exercises mind and body by participating in canine sports such as tracking, rally, coursing ability tests, and other activities that can be enjoyed together by dog and owner.</p>",
+                    "akc_org_training": "<p>Like many other hounds, Harriers are loving and amiable but also tend to have an independent nature, and they can be stubborn. Training takes consistency, patience, and an understanding of scent hound temperament. They respond well to calm, loving, but firm leadership. Early socialization and puppy training classes are recommended and help to ensure that the Harrier grows into a well-adjusted, well-mannered companion.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "breed_name_oracle": "Harrier",
+                    "matches_oracle": "Harrier",
+                    "akc_code": "412",
+                    "breed_name_plural": "Harriers",
+                    "breed_nicknames": "Harrier",
+                    "origin": "England",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1885",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "American Foxhound, English Foxhound, Transylvanian Hound, Beagle, Hamiltonstovare",
+                    "links": [],
+                    "popularity_2025": 199,
+                    "popularity_2024": 183,
+                    "popularity_2023": 190,
+                    "popularity_2022": 193,
+                    "popularity_2021": 188,
+                    "popularity_2020": 190,
+                    "popularity_2019": 188,
+                    "popularity_2018": 189,
+                    "popularity_2017": 183,
+                    "popularity_2016": 186,
+                    "popularity_2015": 183,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "american-foxhound",
+                        "english-foxhound",
+                        "transylvanian-hound",
+                        "beagle",
+                        "hamiltonstovare"
+                    ],
+                    "related_breeds_items": {
+                        "american-foxhound": {
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "breed_name_oracle": "American Foxhound",
+                            "matches_oracle": "American Foxhound",
+                            "akc_code": "409",
+                            "breed_name_plural": "American Foxhounds",
+                            "breed_nicknames": "Foxhound",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "American English Coonhound, English Foxhound, Beagle, Treeing Walker Coonhound, Harrier",
+                            "links": [],
+                            "popularity_2025": 188,
+                            "popularity_2024": 193,
+                            "popularity_2023": 182,
+                            "popularity_2022": 196,
+                            "popularity_2021": 195,
+                            "popularity_2020": 192,
+                            "popularity_2019": 191,
+                            "popularity_2018": 186,
+                            "popularity_2017": 187,
+                            "popularity_2016": 189,
+                            "popularity_2015": 181,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "independent / easy-going / sweet-tempered"
+                        },
+                        "english-foxhound": {
+                            "breed_name_url": "english-foxhound",
+                            "breed_name": "English Foxhound",
+                            "breed_name_oracle": "English Foxhound",
+                            "matches_oracle": "English Foxhound",
+                            "akc_code": "410",
+                            "breed_name_plural": "English Foxhounds",
+                            "breed_nicknames": "English hound",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1909",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "American Foxhound, Hamiltonstovare, American English Coonhound, Beagle, Harrier",
+                            "links": [],
+                            "popularity_2025": 187,
+                            "popularity_2024": 201,
+                            "popularity_2023": 199,
+                            "popularity_2022": 199,
+                            "popularity_2021": 196,
+                            "popularity_2020": 194,
+                            "popularity_2019": 195,
+                            "popularity_2018": 188,
+                            "popularity_2017": 189,
+                            "popularity_2016": 187,
+                            "popularity_2015": 184,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "sociable / affectionate / gentle"
+                        },
+                        "transylvanian-hound": {
+                            "breed_name_url": "transylvanian-hound",
+                            "breed_name": "Transylvanian Hound",
+                            "breed_name_oracle": "Transylvanian Hound",
+                            "matches_oracle": "Transylvanian Hound",
+                            "akc_code": "447",
+                            "breed_name_plural": "Transylvanian Hounds",
+                            "breed_nicknames": "",
+                            "origin": "Hungary",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Vizsla, Hanoverian Scenthound, Black and Tan Coonhound, Bavarian Mountain Scent Hound, Plott Hound",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "good-natured / courageous / determined"
+                        },
+                        "beagle": {
+                            "breed_name_url": "beagle",
+                            "breed_name": "Beagle",
+                            "breed_name_oracle": "Beagle",
+                            "matches_oracle": "Beagle",
+                            "akc_code": "404",
+                            "breed_name_plural": "Beagles",
+                            "breed_nicknames": "",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "English Foxhound, Harrier, Basset Fauve de Bretagne, Basset Hound, American Foxhound",
+                            "links": {
+                                "akc_url": null
+                            },
+                            "popularity_2025": 7,
+                            "popularity_2024": 7,
+                            "popularity_2023": 8,
+                            "popularity_2022": 8,
+                            "popularity_2021": 7,
+                            "popularity_2020": 7,
+                            "popularity_2019": 7,
+                            "popularity_2018": 6,
+                            "popularity_2017": 6,
+                            "popularity_2016": 5,
+                            "popularity_2015": 5,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids",
+                            "temperament": "curious / friendly / merry"
+                        },
+                        "hamiltonstovare": {
+                            "breed_name_url": "hamiltonstovare",
+                            "breed_name": "Hamiltonstovare",
+                            "breed_name_oracle": "Hamiltonstovare",
+                            "matches_oracle": "Hamiltonstovare",
+                            "akc_code": "444",
+                            "breed_name_plural": "Hamiltonstovare",
+                            "breed_nicknames": "",
+                            "origin": "Sweden",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "14-17 years",
+                            "related_breeds": "American Foxhound, Bavarian Mountain Scent Hound, Transylvanian Hound, Harrier, English Foxhound",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "versatile / agile / regal"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "temperament": "friendly / outgoing / people-oriented",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "akc_org_blurb": "<p>The Harrier is a swift, prey-driven pack hound of medium size first bred in medieval England to chase the hare. Outgoing and friendly, the Harrier is much larger than the Beagle but smaller than another close relative, the English Foxhound.</p>",
+                    "akc_org_about": "<p>Somewhat resembling a Beagle with a gym membership, Harriers are larger, more powerful hounds than their diminutive cousin' but smaller than the English Foxhound, a breed used in their development. Standing between 19 and 21 inches at the shoulder, Harriers have the timeless look of a working pack hound: a short, smart-looking coat; low-set, velvety ears; an irresistibly sweet face; and enough muscle and sinew to endure a long day's hunt. A well-built Harrier will cover the ground with a smooth, efficient gait.</p>",
+                    "mp_description": "<p>Built somewhere between a more muscular Beagle and a smaller English Foxhound, the Harrier is all hound. He's outgoing, friendly and will follow his nose wherever it takes him. As people-oriented as he is, he can't help but give chase, so a fenced yard is a must. Harrier puppies are sweet and fun-loving, although training may be a challenge. With a family that keeps him close, trains him patiently and gives him plenty of exercise, he's a lovable companion.</p>"
+                }
+            },
+            "standards": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "title_1": "General Appearance",
+                    "description_1": "Developed in England to hunt hare in packs, Harriers must have all the attributes of a scenting pack hound. They are very sturdily built with large bone for their size. They must be active, well balanced, full of strength and quality, in all ways appearing able to work tirelessly, no matter the terrain, for long periods. Running gear and scenting ability are particularly important features. The Harrier should, in fact, be a smaller version of the English Foxhound.",
+                    "title_2": "Head",
+                    "description_2": "The head is in proportion to the overall dog. No part of the head should stand out relative to the other parts. The expression is gentle when relaxed, sensible yet alert when aroused. Eyes are medium size, set well apart, brown or hazel color in darker dogs, lighter hazel to yellow in lighter dogs, though darker colors are always desired. Ears are set on low and lie close to the cheeks, rounded at the tips.",
+                    "title_3": "Body",
+                    "description_3": "The neck is long and strong with no excess skin or throatiness, sweeping smoothly into the muscling of the forequarters. The topline is level. Back muscular with no dip behind the withers or roach over the loin. Body-Chest deep, extending to the elbows, with well sprung ribs that extend well back, providing plenty of heart and lung room. The ribs should not be so well sprung that they interfere with the free, efficient movement of the front assembly. The loin is short, wide and well muscled.",
+                    "title_4": "Forequarters",
+                    "description_4": "Moderate angulation, with long shoulders sloping into the muscles of the back, clean at the withers. The shoulders are well clothed with muscle without being excessively heavy or loaded, giving the impression of free, strong action. Elbows are set well away from the ribs, running parallel with the body and not turning outwards. Good straight legs with plenty of bone running well down to the toes, but not overburdened, inclined to knuckle over very slightly but not exaggerated in the slightest degree. Feet are round and catlike, with toes set close together turning slightly inwards. The pads are thick, well developed and strong.",
+                    "title_5": "Coat",
+                    "description_5": "Short, dense, hard and glossy. Coat texture on the ears is finer than on the body. There is a brush of hair on the underside of the tail.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Angulation in balance with the front assembly, so that rear drive is in harmony with front reach. Well developed muscles, providing strength for long hours of work, are important. Endurance is more important than pure speed, and as such, the stifles are only moderately angulated. Feet point straight ahead, are round and catlike with toes set close together, and thick, well developed pads.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "19",
+                    "height_max": "21",
+                    "weight_min": "45",
+                    "weight_max": "60",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Harrier.pdf",
+                    "height_min_f": "19",
+                    "height_max_f": "21",
+                    "height_min_m": "19",
+                    "height_max_m": "21",
+                    "height_display": "19-21 inches",
+                    "weight_min_f": "45",
+                    "weight_max_f": "60",
+                    "weight_min_m": "45",
+                    "weight_max_m": "60",
+                    "weight_display": "45-60 pounds"
+                }
+            },
+            "colors": {
+                "harrier": {
+                    "colors": [
+                        {
+                            "color_index": 865,
+                            "breed_name_url": "harrier",
+                            "breed_name": "Harrier",
+                            "akc_code": "412",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "034",
+                            "color_long": "Black White & Tan",
+                            "color_short": "BLK WH & TN"
+                        },
+                        {
+                            "color_index": 866,
+                            "breed_name_url": "harrier",
+                            "breed_name": "Harrier",
+                            "akc_code": "412",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "115",
+                            "color_long": "Lemon & White",
+                            "color_short": "LMN & WH"
+                        },
+                        {
+                            "color_index": 867,
+                            "breed_name_url": "harrier",
+                            "breed_name": "Harrier",
+                            "akc_code": "412",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "breed_club_name": "Harrier Club of America",
+                    "breed_club_url": "www.harrierclubofamerica.com",
+                    "breed_club_pdf_url": "http://harrierclubofamerica.squarespace.com/rescue/",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Harrier Club of America",
+                    "national_breed_club_url": "www.harrierclubofamerica.com",
+                    "breed_referral_contact_name": "MIndy Isham",
+                    "breed_referral_contact_phone_number": "(415) 699-6312",
+                    "breed_referral_contact_email": "mindyisham@comcast.net",
+                    "breed_referral_contact_address": "Po Box 7388\nFremont, CA 94537-7388",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1541,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 127,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 788,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 790,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 787,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 789,
+                            "breed_id": "128",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "harrier": {
+                    "breed_name_url": "harrier",
+                    "breed_name": "Harrier",
+                    "akc_org_history": "<p>Among the AKC's rarest breeds, there are probably more theories about Harrier origins than there are Harriers in the United States. Among the agreed-upon facts of this old breed is that they were bred for hunting hare (the breed name is based on the word 'hare'\u009d) and that the first packs appeared in England sometime in the 1200s. Harriers have been in America since Colonial times, and it's possible that sportsmen like George Washington and his Virginia neighbors utilized them in creating uniquely American hounds.</p>",
+                    "mp_history_job": "<p>Among the AKC's rarest breeds, there are probably more theories about Harrier origins than there are Harriers in the United States. Among the agreed-upon facts of this old breed is that they were bred for hunting hare (the breed name is based on the word 'hare') and that the first packs appeared in England sometime in the 1200s. Harriers have been in America since Colonial times, and it\u00bfs possible that sportsmen like George Washington and his Virginia neighbors utilized them in creating uniquely American hounds.</p>",
+                    "did_you_know": "The first pack of Harriers in England was the Penistone, which was established by Sir Elias de Midhope in 1260. | Despite all stories surrounding the ancient origins of Harriers, the general belief is that the dog of today is a smaller edition of the Foxhound, bred down by selective breeding. | Harrier supposedly derives from the Norman harier, denoting Saxon raches, or hounds. | Harriers have been known in the United States as long as any of the scent-hound breeds, and they have been used for hunting since the Colonial times. | The Harrier is particularly useful in the drag hunt, in which his slower pace is no detriment. | Some specimens of Harrier bear a unique blue mottle color."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24638%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Harrier3.jpg",
+                    "alt": "Harrier standing sideways facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_5232.jpg",
+                    "alt": "Best of Breed: CH Blythmoors Jump At The Chance, Harrier; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Harrier2.jpg",
+                    "alt": "Harrier sitting facing forward.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2016/09/Harrier-Pack.jpg",
+                    "alt": "Harrier Pack",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/day_2_dec_14_004.jpg",
+                    "alt": "Harrier coat detail.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Harrier-Illo-2.jpg",
+                "alt": "Harrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Harrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Harrier-puppies-running-outdoors.jpg",
+                "alt": "Harrier puppies running outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/harrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Harrier",
+        "shopCta": false
+    }
+}

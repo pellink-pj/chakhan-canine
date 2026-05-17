@@ -1,0 +1,1367 @@
+{
+    "settings": {
+        "current_breed": "anatolian-shepherd-dog",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Anatolian-Shepherd-Dog.pdf",
+                    "mp_health": "Pups and grown dogs love to chew. They have strong jaws and you must be sure to only give them appropriate items to chew. Anatolian Shepherd Dogs may be affected by bloat, a digestive disorder of the stomach.",
+                    "akc_org_health": "The Anatolian is overall a healthy and hardy breed. Hip dysplasia is not common in Anatolians, nor is bloat, a life-threatening twisting and inversion of the stomach. Owners should know the symptoms of bloat, however, so as to act quickly should it occur. The breed can be sensitive to anesthesia, and owners should ensure that their vet is aware of this before any procedures. Good breeders will screen for entropion, in which the eyelids invert, which can be surgically corrected. An Anatolian's ears should be checked regularly for any signs of infection, and the dog's teeth should be brushed frequently.",
+                    "akc_org_nutrition": "The Anatolian Shepherd Dog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). The Anatolian does not tend to overeat. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.\n\n &nbsp;",
+                    "akc_org_grooming": "Bred to work outdoors, the Anatolian has a thick undercoat that protects him from the elements. Some Anatolians have a long outer coat, but on most it is quite short, and a quick brushing once a week will keep it looking good. Keep in mind, though, that the Anatolian sheds  his undercoat twice a year. During shedding season, he will need to given a thorough brushing-out to remove the dead hair, with a short-bristle brush and possibly a comb as well, every few days. As with all breeds, the Anatolian's nails should be trimmed regularly.",
+                    "akc_org_exercise": "Because he only needs a moderate amount of exercise, an Anatolian will be happy with time in a yard'\u00bfbe sure it has a tall, strong fence and a locked gate'\u00bfand a long walk once or twice a day. Remember, though, that an Anatolian must be kept on leash whenever he is taken out of the home. As one breeder says, \"Don't assume that your dogs will be reliable off leash. False security on your part can become a disaster.'\u009d",
+                    "akc_org_training": "Because the breed tends to be wary toward others and instinctively protective, an Anatolian puppy must be socialized. Obedience training is a must with the breed. The Anatolian was bred to work independently, make decisions on his own, and protect his flock from outsiders, and training the breed to respond to commands can be a challenge. Under no circumstances should an Anatolian receive protection or guard-dog training.",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation"
+                }
+            },
+            "basics": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "breed_name_oracle": "Anatolian Shepherd Dog",
+                    "matches_oracle": "Anatolian Shepherd Dog",
+                    "akc_code": "635",
+                    "breed_name_plural": "Anatolian Shepherd Dogs",
+                    "breed_nicknames": "Anatolian",
+                    "origin": "Turkey",
+                    "breed_group": "Working Group",
+                    "year_recognized": "1996",
+                    "life_expectancy": "11-13 years",
+                    "related_breeds": "Central Asian Shepherd Dog, Kuvasz, Romanian Mioritic Shepherd Dog, Great Pyrenees, Caucasian Shepherd Dog",
+                    "links": {
+                        "mp_url": null,
+                        "akc_url": null
+                    },
+                    "popularity_2025": 88,
+                    "popularity_2024": 86,
+                    "popularity_2023": 82,
+                    "popularity_2022": 79,
+                    "popularity_2021": 88,
+                    "popularity_2020": 85,
+                    "popularity_2019": 96,
+                    "popularity_2018": 90,
+                    "popularity_2017": 86,
+                    "popularity_2016": 84,
+                    "popularity_2015": 92,
+                    "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                    "related_breeds_items_url": [
+                        "central-asian-shepherd-dog",
+                        "kuvasz",
+                        "romanian-mioritic-shepherd-dog",
+                        "great-pyrenees",
+                        "caucasian-shepherd-dog"
+                    ],
+                    "related_breeds_items": {
+                        "central-asian-shepherd-dog": {
+                            "breed_name_url": "central-asian-shepherd-dog",
+                            "breed_name": "Central Asian Shepherd Dog",
+                            "breed_name_oracle": "Central Asian Shepherd Dog",
+                            "matches_oracle": "Central Asian Shepherd Dog",
+                            "akc_code": "652",
+                            "breed_name_plural": "Central Asian Shepherd Dogs",
+                            "breed_nicknames": "",
+                            "origin": "Russia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": " years",
+                            "related_breeds": "Caucasian Shepherd Dog, Spanish Mastiff, Pyrenean Mastiff, Tornjak, Tibetan Mastiff",
+                            "links": [],
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "independent / courageous / self-confident"
+                        },
+                        "kuvasz": {
+                            "breed_name_url": "kuvasz",
+                            "breed_name": "Kuvasz",
+                            "breed_name_oracle": "Kuvasz",
+                            "matches_oracle": "Kuvasz",
+                            "akc_code": "617",
+                            "breed_name_plural": "Kuvaszok",
+                            "breed_nicknames": "Kuv",
+                            "origin": "Hungary",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1931",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Tibetan Mastiff, Pyrenean Mastiff, Central Asian Shepherd Dog, Hovawart, Great Pyrenees",
+                            "links": [],
+                            "popularity_2025": 179,
+                            "popularity_2024": 164,
+                            "popularity_2023": 173,
+                            "popularity_2022": 177,
+                            "popularity_2021": 169,
+                            "popularity_2020": 177,
+                            "popularity_2019": 168,
+                            "popularity_2018": 163,
+                            "popularity_2017": 157,
+                            "popularity_2016": 165,
+                            "popularity_2015": 150,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / fearless / sweet"
+                        },
+                        "romanian-mioritic-shepherd-dog": {
+                            "breed_name_url": "romanian-mioritic-shepherd-dog",
+                            "breed_name": "Romanian Mioritic Shepherd Dog",
+                            "breed_name_oracle": "Romanian Mioritic Shepherd Dog",
+                            "matches_oracle": "Romanian Mioritic Shepherd Dog",
+                            "akc_code": "671",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Romania",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Great Pyrenees, Pyrenean Mastiff, Anatolian Shepherd Dog, Central Asian Shepherd Dog, Tibetan Mastiff",
+                            "links": [],
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "independent / loyal / confident guardian"
+                        },
+                        "great-pyrenees": {
+                            "breed_name_url": "great-pyrenees",
+                            "breed_name": "Great Pyrenees",
+                            "breed_name_oracle": "Great Pyrenees",
+                            "matches_oracle": "Great Pyrenees",
+                            "akc_code": "615",
+                            "breed_name_plural": "Great Pyrenees",
+                            "breed_nicknames": "Pyr",
+                            "origin": "France",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1933",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Pyrenean Mastiff, Kuvasz, Braque Francais Pyrenean, Pyrenean Shepherd, Slovensky Cuvac",
+                            "links": [],
+                            "popularity_2025": 66,
+                            "popularity_2024": 74,
+                            "popularity_2023": 64,
+                            "popularity_2022": 69,
+                            "popularity_2021": 63,
+                            "popularity_2020": 70,
+                            "popularity_2019": 70,
+                            "popularity_2018": 66,
+                            "popularity_2017": 66,
+                            "popularity_2016": 67,
+                            "popularity_2015": 67,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "smart / patient / calm"
+                        },
+                        "caucasian-shepherd-dog": {
+                            "breed_name_url": "caucasian-shepherd-dog",
+                            "breed_name": "Caucasian Shepherd Dog",
+                            "breed_name_oracle": "Caucasian Shepherd Dog",
+                            "matches_oracle": "Caucasian Shepherd Dog",
+                            "akc_code": "644",
+                            "breed_name_plural": "Caucasian Ovcharkas",
+                            "breed_nicknames": "",
+                            "origin": "Georgia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Tibetan Mastiff, Central Asian Shepherd Dog, Anatolian Shepherd Dog, Pyrenean Mastiff, Tornjak",
+                            "links": [],
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "fearless / bold / kind"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "temperament": "reserved / independent / loyal",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "akc_org_blurb": "An Anatolian Shepherd Dog is a rugged, imposing flock guardian of ancient lineage. Protective and territorial, but also intelligent, patient, and profoundly loyal, these muscular avengers are prized as working guard dogs without equal.",
+                    "akc_org_about": "The Anatolian Shepherd Dog stands between 27 and 29 inches at the shoulder and can weigh as much as 150 pounds. Profusely muscled but nimble afoot, Anatolians are more than a match for the predators and harsh terrain of their homeland. Anatolians descend from some of the oldest known domestic-canine bloodlines. This lends the breed a sense of timelessness, a no-frills, untouched quality that takes us back 6,000 years to the Bronze Age.\n\n\n\n Anatolians are smart, devoted, responsive, and adaptable. They will protect their flock'\u00bflivestock, children, smaller dogs, even the family cat'\u00bfwith intensity. Anatolian owners must be strong leaders, willing and able to handle a dog as dominating and demanding as he is calm and loving.",
+                    "mp_description": "Think carefully before deciding this rugged guard dog is for you. With firm, consistent training, the Anatolian Shepherd Dog is affectionate and responsive with his family. He's a natural protector of both his 'herd' and his territory and does best with an owner who is a positive, strong leader. Anatolian Shepherd Dog puppies must be socialized early and introduced to a variety of situations. Despite his independent nature, an experienced owner will find him trainable, smart and extremely loyal."
+                }
+            },
+            "standards": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "title_1": "General Appearance",
+                    "description_1": "Large, rugged, powerful and impressive, possessing great endurance and agility. Developed through a set of very demanding circumstances for a purely utilitarian purpose; he is a working guard dog without equal, with a unique ability to protect livestock. General impression - Appears bold, but calm, unless challenged. He possesses size, good bone, a well-muscled torso with a strong head. Reserve out of its territory is acceptable. Fluid movement and even temperament is desirable.",
+                    "title_2": "Head",
+                    "description_2": "Expression should be intelligent. Eyes are medium size, set apart, almond shaped and dark brown to light amber in color. Blue eyes or eyes of two different colors are a disqualification. Eye rims will be black or brown and without sag or looseness of haw. Incomplete pigment is a serious fault. Ears should be set on no higher than the plane of the head. V-shaped, rounded apex, measuring about four inches at the base to six inches in length. The tip should be just long enough to reach the outside corner of the eyelid. Ears dropped to sides. Erect ears are a disqualification. Skull is large but in proportion to the body. There is a slight centerline furrow, fore and aft, from apparent stop to moderate occiput. Broader in dogs than in bitches.",
+                    "title_3": "Body",
+                    "description_3": "Neck slightly arched, powerful, and muscular, moderate in length with more skin and fur than elsewhere on the body, forming a protective ruff. The dewlap should not be pendulous and excessive. Topline will appear level when gaiting. Back will be powerful, muscular, and level, with drop behind withers and gradual arch over loin, sloping slightly downward at the croup. Body well proportioned, functional, without exaggeration. Never fat or soft. Chest is deep (to the elbow) and well-sprung with a distinct tuck up at the loin. Tail should be long and reaching to the hocks. Set on rather high. When relaxed, it is carried low with the end curled upwards. When alert, the tail is carried high, making a \"wheel.\" Both low and wheel carriage are acceptable, when gaiting. \"Wheel\" carriage preferred. The tail will not necessarily uncurl totally.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders should be muscular and well developed, blades long, broad and sloping. Elbows should be neither in nor out. Forelegs should be relatively long, well-boned and set straight with strong pasterns. The feet are strong and compact with well-arched toes, oval in shape. They should have stout nails with pads thick and tough. Dewclaws may be removed.",
+                    "title_5": "Coat",
+                    "description_5": "Short (one inch minimum, not tight) to Rough (approximately 4 inches in length) with neck hair slightly longer. Somewhat longer and thicker at the neck and mane. A thick undercoat is common to all. Feathering may occur on the ear fringes, legs, breeching, and tail.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Strong, with broad thighs and heavily muscled. Angulation at the stifle and hock are in proportion to the forequarters. As seen from behind, the legs are parallel. The feet are strong and compact with well-arched toes, oval in shape. Double dewclaws may exist. Dewclaws may be removed.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "27",
+                    "height_max": "29",
+                    "weight_min": "80",
+                    "weight_max": "150",
+                    "size": "XLarge",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AnatolianShepherdDog.pdf",
+                    "height_min_f": "27",
+                    "height_max_f": "29",
+                    "height_min_m": "27",
+                    "height_max_m": "29",
+                    "height_display": "29 inches (male), 27 inches (female)",
+                    "weight_min_f": "80",
+                    "weight_max_f": "150",
+                    "weight_min_m": "80",
+                    "weight_max_m": "150",
+                    "weight_display": "110-150 pounds (male), 80-120 pounds (female)"
+                }
+            },
+            "markings": {
+                "anatolian-shepherd-dog": {
+                    "markings": [
+                        {
+                            "marking_index": 452,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 453,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "076",
+                            "markings_long": "Brown Mask",
+                            "markings_short": "BR MSK"
+                        },
+                        {
+                            "marking_index": 454,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "077",
+                            "markings_long": "Dutch Markings",
+                            "markings_short": "DTCH MKGS"
+                        },
+                        {
+                            "marking_index": 455,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "018",
+                            "markings_long": "Pinto",
+                            "markings_short": "PNTO"
+                        },
+                        {
+                            "marking_index": 456,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "079",
+                            "markings_long": "Pinto, Black Mask",
+                            "markings_short": "PNTO BLK MSK"
+                        },
+                        {
+                            "marking_index": 457,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "cde_markings": "078",
+                            "markings_long": "Silver Mask",
+                            "markings_short": "SLVR MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "anatolian-shepherd-dog": {
+                    "colors": [
+                        {
+                            "color_index": 1496,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1497,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "036",
+                            "color_long": "Blue Fawn",
+                            "color_short": "BL FN"
+                        },
+                        {
+                            "color_index": 1498,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "377",
+                            "color_long": "Gray Fawn",
+                            "color_short": "GR FN"
+                        },
+                        {
+                            "color_index": 1499,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "150",
+                            "color_long": "Red Fawn",
+                            "color_short": "RD FN"
+                        },
+                        {
+                            "color_index": 1500,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 1501,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1502,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "376",
+                            "color_long": "Biscuit & White",
+                            "color_short": "BSCT & WHT"
+                        },
+                        {
+                            "color_index": 1503,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "breed_club_name": "Anatolian Shepherd Dog Club of America",
+                    "breed_club_url": "www.asdca.club",
+                    "breed_club_pdf_url": "http://cdn.akc.org/AnatolianShepherd-club-flier.pdf",
+                    "breed_rescue_url": "http://www.asdrl.org/contact.html",
+                    "national_breed_club": "Anatolian Shepherd Dog Club of America",
+                    "national_breed_club_url": "www.asdca.club",
+                    "breed_referral_contact_name": "Natalie Thurman",
+                    "breed_referral_contact_phone_number": "(406) 530-9022",
+                    "breed_referral_contact_email": "hello@apexanatolians.com",
+                    "breed_referral_contact_address": "PO Box 858\nFrenchtown, MT 59834",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "https://asdca.club/breeders-list/",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.asdrl.org/contact.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1427,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 13,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 332,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 334,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 331,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 333,
+                            "breed_id": "13",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "anatolian-shepherd-dog": {
+                    "breed_name_url": "anatolian-shepherd-dog",
+                    "breed_name": "Anatolian Shepherd Dog",
+                    "akc_org_history": "<p>Anatolia, or Asia Minor, is the peninsula that constitutes the Asian portion of Turkey. It was at this crossroads of early civilization that sheep and goat herders developed a livestock guardian known as the Coban Kopegi ('shepherd's dog'), forerunner of today's Anatolian Shepherd. The central region of Anatolia is a high plateau of endless plains and rolling hills. Summers are dry and brutally hot, and the winters are snowy, with sub-zero temperatures. In this harsh, unforgiving crucible the Anatolian Shepherd forged his longstanding reputation as the flock guardian supreme. Ancient artifacts going back to the days of the Babylonian Empire document the breed's ancestors. Assyrian bas-relief carvings housed in the British Museum, dating to 2000 b.c., depict large dogs of recognizable Anatolian Shepherd type. The earliest books of the Bible refer to shepherds whose dogs were most likely some local variation of the Anatolian. The breed's history in America begins in the years immediately preceding World War II when the Department of Agriculture imported a breeding pair from Turkey to participate in the top-secret 'Sheepdog Project.' The program's objective was to determine which breeds would be best suited for work on American sheep pastures. With the outbreak of war, the project was disbanded and the Anatolians and their offspring were dispersed. American ranchers began importing Anatolians in the postwar 1950s, but the breed really took hold in this country in the 1970s. The credit for firmly establishing the breed in America goes to Lieutenant Robert Ballard, U.S. Navy, who acquired a pair of Anatolians while stationed in Turkey. He brought them home to America and bred his first littler in 1970, providing foundation stock for U.S. breeders. This new breeding activity coincided with the passage of the Endangered Species Act. The new law required that ranchers control the population of predatory wolves without killing them. Anatolian Shepherds, who would rather intimidate predators than fight them, were perfectly suited for the job. Many Anatolian Shepherds are still working ranch dogs today, protecting everything from sheep and goats to ostriches and llamas.</p>",
+                    "mp_history_job": "<p>Anatolia, or Asia Minor, is the peninsula that constitutes the Asian portion of Turkey. It was at this crossroads of early civilization that sheep and goat herders developed a livestock guardian known as the \"coban kopegi,\" forerunner of today's Anatolian Shepherd. Livestock-guardian breeds like the Anatolian-and such relative latecomers as the Great Pyrenees, Komondor, and Kuvasz-are patient, watchful, highly protective, independent, and brave. These majestic breeds are also big enough to back their courage with muscle when meeting a threat.</p>",
+                    "did_you_know": "Anatolian Shepherds are also known as Goban Kopegi, Anatolian Karabash, or Kangal. | Anatolian Shepherd Dogs are sensitive to anesthesia. | Anatolian Shepherd Dogs have appeared in movies including 'Cats and Dogs,' 'Kate and Leopold,' and 'Friends With Benefits.' | Anatolians have been aiding in the cheetah conservation effort in Namibia since 1994. Namibia's Cheetah Conservation Fund started a program to encourage ranchers to use Anatolian Shepherd Dogs to protect their flocks, reducing the need to kill cheetahs. | Anatolian Shepherds are extremely independent. Their instinct is to take care of themselves and the flock without needing instruction. | Though protective, the Anatolian Shepherd is calm, friendly, and affectionate with his immediate family."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23354%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-On-White-01.jpg",
+                    "alt": "Anatolian Shepherd Dog standing in a rocky, wooded landscape.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Working-Group-Jess-P1340270.jpg",
+                    "alt": "Best of Breed: GCH CH Island Farm's Bonnie, Anatolian Shepherd Dog; Working Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Jessica Ramdass \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shpeherd.3.jpg",
+                    "alt": "Anatolian Shpeherd sitting on the beach.",
+                    "caption": "",
+                    "credit": "\u00a9Beata - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd.4.jpg",
+                    "alt": "Anatolian Shepherd standing outdoors in the winter.",
+                    "caption": "",
+                    "credit": "\u00a9CharlitoCZ - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd.1.jpg",
+                    "alt": "Two Anatolian Shepherds lying outdoors in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Beata - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd.jpg",
+                    "alt": "Anatolian Shepherd walking amongst a herd of sheep.",
+                    "caption": "",
+                    "credit": "\u00a9Bobby - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-Illo-2.jpg",
+                "alt": "Anatolian Shepherd Dog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-puppy-sitting.jpg",
+                "alt": "Anatolian Shepherd Dog puppy sitting facing forward."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/anatolian-shepherd-dog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Anatolian Shepherd Dog",
+        "shopCta": false
+    }
+}

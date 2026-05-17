@@ -1,0 +1,1557 @@
+{
+    "settings": {
+        "current_breed": "great-dane",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Great-Dane.pdf",
+                    "mp_health": "Great Danes are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, eye disease, autoimmune thyroiditis and cardiac disease. Some dogs may be faced with these health challenges in their lives, but the majority of Great Danes are healthy dogs. Great Danes are fast growing and can have a lot of growing pains. Good nutrition, proper exercise is essential. A mild bone disorder called panosteitis is caused by inflammation of the growing long bone. It is usually self limiting, the pup will limp and the limp may go from leg to leg. A vet will prescribe an anti-inflammatory drug and the pup will grow out of it. Other more serious bone disease are usually nutritional in nature and can be dangerous to the Danes well being. Great Danes, as well as other deep-chested breeds, suffer from bloat and gastric torsion. Feeding two meals a day and limiting exercise after eating will help prevent this problem. Do not let your Dane get fat. The weight may go on easily, but it is hard getting it off. A heavy Dane will have a shorter life span. Excess weight will cause them to have mobility problems as seniors.",
+                    "akc_org_health": "Bloat, or gastric dilatation-volvulus (GDV), is the number-one killer of Danes. Owners should educate themselves to recognize the signs that bloat could be happening and what to do if so. Many breeders and owners consider a surgery called a prophylactic gastropexy ('preventative tack'\u009d) that can help prevent some of the more serious aspects of GDV. Other health issues that can affect the breed include eye and cardiac diseases, hypothyroidism and autoimmune thyroiditis, and hip dysplasia. A responsible breeder will screenbreeding stock for conditions that can affect the breed.",
+                    "akc_org_nutrition": "Feed the Great Dane a high-quality dog food appropriate to the dog's age (puppy, adult, or senior). Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Owners must be aware that the number-one killer of the breed is bloat, where the stomach distends and twists. The causes of bloat aren't fully understood, but experts agree that multiple small meals per day and preventing vigorous exercise around mealtimes can help reduce the chances of it happening.",
+                    "akc_org_grooming": "For most of the year the Great Dane's short, smooth coat doesn't shed much, but given the size of the dog, this can still amount to a fair bit of hair. Weekly brushing with a medium-bristle brush, a rubber grooming mitt or tool, or a hound glove will help keep shedding to a minimum. During shedding season once or twice a year, however, hair loss will be more profuse, with a daily brushing ideal. Great Danes need a bath only occasionally, unless they get into something messy. As with all breeds, the Great Dane's nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running.",
+                    "akc_org_exercise": "Great Danes may seem sedate, but they require daily exercise appropriate to their age. A brisk walk two or three times a day can be enough. They can make good companions on jogs or hikes, but you must wait until the dog is 2 years old to avoid damage to growing joints. Because of the risk of bloat, avoid rigorous exercise around mealtimes. Danes tend to follow their nose wherever a scent takes them, so they should always be kept on a leash and only allowed loose in areas secured with a tall fence. Many Great Danes enjoy participating in agility, obedience, tracking events, weight pulls, and sports such as flyball.",
+                    "akc_org_training": "Early socialization and puppy training classes are recommended. For a breed as large and powerful as the Great Dane, obedience training is a must. Socialization'\u00bfgently exposing the puppy to a wide variety of people, places, and situations'\u00bfwill help him develop into a well-adjusted adult. Great Danes are sociable, friendly, and eager to please, and they respond well to firm, consistent training methods. They need to have human contact, affection, and socialization with other people and animals.",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Thyroid Evaluation",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "breed_name_oracle": "Great Dane",
+                    "matches_oracle": "Great Dane",
+                    "akc_code": "614",
+                    "breed_name_plural": "Great Danes",
+                    "breed_nicknames": "Dane, the Apollo of Dogs",
+                    "origin": "Germany",
+                    "breed_group": "Working Group",
+                    "year_recognized": "1887",
+                    "life_expectancy": "7-10 years",
+                    "related_breeds": "Mastiff, Weimaraner, Beauceron, German Pinscher, Doberman Pinscher",
+                    "links": {
+                        "mp_url": "marketplace.akc.org/puppies/",
+                        "akc_url": "https://akc.org/dog-breeds/golden-retrievers"
+                    },
+                    "popularity_2025": 22,
+                    "popularity_2024": 21,
+                    "popularity_2023": 19,
+                    "popularity_2022": 19,
+                    "popularity_2021": 17,
+                    "popularity_2020": 15,
+                    "popularity_2019": 17,
+                    "popularity_2018": 16,
+                    "popularity_2017": 14,
+                    "popularity_2016": 14,
+                    "popularity_2015": 15,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "mastiff",
+                        "weimaraner",
+                        "beauceron",
+                        "german-pinscher",
+                        "doberman-pinscher"
+                    ],
+                    "related_breeds_items": {
+                        "mastiff": {
+                            "breed_name_url": "mastiff",
+                            "breed_name": "Mastiff",
+                            "breed_name_oracle": "Mastiff",
+                            "matches_oracle": "Mastiff",
+                            "akc_code": "618",
+                            "breed_name_plural": "Mastiffs",
+                            "breed_nicknames": "Gentle Giant",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "6-10 years",
+                            "related_breeds": "Neapolitan Mastiff, Bullmastiff, Pyrenean Mastiff, Tibetan Mastiff, Spanish Mastiff",
+                            "links": [],
+                            "popularity_2025": 40,
+                            "popularity_2024": 40,
+                            "popularity_2023": 38,
+                            "popularity_2022": 37,
+                            "popularity_2021": 35,
+                            "popularity_2020": 33,
+                            "popularity_2019": 32,
+                            "popularity_2018": 29,
+                            "popularity_2017": 28,
+                            "popularity_2016": 28,
+                            "popularity_2015": 25,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / good-natured / courageous"
+                        },
+                        "weimaraner": {
+                            "breed_name_url": "weimaraner",
+                            "breed_name": "Weimaraner",
+                            "breed_name_oracle": "Weimaraner",
+                            "matches_oracle": "Weimaraner",
+                            "akc_code": "123",
+                            "breed_name_plural": "Weimaraners",
+                            "breed_nicknames": "The Gray Ghost",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1943",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Vizsla, Pointer, Dalmatian, Braque Francais Pyrenean, German Shorthaired Pointer",
+                            "links": [],
+                            "popularity_2025": 54,
+                            "popularity_2024": 55,
+                            "popularity_2023": 48,
+                            "popularity_2022": 44,
+                            "popularity_2021": 40,
+                            "popularity_2020": 39,
+                            "popularity_2019": 39,
+                            "popularity_2018": 36,
+                            "popularity_2017": 34,
+                            "popularity_2016": 34,
+                            "popularity_2015": 34,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds",
+                            "temperament": "friendly / fearless / obedient"
+                        },
+                        "beauceron": {
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "breed_name_oracle": "Beauceron",
+                            "matches_oracle": "Beauceron",
+                            "akc_code": "846",
+                            "breed_name_plural": "Beaucerons",
+                            "breed_nicknames": "Bas-Rouge (Red Stockings)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2007",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Briard, Belgian Malinois, Dutch Shepherd, Berger Picard, Border Collie",
+                            "links": [],
+                            "popularity_2025": 102,
+                            "popularity_2024": 100,
+                            "popularity_2023": 109,
+                            "popularity_2022": 111,
+                            "popularity_2021": 121,
+                            "popularity_2020": 121,
+                            "popularity_2019": 123,
+                            "popularity_2018": 124,
+                            "popularity_2017": 141,
+                            "popularity_2016": 140,
+                            "popularity_2015": 142,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "faithful / gentle / obedient"
+                        },
+                        "german-pinscher": {
+                            "breed_name_url": "german-pinscher",
+                            "breed_name": "German Pinscher",
+                            "breed_name_oracle": "German Pinscher",
+                            "matches_oracle": "German Pinscher",
+                            "akc_code": "636",
+                            "breed_name_plural": "German Pinschers",
+                            "breed_nicknames": "GP",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2003",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Doberman Pinscher, Jagdterrier, Miniature Pinscher",
+                            "links": [],
+                            "popularity_2025": 139,
+                            "popularity_2024": 133,
+                            "popularity_2023": 151,
+                            "popularity_2022": 145,
+                            "popularity_2021": 146,
+                            "popularity_2020": 139,
+                            "popularity_2019": 125,
+                            "popularity_2018": 134,
+                            "popularity_2017": 136,
+                            "popularity_2016": 146,
+                            "popularity_2015": 138,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / courageous / vivacious"
+                        },
+                        "doberman-pinscher": {
+                            "breed_name_url": "doberman-pinscher",
+                            "breed_name": "Doberman Pinscher",
+                            "breed_name_oracle": "Doberman Pinscher",
+                            "matches_oracle": "Doberman Pinscher",
+                            "akc_code": "611",
+                            "breed_name_plural": "Doberman Pinschers",
+                            "breed_nicknames": "Doberman, Dobe, Dobie",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1908",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Boxer, Rottweiler, Miniature Pinscher, Beauceron, German Pinscher",
+                            "links": [],
+                            "popularity_2025": 15,
+                            "popularity_2024": 16,
+                            "popularity_2023": 15,
+                            "popularity_2022": 15,
+                            "popularity_2021": 16,
+                            "popularity_2020": 18,
+                            "popularity_2019": 19,
+                            "popularity_2018": 17,
+                            "popularity_2017": 16,
+                            "popularity_2016": 15,
+                            "popularity_2015": 14,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "alert / loyal / fearless"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "temperament": "friendly / patient / dependable",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "akc_org_blurb": "<p>The easygoing Great Dane, the mighty \"Apollo of Dogs,\" is a total joy to live with, but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.</p>",
+                    "akc_org_about": "<p>As tall as 32 inches at the shoulder, Danes tower over most other dogs and when standing on their hind legs, they are taller than most people. These powerful giants are the picture of elegance and balance, with the smooth and easy stride of born noblemen. The coat comes in different colors and patterns, perhaps the best-known being the black-and-white patchwork pattern known as \"harlequin.\" Despite their sweet nature, Danes are alert home guardians. Just the sight of these gentle giants is usually enough to make intruders think twice. But those foolish enough to mistake the breed's friendliness for softness will meet a powerful foe of true courage and spirit. Patient with kids, Danes are people pleasers who make friends easily.</p>",
+                    "mp_description": "<p>Your Great Dane puppy will grow into a majestic fellow, standing 30\" tall or more at the shoulder. Should he stand up on his hind legs for a hug, he may well tower over some adults. This gentle giant is a loving family dog, friendly and energetic. He's patient with kids and eager to please his people, while also being a protective guardian of home and family. The Great Dane is an ideal pet for owners who appreciate the size, strength and energy of this 'king of dogs.'</p>"
+                }
+            },
+            "standards": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "title_1": "General Appearance",
+                    "description_1": "The Great Dane combines, in its regal appearance, dignity, strength and elegance with great size and a powerful, well-formed, smoothly muscled body. It is one of the giant working breeds, but is unique in that its general conformation must be so well balanced that it never appears clumsy, and shall move with a long reach and powerful drive. It is always a unit -- the Apollo of dogs. A Great Dane must be spirited, courageous, never timid; always friendly and dependable. This physical and mental combination is the characteristic which gives the Great Dane the majesty possessed by no other breed.",
+                    "title_2": "Head",
+                    "description_2": "The head shall be rectangular, long, distinguished, expressive, finely chiseled, especially below the eyes. Seen from the side, the Dane's forehead must be sharply set off from the bridge of the nose (a strongly pronounced stop). The plane of the skull and the plane of the muzzle must be straight and parallel to one another. The skull plane under and to the inner point of the eye must slope without any bony protuberance in a smooth line to a full square jaw with a deep muzzle (fluttering lips are undesirable). The masculinity of the male is very pronounced in structural appearance of the head. The bitch's head is more delicately formed.",
+                    "title_3": "Body",
+                    "description_3": "The neck shall be firm, high set, well arched, long and muscular. From the nape, it should gradually broaden and flow smoothly into the withers. The neck underline should be clean. Withers shall slope smoothly into a short level back with a broad loin. The chest shall be broad, deep and well muscled. The forechest should be well developed without a pronounced sternum. The brisket extends to the elbow, with well sprung ribs. The body underline should be tightly muscled with a well-defined tuck-up. The croup should be broad and very slightly sloping.",
+                    "title_4": "Forequarters",
+                    "description_4": "The forequarters, viewed from the side, shall be strong and muscular. The shoulder blade must be strong and sloping, forming, as near as possible, a right angle in its articulation with the upper arm. A line from the upper tip of the shoulder to the back of the elbow joint should be perpendicular. The ligaments and muscles holding the shoulder blade to the rib cage must be well developed, firm and securely attached to prevent loose shoulders. The shoulder blade and the upper arm should be the same length. The elbow should be one-half the distance from the withers to the ground. The strong pasterns should slope slightly. The feet should be round and compact with well-arched toes, neither toeing in, toeing out, nor rolling to the inside or outside. The nails should be short, strong and as dark as possible, except that they may be lighter in harlequins. Dewclaws may or may not be removed.",
+                    "title_5": "Coat",
+                    "description_5": "The coat shall be short, thick and clean with a smooth glossy appearance.",
+                    "title_6": "Eyes And Ears",
+                    "description_6": "Eyes shall be medium size, deep set, and dark, with a lively intelligent expression. The eyelids are almond-shaped and relatively tight, with well developed brows. Haws and mongolian eyes are serious faults. In harlequins, the eyes should be dark; light colored eyes, eyes of different colors and walleyes are permitted but not desirable. Ears shall be high set, medium in size and of moderate thickness, folded forward close to the cheek. The top line of the folded ear should be level with the skull. If cropped, the ear length is in proportion to the size of the head and the ears are carried uniformly erect. Nose shall be black, except in the blue Dane, where it is a dark blue-black. A black spotted nose is permitted on the harlequin; a pink colored nose is not desirable.",
+                    "title_7": "Hindquarters",
+                    "description_7": "The hindquarters shall be strong, broad, muscular and well angulated, with well let down hocks. Seen from the rear, the hock joints appear to be perfectly straight, turned neither toward the inside nor toward the outside. The rear feet should be round and compact, with well-arched toes, neither toeing in nor out. The nails should be short, strong and as dark as possible, except they may be lighter in harlequins. Wolf claws are a serious fault.",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "28",
+                    "height_max": "32",
+                    "weight_min": "110",
+                    "weight_max": "175",
+                    "size": "XLarge",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GreatDane.pdf",
+                    "height_min_f": "28",
+                    "height_max_f": "32",
+                    "height_min_m": "28",
+                    "height_max_m": "32",
+                    "height_display": "30-32 inches (male), 28-30 inches (female)",
+                    "weight_min_f": "110",
+                    "weight_max_f": "175",
+                    "weight_min_m": "110",
+                    "weight_max_m": "175",
+                    "weight_display": "140-175 pounds (male), 110-140 pounds (female)"
+                }
+            },
+            "markings": {
+                "great-dane": {
+                    "markings": [
+                        {
+                            "marking_index": 423,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 424,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 425,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 426,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "006",
+                            "markings_long": "Blue Mask",
+                            "markings_short": "BL MSK"
+                        },
+                        {
+                            "marking_index": 427,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "043",
+                            "markings_long": "Chocolate Markings",
+                            "markings_short": "CHLT MKGS"
+                        },
+                        {
+                            "marking_index": 428,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "060",
+                            "markings_long": "Chocolate Mask",
+                            "markings_short": "CHLT MSK"
+                        },
+                        {
+                            "marking_index": 429,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "008",
+                            "markings_long": "Fawn Markings",
+                            "markings_short": "FN MKGS"
+                        },
+                        {
+                            "marking_index": 430,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "035",
+                            "markings_long": "Merle Markings",
+                            "markings_short": "MRL MKGS"
+                        },
+                        {
+                            "marking_index": 431,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        },
+                        {
+                            "marking_index": 432,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "great-dane": {
+                    "colors": [
+                        {
+                            "color_index": 1413,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1414,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1415,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1416,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1417,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1418,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "112",
+                            "color_long": "Harlequin",
+                            "color_short": "HLQN"
+                        },
+                        {
+                            "color_index": 1419,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "431",
+                            "color_long": "Mantle",
+                            "color_short": "MNTL"
+                        },
+                        {
+                            "color_index": 1420,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "131",
+                            "color_long": "Merle",
+                            "color_short": "MRL"
+                        },
+                        {
+                            "color_index": 1421,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1422,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 1423,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "056",
+                            "color_long": "Blue Brindle",
+                            "color_short": "BL BRDL"
+                        },
+                        {
+                            "color_index": 1424,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "071",
+                            "color_long": "Chocolate",
+                            "color_short": "CHLT"
+                        },
+                        {
+                            "color_index": 1425,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "271",
+                            "color_long": "Chocolate & White",
+                            "color_short": "CHLT & WH"
+                        },
+                        {
+                            "color_index": 1426,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "342",
+                            "color_long": "Chocolate Brindle",
+                            "color_short": "CHLT BRDL"
+                        },
+                        {
+                            "color_index": 1427,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 1428,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "516",
+                            "color_long": "Mantle Merle",
+                            "color_short": "MNTL MRL"
+                        },
+                        {
+                            "color_index": 1429,
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "akc_code": "614",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "517",
+                            "color_long": "Merlequin",
+                            "color_short": "MRLQN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "breed_club_name": "Great Dane Club of America, Inc.",
+                    "breed_club_url": "www.gdca.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/GreatDane-club-flier.pdf",
+                    "breed_rescue_url": "http://www.gdca.org/great-dane-rescue.html",
+                    "national_breed_club": "Great Dane Club of America, Inc.",
+                    "national_breed_club_url": "www.gdca.org",
+                    "breed_referral_contact_name": "Michelle Conroy",
+                    "breed_referral_contact_phone_number": "(561) 400-2567",
+                    "breed_referral_contact_email": "bluedane20@gmail.com",
+                    "breed_referral_contact_address": "2877 LEXINGTON TRCE\nMARIETTA, GA 30062",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.gdca.org/breedermap.htm",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.gdca.org/gdclubs.htm",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.gdca.org/great-dane-rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1535,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 121,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Established in 1889, the Great Dane Club of America is the official AKC Parent Club for the Great Dane."
+                        },
+                        {
+                            "id": 764,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 766,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 763,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 765,
+                            "breed_id": "122",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "great-dane": {
+                    "breed_name_url": "great-dane",
+                    "breed_name": "Great Dane",
+                    "akc_org_history": "<p>'No one is quite sure how or why Great Danes, a German breed, came to be associated with Denmark. (In Germany they're known as the Deutsche Dog, or 'German dog.'\u009d) We do know that once upon a time, German nobles used Danes to hunt ferocious wild boars. Later, Danes became famous as protectors of their home and loved ones, a job they are still happy to perform.</p>",
+                    "mp_history_job": "<p>No one is quite sure how or why Great Danes, a German breed, came to be associated with Denmark. (In Germany they're known as the Deutsche Dog, or&nbsp;</p>\n<p>'German dog'.) We do know that once upon a time, German nobles used Danes to hunt ferocious wild boars. Later, Danes became famous as protectors of their home and loved ones, a job they are still happy to perform.</p>",
+                    "did_you_know": "The Great Dane's name is the English translation of the breed name in French: grand Danois, meaning \"big Danish.\" | There is no known reason for connecting Denmark with either the origin or the development of the Great Dane; it was \"made in Germany\", and it was German fanciers who led the world in breeding most of the finest specimens. | The Great Dane is a very old breed, cultivated as a distinct type for probably 400 years, if not longer. | The Great Dane had a half-dozen names used for centuries in France, including dogue allemand (\"German Mastiff\"); \"Mastiff\" in English, dogue or dogo in the Latin languages, and dogge in the Germanic languages all meant the same thing: a giant dog with heavy head for fighting or hunting purposes. | The earliest written description of a dog resembling the Great Dane may be found in Chinese literature of 1121 BC, according to an article by Dr. G. Ciaburri in a Great Dane Club of Italy publication (1929). | The Dane was developed as a boar hound by the Germans."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24572%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-standing-in-profile-outdoors1.jpg",
+                    "alt": "Great Dane standing in profile outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9slowmotiongli - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-looking-back-over-his-shoulder-outdoors-at-the-park.jpg",
+                    "alt": "Great Dane looking back over his shoulder outdoors at the park in the fall.",
+                    "caption": "",
+                    "credit": "horsesdogscats/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-playing-on-the-beach.jpg",
+                    "alt": "Great Dane playing on the beach.",
+                    "caption": "",
+                    "credit": "\u00a9adogslifephoto - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-at-the-AKC-National-Championship.jpg",
+                    "alt": "Great Dane at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-in-an-obedience-course.jpg",
+                    "alt": "Great Dane leaping over a jump in an obedience course indoors.",
+                    "caption": "",
+                    "credit": "Photo by Pix 'n Pages"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-laying-down-in-the-garden.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": "\u00a9Sonja Birkelbach - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-moving-through-weaving-poles-in-agility.jpg",
+                    "alt": "Great Dane moving through weaving poles at the AKC National Agility Championship, April 1-3, 2022, Ocala, FL.",
+                    "caption": "",
+                    "credit": "\u00a9GreatDanePhotos"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-sitting-in-obedience.jpg",
+                    "alt": "Great Dane sitting and waiting in an obedience course.",
+                    "caption": "",
+                    "credit": "Photo by Pix 'n Pages"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Senior-Great-Danes-laying-down-in-the-yard.jpg",
+                    "alt": "Senior Great Danes laying down in the yard.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-Illo-2.jpg",
+                "alt": "Great Dane illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-puppy-laying-down.jpg",
+                "alt": "Great Dane puppy laying down."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/great-dane",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Great Dane",
+        "shopCta": false
+    }
+}

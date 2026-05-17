@@ -1,0 +1,1279 @@
+{
+    "settings": {
+        "current_breed": "finnish-spitz",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/02/22144625/Finnish-Spitz-health-statement.pdf",
+                    "mp_health": "<p>Finnish Spitz are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Finnish Spitz are healthy dogs.</p>",
+                    "akc_org_health": "<p>Fortunately, thanks to thoughtful breeding, Finnish Spitz in the U.S. and Canada are a generally healthy breed and don't present many health issues. Responsible breeders screen potential breeding stock for patella, elbows, hips, and eyes, with the numbers of affected dogs very low. New owners are urged to have a conversation with their breeders about care for growing puppies, including the need to limit vigorous exercise, and avoiding early spay and neuter until maturity (3'\u00bf5 years) is reached.</p>",
+                    "akc_org_nutrition": "<p>The Finnish Spitz's metabolism is extremely efficient for a primitive breed,'\u009d notes one breed expert. This means that overfeeding the breed will result in obesity fairly quickly. High-quality dry dog food works well to maintain good condition and weight. Treats can be useful in training but should be given sparingly. Give table scraps sparingly as well, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                    "akc_org_grooming": "<p>The Finnish Spitz is a \"natural\" breed that some owners refer to as \"wash and wear.\" The breed standard is very specific: \"No trimming of the coat except for feet is allowed. Whiskers shall not be trimmed. Any alteration of the coat by coloring, dying, trimming, scissoring or other means must be severely faulted.\" Lightly spraying the coat with water and brushing the coat using a pin brush every two to three days is adequate. Hot blow-drying will dry the outer coat. During their twice-yearly shedding season, daily brushing or a bath followed by a cool-temperature blow-dry and brushing will speed up this process, and a good quality comb and a slicker brush are very useful in getting out the undercoat. The shedding is more severe in an intact female. The coat of a spayed female can become softer and denser and can take more grooming.</p>",
+                    "akc_org_exercise": "<p>Finnish Spitz were bred to hunt all day in dense woods, giving them the stamina to range far, making a solidly fenced yard a must. A Finnish Spitz must never be kept away from his people, as he becomes deeply bonded with his family. They require a moderately high degree of exercise. A daily walk, long or short, on a leash is always a reward in and of itself.</p>",
+                    "akc_org_training": "<p>This is a very intelligent breed, and as such they can present a challenge to train. Keep sessions short and fun, being generous with praise and reward. Food seems to be the universal motivator. They'll let you know when they've had enough. Early socialization and puppy training classes are recommended for the new puppy.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "No recommended health tests",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "No recommended health tests"
+                }
+            },
+            "basics": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "breed_name_oracle": "Finnish Spitz",
+                    "matches_oracle": "Finnish Spitz",
+                    "akc_code": "313",
+                    "breed_name_plural": "Finnish Spitz",
+                    "breed_nicknames": "Finkie, Barking Bird Dog",
+                    "origin": "Finland",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1991",
+                    "life_expectancy": "13-15 years",
+                    "related_breeds": "Norwegian Buhund, Icelandic Sheepdog, Swedish Lapphund, Finnish Lapphund, Norwegian Elkhound",
+                    "links": [],
+                    "popularity_2025": 194,
+                    "popularity_2024": 194,
+                    "popularity_2023": 194,
+                    "popularity_2022": 188,
+                    "popularity_2021": 191,
+                    "popularity_2020": 187,
+                    "popularity_2019": 185,
+                    "popularity_2018": 184,
+                    "popularity_2017": 177,
+                    "popularity_2016": 179,
+                    "popularity_2015": 178,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "norwegian-buhund",
+                        "icelandic-sheepdog",
+                        "swedish-lapphund",
+                        "finnish-lapphund",
+                        "norwegian-elkhound"
+                    ],
+                    "related_breeds_items": {
+                        "norwegian-buhund": {
+                            "breed_name_url": "norwegian-buhund",
+                            "breed_name": "Norwegian Buhund",
+                            "breed_name_oracle": "Norwegian Buhund",
+                            "matches_oracle": "Norwegian Buhund",
+                            "akc_code": "838",
+                            "breed_name_plural": "Norwegian Buhunds",
+                            "breed_nicknames": "Buhund",
+                            "origin": "Norway",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2009",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Norwegian Elkhound, Swedish Lapphund, Hokkaido, Eurasier, Finnish Spitz",
+                            "links": [],
+                            "popularity_2025": 173,
+                            "popularity_2024": 184,
+                            "popularity_2023": 175,
+                            "popularity_2022": 178,
+                            "popularity_2021": 170,
+                            "popularity_2020": 168,
+                            "popularity_2019": 171,
+                            "popularity_2018": 165,
+                            "popularity_2017": 170,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "confident / smart / perceptive"
+                        },
+                        "icelandic-sheepdog": {
+                            "breed_name_url": "icelandic-sheepdog",
+                            "breed_name": "Icelandic Sheepdog",
+                            "breed_name_oracle": "Icelandic Sheepdog",
+                            "matches_oracle": "Icelandic Sheepdog",
+                            "akc_code": "842",
+                            "breed_name_plural": "Icelandic Sheedogs",
+                            "breed_nicknames": "Icelandic, aka Iceland Dog (U.K.)",
+                            "origin": "Iceland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2010",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Finnish Lapphund, Norwegian Buhund, Eurasier, Keeshond, Swedish Lapphund",
+                            "links": [],
+                            "popularity_2025": 138,
+                            "popularity_2024": 143,
+                            "popularity_2023": 146,
+                            "popularity_2022": 132,
+                            "popularity_2021": 138,
+                            "popularity_2020": 154,
+                            "popularity_2019": 134,
+                            "popularity_2018": 155,
+                            "popularity_2017": 144,
+                            "popularity_2016": 153,
+                            "popularity_2015": 140,
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds",
+                            "temperament": "friendly / playful / inquisitive"
+                        },
+                        "swedish-lapphund": {
+                            "breed_name_url": "swedish-lapphund",
+                            "breed_name": "Swedish Lapphund",
+                            "breed_name_oracle": "Swedish Lapphund",
+                            "matches_oracle": "Swedish Lapphund",
+                            "akc_code": "857",
+                            "breed_name_plural": "Swedish Lapphunds",
+                            "breed_nicknames": "",
+                            "origin": "Sweden",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Samoyed, Finnish Lapphund, Yakutian Laika, Lapponian Herder, Swedish Vallhund",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / playful / lively"
+                        },
+                        "finnish-lapphund": {
+                            "breed_name_url": "finnish-lapphund",
+                            "breed_name": "Finnish Lapphund",
+                            "breed_name_oracle": "Finnish Lapphund",
+                            "matches_oracle": "Finnish Lapphund",
+                            "akc_code": "848",
+                            "breed_name_plural": "Finnish Lapphunds",
+                            "breed_nicknames": "Lappy",
+                            "origin": "Finland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Icelandic Sheepdog, Norwegian Elkhound, Finnish Spitz, Yakutian Laika, Swedish Vallhund",
+                            "links": [],
+                            "popularity_2025": 127,
+                            "popularity_2024": 129,
+                            "popularity_2023": 135,
+                            "popularity_2022": 167,
+                            "popularity_2021": 168,
+                            "popularity_2020": 165,
+                            "popularity_2019": 167,
+                            "popularity_2018": 161,
+                            "popularity_2017": 173,
+                            "popularity_2016": 173,
+                            "popularity_2015": 169,
+                            "related_groups_characteristics": "",
+                            "temperament": "alert / friendly / agile"
+                        },
+                        "norwegian-elkhound": {
+                            "breed_name_url": "norwegian-elkhound",
+                            "breed_name": "Norwegian Elkhound",
+                            "breed_name_oracle": "Norwegian Elkhound",
+                            "matches_oracle": "Norwegian Elkhound",
+                            "akc_code": "414",
+                            "breed_name_plural": "Norwegian Elkhounds",
+                            "breed_nicknames": "Elkhound",
+                            "origin": "Norway",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1913",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Norwegian Buhund, Swedish Lapphund, Shikoku Ken, Karelian Bear Dog, Finnish Spitz",
+                            "links": [],
+                            "popularity_2025": 128,
+                            "popularity_2024": 124,
+                            "popularity_2023": 115,
+                            "popularity_2022": 100,
+                            "popularity_2021": 100,
+                            "popularity_2020": 91,
+                            "popularity_2019": 94,
+                            "popularity_2018": 97,
+                            "popularity_2017": 91,
+                            "popularity_2016": 94,
+                            "popularity_2015": 88,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "friendly / confident / dependable"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "temperament": "good-natured / friendly / lively",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "akc_org_blurb": "The lively Finnish Spitz, the flame-colored, foxy-faced breed from the 'Land of 60,000 Lakes,'\u009d is a small but fearless hunting dog whose unique style of tracking and indicating quarry has earned him the nickname the 'Barking Bird Dog.'\u009d",
+                    "akc_org_about": "The balanced, squarely symmetrical Finnish Spitz will stand not more than 20 inches at the shoulder and are easily recognized by their  foxy face and prick ears projecting a lively expression, and a curving plumed tail. Their dense coat of glorious golden-red which is never monochromatic gives them the Finnish Spitz 'Glow.'\u009d Finkies or Finns, as they are nicknamed, move with a bold and brisk gait.\n\n\n\n Finkies make excellent alertdogs, wary but not shy with strangers. This is a vocal breed '\u00bf in Finland, owners hold contests to crown a 'King Barker'\u009d '\u00bf and true Finn lovers are more delighted than annoyed by their breed's yodeling and range of vocalization. Finkies are eager canine athletes and eye-catching show dogs known to be smart, sensitive, and captivating companions.",
+                    "mp_description": "It's hard to find a more beautiful dog than the Finnish Spitz, with his dense golden red coat and lively fox-like expression. This athletic, sociable dog is a playful companion and enjoys active time with his family. Still used as a hunting dog in his native Finland, he may have a tendency to wander, so a fenced yard is important. Your Finnish Spitz puppy will grow up to be a devoted family dog, upbeat, playful and protective of his family."
+                }
+            },
+            "standards": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "title_1": "General Appearance",
+                    "description_1": "The Finnish Spitz presents a fox-like picture. The breed has long been used to hunt small game and birds. The pointed muzzle, erect ears, dense coat and curled tail denotes its northern heritage. The Finnish Spitzs whole being shows liveliness, which is especially evident in the eyes, ears and tail. Males are decidedly masculine without coarseness. Bitches are decidedly feminine without over-refinement.\n\nThe Finnish Spitz's most important characteristics are its square, well-balanced body that is symmetrical with no exaggerated features, a glorious red-gold coat, his bold carriage and brisk movement.",
+                    "title_2": "Head",
+                    "description_2": "Clean cut and fox-like. Longer from occiput to tip of nose than broad at widest part of skull in a ratio of 7:4. More refined with less coat or ruff in females than in males, but still in the same ratio. A muscular or coarse head, or a long or narrow head with snipy muzzle, is to be penalized. Expression - Fox-like and lively. Eyes - Almond-shaped with black rims. Obliquely set with moderate spacing between, neither too far apart nor too close. Outer corners tilted upward. Dark in color with a keen and alert expression. Any deviation, runny, weepy, round or light eyes should be faulted. Ears - Set on high. When alert, upward standing, open to the front with tips directly above the outer corner of the eyes. Small erect, sharply pointed and very mobile.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "Neck - Well set, muscular. Clean, with no excess skin below the muzzle. Appearing shorter in males due to their heavier ruff. Topline - level and strong from withers to croup. Body - Muscular, square. Chest - Deep; brisket reaches to the elbow. Ratio of chest depth to distance from withers to ground is 4:9. Ribs - Well sprung. Tuck-up - Slightly drawn up. Loin - Short.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - The layback of the shoulders is thirty degrees to the vertical. Legs - Viewed from the front, moderately spaced, parallel and straight with elbows close to the body and turned neither out nor in. Bone strong without being heavy, always in proportion to the dog. Fine bone, which limits endurance, or heavy bone, which makes working movement cumbersome, is to be faulted.",
+                    "title_5": "Coat",
+                    "description_5": "The coat is double with a short, soft, dense undercoat and long, harsh straight guard hairs measuring approximately one to two inches on the body. Hair on the head and legs is short and close; it is longest and most dense on plume of tail and back of thighs. The outer coat is stiffer and longer on the neck and back, and in males considerably more profuse at the shoulder, giving them a more ruffed appearance. Males carry more coat than females.\n\nThe color varies in shades of golden-red ranging from pale honey to deep auburn. No preference given to shades at either extreme so long as the color is bright and clear. As the undercoat is a paler color, the effect of this shading is a coat that appears to glow.",
+                    "title_6": "Hindquarters And Tail",
+                    "description_6": "Angulation in balance with the forequarters. Thighs - Muscular. Hocks - Moderately let down. Straight and parallel. Dewclaws - Removed. Feet - As in front. Tail - Set on just below level of topline, forming a single curl falling over the loin with tip pointing towards the thigh. Plumed, curving vigorously from its base in an arch forward, downward, and backward, pressing flat against either thigh with tip extending to middle part of thigh.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "15.5",
+                    "height_max": "20",
+                    "weight_min": "20",
+                    "weight_max": "33",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/FinnishSpitz.pdf",
+                    "height_min_f": "15.5",
+                    "height_max_f": "20",
+                    "height_min_m": "15.5",
+                    "height_max_m": "20",
+                    "height_display": "17.5-20 inches (male), 15.5-18 inches (female)",
+                    "weight_min_f": "20",
+                    "weight_max_f": "33",
+                    "weight_min_m": "20",
+                    "weight_max_m": "33",
+                    "weight_display": "25-33 pounds (male), 20-28 pounds (female)"
+                }
+            },
+            "markings": {
+                "finnish-spitz": {
+                    "markings": [
+                        {
+                            "marking_index": 171,
+                            "breed_name_url": "finnish-spitz",
+                            "breed_name": "Finnish Spitz",
+                            "akc_code": "313",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "finnish-spitz": {
+                    "colors": [
+                        {
+                            "color_index": 596,
+                            "breed_name_url": "finnish-spitz",
+                            "breed_name": "Finnish Spitz",
+                            "akc_code": "313",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "152",
+                            "color_long": "Red Gold",
+                            "color_short": "RD GLD"
+                        },
+                        {
+                            "color_index": 597,
+                            "breed_name_url": "finnish-spitz",
+                            "breed_name": "Finnish Spitz",
+                            "akc_code": "313",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 598,
+                            "breed_name_url": "finnish-spitz",
+                            "breed_name": "Finnish Spitz",
+                            "akc_code": "313",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "091",
+                            "color_long": "Gold",
+                            "color_short": "GLD"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "breed_club_name": "Finnish Spitz Club of America",
+                    "breed_club_url": "www.finnishspitzclub.org",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Finnish Spitz Club of America",
+                    "national_breed_club_url": "www.finnishspitzclub.org",
+                    "breed_referral_contact_name": "Holly Horton",
+                    "breed_referral_contact_phone_number": "(801) 414-1707",
+                    "breed_referral_contact_email": "ajuashowdogs@gmail.com",
+                    "breed_referral_contact_address": "PO Box 901464\nSandy, UT 84090",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1521,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 107,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 708,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 710,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 707,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 709,
+                            "breed_id": "107",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "finnish-spitz": {
+                    "breed_name_url": "finnish-spitz",
+                    "breed_name": "Finnish Spitz",
+                    "akc_org_history": "<p>In his native land, Finland's most popular dog breed is called the Suomenpystykorva. Mercifully, in English-speaking countries it is known simply as the Finnish Spitz.</p>\n<p><br></p>\n<p>It is assumed that when migrants from central Russia arrived in what is now Finland some 3,000 years ago, they brought their spitz-type dogs with them. For centuries these forerunners of modern Finns were employed as all-purpose hunters. In time, they began to specialize on gamebirds.&nbsp;</p>\n<p><br></p>\n<p>Finkies or Finns have a unique bird-dogging style. Their acute nose leads them to treed birds. They then mesmerize the bird with their slow tail-wagging and distinctive 'yodeling,' or rapid-fire barking (they can achieve 160 barks a minute). The swishing tail also serves another purpose -- to allow the hunter to see the dog through the dense forest. This freezes the game in place until a rifle-toting human arrives to finish the job. Finkies also flush and trail birds to the trees</p>\n<p><br></p>\n<p>By the late 1800s, these hardy Norsemen faced extinction. Thanks to a promotional blitz mounted by two ardent Finnish admirers of the breed, Hugo Roos and Hugo Sandberg, the Finkie was brought back from near oblivion. By century's end, the Finnish Spitz was recognized by the Finnish Kennel Club.</p>\n<p><br></p>\n<p>England received its first exports in the 1920s. An early British devotee, Lady Kitty Ritson, coined the nickname 'Finkie,' as some English-speaking fanciers still refer to the breed. They arrived in America around 1960 and began competing in the AKC Non-Sporting Group in 1988.</p>",
+                    "mp_history_job": "<p>It is assumed that when migrants from central Russia arrived in what is now Finland some 3,000 years ago, they brought their spitz-type dogs with them. For centuries these forerunners of modern Finkies were employed as all-purpose hunters of mammals and game birds. Finkies have a unique bird-dogging style. Their acute nose leads them to treed birds. Finkies then mesmerize the bird with their distinctive 'yodeling' (rapid-fire barking) and slow tail-wagging, freezing the game in place until their rifle-toting human arrives.</p>",
+                    "did_you_know": "Suomenpystrykorva, the Finnish Cock-Eared Dog, was known in earlier times as the Finnish Barking Birddog and is now called the Finnish Spitz. | The history of spitz-type dogs that make up the Finnish Spitz's ancestry traces back several thousand years. | The first English Spitzes arrived in England in 1927. | The Finnish Spitz is, not surprisingly, the national dog of Finland. | By 1880, Finnish Spitzes had been so interbred that the original Finnish Spitz became nearly extinct. | The Finnish Spitz Club of America was founded in 1975."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24380%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-On-White-01.jpg",
+                    "alt": "Finnish Spitz standing in three-quarter view",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2017-NonSporting-Group-Oleg-QG5A0661.jpg",
+                    "alt": "Best of Breed: GCHS CH Kunniakas Whizz Bang Wallop (Whizz), Finnish Spitz; 2017 AKC National Championship presented by Royal Canin, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-head.jpg",
+                    "alt": "Finnish Spitz head portrait.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-running-in-the-snow.jpg",
+                    "alt": "Finnish Spitz running in the snow.",
+                    "caption": "",
+                    "credit": "Johner Images/Getty Images Plus"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-head-portrait.jpg",
+                    "alt": "Finnish Spitz head portrait.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2020/05/Finnish-Spitz-standing-on-a-log-in-the-forest.jpg",
+                    "alt": "Finnish Spitz standing on a log in the forest.",
+                    "caption": "",
+                    "credit": "PavelRodimov/Getty Images Plus"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-Illo-2.jpg",
+                "alt": "Finnish Spitz illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Finnish.Spitz_.AdobeStock_72595490.jpg",
+                "alt": "Finnish Spitz puppy standing outdoors in sunlight with a forest in the background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/finnish-spitz",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Finnish Spitz",
+        "shopCta": false
+    }
+}

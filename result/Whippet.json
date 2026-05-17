@@ -1,0 +1,1581 @@
+{
+    "settings": {
+        "current_breed": "whippet",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Whippet.pdf",
+                    "mp_health": "The Whippet is generally a healthy breed with a robust constitution. Like any dog, special attention needs to be paid to certain conditions which can develop over the lifetime of the Whippet. The Whippet frame is not well suited to carrying excessive weight. While young Whippets may appear gangly and have difficulty keeping their ribs covered when they are in their period of rapid growth, a mature adult should not appear ribby, but should have 2-4 visible vertebrae and the hipbones should not appear sunk into dimples of fat. A Whippet at a healthy weight will likely appear \u00bfskinny\u00bf to those accustomed to heavier-bodied, less fleet breeds, but maintaining your Whippet at the correct weight through lifelong portion control will extend its life and avoid many of the orthopedic problems that are both painful, and expensive, to repair.",
+                    "akc_org_health": "The Whippet frame is not well suited to carrying excessive weight. While young Whippets may appear gangly and have difficulty keeping their ribs covered when they are in the period of rapid growth, a mature adult should not appear ribby but should have two to four visible vertebrae, and the hipbones should not appear sunk into dimples of fat. A Whippet at a healthy weight will likely appear 'skinny' to those accustomed to heavier-bodied, less fleet breeds, but maintaining your Whippet at the correct weight through lifelong portion control will extend his life and avoid many of the orthopedic problems that are both painful and expensive to repair. Responsible breeders screen their stock for health conditions such as cardiac disease, deafness, and eye disorders.",
+                    "akc_org_nutrition": "The Whippet should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.",
+                    "akc_org_grooming": "The Whippet's short, smooth coat needs little maintenance beyond regular weekly grooming with a brush and the occasional bath. The ears should be checked regularly for signs of infection, and the nails should be trimmed often if not worn down naturally, as overly long nails can cause the dog discomfort.",
+                    "akc_org_exercise": "Whippets are sprinters by nature, and adequate exercise could take the form of several vigorous retrieving sessions a week with ball or flying disc, regular walks, or play sessions with another dog in a safely fenced area. Always keep your Whippet on lead when not in a fenced area. Organized activities such as lure-coursing and agility also provide healthy outlets for the breed's energy and athleticism.",
+                    "akc_org_training": "Whippets are calm in the house, preserving their energy for explosive bursts of running'\u00bfideally in a large, securely fenced area. Young Whippets are smart, agile, and mischievous, and they can jump and climb, so confining them safely while not under supervision is a must. Early socialization and puppy training classes are recommended and help to ensure that the dog grows into a well-adjusted, well-mannered companion.",
+                    "text_yumove_link": null,
+                    "test_1": "Cardiac Exam",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "BAER Testing",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Cardiac Exam | Ophthalmologist Evaluation | BAER Testing"
+                }
+            },
+            "basics": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "breed_name_oracle": "Whippet",
+                    "matches_oracle": "Whippet",
+                    "akc_code": "419",
+                    "breed_name_plural": "Whippets",
+                    "breed_nicknames": "whippet",
+                    "origin": "England",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1888",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Greyhound, Italian Greyhound, Azawakh, Pharaoh Hound, Manchester Terrier (Standard)",
+                    "links": [],
+                    "popularity_2025": 48,
+                    "popularity_2024": 50,
+                    "popularity_2023": 51,
+                    "popularity_2022": 54,
+                    "popularity_2021": 57,
+                    "popularity_2020": 59,
+                    "popularity_2019": 58,
+                    "popularity_2018": 61,
+                    "popularity_2017": 61,
+                    "popularity_2016": 60,
+                    "popularity_2015": 57,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "greyhound",
+                        "italian-greyhound",
+                        "azawakh",
+                        "pharaoh-hound",
+                        "manchester-terrier-standard"
+                    ],
+                    "related_breeds_items": {
+                        "greyhound": {
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "breed_name_oracle": "Greyhound",
+                            "matches_oracle": "Greyhound",
+                            "akc_code": "411",
+                            "breed_name_plural": "Greyhounds",
+                            "breed_nicknames": "greyhound",
+                            "origin": "Egypt",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                            "links": [],
+                            "popularity_2025": 151,
+                            "popularity_2024": 118,
+                            "popularity_2023": 127,
+                            "popularity_2022": 129,
+                            "popularity_2021": 132,
+                            "popularity_2020": 142,
+                            "popularity_2019": 164,
+                            "popularity_2018": 145,
+                            "popularity_2017": 156,
+                            "popularity_2016": 151,
+                            "popularity_2015": 147,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                            "temperament": "independent / gentle / noble"
+                        },
+                        "italian-greyhound": {
+                            "breed_name_url": "italian-greyhound",
+                            "breed_name": "Italian Greyhound",
+                            "breed_name_oracle": "Italian Greyhound",
+                            "matches_oracle": "Italian Greyhound",
+                            "akc_code": "505",
+                            "breed_name_plural": "Italian Grehounds",
+                            "breed_nicknames": "IG, Iggy",
+                            "origin": "The Mediterranean basin",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "14-15 years",
+                            "related_breeds": "Whippet, Greyhound, Toy Fox Terrier, Miniature Pinscher",
+                            "links": [],
+                            "popularity_2025": 53,
+                            "popularity_2024": 56,
+                            "popularity_2023": 62,
+                            "popularity_2022": 63,
+                            "popularity_2021": 73,
+                            "popularity_2020": 69,
+                            "popularity_2019": 68,
+                            "popularity_2018": 73,
+                            "popularity_2017": 74,
+                            "popularity_2016": 72,
+                            "popularity_2015": 71,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / playful / sensitive"
+                        },
+                        "azawakh": {
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "breed_name_oracle": "Azawakh",
+                            "matches_oracle": "Azawakh",
+                            "akc_code": "437",
+                            "breed_name_plural": "Azawakhs",
+                            "breed_nicknames": "Azawakh",
+                            "origin": "Sahel Region",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2019",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                            "links": [],
+                            "popularity_2025": 195,
+                            "popularity_2024": 192,
+                            "popularity_2023": 196,
+                            "popularity_2022": 194,
+                            "popularity_2021": 185,
+                            "popularity_2020": 193,
+                            "popularity_2019": 192,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / loyal / deeply affectionate"
+                        },
+                        "pharaoh-hound": {
+                            "breed_name_url": "pharaoh-hound",
+                            "breed_name": "Pharaoh Hound",
+                            "breed_name_oracle": "Pharaoh Hound",
+                            "matches_oracle": "Pharaoh Hound",
+                            "akc_code": "421",
+                            "breed_name_plural": "Pharaoh Hounds",
+                            "breed_nicknames": "Pharaoh, the Blushing Dog",
+                            "origin": "Malta",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1983",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Portuguese Podengo, Greyhound, Saluki, Azawakh, Ibizan Hound",
+                            "links": [],
+                            "popularity_2025": 180,
+                            "popularity_2024": 185,
+                            "popularity_2023": 176,
+                            "popularity_2022": 174,
+                            "popularity_2021": 176,
+                            "popularity_2020": 180,
+                            "popularity_2019": 163,
+                            "popularity_2018": 172,
+                            "popularity_2017": 174,
+                            "popularity_2016": 168,
+                            "popularity_2015": 171,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / noble"
+                        },
+                        "manchester-terrier-standard": {
+                            "breed_name_url": "manchester-terrier-standard",
+                            "breed_name": "Manchester Terrier (Standard)",
+                            "breed_name_oracle": "Manchester Terrier (Standard)",
+                            "matches_oracle": "Manchester Terrier (Standard)",
+                            "akc_code": "213",
+                            "breed_name_plural": "Manchester Terriers",
+                            "breed_nicknames": "Manchester, the Gentleman\u00bfs Terrier",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "15-17 years",
+                            "related_breeds": "Whippet, Miniature Pinscher, Doberman Pinscher, German Pinscher",
+                            "links": [],
+                            "popularity_2025": 131,
+                            "popularity_2024": 115,
+                            "popularity_2023": 126,
+                            "popularity_2022": 130,
+                            "popularity_2021": 123,
+                            "popularity_2020": 132,
+                            "popularity_2019": 142,
+                            "popularity_2018": 133,
+                            "popularity_2017": 135,
+                            "popularity_2016": 133,
+                            "popularity_2015": 137,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "bright / spirited / keenly observant"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "temperament": "playful / affectionate / calm",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "akc_org_blurb": "The sleek, sweet-faced Whippet, the 'Poor Man's Racehorse,'\u009d is lightning quick. He is an amiable, dignified, and gentle soul, but give him something to chase and he's all business. The name Whippet is synonymous with streamlined grace.",
+                    "akc_org_about": "At somewhere between 18 and 22 inches at the shoulder, the Whippet looks like a Greyhound, but smaller. The Whippet exhibits the classic 'inverted S'\u009d lines of the sighthound. The deep chest and trim waist; a lean head supported by a long, arched neck; and slim but sturdy legs combine in a picture of an agile, fleet-footed athlete. Between bursts of intense pursuit, Whippets love to stretch out and relax for long hours, enjoying the role of a loving, and loved, companion. Whippets like a fenced yard to run in, but they do nicely in cozy apartments too'\u00bfas long as they are exercised properly. Another plus for city dwellers: Whippets rarely bark. Despite the breed's elegant looks, the Whippet is a robust, low-maintenance dog.",
+                    "mp_description": "The Whippet, like the Greyhound, is an elegant, slender dog. While not quite as fast as the speed of light, the breed is the fastest domesticated animal in its weight class, reaching up to 35 mph. With a racing background, the whippet excels at dog sports like lure coursing. In motion, he's powerful and graceful. At rest, he is the very definition of couch potato, happy to relax with his people. In fact, Whippet puppies grow up to be excellent housemates. With regular exercise, they're calm and quiet in the house, happy just to spend time with their family."
+                }
+            },
+            "standards": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "title_1": "Head",
+                    "description_1": "Keen intelligent alert expression. Eyes large, round to oval in shape. Small and/or almond shaped eyes are undesirable and are to be faulted. Eyes to be dark brown to nearly black in color. Eye color can vary with coat color, but regardless of coat color dark eyes are always preferred. Light eyes are undesirable and yellow eyes are to be strictly penalized. Blue eye(s) or any portion of blue in the eye(s), as well as both eyes not being of the same color shall disqualify. Fully pigmented eye rims are desirable. Rose ears, small, fine in texture; in repose, thrown back and folded along neck. Fold should be maintained when at attention. Erect ears should be severely penalized.",
+                    "title_2": "Body",
+                    "description_2": "Neck long, clean and muscular, well arched with no suggestion of throatiness, widening gracefully into the top of the shoulder. A short thick neck, or a ewe neck, should be penalized. The back is broad, firm and well muscled, having length over the loin. The backline runs smoothly from the withers with a graceful natural arch, not too accentuated, beginning over the loin and carrying through over the croup; the arch is continuous without flatness. A dip behind shoulder blades, wheelback, flat back, or a steep or flat croup should be penalized. Brisket very deep, reaching as nearly as possible to the point of the elbow. Ribs well sprung but with no suggestion of barrel shape. The space between the forelegs is filled in so that there is no appearance of a hollow between them. There is a definite tuckup of the underline. The tail long and tapering, reaching to at least the inside of the hock when measured down along the hind leg. When the dog is in motion, the tail is carried low with only a gentle upward curve; tail should not be carried higher than top of back.",
+                    "title_3": "Forequarters",
+                    "description_3": "Shoulder blade long, well laid back, with flat muscles, allowing for moderate space between shoulder blades at peak of withers. Upper arm of equal length, placed so that the elbow falls directly under the withers.\nThe points of the elbows should point neither in nor out, but straight back. A steep shoulder, short upper arm, a heavily muscled or loaded shoulder, or a very narrow shoulder, all of which restrict low free movement, should be strictly penalized. Forelegs straight, giving appearance of strength and substance of bone. Pasterns strong, slightly bent and flexible. Bowed legs, tied-in elbows, legs lacking substance, legs set far under the body so as to create an exaggerated forechest, weak or upright pasterns should be strictly penalized.",
+                    "title_4": "Coat",
+                    "description_4": "Short, close, smooth and firm in texture. Any other coat shall be a disqualification. Old scars and injuries, the result of work or accident, should not be allowed to prejudice the dog's chance in the show ring.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Long and powerful. The thighs are broad and muscular, stifles well bent; muscles are long and flat and carry well down toward the hock. The hocks are well let down and close to the ground. Sickle or cow hocks should be strictly penalized.",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "18",
+                    "height_max": "22",
+                    "weight_min": "25",
+                    "weight_max": "40",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Whippet.pdf",
+                    "height_min_f": "18",
+                    "height_max_f": "22",
+                    "height_min_m": "18",
+                    "height_max_m": "22",
+                    "height_display": "19-22 inches (male), 18-21 inches (female)",
+                    "weight_min_f": "25",
+                    "weight_max_f": "40",
+                    "weight_min_m": "25",
+                    "weight_max_m": "40",
+                    "weight_display": "25-40 pounds"
+                }
+            },
+            "markings": {
+                "whippet": {
+                    "markings": [
+                        {
+                            "marking_index": 268,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 269,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 270,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "006",
+                            "markings_long": "Blue Mask",
+                            "markings_short": "BL MSK"
+                        },
+                        {
+                            "marking_index": 271,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "119",
+                            "markings_long": "Water Marked",
+                            "markings_short": "WTR MRKD"
+                        },
+                        {
+                            "marking_index": 272,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "113",
+                            "markings_long": "White Markings, Blue Mask",
+                            "markings_short": "WHT MRK BL MSK"
+                        },
+                        {
+                            "marking_index": 273,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "cde_markings": "114",
+                            "markings_long": "White Markings, Black Mask",
+                            "markings_short": "WHT MRK BLK MSK"
+                        },
+                        {
+                            "marking_index": 274,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "A",
+                            "cde_markings": "065",
+                            "markings_long": "Black Saddle",
+                            "markings_short": "BLK SDL"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "whippet": {
+                    "colors": [
+                        {
+                            "color_index": 927,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 928,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 929,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "056",
+                            "color_long": "Blue Brindle",
+                            "color_short": "BL BRDL"
+                        },
+                        {
+                            "color_index": 930,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "036",
+                            "color_long": "Blue Fawn",
+                            "color_short": "BL FN"
+                        },
+                        {
+                            "color_index": 931,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 932,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "088",
+                            "color_long": "Fawn Brindle",
+                            "color_short": "FN BRDL"
+                        },
+                        {
+                            "color_index": 933,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 934,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 935,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "207",
+                            "color_long": "White & Fawn",
+                            "color_short": "WH & FN"
+                        },
+                        {
+                            "color_index": 936,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "214",
+                            "color_long": "White & Red",
+                            "color_short": "WH & RD"
+                        },
+                        {
+                            "color_index": 937,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "148",
+                            "color_long": "Red Brindle",
+                            "color_short": "RD BRDL"
+                        },
+                        {
+                            "color_index": 938,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "164",
+                            "color_long": "Sable",
+                            "color_short": "SBL"
+                        },
+                        {
+                            "color_index": 939,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "279",
+                            "color_long": "Black Brindle",
+                            "color_short": "BLK BRDL"
+                        },
+                        {
+                            "color_index": 940,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "334",
+                            "color_long": "White & Blue Fawn",
+                            "color_short": "WH & BL FN"
+                        },
+                        {
+                            "color_index": 941,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "215",
+                            "color_long": "White & Sable",
+                            "color_short": "WH & SBL"
+                        },
+                        {
+                            "color_index": 942,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "202",
+                            "color_long": "White & Black",
+                            "color_short": "WH & BLK"
+                        },
+                        {
+                            "color_index": 943,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "288",
+                            "color_long": "White & Blue",
+                            "color_short": "WH & BL"
+                        },
+                        {
+                            "color_index": 944,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 945,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "333",
+                            "color_long": "White & Blue Brindle",
+                            "color_short": "WH & BL BRDL"
+                        },
+                        {
+                            "color_index": 946,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "336",
+                            "color_long": "White & Red Brindle",
+                            "color_short": "WH & RD BRDL"
+                        },
+                        {
+                            "color_index": 947,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "536",
+                            "color_long": "White & Fawn Brindle",
+                            "color_short": "WFB"
+                        },
+                        {
+                            "color_index": 948,
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "akc_code": "419",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "261",
+                            "color_long": "Seal",
+                            "color_short": "SL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "breed_club_name": "American Whippet Club, Inc.",
+                    "breed_club_url": "www.americanwhippetclub.org ",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/10/12114012/Whippet-Club-Flyer.pdf",
+                    "breed_rescue_url": "http://whippet-rescue.org/",
+                    "national_breed_club": "American Whippet Club, Inc.",
+                    "national_breed_club_url": "www.americanwhippetclub.org ",
+                    "breed_referral_contact_name": "Karen Lee",
+                    "breed_referral_contact_phone_number": "(386) 738-7752",
+                    "breed_referral_contact_email": "surreyhillwhippets@gmail.com",
+                    "breed_referral_contact_address": "959 Deerfoot Rd\nDeland, FL 32720",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.americanwhippetclub.net/awcpages/whipclub.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://whippet-rescue.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1672,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 258,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. The American Whippet Club is the official AKC Parent Club representing the Whippet breed in the United States."
+                        },
+                        {
+                            "id": 1312,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:20",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1314,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:20",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1311,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:20",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1313,
+                            "breed_id": "263",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:20",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "whippet": {
+                    "breed_name_url": "whippet",
+                    "breed_name": "Whippet",
+                    "akc_org_history": "<p>For thousands of years the Greyhound has been the template for later sighthounds, and the mild-mannered Whippet is a highly successful member of this clan of lightning-fast sprinters.</p>\n<p><br></p>\n<p>The Whippet story begins in Victorian England. North-country coal miners enjoyed the sports of dog racing and rabbit hunting on their days off. But they couldn't afford to feed and kennel large athletes like Greyhounds, nor did they have the space to properly exercise them. The miners' practical solution was to breed a smaller version of the Greyhound. Though it is uncertain which breeds were utilized to create the Whippet, the miners plainly did their work well. Their handiwork, the Whippet, is the fastest breed of its size, reaching speeds of up to 35 miles per hour.</p>\n<p><br></p>\n<p>In its formative days, the Whippet breed had such colorful nicknames as the 'Poor Man's Racehorse' and the 'Lightning Rag Dog' (they would chase a rag dragged along a straight course in an early version of lure coursing). The name Whippet seems to derive from 'whappet,' an antique word that means 'a small dog that yaps.' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>By the turn of the 20th century, textile workers from Lancashire were emigrating to New England. Among the touches of home they brought to the New World were their Whippets. The Whippet was an instant success in America, and Whippet racing' for money or just for fun' caught on with people from all walks of life, just as it had in England. The AKC registered its first Whippet in 1888. These days, lure coursing provides an excellent outlet for the Whippet's need for speed.</p>",
+                    "mp_history_job": "<p>Relatively speaking, Whippets are 'newbies' on the dog-breed scene they've been around for only about 100 years. A mix between Greyhounds, terriers, and Italian Greyhounds, Whippets hail from England, where they were used for vermin hunting and racing by the working classes. Mill workers brought the breed to north-central Massachusetts, where they gained popularity.</p>",
+                    "did_you_know": "The Whippet was originally bred to pursue and capture small game. | Whippets appear to have been first brought to America by English mill operatives of Massachusetts. | Never snappy or \"barky,\" the Whippet is an excellent watchdog. | Whippets are a quiet and intelligent breed, and do not bark unnecessarily. | The Whippet is extremely fast, capable of reaching speeds up to 35 mph. | Whippet racing has become extremely popular over the years and very refined; there is an elaborate handicapping system and racetracks."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775198602",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B26002%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-On-White-01.jpg",
+                    "alt": "Whippet standing in three-quarter view",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_8590.jpg",
+                    "alt": "Best in Show, Best Bred By Exhibitor in Show, Hound Group First, BBE Hound Group First, Best of Breed, Best Bred By in Breed: GCHP CH Pinnacle Tennessee Whiskey (Whiskey) (Whippet); 2018 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-head.jpg",
+                    "alt": "Whippet head looking up at a green tree branch with white flowers.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-standing-outdoors.jpg",
+                    "alt": "Whippet standing outdoors in a field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-On-White-03.jpg",
+                    "alt": "Whippet lying in three-quarter view",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-2-st.jpg",
+                    "alt": "Whippet running forward with a ball in its mouth in a field",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-running-on-the-beach.jpg",
+                    "alt": "Whippet running on the beach.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-standing-in-the-woods.jpg",
+                    "alt": "Whippet standing in the woods.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-running-in-a-coursing-test.jpg",
+                    "alt": "Whippet running in a coursing test.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2018/12/2018-ANC-BIS.jpg",
+                    "alt": "Best in Show, Best Bred By Exhibitor in Show, Hound Group First, BBE Hound Group First, Best of Breed, Best Bred By in Breed: GCHP CH Pinnacle Tennessee Whiskey (Whiskey), Whippet; 2018 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "Best in Show, Best Bred By Exhibitor in Show, Hound Group First, BBE Hound Group First, Best of Breed, Best Bred By in Breed: GCHP CH Pinnacle Tennessee Whiskey (Whiskey), Whippet; 2018 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "credit": "\u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-Illo-2.jpg",
+                "alt": "Whippet illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-puppy.jpg",
+                "alt": "Whippet puppy laying down in three-quarter view."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/whippet",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Whippet",
+        "shopCta": false
+    }
+}

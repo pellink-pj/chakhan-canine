@@ -1,0 +1,1261 @@
+{
+    "settings": {
+        "current_breed": "american-eskimo-dog",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21144542/American-Eskimo-Dog-Club-of-America-November-2014.pdf",
+                    "mp_health": "<p>Health is always an important issue to consider. In general, the American Eskimo dog is a relatively healthy breed that lives a long life. There are two health concerns known to occur in the breed. There are late onset Progressive Retinal Atrophy (PRA) and hip dysplasia. Health screening tests are available for both of these issues to aid breeders in making choices to help reduce the risk of producing the problems in their puppies.</p>",
+                    "akc_org_health": "<p>A responsible breeder will test his or her breeding stock for health issues such as hip dysplasia and progressive retinal atrophy. As with all breeds, an Eskie's ears should be checked weekly to remove debris and avoid a buildup of wax, and the dog's teeth should be brushed regularly.</p>",
+                    "akc_org_nutrition": "<p>The American Eskimo Dog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The American Eskimo Dog's fluffy, white double coat '\u00bf a short, dense undercoat below the longer outer coat '\u00bf is surprisingly easy to keep clean. However, Eskies shed almost constantly. A thorough brushing two or three times a week will remove dead hairs before they can be shed, as well as help to prevent matting. The oil on an Eskie's fur prevents dirt from adhering, so a good brushing is usually enough to remove it. It is OK to bathe &nbsp;an Eskie occasionally, but doing so more than once every few months can make his skin dry and irritated. As with all breeds, the Eskie's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>An active dog with lots of energy, the Eskie is also quick and curious, requiring lots of exercise and mental challenges. An Eskie who is left alone or who doesn't get enough exercise can quickly become destructive. A securely fenced yard and an assortment of toys will help provide good exercise and stimulation to keep an Eskie out of trouble. He shouldn't just be left out in the yard by himself all day, however. Despite his warm coat, the Eskie is an indoor dog, and he forms strong bonds with his people and is happiest interacting with them. Once they pass middle age, Eskies often become more sedate.</p>",
+                    "akc_org_training": "<p>As with all breeds, early socialization and puppy training classes are recommended. Fortunately, the American Eskimo Dog is among the most trainable of all breeds. Back when traveling circuses, vaudeville troupes, and Wild West shows crisscrossed the map, Eskies were mainstays of trained-dog acts. They are highly intelligent and eager to please. They learn new commands quickly '\u00bf sometimes just by watching other dogs. An Eskie craves companionship and interaction with his owners and will tend to develop problem behaviors if left alone too often for long periods of time.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test"
+                }
+            },
+            "basics": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "breed_name_oracle": "American Eskimo Dog",
+                    "matches_oracle": "American Eskimo Dog",
+                    "akc_code": "316",
+                    "breed_name_plural": "American Eskimo Dogs",
+                    "breed_nicknames": "Eskie",
+                    "origin": "United States",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1994",
+                    "life_expectancy": "13-15 years",
+                    "related_breeds": "Samoyed, Icelandic Sheepdog, Keeshond, Yakutian Laika, German Spitz",
+                    "links": [],
+                    "popularity_2025": 124,
+                    "popularity_2024": 116,
+                    "popularity_2023": 129,
+                    "popularity_2022": 123,
+                    "popularity_2021": 122,
+                    "popularity_2020": 119,
+                    "popularity_2019": 122,
+                    "popularity_2018": 122,
+                    "popularity_2017": 118,
+                    "popularity_2016": 122,
+                    "popularity_2015": 118,
+                    "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                    "related_breeds_items_url": [
+                        "samoyed",
+                        "icelandic-sheepdog",
+                        "keeshond",
+                        "yakutian-laika",
+                        "german-spitz"
+                    ],
+                    "related_breeds_items": {
+                        "samoyed": {
+                            "breed_name_url": "samoyed",
+                            "breed_name": "Samoyed",
+                            "breed_name_oracle": "Samoyed",
+                            "matches_oracle": "Samoyed",
+                            "akc_code": "624",
+                            "breed_name_plural": "Samoyeds",
+                            "breed_nicknames": "Sammy, Sam, The Smiling Dog",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Norwegian Elkhound, Swedish Lapphund, Lapponian Herder",
+                            "links": [],
+                            "popularity_2025": 55,
+                            "popularity_2024": 53,
+                            "popularity_2023": 50,
+                            "popularity_2022": 53,
+                            "popularity_2021": 55,
+                            "popularity_2020": 56,
+                            "popularity_2019": 59,
+                            "popularity_2018": 59,
+                            "popularity_2017": 57,
+                            "popularity_2016": 65,
+                            "popularity_2015": 61,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / gentle / adaptable"
+                        },
+                        "icelandic-sheepdog": {
+                            "breed_name_url": "icelandic-sheepdog",
+                            "breed_name": "Icelandic Sheepdog",
+                            "breed_name_oracle": "Icelandic Sheepdog",
+                            "matches_oracle": "Icelandic Sheepdog",
+                            "akc_code": "842",
+                            "breed_name_plural": "Icelandic Sheedogs",
+                            "breed_nicknames": "Icelandic, aka Iceland Dog (U.K.)",
+                            "origin": "Iceland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2010",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Finnish Lapphund, Norwegian Buhund, Eurasier, Keeshond, Swedish Lapphund",
+                            "links": [],
+                            "popularity_2025": 138,
+                            "popularity_2024": 143,
+                            "popularity_2023": 146,
+                            "popularity_2022": 132,
+                            "popularity_2021": 138,
+                            "popularity_2020": 154,
+                            "popularity_2019": 134,
+                            "popularity_2018": 155,
+                            "popularity_2017": 144,
+                            "popularity_2016": 153,
+                            "popularity_2015": 140,
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds",
+                            "temperament": "friendly / playful / inquisitive"
+                        },
+                        "keeshond": {
+                            "breed_name_url": "keeshond",
+                            "breed_name": "Keeshond",
+                            "breed_name_oracle": "Keeshond",
+                            "matches_oracle": "Keeshond",
+                            "akc_code": "306",
+                            "breed_name_plural": "Keeshonded",
+                            "breed_nicknames": "Kees, Dutch Barge Dog",
+                            "origin": "The Netherlands",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Icelandic Sheepdog, American Eskimo Dog, Pomeranian, German Spitz, Schipperke",
+                            "links": [],
+                            "popularity_2025": 85,
+                            "popularity_2024": 90,
+                            "popularity_2023": 89,
+                            "popularity_2022": 90,
+                            "popularity_2021": 95,
+                            "popularity_2020": 96,
+                            "popularity_2019": 89,
+                            "popularity_2018": 95,
+                            "popularity_2017": 87,
+                            "popularity_2016": 92,
+                            "popularity_2015": 84,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds, ",
+                            "temperament": "friendly / lively / outgoing"
+                        },
+                        "yakutian-laika": {
+                            "breed_name_url": "yakutian-laika",
+                            "breed_name": "Yakutian Laika",
+                            "breed_name_oracle": "Yakutian Laika",
+                            "matches_oracle": "Yakutian Laika",
+                            "akc_code": "670",
+                            "breed_name_plural": "Yakutian Laikas",
+                            "breed_nicknames": "Yakuts",
+                            "origin": "Yakutia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Swedish Lapphund, Lapponian Herder, Alaskan Malamute, Samoyed, Siberian Husky",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / active / affectionate"
+                        },
+                        "german-spitz": {
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "breed_name_oracle": "German Spitz",
+                            "matches_oracle": "German Spitz",
+                            "akc_code": "319",
+                            "breed_name_plural": "German Spitz",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Pomeranian, Keeshond, Papillon, Chihuahua, American Eskimo Dog",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "active / devoted / smart"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "temperament": "Loyal / Smart / Versatile",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "akc_org_blurb": "The American Eskimo Dog combines striking good looks with a quick and clever mind in a total brains-and-beauty package. Neither shy nor aggressive, Eskies are always alert and friendly, though a bit conservative when making new friends.",
+                    "akc_org_about": "The American Eskimo Dog comes in three sizes'\u00bfstandard, miniature, and toy'\u00bfstanding as tall as 19 inches at the shoulder or as short as 9 inches. Distinctive traits include a dense, sparkling white coat with a lion-like ruff around the chest and shoulders; a smiling face, with black nose, lips, and eye-rims that convey a keen, intelligent expression; and a plumed tail carried over the back. Some Eskies have markings with the delicious color name 'biscuit cream.'\u009d They move with a bold and agile gait.\n\n\n\n Eskies are social animals and can develop problem behaviors when neglected or undertrained'\u00bfthey insist on being part of family life. Among the most trainable of breeds, the clever, kid-friendly Eskie practically invented the phrase 'eager to please.'\u009d",
+                    "mp_description": "Back in the days of Wild West shows and traveling circuses, the American Eskimo Dog was often the star of the show with his agility, ability to do tricks and showy white coat. The breed is intelligent and playful. They're protective of family, making them good watchdogs. Your American Eskimo Dog puppy needs early training and socialization; take him with you everywhere to expose him to different experiences and environments. With training, stimulation and daily exercise, he's a fun-loving, people-pleasing companion.'"
+                }
+            },
+            "standards": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "title_1": "General Appearance",
+                    "description_1": "The American Eskimo Dog, a loving companion dog, presents a picture of strength and agility, alertness and beauty. It is a small to medium-size Nordic type dog, always white, or white with biscuit cream. The American Eskimo Dog is compactly built and well balanced, with good substance, and an alert, smooth gait. The face is Nordic type with erect triangular shaped ears, and distinctive black points (lips, nose, and eye rims). The white double coat consists of a short, dense undercoat, with a longer guard hair growing through it forming the outer coat, which is straight with no curl or wave. The coat is thicker and longer around the neck and chest forming a lion-like ruff, which is more noticeable on dogs than on bitches. The rump and hind legs down to the hocks are also covered with thicker, longer hair forming the characteristic breeches. The richly plumed tail is carried loosely on the back.",
+                    "title_2": "Head",
+                    "description_2": "Expression is keen, intelligent, and alert. Eyes are not fully round, but slightly oval. They should be set well apart, and not slanted, prominent or bulging. Tear stain, unless severe, is not to be faulted. Presence of tear stain should not outweigh consideration of type, structure, or temperament. Dark to medium brown is the preferred eye color. Eye rims are black to dark brown. Eyelashes are white. Faults - amber eye color or pink eye rims. Disqualification - blue eyes. Ears should conform to head size and be triangular, slightly blunt-tipped, held erect, set on high yet well apart, and blend softly with the head.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "The neck is carried proudly erect, well set on, medium in length, and in a strong, graceful arch. The topline is level. The body of the American Eskimo Dog is strong and compact, but not cobby. The chest is deep and broad with well-sprung ribs. Depth of chest extends approximately to point of elbows. Slight tuck-up of belly just behind the ribs. The back is straight, broad, level, and muscular. The loin is strong and well-muscled. The American Eskimo Dog is neither too long nor too short coupled. The tail is set moderately high and reaches approximately to the point of hock when down. It is carried loosely on the back, although it may be dropped when at rest.",
+                    "title_4": "Forequarters",
+                    "description_4": "Forequarters are well angulated. The shoulder is firmly set and has adequate muscle but is not overdeveloped. The shoulder blades are well laid back and slant 45 degrees with the horizontal. At the point of shoulder the shoulder blade forms an approximate right angle with the upper arm. The legs are parallel and straight to the pasterns. The pasterns are strong and flexible with a slant of about 20 degrees. Length of leg in proportion to the body. Dewclaws on the front legs may be removed at the owner's discretion; if present, they are not to be faulted. Feet are oval, compact, tightly knit and well padded with hair. Toes are well arched. Pads are black to dark brown, tough and deeply cushioned. Toenails are white.",
+                    "title_5": "Coat",
+                    "description_5": "The American Eskimo Dog has a stand-off, double coat consisting of a dense undercoat and a longer coat of guard hair growing through it to form the outer coat. It is straight with no curl or wave. There is a pronounced ruff around the neck which is more noticeable on dogs than bitches. Outer part of the ear should be well covered with short, smooth hair, with longer tufts of hair growing in front of ear openings. Hair on muzzle should be short and smooth. The backs of the front legs should be well feathered, as are the rear legs down to the hock. The tail is covered profusely with long hair.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Hindquarters are well angulated. The lay of the pelvis is approximately 30 degrees to the horizontal. The upper thighs are well developed. Stifles are well bent. Hock joints are well let down and firm. The rear pasterns are straight. Legs are parallel from the rear and turn neither in nor out. Feet are as described for the front legs. Dewclaws are not present on the hind legs.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "9",
+                    "height_max": "19",
+                    "weight_min": "6",
+                    "weight_max": "35",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AmericanEskimoDog.pdf",
+                    "height_min_f": "9",
+                    "height_max_f": "19",
+                    "height_min_m": "9",
+                    "height_max_m": "19",
+                    "height_display": "9-12 inches (toy), 12-15 inches (miniature), 15-19 inches (Standard)",
+                    "weight_min_f": "6",
+                    "weight_max_f": "35",
+                    "weight_min_m": "6",
+                    "weight_max_m": "35",
+                    "weight_display": "6-10 pounds (toy), 10-20 pounds (miniature), 25-35 pounds (standard)"
+                }
+            },
+            "colors": {
+                "american-eskimo-dog": {
+                    "colors": [
+                        {
+                            "color_index": 624,
+                            "breed_name_url": "american-eskimo-dog",
+                            "breed_name": "American Eskimo Dog",
+                            "akc_code": "316",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 625,
+                            "breed_name_url": "american-eskimo-dog",
+                            "breed_name": "American Eskimo Dog",
+                            "akc_code": "316",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "269",
+                            "color_long": "White & Biscuit",
+                            "color_short": "WH & BSCT"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "breed_club_name": "American Eskimo Dog Club of America",
+                    "breed_club_url": "www.aedca.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/AmericanEskimo-club-flier.pdf",
+                    "breed_rescue_url": "http://www.aedca.org/Rescue.html",
+                    "national_breed_club": "American Eskimo Dog Club of America",
+                    "national_breed_club_url": "www.aedca.org",
+                    "breed_referral_contact_name": "Traci Anderson",
+                    "breed_referral_contact_phone_number": "(303) 359-9269",
+                    "breed_referral_contact_email": "BreederReferral@aedca.org",
+                    "breed_referral_contact_address": "9125 E SUMMIT RD\nPARKER, CO 80138-8272",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.aedca.org/Rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1421,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 7,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 308,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 310,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 307,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 309,
+                            "breed_id": "7",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "american-eskimo-dog": {
+                    "breed_name_url": "american-eskimo-dog",
+                    "breed_name": "American Eskimo Dog",
+                    "akc_org_history": "<p>The name American Eskimo Dog is a misnomer: The peoples referred to by the term \"Eskimos\" weren't involved in the founding of the breed.&nbsp;</p>\n<p><br></p>\n<p>The successive waves of German immigrants that reached American shores beginning in the early 1800s had a profound impact on the development of the American Midwest. German farmers who sought opportunity in America brought their Old World ways to such states as Wisconsin, Minnesota, and Ohio' and the German influence can still be felt in the upper Midwest to this day. Lutheranism, the brewing industry, and the region's mania for German-style foods are cultural touchstones these immigrants transplanted to their corner of the New World. Another was a Nordic breed called the German Spitz, used as all-around farm dogs. These little white dogs were ancestors of the modern Eskie. By the latter years of the 19th century, it was becoming difficult to keep these beautiful, highly trainable dogs down on the farm. Show business was beckoning. <br>\n</p>\n<p>Back when traveling circuses, vaudeville troupes, and Wild West shows crisscrossed pre-electronic America, German Spitz, &nbsp;thanks to their intelligence, agility, and showy looks became mainstays of trained-dog acts. (This held true well into the 20th century. Perhaps America's most famous performing dog of the 1930s was Pierre, an Eskie tightrope walker with the Barnum &amp; Bailey Circus.)<br>\n</p>\n<p>Upon America's entry into World War I in 1917, the country was gripped by a prejudice against all things Teutonic. The breed's German name was changed to 'American Eskimo' Dog, after the name used by a Spitz breeding kennel in Ohio. Though the breed has a long and fascinating U.S. history, it was not until 1995 that the AKC registered its first American Eskimo Dog.<br>\n</p>\n<p>The little white wonder dogs who performed various chores around Midwestern farms, and later charmed audiences under the circus big top, are today sought out by pet owners looking for versatile, fun-loving companions.</p>",
+                    "mp_history_job": "<p>Despite the breed's name, peoples described as \"Eskimos\" weren't responsible for its development. German farmers arrived in America during the early 1800s and established communities in the Midwest. Many brought along a breed called the German Spitz (ancestors of the modern Eskie) to use as all-around farm dogs. Upon America's entry into World War I in 1917, the country was gripped by a prejudice against all things Teutonic. The breed's German name was changed to 'American Eskimo' Dog, after a Spitz breeding kennel in Ohio.</p>",
+                    "did_you_know": "The American Eskimo Dog is always white or white with biscuit cream. | The American Eskimo Dog became an increasingly popular breed after dancing to music and interacting with clowns at the Barnum and Bailey Circus. One Eskie with the circus became the first dog to walk across a tight-rope. | The Eskie is a member of the spitz family, or Nordic breeds. | Beginning in the late 19th century, the American Eskimo Dog was extremely popular for use in trick-dog acts in the traveling circuses throughout the US. | The American Eskimo Dog is bred in three distinct sizes: toy, miniature, and standard. | Known as the American Spitz until 1917, when the name was changed to American Eskimo (although the breed does not have any traceable origin or connection to indigenous cultures)."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23278%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-standing-in-the-grass-in-bright-sunlight.jpg",
+                    "alt": "American Eskimo Dog standing in the grass in bright sunlight.",
+                    "caption": "",
+                    "credit": "Scarlett Images/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-running-outdoors1.jpg",
+                    "alt": "American Eskimo Dog running outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Stephanie - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-head-in-profile-outdoors1.jpg",
+                    "alt": "American Eskimo Dog head in profile outdoors.",
+                    "caption": "",
+                    "credit": "KA_Richer5171321/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dogs-standing-together-outdoors-in-the-grass.jpg",
+                    "alt": "American Eskimo Dogs standing together outdoors in the grass.",
+                    "caption": "",
+                    "credit": "Degtyaryov Andrey/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dogs-running-and-playing-together-outdoors.jpg",
+                    "alt": "American Eskimo Dogs running and playing together outdoors.",
+                    "caption": "",
+                    "credit": "Degtyaryov Andrey/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-at-the-AKC-National-Championship.jpg",
+                    "alt": "American Eskimo Dog at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Jessica Ramdass \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-leaping-over-an-agility-jump.jpg",
+                    "alt": "American Eskimo Dog leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-laying-down-in-the-grass.jpg",
+                    "alt": "American Eskimo Dog laying down in the grass.",
+                    "caption": "",
+                    "credit": "blendshapes/Getty Images Plus"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-standing-in-the-wind-in-an-open-landscape.jpg",
+                    "alt": "American Eskimo Dog standing in the wind in an open landscape",
+                    "caption": "American Eskimo Dog",
+                    "credit": "nwbob/Getty Images Plus"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-illustration.jpg",
+                "alt": "American Eskimo Dog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-puppy-sitting-in-the-grass.jpg",
+                "alt": "American Eskimo puppy sitting in the grass."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/american-eskimo-dog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "American Eskimo Dog",
+        "shopCta": false
+    }
+}

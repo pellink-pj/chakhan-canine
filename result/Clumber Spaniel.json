@@ -1,0 +1,1264 @@
+{
+    "settings": {
+        "current_breed": "clumber-spaniel",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Clumber-Spaniel.pdf",
+                    "mp_health": "<p>Protect your Clumber with regular veterinary check-ups. Guard eye health with a yearly exam by an AVCO-certified Veterinary Ophthalmologist. Preserve orthopedic health with proper nutrition and daily walks. Use care to avoid over-exercise in your young pup, as his joints are still in a developmental stage. Clumbers are generally a healthy breed. But like all breeds there may be some health issues, like hip and elbow dysplasia and eye disease.</p>",
+                    "akc_org_health": "<p>Clumbers are generally a healthy breed, although certain conditions are sometimes seen, including hypothyroidism (with side effects of skin and ear issues) and entropion or ectropion (eyelids that turn either in or out). Like many other large breeds, growing too rapidly can cause eosinophilic panosteitis in Clumber puppies'\u00bfsomething they usually outgrow. Hip dysplasia also occurs in the breed. Because the Clumber body is quite long, they are also somewhat predisposed to intervertebral disc disease (cervical and thoracic). Immune mediated hemolytic anemia has been encountered in some Clumbers; all should avoid being treated with sulfa drugs.</p>",
+                    "akc_org_nutrition": "<p>It is very important that a Clumber not become overweight, as excess weight puts strain on joints and bones supporting the breed's sturdy, heavy build. A high-quality dog food appropriate to his age (puppy, adult, or senior) should have all the nutrients the breed needs. If your vet thinks your dog is becoming overweight, you may need to feed a low-calorie dog food. Clumbers are very food oriented. If you use treats while training, do so in moderation. Never feed cooked bones or fatty table foods.</p>",
+                    "akc_org_grooming": "<p>As with all breeds with heavy, lowset ears, routine cleaning of the ears is a must to avoid ear infections. The heavy folds on the head require regular once-overs with a damp cloth. Wrinkles that are not kept dry can easily set up a yeast infection that has a bad odor and is unpleasant for the dog. Nails should be kept short with monthly trims. Bathing once a month is usually sufficient for a dog who isn't working regularly in the field. Clumbers don't require a lot of trimming; their coat is very easy care, requiring little more than a thorough grooming with a brush and a medium comb once or twice a week.</p>",
+                    "akc_org_exercise": "<p>Despite their lumbering appearance, the Clumber can be a very active dog. They will benefit from long walks, taking occasional breaks to sniff around. Clumbers love to retrieve, so they can get ample exercise right in their own backyard, chasing after a tennis ball and enjoying time spent with their owner.</p>",
+                    "akc_org_training": "<p>The Clumber is steady and reliable, thorough and tenacious. These traits can sometimes make them a challenge to train, because they tend to stop and think things through before deciding to do them. Keep training sessions interesting to keep their attention on learning instead of searching for something more fun to do. Most will require a reason to do as they are told. They do not take well to a heavy-handed trainer, however.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Pyruvate Dehydrogenase Phosphatase 1 Deficiency (PDP1) - DNA Test",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | Pyruvate Dehydrogenase Phosphatase 1 Deficiency (PDP1) - DNA Test"
+                }
+            },
+            "basics": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "breed_name_oracle": "Clumber Spaniel",
+                    "matches_oracle": "Clumber Spaniel",
+                    "akc_code": "114",
+                    "breed_name_plural": "Clumber Spaniels",
+                    "breed_nicknames": "Clumber",
+                    "origin": "England",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1878",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Sussex Spaniel, Basset Hound, English Cocker Spaniel, Field Spaniel",
+                    "links": [],
+                    "popularity_2025": 133,
+                    "popularity_2024": 149,
+                    "popularity_2023": 148,
+                    "popularity_2022": 139,
+                    "popularity_2021": 149,
+                    "popularity_2020": 135,
+                    "popularity_2019": 136,
+                    "popularity_2018": 143,
+                    "popularity_2017": 140,
+                    "popularity_2016": 144,
+                    "popularity_2015": 134,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "sussex-spaniel",
+                        "basset-hound",
+                        "english-cocker-spaniel",
+                        "field-spaniel"
+                    ],
+                    "related_breeds_items": {
+                        "sussex-spaniel": {
+                            "breed_name_url": "sussex-spaniel",
+                            "breed_name": "Sussex Spaniel",
+                            "breed_name_oracle": "Sussex Spaniel",
+                            "matches_oracle": "Sussex Spaniel",
+                            "akc_code": "120",
+                            "breed_name_plural": "Sussex Spaniels",
+                            "breed_nicknames": "Sussex (singular and plural)",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Clumber Spaniel, Cavalier King Charles Spaniel, English Springer Spaniel, English Cocker Spaniel, Field Spaniel",
+                            "links": [],
+                            "popularity_2025": 175,
+                            "popularity_2024": 175,
+                            "popularity_2023": 174,
+                            "popularity_2022": 192,
+                            "popularity_2021": 177,
+                            "popularity_2020": 172,
+                            "popularity_2019": 178,
+                            "popularity_2018": 180,
+                            "popularity_2017": 161,
+                            "popularity_2016": 172,
+                            "popularity_2015": 173,
+                            "related_groups_characteristics": "",
+                            "temperament": "Affectionate / Loyal"
+                        },
+                        "basset-hound": {
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "breed_name_oracle": "Basset Hound",
+                            "matches_oracle": "Basset Hound",
+                            "akc_code": "403",
+                            "breed_name_plural": "Basset Hounds",
+                            "breed_nicknames": "Basset",
+                            "origin": "France",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Bloodhound, Dachshund, Basset Fauve de Bretagne, Harrier",
+                            "links": [],
+                            "popularity_2025": 34,
+                            "popularity_2024": 34,
+                            "popularity_2023": 34,
+                            "popularity_2022": 36,
+                            "popularity_2021": 34,
+                            "popularity_2020": 36,
+                            "popularity_2019": 37,
+                            "popularity_2018": 39,
+                            "popularity_2017": 39,
+                            "popularity_2016": 39,
+                            "popularity_2015": 39,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                            "temperament": "charming / patient / low-key"
+                        },
+                        "english-cocker-spaniel": {
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "breed_name_oracle": "English Cocker Spaniel",
+                            "matches_oracle": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "breed_name_plural": "English Cocker Spaniels",
+                            "breed_nicknames": "EC",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1946",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "English Springer Spaniel, Cocker Spaniel, Field Spaniel, Sussex Spaniel, Welsh Springer Spaniel",
+                            "links": [],
+                            "popularity_2025": 35,
+                            "popularity_2024": 36,
+                            "popularity_2023": 39,
+                            "popularity_2022": 40,
+                            "popularity_2021": 43,
+                            "popularity_2020": 47,
+                            "popularity_2019": 50,
+                            "popularity_2018": 52,
+                            "popularity_2017": 52,
+                            "popularity_2016": 56,
+                            "popularity_2015": 60,
+                            "related_groups_characteristics": "",
+                            "temperament": "energetic / merry / responsive"
+                        },
+                        "field-spaniel": {
+                            "breed_name_url": "field-spaniel",
+                            "breed_name": "Field Spaniel",
+                            "breed_name_oracle": "Field Spaniel",
+                            "matches_oracle": "Field Spaniel",
+                            "akc_code": "118",
+                            "breed_name_plural": "Field Spaniels",
+                            "breed_nicknames": "Field Spaniel",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1884",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "English Cocker Spaniel, English Springer Spaniel, Sussex Spaniel, Clumber Spaniel, Welsh Springer Spaniel",
+                            "links": [],
+                            "popularity_2025": 148,
+                            "popularity_2024": 160,
+                            "popularity_2023": 147,
+                            "popularity_2022": 157,
+                            "popularity_2021": 136,
+                            "popularity_2020": 160,
+                            "popularity_2019": 155,
+                            "popularity_2018": 149,
+                            "popularity_2017": 145,
+                            "popularity_2016": 147,
+                            "popularity_2015": 145,
+                            "related_groups_characteristics": "",
+                            "temperament": "sweet / fun-loving / sensitive"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "temperament": "mellow / amusing / gentlemanly",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Silky",
+                                "Wavy"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "akc_org_blurb": "A dignified and mellow hunting companion of kings, the Clumber Spaniel is the largest of the AKC flushing spaniels. For those who can handle some shedding and drooling, the amiable Clumber is an amusing best friend and a gentlemanly housemate.",
+                    "akc_org_about": "Clumber Spaniels are powerful bird dogs of heavy bone, built long and low, with a massive head. They stand 17 to 20 inches; a small female might be 55 pounds, and a large male could go 85 pounds. Built to push through thick cover in the field, Clumber movement is nonetheless free and easy. The dense coat is primarily white, with sparse lemon or orange markings.\n\n\n\n Clumbers are sweet and easygoing at home, but these outdoorsy fellows can be relentless on scent. Smart and eager-to-please Clumbers respond well to training. Though a bit wary around strangers, Clumbers are friendly dogs who bark only when they have something to say, and so make indifferent watchdogs. They love swimming and fetching, and are sturdy childhood playmates.",
+                    "mp_description": "Although he may look serious, the Clumber Spaniel is actually a sweet and playful dog. He's relentless and determined in the field and a loving playmate at home. These are medium-sized, but heavy-boned dogs, eager to please and amiable. Like many sporting dogs, the breed is very trainable despite having a bit of an independent mind. They respond best to positive training. They do shed and they're known to be droolers, but your Clumber Spaniel puppy can also be the family's BFF -- he's a patient friend to kids and an affectionate and amusing companion."
+                }
+            },
+            "standards": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "title_1": "General Appearance",
+                    "description_1": "The Clumber Spaniel is a long, low, substantial dog. His heavy brow, deep chest, straight forelegs, powerful hindquarters, massive bone and good feet all give him the power and endurance to move through dense underbrush in pursuit of game. His white coat enables him to be seen by the hunter as he works within gun range. His stature is dignified, his expression pensive, but at the same time he shows great enthusiasm for work and play.",
+                    "title_2": "Head",
+                    "description_2": "The head is massive with a marked stop and heavy brow. The top skull is flat with a pronounced occiput. A slight furrow runs between the eyes and up through the center of the skull. The muzzle is broad and deep to facilitate retrieving many species of game. The nose is large, square and colored shades of brown, which include beige, rose and cherry. The flews of the upper jaw are strongly developed and overlap the lower jaw to give a square look when viewed from the side. A scissors bite is preferred. The eyes are dark amber in color, large, soft in expression, and deep set in either a diamond shaped rim or a rim with a \"V\" on the bottom and a curve on the top. Some haw may show but excessive haw is undesirable. Prominent or round shaped eyes are to be penalized. Excessive tearing or evidence of entropion or ectropion is to be penalized. Ears are broad on top with thick ear leather. The ears are triangular in shape with a rounded lower edge, set low and attached to the skull at approximately eye level.",
+                    "title_3": "Body",
+                    "description_3": "The Clumber should have a long neck with some slackness of throat or presence of dewlap not to be faulted. The neck is strong and muscular, fitting into a well laid back shoulder. The back is straight, firm, long and level. The brisket is deep and the ribs well sprung. The chest is deep and wide. The loin arches slightly. The tail is well feathered and set on just below the line of back; it's trimming minimal, serving to tidy the feathering to allow for a natural appearance and outline. The tail is normally carried level with the topline or slightly elevated, never down between the rear legs. The tail may be docked or left natural, both being of equal value. If docked, the tail's length should be in keeping with the overall proportion of the adult dog. If natural, the tailbone should extend to the point of hock, but should not extend to the ground.",
+                    "title_4": "Forequarters",
+                    "description_4": "The Clumber shoulder is well laid back. The upper arm is of sufficient length to place the elbow under the highest point of the shoulder. The forelegs are short, straight and heavy in bone, with elbows held close to the body. Pasterns are strong and only slightly sloped. The front feet are large, compact and have thick pads that act as shock absorbers. Removal of dewclaws is optional.",
+                    "title_5": "Coat",
+                    "description_5": "The body coat is dense, straight and flat. It is of good weather resistant texture, which is soft to the touch, not harsh. Ears are slightly feathered with straight hair. Feathering on the legs and belly is moderate. The Clumber has a good neck frill and on no condition should his throat be shaved. Evidence of shaving is to be penalized. The hair on the feet should be trimmed neatly to show their natural outline and for utility in the field. The rear legs may be trimmed up to the point of the hock. Tail feathering may be tidied. Trimming of whiskers is optional.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The thighs are heavily muscled and, when viewed from behind, the rear is round and broad. The stifle shows good functional angulation, and hock to heel is short and perpendicular to the ground. Lack of angulation is objectionable. The rear feet are not as large or as round as on the front feet but compact, with thick pads and are of substantial size.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "17",
+                    "height_max": "20",
+                    "weight_min": "55",
+                    "weight_max": "85",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/ClumberSpaniel.pdf",
+                    "height_min_f": "17",
+                    "height_max_f": "20",
+                    "height_min_m": "17",
+                    "height_max_m": "20",
+                    "height_display": "18-20 inches (male), 17-19 inches (female)",
+                    "weight_min_f": "55",
+                    "weight_max_f": "85",
+                    "weight_min_m": "55",
+                    "weight_max_m": "85",
+                    "weight_display": "70-85 pounds (male), 55-70 pounds (female)"
+                }
+            },
+            "markings": {
+                "clumber-spaniel": {
+                    "markings": [
+                        {
+                            "marking_index": 17,
+                            "breed_name_url": "clumber-spaniel",
+                            "breed_name": "Clumber Spaniel",
+                            "akc_code": "114",
+                            "standard_alternate": "S",
+                            "cde_markings": "063",
+                            "markings_long": "Lemon Markings",
+                            "markings_short": "LMN MKGS"
+                        },
+                        {
+                            "marking_index": 18,
+                            "breed_name_url": "clumber-spaniel",
+                            "breed_name": "Clumber Spaniel",
+                            "akc_code": "114",
+                            "standard_alternate": "S",
+                            "cde_markings": "102",
+                            "markings_long": "Orange Markings",
+                            "markings_short": "ORNGE MRKNGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "clumber-spaniel": {
+                    "colors": [
+                        {
+                            "color_index": 64,
+                            "breed_name_url": "clumber-spaniel",
+                            "breed_name": "Clumber Spaniel",
+                            "akc_code": "114",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "breed_club_name": "Clumber Spaniel Club of America, Inc.",
+                    "breed_club_url": "www.clumbers.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/ClumberSpaniel-club-flier.pdf",
+                    "breed_rescue_url": "http://www.clumbers.org/index.php/looking-for-a-clumber/rescue-placement",
+                    "national_breed_club": "Clumber Spaniel Club of America, Inc.",
+                    "national_breed_club_url": "www.clumbers.org",
+                    "breed_referral_contact_name": "Jan Sutherland",
+                    "breed_referral_contact_phone_number": "(213) 819-6218",
+                    "breed_referral_contact_email": "moonrysn@hotmail.com",
+                    "breed_referral_contact_address": "32948 CHADLYN CT\nWILDOMAR, CA 92595-9309",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.clumberfanciersofmi.org/",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.clumbers.org/index.php/looking-for-a-clumber/rescue-placement",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1493,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 79,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 596,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 598,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 595,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 597,
+                            "breed_id": "79",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "clumber-spaniel": {
+                    "breed_name_url": "clumber-spaniel",
+                    "breed_name": "Clumber Spaniel",
+                    "akc_org_history": "<p>Early Clumber history is, one researcher writes, 'lost in a tangled web of folklore and misinformation.' We can pick up a reliable trail in the late 1700s at Nottinghamshire, England. There, the Duke of Newcastle and his gamekeeper perfected a burly spaniel named for the duke's vast estate, Clumber Park. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clumbers became a favorite of the many gamebird hunters among the area's titled families and landed gentry. Since the duke's day Clumbers have been popular with British royals, including Edward VII and George V (an important Clumber breeder in his day). The breed has been described by its partisans as naughty, mischievous, stubborn, affectionate, and entertaining, but through it all the Clumber retains the touch of regal dignity that marks him as a companion of crowned heads.</p>\n<p><br></p>\n<p>As accessories of the British upper crust, Clumbers were popular subjects for leading sporting artists and portrait painters during the heyday of the British aristocracy. Seen today, these pictures show that the breed has changed but little in all the years since.</p>\n<p><br></p>\n<p>Clumbers were on the scene for the very first British dog shows, held in the mid-1800s. They were introduced to America, by way of Canada, around the same time. Careful studbooks were kept on the breed in America even before the AKC was established, and the Clumber was among the AKC's 10 charter breeds when the organization was founded in 1884.</p>",
+                    "mp_history_job": "<p>Early Clumber history is, one researcher writes, 'lost in a tangled web of folklore and misinformation.' We can pick up a reliable trail in the late 1700s at Nottingham, England. There, the Duke of Newcastle and his gamekeeper perfected a burly spaniel named for the duke's vast estate, Clumber Park. Since the duke's day Clumbers have been popular with British royals, including Edward VII and George V. Clumbers were among 10 charter breeds registered by the fledgling AKC in 1878.</p>",
+                    "did_you_know": "The Clumber Spaniel is believed to have originated in France. | The first Clumber Spaniel registered with the American Kennel Club was recorded in 1878. | The Clumber is believed to be one of the earliest spaniels developed for special uses and is especially useful for his adaptability for use in heavy cover."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24077%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-On-White-011.jpg",
+                    "alt": "Clumber Spaniel standing in three-quarter view",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-BIS-David-0E9A3736.jpg",
+                    "alt": "Sporting Group First and Best of Breed: GCHS CH Clussexx Man Of Steel, Clumber Spaniel; 2016 AKC National Championship Best in Show lineup, Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-7.jpg",
+                    "alt": "Clumber Spaniel lying on a white background.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-on-white-5.jpg",
+                    "alt": "Clumber Spaniel standing sideways facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ECSCAHuntTest_201010_ClumberSpaniel_IMG_0880.jpg",
+                    "alt": "Clumber Spaniel running in a grassy field with a bird in its mouth.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ECSCAHuntTest_201010_ClumberSpaniel_IMG_0863.jpg",
+                    "alt": "Clumber Spaniel walking through the tall grasses in a field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-running-in-a-field.jpg",
+                    "alt": "Clumber Spaniel running in a field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-sitting-against-a-furry-background.jpg",
+                    "alt": "Clumber Spaniel sitting against a furry background.",
+                    "caption": "",
+                    "credit": "\u00a9Alan Lloyd Photography"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-Illo-2.jpg",
+                "alt": "Clumber Spaniel illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-spaniel-puppy.jpg",
+                "alt": "Clumber Spaniel puppy"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/clumber-spaniel",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Clumber Spaniel",
+        "shopCta": false
+    }
+}

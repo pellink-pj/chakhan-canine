@@ -1,0 +1,1326 @@
+{
+    "settings": {
+        "current_breed": "boerboel",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22100007/Boerboel-Health-Statement.pdf",
+                    "mp_health": "<p>Boerbols are generally a healthy breed. The Boerbol, like all breeds, may develop some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Boerbols are healthy dogs.</p>",
+                    "akc_org_health": "<p>The Boerboel is typically a healthy breed, and a responsible breeder will screen breeding stock for health conditions such as elbow and hip dysplasia, heart disease, and two disorders that affect the eyelids: ectropion and entropion. As with all breeds, a Boerboel's ears should be checked regularly, and the teeth brushed often.</p>",
+                    "akc_org_nutrition": "<p>The Boerboel should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Boerboel has a short, dense coat that sheds a moderate amount. Weekly brushing with a soft-bristle brush, a rubber grooming mitt, or a hound glove will help to remove any loose hair and keep the dog looking his best. A good brushing also promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. Boerboels need a bath only occasionally. As with all breeds, the Boerboel's nails should be trimmed regularly, as overly long nails can cause the dog pain as well as problems walking and running.</p>",
+                    "akc_org_exercise": "<p>The strong, athletic Boerboel needs daily exercise, such as long walks on a leash or play sessions in a securely fenced area with his owner. Boerboels need mental stimulation and interaction with their owners along with physical activity. They will not take kindly to challenges from other dogs, and visiting dog parks is not recommended. Because of their protective instinct, the Boerboel should never be allowed off leash. The breed often enjoys participating in obedience, rally, weight pull, and agility competitions, as well as protection sports and stock work.</p>",
+                    "akc_org_training": "<p>The Boerboel is a protective, territorial breed'\u00bfnot a breed for a novice dog owner. He is steadfast, calm, highly intelligent, and incredibly loyal. Boerboels must be with their people and will not thrive unless kept as an integral part of their human family. Their inborn guarding instincts make early socialization a must, as is structured, long-term obedience training, started at a young age. Boerboel puppies are easygoing and pliant, and inexperienced owners may be lulled into thinking the dog will remain that way, when in fact consistent training must be well underway before those qualities fade.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Evaluation"
+                }
+            },
+            "basics": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "breed_name_oracle": "Boerboel",
+                    "matches_oracle": "Boerboel",
+                    "akc_code": "659",
+                    "breed_name_plural": "Boerboels",
+                    "breed_nicknames": "Bole",
+                    "origin": "South Africa",
+                    "breed_group": "Working Group",
+                    "year_recognized": "2015",
+                    "life_expectancy": "9-11 years",
+                    "related_breeds": "Bullmastiff, Cane Corso, Dogue de Bordeaux, Neapolitan Mastiff, Presa Canario",
+                    "links": [],
+                    "popularity_2025": 112,
+                    "popularity_2024": 114,
+                    "popularity_2023": 123,
+                    "popularity_2022": 118,
+                    "popularity_2021": 118,
+                    "popularity_2020": 123,
+                    "popularity_2019": 129,
+                    "popularity_2018": 121,
+                    "popularity_2017": 124,
+                    "popularity_2016": 131,
+                    "popularity_2015": 126,
+                    "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                    "related_breeds_items_url": [
+                        "bullmastiff",
+                        "cane-corso",
+                        "dogue-de-bordeaux",
+                        "neapolitan-mastiff",
+                        "presa-canario"
+                    ],
+                    "related_breeds_items": {
+                        "bullmastiff": {
+                            "breed_name_url": "bullmastiff",
+                            "breed_name": "Bullmastiff",
+                            "breed_name_oracle": "Bullmastiff",
+                            "matches_oracle": "Bullmastiff",
+                            "akc_code": "609",
+                            "breed_name_plural": "Bullmastiffs",
+                            "breed_nicknames": "gamekeeper night dog",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1934",
+                            "life_expectancy": "7-9 years",
+                            "related_breeds": "Mastiff, Neapolitan Mastiff, Rottweiler, Dogue de Bordeaux, Cane Corso",
+                            "links": [],
+                            "popularity_2025": 78,
+                            "popularity_2024": 67,
+                            "popularity_2023": 60,
+                            "popularity_2022": 61,
+                            "popularity_2021": 56,
+                            "popularity_2020": 55,
+                            "popularity_2019": 52,
+                            "popularity_2018": 51,
+                            "popularity_2017": 51,
+                            "popularity_2016": 48,
+                            "popularity_2015": 43,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "loyal / affectionate / brave"
+                        },
+                        "cane-corso": {
+                            "breed_name_url": "cane-corso",
+                            "breed_name": "Cane Corso",
+                            "breed_name_oracle": "Cane Corso",
+                            "matches_oracle": "Cane Corso",
+                            "akc_code": "643",
+                            "breed_name_plural": "Cane Corsi",
+                            "breed_nicknames": "Corso (plural: Cani Corsi)",
+                            "origin": "Italy",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2010",
+                            "life_expectancy": "9-12 years",
+                            "related_breeds": "Presa Canario, Neapolitan Mastiff, Rottweiler, Bullmastiff, Tosa",
+                            "links": [],
+                            "popularity_2025": 11,
+                            "popularity_2024": 14,
+                            "popularity_2023": 16,
+                            "popularity_2022": 18,
+                            "popularity_2021": 21,
+                            "popularity_2020": 25,
+                            "popularity_2019": 30,
+                            "popularity_2018": 32,
+                            "popularity_2017": 37,
+                            "popularity_2016": 40,
+                            "popularity_2015": 35,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "intelligent / affectionate / majestic"
+                        },
+                        "dogue-de-bordeaux": {
+                            "breed_name_url": "dogue-de-bordeaux",
+                            "breed_name": "Dogue de Bordeaux",
+                            "breed_name_oracle": "Dogue de Bordeaux",
+                            "matches_oracle": "Dogue de Bordeaux",
+                            "akc_code": "639",
+                            "breed_name_plural": "Dogues de Bordeaux",
+                            "breed_nicknames": "Dogue, DDB",
+                            "origin": "France",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2008",
+                            "life_expectancy": "5-8 years",
+                            "related_breeds": "Neapolitan Mastiff, Cane Corso, Broholmer, Rottweiler, Bullmastiff",
+                            "links": [],
+                            "popularity_2025": 95,
+                            "popularity_2024": 96,
+                            "popularity_2023": 84,
+                            "popularity_2022": 78,
+                            "popularity_2021": 70,
+                            "popularity_2020": 71,
+                            "popularity_2019": 69,
+                            "popularity_2018": 67,
+                            "popularity_2017": 67,
+                            "popularity_2016": 63,
+                            "popularity_2015": 63,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / courageous / affectionate"
+                        },
+                        "neapolitan-mastiff": {
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "breed_name_oracle": "Neapolitan Mastiff",
+                            "matches_oracle": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "breed_name_plural": "Neapolitan Mastiffs",
+                            "breed_nicknames": "Mastino, Neo",
+                            "origin": "Italy",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2004",
+                            "life_expectancy": "7-9 years",
+                            "related_breeds": "Cane Corso, Mastiff, Rottweiler, Bullmastiff, Dogue de Bordeaux",
+                            "links": [],
+                            "popularity_2025": 119,
+                            "popularity_2024": 128,
+                            "popularity_2023": 118,
+                            "popularity_2022": 119,
+                            "popularity_2021": 106,
+                            "popularity_2020": 100,
+                            "popularity_2019": 102,
+                            "popularity_2018": 102,
+                            "popularity_2017": 107,
+                            "popularity_2016": 99,
+                            "popularity_2015": 106,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / loyal / watchful"
+                        },
+                        "presa-canario": {
+                            "breed_name_url": "presa-canario",
+                            "breed_name": "Presa Canario",
+                            "breed_name_oracle": "Presa Canario",
+                            "matches_oracle": "Presa Canario",
+                            "akc_code": "641",
+                            "breed_name_plural": "Perro de Presas Canario",
+                            "breed_nicknames": "",
+                            "origin": "Spain",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "9-11 years",
+                            "related_breeds": "Cane Corso, Dogo Argentino, Mastiff, Tosa, Thai Ridgeback",
+                            "links": [],
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "strong-willed / confident / calm"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "temperament": "intelligent / confident / calm",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "akc_org_blurb": "<p>Boerboels are intimidating but discerning guardians of home and family who learned their trade while protecting remote South African homesteads from ferocious predators. They are dominant and confident, also bright and eager to learn.</p>",
+                    "akc_org_about": "<p>There's a no-frills, no-nonsense quality to this sleek-coated avenger, who might stand as high as 27 inches at the shoulder and weigh as much as you do. A broad and blocky head, powerful jaws, and thick muscles from neck to rump mark it as a descendant of the ancient 'molloser'\u009d dog family, the foundation of today's mastiff-type breeds. In motion, the Boerboel just might be the most agile of all mastiff types. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The imposing Boerboel is devoted to protecting the people and places he loves. Training and socialization should begin early, before a pup becomes a dominant adult. This is a trainable, versatile breed, eager to spend time with their adored humans. Still, a Boerboel might be way too much dog for the novice owner to handle.</p>\n<p><br></p>\n<p>Pronunciation - Bor-Bull</p>",
+                    "mp_description": "<p>The strong muscular boerboel is native to south africa, where it has excelled as a working dog since the 17th century. they are bred to defend against predators, track and protect farm and family. boerboel translates as \"Farm Dog\" and this mastiff-type breed is an agile and intelligent worker. they're also dominant and protective of their family and may be too much dog for inexperienced owners. early obedience training, daily exercise and socialization for your boerboel puppy will help make him a good family member, confident, calm and loyal.</p>"
+                }
+            },
+            "standards": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "title_1": "General Appearance",
+                    "description_1": "Historically the Boerboel developed as a general farm dog for the pioneers who settled in South Africa since the seventeenth century. These dogs were often the first line of defense against predators and were valuable in tracking and holding down wounded game. Old farmers told many a tale of the strength, agility and courage of the Boerboel. The dangers and harsh conditions of southern Africa allowed only the fittest to survive. The protective character of the Boerboel is today still evident and is much sought after, as is the calm, stable and confident composure of the breed. The origin and purpose of the Boerboel should be understood in order to preserve the unique identity and qualities of the breed as a South African developed mastiff. Type, conformation, functional efficiency and mentality are equally important in the evaluation of the Boerboel as a whole. The Boerboel is a large dog that is strong, confident and muscular in appearance with powerful, free-flowing movement. When observing a Boerboel at play or work, standing or moving, it should show strength, suppleness, nimbleness and agility.",
+                    "title_2": "Head",
+                    "description_2": "The head is an impressive and a distinctive feature of the Boerboel. It should be blocky, broad, deep, square and muscular, with well filled cheeks and in proportion to the body. Moderate wrinkling is observed over the forehead when the dog shows interest.",
+                    "title_3": "Body",
+                    "description_3": "The neck is powerful, of medium length, and forms a muscular arch. It flows smoothly into the sloping shoulders, gradually increasing in width from the head to the shoulders. (In the female the muscles are less accentuated but should remain in balance with the head and body). The dewlap is noticeable but disappears towards the sternum.\nThe topline is firm and level, extending in a straight line from behind the withers to the croup. The back remains horizontal to the ground while the dog is moving or standing. The under line of a mature dog has a slight tuck-up.\nThe body is blocky, muscular and solid, with good depth and width. The back is broad and straight, with pronounced muscles. The ribcage is well sprung and well filled behind the shoulder blades. The transitions between the chest, loin and rump are well filled and flowing. The loin is strong and muscular, and only slightly narrower than the ribcage and rump. The croup is broad, flat and strong, with well defined musculature. Its height should not exceed the height at the shoulders.",
+                    "title_4": "Forequarters",
+                    "description_4": "The forelegs are strong boned, with well-defined muscles. Viewed from the side the forearm should be vertical from the elbow to the pastern. When viewed from the front they should be parallel to each other, not bowed or with toes turning inward. Elbows should be held close to the body. Length of the foreleg to the elbow is approximately 50 percent of the dog's height at the shoulder. The chest is broad, deep and wide with well-sprung ribs and strong developed pectoral muscles. The shoulders are moderately sloping, powerful and muscular, with no tendency to looseness. The shoulder blade is long with moderate angulation. The upper arm is equal in both length and angulation to the shoulder blade. The pastern is short, thick and strong and with a slight slope when viewed from the side. The front feet point straight forward, are large, round, strongly boned and compact. The toes are well arched, with short, preferably black toenails and protected by hair in between. Front dewclaws may be removed. The pads are thick, tough and black.",
+                    "title_5": "Coat",
+                    "description_5": "The coat is short, dense, smooth and shiny. The skin is thick and loose but fits smoothly. Skin is well pigmented.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The hindquarter is sturdy and muscular. The hind legs are strong boned. The stifle should be sound, strong and moderately angulated and in balance with the forequarters, to support the powerful propulsion from the hindquarters during movement. The upper thighs are broad, deep and muscular as seen from the side and the rear. The lower thighs have well defined muscles and show substance down to the hocks. The metatarsus is broad, relatively short and perfectly upright. The hind feet point straight forward and are slightly larger than the front feet. Rear dewclaws, if any, are generally removed.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "27",
+                    "weight_min": "150",
+                    "weight_max": "200",
+                    "size": "XLarge",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Boerboel.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "27",
+                    "height_min_m": "22",
+                    "height_max_m": "27",
+                    "height_display": "24-27 inches (male), 22-25 inches (female)",
+                    "weight_min_f": "150",
+                    "weight_max_f": "200",
+                    "weight_min_m": "150",
+                    "weight_max_m": "200",
+                    "weight_display": "150-200 pounds"
+                }
+            },
+            "markings": {
+                "boerboel": {
+                    "markings": [
+                        {
+                            "marking_index": 489,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 490,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        },
+                        {
+                            "marking_index": 491,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "cde_markings": "115",
+                            "markings_long": "Irish Marked",
+                            "markings_short": "IRSH MRKD"
+                        },
+                        {
+                            "marking_index": 492,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "boerboel": {
+                    "colors": [
+                        {
+                            "color_index": 1593,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 1594,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1595,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 1596,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "159",
+                            "color_long": "Reddish Brown",
+                            "color_short": "RDSH BR"
+                        },
+                        {
+                            "color_index": 1597,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1598,
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "akc_code": "659",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "breed_club_name": "American Boerboel Club",
+                    "breed_club_url": "Americanboerboelclub.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2025/09/16093253/Boerboels-Club-Flyer.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "American Boerboel Club",
+                    "national_breed_club_url": "Americanboerboelclub.org",
+                    "breed_referral_contact_name": "Kate Nicholson",
+                    "breed_referral_contact_phone_number": "(980) 621-2225",
+                    "breed_referral_contact_email": "Katejnicholson67@gmail.com",
+                    "breed_referral_contact_address": "300 APPLE FARM RD\nCAMPOBELLO, SC 29322-8758",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1457,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 43,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Since February 2014, the American Boerboel Club has been the official AKC Parent Club for the Boerboel."
+                        },
+                        {
+                            "id": 452,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 454,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 451,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 453,
+                            "breed_id": "43",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "boerboel": {
+                    "breed_name_url": "boerboel",
+                    "breed_name": "Boerboel",
+                    "akc_org_history": "<p>Boer,' a Dutch word meaning 'farmer,' was the name given to Dutch, German, and Huguenot settlers of South Africa who began arriving in the mid-1600s. To protect their remote homesteads from predators, they brought along large guarding dogs, bull types and mastiff types among them. The interbreeding of these and other European bloodlines in South Africa resulted in something called the Boer Dog, which was used by Boer settlers as a big-game hunter and protector. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Further refinements eventually gave rise to the Boerboel ('farmer's dog'), a fearless mastiff who specialized in protection of hearth and home. Their agility and prodigious strength came in handy when running off or tangling with ferocious wildlife, whether lions or packs of marauding baboons.</p>\n<p><br>\n</p>\n<p>One should not conclude from this that the Boerboel was a snarly brute constantly spoiling for a fight. Because the breed was created to be primarily a protector of family, Boerboels had to be sensitive and smart enough to tell friend from foe and to take its cues from those they protect. A Boerboel has never been known to back down when provoked, but their default mode is generally a stately watchfulness. Boerboels are be powerful enough to excel at competitive weight-pulling, but they have also had success as docile therapy dogs who have a soft spot in their huge heart for children.&nbsp;</p>\n<p><br>\n</p>\n<p>The Boerboel was admitted to the AKC Working Group on January 1, 2015.</p>",
+                    "mp_history_job": "<p>'Boer,' a Dutch word meaning 'farmer,' was the name given to Dutch, German, and Huguenot settlers of South Africa who began arriving in the mid-1600s. To protect their remote homesteads from predators they brought along large guarding dogs, the Bullmastiff among them. The interbreeding of various European bloodlines in South Africa eventually gave rise to the Boerboel, a fearless mastiff who specialized in protection. Their agility and prodigious strength came in handy when running off or tangling with ferocious wildlife.</p>",
+                    "did_you_know": "At the February 2014 Board Meeting the American Boerboel Club became the official parent club for the Boerboel. The Boerboel became eligible for AKC registration, on December 1, 2014 and was eligible to compete in the Working Group, beginning January 1, 2015. AKC will maintain an open registry for the breed until January 1, 2020. | Stories are told of the Boerboel killing and vanquishing lions in South Africa. Truthfully it is unlikely that a Boerboel would be able to kill a full grown and healthy lion however, they were strong and agile enough to handle the occasional leopard. | A Boerboel can be both a capable working dog and a loyal companion. The word Boerboel means \"Farm Dog\" and as such he should be mentally and physically versatile. These were dogs of the people and not merely the elite. | The docked tail of the Boerboel, according to legend, has it's origins in practicality. As a farm protector the Boerboel might encounter marauding baboons and with a short tail he could not so easily be held by the dexterous baboon. | The skin of a Boerboel should be dark on his stomach and under his fur, as well as the roof of his mouth. This darker pigment was considered necessary in his country for protection against the sun and heat. | Early socialization and obedience training will go a long way to ensuring success with your Boerboel. The Boerboel is both clever and smart and is capable of learning many useful tricks."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23666%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-On-White-01.jpg",
+                    "alt": "Boerboel standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-walking-in-the-grass.jpg",
+                    "alt": "Boerboel walking in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Anya - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-standing-in-a-field.jpg",
+                    "alt": "Boerboel standing in a field.",
+                    "caption": "",
+                    "credit": "\u00a9DoraZett - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-Illo-2.jpg",
+                "alt": "Boerboel illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-puppy.jpg",
+                "alt": "Boerboel puppy laying down on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/boerboel",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Boerboel",
+        "shopCta": false
+    }
+}

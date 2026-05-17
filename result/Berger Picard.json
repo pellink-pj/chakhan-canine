@@ -1,0 +1,1280 @@
+{
+    "settings": {
+        "current_breed": "berger-picard",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21130926/BergerP2021.pdf",
+                    "mp_health": "<p>Berger Picards are generally a healthy breed. Like all breeds there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Berger Picards are healthy dogs.</p>",
+                    "akc_org_health": "<p>Berger Picards are generally a healthy breed. Like all breeds there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Berger Picards are healthy dogs.</p>",
+                    "akc_org_nutrition": "<p>The Berger Picard should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Berger Picards are athletic, active canines, so be mindful that your dog is getting enough good nutrition to meet his needs. Conversely, some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Berger Picard's double coat consists of a soft, dense undercoat for insulation covered by a shaggy, wiry, waterproof topcoat. During shedding season, brushing every day or two with a rake and a slicker brush will remove the dead hair before it ends up on the floor and furniture. The rest of the year, a Picard only needs to be brushed once a month. The breed should be bathed only occasionally, and shampoos formulated for crisp coats are recommended. As with all breeds, the Picard's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Bred to work in the fields, the Berger Picard is active and athletic, with plenty of stamina and drive. This high-energy breed needs lots of daily exercise and mental stimulation. The Picard must have a good outlet for all his energy, or he may become destructive and unhappy. Owners should expect to go on at least one long walk every day. Picards also make excellent companions on hikes and bike rides, and they enjoy swimming and playing fetch. Many Picards participate in agility, tracking, obedience, Schutzhund (protection), flyball, French ring sport, rally, and herding competitions.</p>",
+                    "akc_org_training": "<p>As with all breeds, early socialization and puppy training classes are a must. Training should begin as early as possible to prevent bad habits from developing. Picards have a stubborn streak, but they are very intelligent and eager to please, so training is usually fairly easy. They are more likely to respond to praise and affection than to food, and are unlikely to respond to harsh training methods.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "breed_name_oracle": "Berger Picard",
+                    "matches_oracle": "Berger Picard",
+                    "akc_code": "856",
+                    "breed_name_plural": "Berger Picards",
+                    "breed_nicknames": "Picardy, Picard",
+                    "origin": "France",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "2015",
+                    "life_expectancy": "12-13 years",
+                    "related_breeds": "Pyrenean Shepherd, Briard, Portuguese Podengo, Dutch Shepherd, Belgian Laekenois",
+                    "links": [],
+                    "popularity_2025": 166,
+                    "popularity_2024": 166,
+                    "popularity_2023": 157,
+                    "popularity_2022": 153,
+                    "popularity_2021": 163,
+                    "popularity_2020": 151,
+                    "popularity_2019": 148,
+                    "popularity_2018": 144,
+                    "popularity_2017": 146,
+                    "popularity_2016": 141,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "pyrenean-shepherd",
+                        "briard",
+                        "portuguese-podengo",
+                        "dutch-shepherd",
+                        "belgian-laekenois"
+                    ],
+                    "related_breeds_items": {
+                        "pyrenean-shepherd": {
+                            "breed_name_url": "pyrenean-shepherd",
+                            "breed_name": "Pyrenean Shepherd",
+                            "breed_name_oracle": "Pyrenean Shepherd",
+                            "matches_oracle": "Pyrenean Shepherd",
+                            "akc_code": "853",
+                            "breed_name_plural": "Pyrenean Shepherds",
+                            "breed_nicknames": "Pyr Shep",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2009",
+                            "life_expectancy": "17-19 years",
+                            "related_breeds": "Berger Picard, Dutch Shepherd, Croatian Sheepdog, Romanian Mioritic Shepherd Dog, Mudi",
+                            "links": [],
+                            "popularity_2025": 191,
+                            "popularity_2024": 188,
+                            "popularity_2023": 187,
+                            "popularity_2022": 190,
+                            "popularity_2021": 192,
+                            "popularity_2020": 182,
+                            "popularity_2019": 184,
+                            "popularity_2018": 181,
+                            "popularity_2017": 180,
+                            "popularity_2016": 176,
+                            "popularity_2015": 176,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "active / affectionate / enthusiastic"
+                        },
+                        "briard": {
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "breed_name_oracle": "Briard",
+                            "matches_oracle": "Briard",
+                            "akc_code": "808",
+                            "breed_name_plural": "Briards",
+                            "breed_nicknames": "Berger de Brie (France)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1928",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Schapendoes, Beauceron, Polish Lowland Sheepdog, Berger Picard, Pyrenean Shepherd",
+                            "links": [],
+                            "popularity_2025": 172,
+                            "popularity_2024": 145,
+                            "popularity_2023": 150,
+                            "popularity_2022": 151,
+                            "popularity_2021": 150,
+                            "popularity_2020": 150,
+                            "popularity_2019": 137,
+                            "popularity_2018": 132,
+                            "popularity_2017": 127,
+                            "popularity_2016": 132,
+                            "popularity_2015": 130,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "confident / smart / faithful"
+                        },
+                        "portuguese-podengo": {
+                            "breed_name_url": "portuguese-podengo",
+                            "breed_name": "Portuguese Podengo",
+                            "breed_name_oracle": "Portuguese Podengo",
+                            "matches_oracle": "Portuguese Podengo",
+                            "akc_code": "438",
+                            "breed_name_plural": "Portuguese Podengos",
+                            "breed_nicknames": "",
+                            "origin": "Portugal",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Portuguese Podengo Pequeno, Portuguese Sheepdog, Portuguese Pointer, Pharaoh Hound, Ibizan Hound",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / independent / intelligent"
+                        },
+                        "dutch-shepherd": {
+                            "breed_name_url": "dutch-shepherd",
+                            "breed_name": "Dutch Shepherd",
+                            "breed_name_oracle": "Dutch Shepherd",
+                            "matches_oracle": "Dutch Shepherd",
+                            "akc_code": "863",
+                            "breed_name_plural": "Dutch Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Belgian Malinois, Belgian Tervuren, Belgian Sheepdog, Belgian Laekenois, Croatian Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / lively / athletic"
+                        },
+                        "belgian-laekenois": {
+                            "breed_name_url": "belgian-laekenois",
+                            "breed_name": "Belgian Laekenois",
+                            "breed_name_oracle": "Belgian Laekenois",
+                            "matches_oracle": "Belgian Laekenois",
+                            "akc_code": "843",
+                            "breed_name_plural": "Belgian Laekenois",
+                            "breed_nicknames": "Laekenois",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2020",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Belgian Malinois, Belgian Sheepdog, Schipperke, Dutch Shepherd, Belgian Tervuren",
+                            "links": [],
+                            "popularity_2025": 196,
+                            "popularity_2024": 190,
+                            "popularity_2023": 195,
+                            "popularity_2022": 195,
+                            "popularity_2021": 194,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "alert / intelligent / affectionate"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "temperament": "loyal / good-natured / observant",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "akc_org_blurb": "<p>The Berger Picard is a lanky herding dog of strong bone and sturdy build. Picards spent centuries as take-charge independent problem-solvers, so early socialization and positive training are necessary to cope with their stubborn streak.</p>",
+                    "akc_org_about": "<p>You can spot a Berger Picard a mile away thanks to his erect ears standing 4 to 5 inches high, a wavy fawn or brindle coat, and a strong tail that tapers to a distinctive J-hook. Males stand as high as 26 inches, and females as low as 21 inches. The eyes are dark and glistening, and the rectangular head is furnished with shaggy eyebrows, beard, and mustache'\u00bf the very image of a sagacious and worldly Frenchman. &nbsp;&nbsp;&nbsp;&nbsp;The Berger Picard is an ideal companion for athletic owners. Their rugged constitution, agility, and boundless energy make them eager partners in all kinds of sports, games, and outdoor pastimes. Exercise is a must; prolonged idleness and neglect will likely lead these sensitive, super-smart dogs to destructive behavior.</p>\n<p><br></p>\n<p>Pronunciation - Bare-Zhay Pee-Char</p>",
+                    "mp_description": "<p>This hard-working herding dog hails from the farms of France. He will work alongside you enthusiastically and respond well to positive training. The Berger Picard is alert and confident, although he may get a bit stubborn during training. As with any herding dog, he needs lots of exercise to channel all that drive and energy. Berger Picard puppies should be socialized and trained early and you'll be rewarded with a good-natured companion both in the house and outdoors, energetically performing any task you give him.</p>"
+                }
+            },
+            "standards": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "title_1": "General Appearance",
+                    "description_1": "The Berger Picard is an ancient breed developed by the farmers and sheep herders of the Picardy region of northern France. They are medium-sized, sturdily built & well-muscled without being bulky, slightly longer than tall, with distinctive erect natural ears, wiry coat of moderate length, and a tail reaching to the hock and ending in a J-hook. Movement is free and easy, efficient, and tireless to allow them to work all day on the farm and in the fields. They are lively and alert, observant, quietly confident, and can be aloof with strangers, but should not be timid or nervous. This is a rustic, working shepherd's dog, without exaggeration or refinement.",
+                    "title_2": "Head",
+                    "description_2": "Strong, without being massive; rectangular overall and narrowing slightly from ears to the eyes, and again from eyes to nose when viewed from above. The correct length of head, measured from occiput to nose, should be about the same length as the neck. Expression - Alert and observant, spirited, confident, pleasant. Eyes - Medium size, oval shaped and turned forward; neither round nor protruding. Eye color is medium to dark brown, but never lighter than hazel. Darker eye color is preferred. Eye rims are tight-fitting and fully pigmented. Disqualification - Yellow eyes. Ears - Moderately large (4 to 5 inches long), broad at the base, tapering to a slightly rounded tip, and set rather high on the skull. Always carried naturally erect, and turned forward.",
+                    "title_3": "Body",
+                    "description_3": "Chest deep but not exaggerated, reaching to the level of the elbow but not beyond. Prominent prosternum blends smoothly into the sternum. The lowest point of the sternum is at the level of the elbow, and from that point, the sternum slopes gradually up towards the loin to give good depth and length to the ribcage. Ribs are well sprung from the spine for the upper one-third, then flattening as they approach the sternum, neither slab-sided nor barrel-shaped. Belly slightly tucked up. Loin strong but not overly long.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulder blades are long and well laid back, covered by lean and strong muscle. The length of the upper arm balances the shoulder blade, placing the elbow well under and close in to the body. Forelegs are straight and strong, without being bulky. Viewed from the front, legs are parallel to each other with toes pointing straight forward. Pasterns slope slightly to a compact, rounded foot with well arched toes and strong, black nails. Pads are strong and supple. Dewclaws may be removed or left on.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Angulation of the thigh and stifle balance the front assembly, and are well muscled, providing powerful, tireless, and effortless movement. Rear pasterns are parallel to each other and perpendicular to the ground. With a correctly angulated rear, the toes of the hind foot land just behind a perpendicular line dropped from the point of rump. Feet are rounded with well arched toes and strong black nails, as in front. There should be no dewclaws on the rear legs.",
+                    "title_6": "Coat",
+                    "description_6": "Harsh and crisp to the touch, neither flat nor curly, often with a slight wave. Undercoat is soft, short, and dense. The shaggy, rough coat of the Picard is distinctive, and should never be wooly, soft, or so profuse that it hides the outline of the dog. Ideal length is 2 to 3 inches over the entire dog, with coat naturally somewhat shorter on the top of the head. The coat accents on the head and neck which give the Picard its distinct look, known as \"griffonage\", include rough eyebrows, moderate beard and moustache, and a slight ruff on the front and sides of the neck, framing the head, all of moderate length.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "21.5",
+                    "height_max": "25.5",
+                    "weight_min": "50",
+                    "weight_max": "70",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BergerPicard.pdf",
+                    "height_min_f": "21.5",
+                    "height_max_f": "25.5",
+                    "height_min_m": "21.5",
+                    "height_max_m": "25.5",
+                    "height_display": "23.5-25.5 inches (male), 21.5-23.5 inches (female)",
+                    "weight_min_f": "50",
+                    "weight_max_f": "70",
+                    "weight_min_m": "50",
+                    "weight_max_m": "70",
+                    "weight_display": "50-70 pounds"
+                }
+            },
+            "markings": {
+                "berger-picard": {
+                    "markings": [
+                        {
+                            "marking_index": 613,
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "akc_code": "856",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 614,
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "akc_code": "856",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "berger-picard": {
+                    "colors": [
+                        {
+                            "color_index": 1969,
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "akc_code": "856",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1970,
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "akc_code": "856",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "breed_club_name": "Berger Picard Club of America",
+                    "breed_club_url": "bpclubofamerica.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2025/06/06084235/Berger-Picard-Club-Flier-20250603.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Berger Picard Club of America",
+                    "national_breed_club_url": "bpclubofamerica.org",
+                    "breed_referral_contact_name": "Jacqueline Carswell",
+                    "breed_referral_contact_phone_number": "(912) 286-6620",
+                    "breed_referral_contact_email": "bpcajackie@gmail.com",
+                    "breed_referral_contact_address": "4222 Old Hoboken Rd\nBlackshear, GA 31516-4041",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1449,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 35,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Since October 2011, the Berger Picard Club of America has served as the AKC Parent Club for the Berger Picard in the United States."
+                        },
+                        {
+                            "id": 420,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 422,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 419,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 421,
+                            "breed_id": "35",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "berger-picard": {
+                    "breed_name_url": "berger-picard",
+                    "breed_name": "Berger Picard",
+                    "akc_org_history": "France remained an agricultural nation long after the Industrial Revolution began in other parts of Europe. And even today, livestock and dairy are integral parts of the French national character. Among the many pasture dogs developed by French shepherds over the centuries, the Berger Picard (bare ZHAY pee CARR) might be the oldest.\n \n \n \n This rustic herder was reputedly brought to northern France by the central-European Celts who invaded Gaul in prehistory. While not every authority buys into this theory, all can agree that the Picard is a breed of great antiquity, with close family ties to such French herders as the Briard and Beauceron.\n \n \n \n The breed's name is derived from its home region, Picardy. (In some countries, the Berger Picard is known as the Picardy Shepherd.) Picardy, today part of the Hauts-de-France region, has always been known as a great agricultural center and home to miles of rich pastureland. It comes as no surprise, then, that the farmers and cattlemen of the region took such pride in their indigenous sheepdog. It was exhibited in France's first dog show, in 1863, and by the turn of the century dedicated breeders were at work fixing the Picard's breed type.\n \n \n \n The 20th century's two world wars decimated the European populations of many breeds, but the ravages of war were especially hard on the Picard. Picardy, in the valley of the river Somme, was the site of ferocious battles in both wars, turning serene pastures into killing fields. The Picard nearly went extinct, but this spirited and assertive dog, though still rare, has made a comeback in recent years. The breed's visibility was boosted when a Berger Picard played the title role in the 2005 movie 'Because of Winn Dixie.'\u009d The breed received another splash of recognition in 2015, when the Berger Picard Club of America was admitted to the American Kennel Club.",
+                    "mp_history_job": "France remained an agricultural nation long after the Industrial Revolution began in other parts of Europe. And even today, livestock and dairy are integral parts of the French national character. Among the many pasture dogs developed by French shepherds over the centuries, the Picard is thought to be the oldest. This rustic herder was brought to northern France (called Gaul) by invading Celts in the third century b.c. The ravages of two world wars nearly rendered the Picard extinct, but the breed has made a spectacular comeback in recent years.",
+                    "did_you_know": "The Berger Picard has been assigned the Herding Group designation. They were brought into the FSS program in 2007. | The first Berger Picards were shown together in the same class with Beaucerons and Briards in 1863 but it was more than 50 years later in 1925 that the Picard was officially recognized as a breed in France. | There have been several unsuccessful attempts in the past 20 years to establish the Berger Picard in North America. The current influx of Picards is greatly attributed to the use of the Internet, which provided the means of communication between European breeders and American buyers. | The correct French pronunciation of Berger Picard is bare zhay pee carr. Berger is the French word for shepherd and Picard is the region in France where they are from. | Picardy, the region of northern France between Normandy and Paris, was particularly ravaged during both world wars, which accounts for the scarcity of this local herding breed. | Berger Picards can be seen in three current movies, \"Because Of Winn Dixie,\" \"Daniel And The Superdogs,\" and \"Are We Done Yet?\" but Picards are often mistaken for another canine actor, the Wirehaired Portuguese Podengo Medio, another scruffy looking rare breed"
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23569%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-standing-in-a-field.jpg",
+                    "alt": "Berger Picard standing in a pasture.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_0067.jpg",
+                    "alt": "Best of Breed: GCHG CH Eclipse's One N Only CM4, Berger Picard; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/New-Stacking-full-body-2.jpg",
+                    "alt": "Berger Picard standing facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Berger-Picards-sitting-in-a-field.jpg",
+                    "alt": "Two Berger Picards sitting together in a pasture.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard.jpg",
+                    "alt": "Berger Picard in the conformation ring.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/full-body-front-view.jpg",
+                    "alt": "Berger Picard standing facing forward.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-standing-in-profile.jpg",
+                    "alt": "Berger Picard standing in profile in a pasture.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-coat.jpg",
+                    "alt": "Berger Picard coat detail.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-running-in-the-water.jpg",
+                    "alt": "Berger Picard running in the water on a beach.",
+                    "caption": "",
+                    "credit": "\u00a9Petra Eckerl - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-illustration.jpg",
+                "alt": "Berger Picard illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-puppy-laying-in-the-grass.jpg",
+                "alt": "Berger Picard puppy laying down in the grass."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/berger-picard",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Berger Picard",
+        "shopCta": false
+    }
+}

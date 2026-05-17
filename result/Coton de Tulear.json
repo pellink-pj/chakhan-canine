@@ -1,0 +1,1314 @@
+{
+    "settings": {
+        "current_breed": "coton-de-tulear",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Coton-de-Tulear.pdf",
+                    "mp_health": "<p>Coton de Tulears are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, patellar luxation and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Coton de Tulears are healthy dogs.</p>",
+                    "akc_org_health": "<p>The Coton de Tulear has remained fairly free of genetic health issues. That is not to say that they do not exist, but that any incidences are of an extremely low percentage. In the Coton, known incidences are usually in the one- to five-percent range. Coton breeders are working diligently to keep the breed as problem free as possible by doing genetic screening of all breeding stock. Occasionally eye problems and hip dysplasia do occur in the breed. As with all small breeds, there is a chance of luxating patellas, and spinal disc disease has been known to occur.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>Grooming the Coton puppy is a breeze. During that time you should groom him regularly and ensure that he learns to see grooming sessions as positive times of bonding with his person. Unless you are going to keep your Coton in a short 'puppy clip,'\u009d your dog will require a great deal of brushing. You must be careful to get your comb and brush all the way to the skin (gently) during daily brushing, or the hair next to the skin will mat and if this is too extensive your dog may need to be shaved down. You should use a spray conditioner while brushing to avoid breakage. A couple of times a week, check the ears and remove any excess hair, wax, or debris to avoid ear infections.</p>",
+                    "akc_org_exercise": "<p>The Coton is a fairly active dog who requires a moderate amount of exercise. Daily walks with his human at a slow speed will keep him in good weight and condition. Chasing a tennis ball around his backyard can keep his mind active as well as his body. A bored and unhappy Coton can become destructive. He does best when provided with enough exercise, lots of attention from his owner, and plenty of interesting toys to keep him occupied.</p>",
+                    "akc_org_training": "<p>The Coton is an alert dog and naturally territorial. Cotons should be well socialized from an early age so that they will enjoy going with you wherever you go. Obedience training is a good idea, for socialization as well as reinforcing lessons and manners. A bored Coton will be unable to learn anything. Keep your training sessions lively and entertaining for best results. Cotons respond poorly to negative training practices but will excel in most dog-sport activities when trained with positive methods. They do well in agility and obedience and make excellent therapy dogs.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "breed_name_oracle": "Coton de Tulear",
+                    "matches_oracle": "Coton de Tulear",
+                    "akc_code": "318",
+                    "breed_name_plural": "Cotons de Tulear",
+                    "breed_nicknames": "Coton, Royal Dog of Madagascar",
+                    "origin": "Madagascar",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "2014",
+                    "life_expectancy": "15-19 years",
+                    "related_breeds": "Bichon Frise, Bolognese, Havanese, Russian Tsvetnaya Bolonka, Maltese",
+                    "links": [],
+                    "popularity_2025": 79,
+                    "popularity_2024": 92,
+                    "popularity_2023": 90,
+                    "popularity_2022": 84,
+                    "popularity_2021": 83,
+                    "popularity_2020": 80,
+                    "popularity_2019": 82,
+                    "popularity_2018": 81,
+                    "popularity_2017": 81,
+                    "popularity_2016": 80,
+                    "popularity_2015": 85,
+                    "related_groups_characteristics": "Hypoallergenic Dogs",
+                    "related_breeds_items_url": [
+                        "bichon-frise",
+                        "bolognese",
+                        "havanese",
+                        "russian-tsvetnaya-bolonka",
+                        "maltese"
+                    ],
+                    "related_breeds_items": {
+                        "bichon-frise": {
+                            "breed_name_url": "bichon-frise",
+                            "breed_name": "Bichon Frise",
+                            "breed_name_oracle": "Bichon Frise",
+                            "matches_oracle": "Bichon Frise",
+                            "akc_code": "310",
+                            "breed_name_plural": "Bichon Frise",
+                            "breed_nicknames": "Bichon",
+                            "origin": "The Mediterranean",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1972",
+                            "life_expectancy": "14-15 years",
+                            "related_breeds": "Bolognese, Maltese, West Highland White Terrier, Havanese, Coton de Tulear",
+                            "links": [],
+                            "popularity_2025": 49,
+                            "popularity_2024": 46,
+                            "popularity_2023": 44,
+                            "popularity_2022": 47,
+                            "popularity_2021": 47,
+                            "popularity_2020": 45,
+                            "popularity_2019": 43,
+                            "popularity_2018": 46,
+                            "popularity_2017": 46,
+                            "popularity_2016": 45,
+                            "popularity_2015": 44,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "curious / playful / peppy"
+                        },
+                        "bolognese": {
+                            "breed_name_url": "bolognese",
+                            "breed_name": "Bolognese",
+                            "breed_name_oracle": "Bolognese",
+                            "matches_oracle": "Bolognese",
+                            "akc_code": "521",
+                            "breed_name_plural": "Bolognese",
+                            "breed_nicknames": "Bolo",
+                            "origin": "Italy",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Maltese, Bichon Frise, Coton de Tulear, Lhasa Apso, Havanese",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / easy-going / devoted"
+                        },
+                        "havanese": {
+                            "breed_name_url": "havanese",
+                            "breed_name": "Havanese",
+                            "breed_name_oracle": "Havanese",
+                            "matches_oracle": "Havanese",
+                            "akc_code": "518",
+                            "breed_name_plural": "Havanese",
+                            "breed_nicknames": "Havana Silk Dog",
+                            "origin": "Cuba",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1996",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Lhasa Apso, Bolognese, Coton de Tulear, Russian Tsvetnaya Bolonka, Silky Terrier",
+                            "links": [],
+                            "popularity_2025": 25,
+                            "popularity_2024": 25,
+                            "popularity_2023": 25,
+                            "popularity_2022": 25,
+                            "popularity_2021": 25,
+                            "popularity_2020": 24,
+                            "popularity_2019": 22,
+                            "popularity_2018": 24,
+                            "popularity_2017": 23,
+                            "popularity_2016": 23,
+                            "popularity_2015": 24,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "intelligent / outgoing / funny"
+                        },
+                        "russian-tsvetnaya-bolonka": {
+                            "breed_name_url": "russian-tsvetnaya-bolonka",
+                            "breed_name": "Russian Tsvetnaya Bolonka",
+                            "breed_name_oracle": "Russian Tsvetnaya Bolonka",
+                            "matches_oracle": "Russian Tsvetnaya Bolonka",
+                            "akc_code": "549",
+                            "breed_name_plural": "Russian Tysvetnaya Bolonki",
+                            "breed_nicknames": "Bolonka",
+                            "origin": "Russia",
+                            "breed_group": "Toy Group",
+                            "year_recognized": 0,
+                            "life_expectancy": "14-20 years",
+                            "related_breeds": "Bolognese, Lhasa Apso, Havanese, Coton de Tulear, Shih Tzu",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / charming / inquisitive"
+                        },
+                        "maltese": {
+                            "breed_name_url": "maltese",
+                            "breed_name": "Maltese",
+                            "breed_name_oracle": "Maltese",
+                            "matches_oracle": "Maltese",
+                            "akc_code": "507",
+                            "breed_name_plural": "Maltese",
+                            "breed_nicknames": "Comforter Dog",
+                            "origin": "Malta",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Yorkshire Terrier, Biewer Terrier, Coton de Tulear, Bichon Frise, Silky Terrier",
+                            "links": [],
+                            "popularity_2025": 37,
+                            "popularity_2024": 37,
+                            "popularity_2023": 37,
+                            "popularity_2022": 38,
+                            "popularity_2021": 39,
+                            "popularity_2020": 38,
+                            "popularity_2019": 36,
+                            "popularity_2018": 37,
+                            "popularity_2017": 33,
+                            "popularity_2016": 33,
+                            "popularity_2015": 31,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / charming / gentle"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "temperament": "charming / bright / happy-go-lucky",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wavy",
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "akc_org_blurb": "<p>The Coton de Tulear, 'Royal Dog of Madagascar,'\u009d is a bright, happy-go-lucky companion dog whose favorite activities include clowning, cavorting, and following their special human around the house. The Coton is small but robustly sturdy.</p>",
+                    "akc_org_about": "<p>The Coton de Tulear is a small, immensely charming dog standing between 9 and 11 inches high and weighing anywhere from 8 to 13 pounds. Cotons are known for a profuse white coat that is as soft as cotton (or, as the French say, 'coton'). Their primary job is to provide amusement, comfort, and companionship. &nbsp;&nbsp;&nbsp;&nbsp;The bond between Cotons and their people is so tight that owners discuss it in human terms. Coton fanciers describe them as 'witty' companions 'at times boisterous but never demanding'\u009d and 'naturally clownish and lighthearted,' who possess a 'remarkably gentle, sympathetic awareness.' Amusing traits of these long-lived jesters include unique vocalizations and a knack for walking on their hind legs.</p>\n<p><br></p>\n<p>Pronunciation - Ko-Ton de Two-lay-air</p>",
+                    "mp_description": "<p>The Coton de Tulear is as prized for his happy and entertaining personality as he is for his gorgeous long coat. This small but sturdy breed is agile and trainable, excelling at dog sports and as therapy dogs. Most of all, your Coton de Tulear puppy wants to be with you. And, with proper socialization, he'll get along with almost anyone, including kids, other dogs and cats. That long showy coat is hypoallergenic, good news for allergy sufferers. Take time for some daily grooming to keep your dog looking his best.</p>"
+                }
+            },
+            "standards": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "title_1": "General Appearance",
+                    "description_1": "The Coton de Tulear, also known as the \"Royal Dog of Madagascar\", is a hardy, sturdy small white companion dog. The Coton de Tulear is characterized by a natural long, white, dry, profuse, cotton-like coat, rounded lively dark eyes, black on white joie de vivre expressive smile and witty personality. The breed is somewhat longer than tall. The topline is very slightly arched over the loin with a happily carried tail curved over the back on the move. At rest, the tail is down with an upward hook at the tip revealing the distinguishing outline of the Coton de Tulear.",
+                    "title_2": "Head",
+                    "description_2": "The head is short and triangular in shape when seen from above. The length of the head (nose to occiput) in relationship to the length of the body (point of shoulder to point of buttock) is 2 to 5. Expression - The expression is lively, intelligent, inquisitive, alert and happy. The Cotons joy of life is displayed in their expression. Eyes - The eyes are rather rounded, dark brown or black in color, lively, set wide apart with the inner corners and the outer corners on the same level. The rims of the eyelids are completely pigmented in black. Severe Fault - An overly large or bulging eye is a severe fault as is an almond shaped, obliquely set eye. Disqualifications - Eye/s of any color other than brown or black. Total lack of pigment on the eye rim(s).",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "The neck is slightly arched, of moderate length, blends smoothly into the shoulders and is in balance with the height and length of the dog. Topline - The withers are only slightly pronounced. The topline runs smoothly from the withers to the loin. Beginning over the loin, is a graceful natural arch, not too accentuated, that carries through over the croup. The arch is continuous without flatness, resulting in a low tail set. Fault - A dip behind shoulder blades or a steep or flat croup is to be penalized. Severe Fault - A wheel back or flat back are to be severely penalized. Body - The body is longer than high. The height measured at the withers is two-thirds the length as measured from point of shoulder to point of buttocks. This proportion creates a rectangular outline. Chest - The chest is long, well-developed and well-let down to elbow level.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - The shoulder is muscular. Shoulder Blades - The shoulder blades are laid back to somewhat near a 30 degree angle off the vertical. Upper Arm - The length of the upper arm corresponds approximately to that of the shoulder blade. The upper arm extends well back so that the elbow is placed directly below the top of the shoulder blade when viewed from the side and structurally the elbows are held close to the body. The scapula- humeral angle is about 120 degrees. Legs - The front legs are upright. The lower arms are vertical and parallel. They are well-muscled with good bone. The length of the lower arm corresponds approximately to that of the upper arm.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Angulation - The pelvis is sloped at approximately 30 degrees off the horizontal. The pelvis meets the femur at an angle of about 80 degrees. The angle of femur to lower thigh is about 120 degrees. Legs - The hind legs are muscular from hip to hock. Upper and Second Thigh - The upper thigh and lower thigh are approximately equal in length. Hock Joint - The hock joint is dry and well defined. The height of the hock joint when measured to the ground is slightly less than the length of the lower thigh.",
+                    "title_6": "Coat",
+                    "description_6": "This is one of the main characteristics of the breed from which its very name derives. The coat is very soft and supple, with the texture of cotton. It is never hard or rough. The coat is dense, profuse and can be very slightly wavy. A puppy coat is much softer in texture than an adult coat. Severe Fault -Atypical hair or hair that is tightly curled, wooly or silky. Skin - The skin is fine and stretched tight all over the body. Although of pink color, it can be pigmented.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "9",
+                    "height_max": "11",
+                    "weight_min": "8",
+                    "weight_max": "15",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/CotondeTulear.pdf",
+                    "height_min_f": "9",
+                    "height_max_f": "11",
+                    "height_min_m": "9",
+                    "height_max_m": "11",
+                    "height_display": "10-11 inches (male), 9-10 inches (female)",
+                    "weight_min_f": "8",
+                    "weight_max_f": "15",
+                    "weight_min_m": "8",
+                    "weight_max_m": "15",
+                    "weight_display": "9-15 pounds (male), 8-13 pounds (female)"
+                }
+            },
+            "markings": {
+                "coton-de-tulear": {
+                    "markings": [
+                        {
+                            "marking_index": 188,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "S",
+                            "cde_markings": "028",
+                            "markings_long": "Gray Markings",
+                            "markings_short": "GR MKGS"
+                        },
+                        {
+                            "marking_index": 189,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "S",
+                            "cde_markings": "107",
+                            "markings_long": "Yellow Markings",
+                            "markings_short": "YLW MKGS"
+                        },
+                        {
+                            "marking_index": 190,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "A",
+                            "cde_markings": "024",
+                            "markings_long": "Tri Color Markings",
+                            "markings_short": "TRI MKGS"
+                        },
+                        {
+                            "marking_index": 191,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "coton-de-tulear": {
+                    "colors": [
+                        {
+                            "color_index": 650,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 651,
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "akc_code": "318",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "breed_club_name": "United States of America Coton de Tulear Club",
+                    "breed_club_url": "www.usactc.dog",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "United States of America Coton de Tulear Club",
+                    "national_breed_club_url": "www.usactc.dog",
+                    "breed_referral_contact_name": "Eileen Narieka",
+                    "breed_referral_contact_phone_number": "(484) 577-9740",
+                    "breed_referral_contact_email": "savmercer@aol.com",
+                    "breed_referral_contact_address": "1103 Snyder Dr\nLeesport, PA 19533-9001",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1496,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 82,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Formed in 1993, the United States of America Coton de Tulear Club is the official AKC Parent Club for the Coton."
+                        },
+                        {
+                            "id": 608,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 610,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 607,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 609,
+                            "breed_id": "82",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "coton-de-tulear": {
+                    "breed_name_url": "coton-de-tulear",
+                    "breed_name": "Coton de Tulear",
+                    "akc_org_history": "<p>Cotons de Tulear, named for the seaport town of Tulear, were once the preferred lapdog of the nobles of Madagascar. The island nation lies some 250 miles off the southeastern coast of Africa, but the population is primarily related not to African peoples but rather to those of Indonesia. Because of a bond with France that resulted from former colonial rule, Madagascar developed strong links with the French-speaking nations of western Africa. French is still widely spoken by Malagasy elites, hence their little white dog's French accent.</p>\n<p><br></p>\n<p>The island's aristocrats were jealous guardians of their fluffy little comedians, even passing laws that prohibited Coton ownership to commoners. 'They were also extremely reluctant to allow any of their pets to leave the island,' a canine historian wrote, 'with the result that these dogs remained isolated from the rest of the world and were breeding true for centuries.'</p>\n<p><br></p>\n<p>The Coton de Tulear's AKC breed standard begins with a tantalizing assertion: 'In Madagascar, the Coton de Tulear survived in packs in the wilderness, later to become a companion dog of the native Malagasy and Merina tribal nobles.' The standard stops short of explaining how these delightful lapdogs wound up fending for themselves on an isolated island. There are fanciful tales of a shipwreck off Madagascar and how a cargo of little white dogs swam ashore to safety, formed a feral pack, and mated with local dogs to create the Coton. (It's a wonderful story, and it might even be true. It is known that in the ancient world small white companion dogs, such as the Maltese, were luxury items avidly bartered by seafaring merchants around the Mediterranean and North Africa.)</p>\n<p><br></p>\n<p>The Coton lived in its splendid isolation until the 1960s, when French tourists discovered the breed. It was an immediate hit in Europe, where generations of selective breeding further refined the breed into the Coton we now know. The AKC registered its first Cotons de Tulear in 2014.</p>",
+                    "mp_history_job": "<p>Cotons were once the preferred pet of tribal nobles on Madagascar, the world\u00bfs fourth largest island. Though Madagascar lies some 250 miles off the southeastern coast of Africa, the population is primarily related not to African peoples but rather to those of Indonesia. Because of a bond with France that resulted from former colonial rule, the island developed strong links with the French-speaking nations of western Africa. French is still widely spoken by Malagasy elites, hence their little white dog's French accent.</p>",
+                    "did_you_know": "The Coton de Tulear is originally from Madagascar. The Coton is the \"Official Dog of Madagascar\" and is also known as the \"Royal Dog of Madagascar.\" | In its country of origin, the breed has been portrayed on a postage stamp. | The Coton de Tulear can compete in AKC Companion Events (Obedience, Rally, Tracking, and Agility). | The breed's name is from the French word Coton, meaning \"cotton,\" and from the Madagascan port of Tulear. | The name is pronounced cotawn day two-lee are. | The Coton de Tulear is AKC's 179th breed."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24132%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-standing-in-the-grass.jpg",
+                    "alt": "Coton de Tulear standing in the grass.",
+                    "caption": "Coton De Tulear",
+                    "credit": "\u00a9Dyrefotografi.dk - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-in-conformation.jpg",
+                    "alt": "Coton de Tulear at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulears-sitting.jpg",
+                    "alt": "Coton de Tulears sitting on a white background.",
+                    "caption": "",
+                    "credit": "Dorte Vilsgaard/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-running-outdoors-in-the-grass.jpg",
+                    "alt": "Coton de Tulear running outdoors in the grass.",
+                    "caption": "",
+                    "credit": "Uros Lunja / stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-head-portrait-1.jpg",
+                    "alt": "Coton de Tulear head portrait.",
+                    "caption": "",
+                    "credit": "\u00a9bina01 - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-at-the-2016-AKC-National-Championship.jpg",
+                    "alt": "Coton de Tulear at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-head-portrait.jpg",
+                    "alt": "Coton de Tulear outdoors looking up at the viewer surrounded by pink petals.",
+                    "caption": "",
+                    "credit": "Bettina Dam / 500px via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-leaping-over-an-agility-jump-outdoors.jpg",
+                    "alt": "Coton de Tulear leaping over an agility jump outdoors.",
+                    "caption": "",
+                    "credit": "cunfek/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-standing-in-the-grass-copy.jpg",
+                    "alt": "Coton de Tulear standing in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Dyrefotografi.dk - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-sitting-outdoors.jpg",
+                    "alt": "Coton de Tulear sitting outdoors perched on a rock.",
+                    "caption": "",
+                    "credit": "\u00a9CALLALLOO CANDCY - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-Illo-2.jpg",
+                "alt": "Coton de Tulear illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-puppy-outdoors.jpg",
+                "alt": "Coton de Tulear puppy standing in a meadow."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/coton-de-tulear",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Coton De Tulear",
+        "shopCta": false
+    }
+}

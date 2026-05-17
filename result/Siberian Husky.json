@@ -1,0 +1,1381 @@
+{
+    "settings": {
+        "current_breed": "siberian-husky",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/09/19083956/Siberian-Husky-Club-of-America-Health-Statement-2024-Final.pdf",
+                    "mp_health": "<p>Siberian Huskies are generally a healthy, relatively long-lived breed and can still be quite active into its senior years. While as in all breeds there are some health issues, such as cancer and arthritis, the majority of Siberian Huskies are healthy dogs. The incidence of hip dysplasia and eye disease is relatively low as is the incidence of two newly discovered neurologic diseases. Bred to pull a light load at a moderate pace over great distances in low temperatures on the least amount of food, they maintain a healthy weight on less food as compared to other breeds of the same size. This is an active breed and for optimum health they should be fed a high-quality protein-based food. A dog kept at optimum weight, and not overweight, lives a healthier longer life. He is by nature fastidiously clean and is free from body odor.</p>",
+                    "akc_org_health": "<p>Siberian Huskies are generally a healthy, relatively long-lived breed and can still be quite active into its senior years. While as in all breeds there are some health issues, such as cancer and arthritis, the majority of Siberian Huskies are healthy dogs. The incidence of hip dysplasia and eye disease is relatively low as is the incidence of two newly discovered neurologic diseases. Bred to pull a light load at a moderate pace over great distances in low temperatures on the least amount of food, they maintain a healthy weight on less food as compared to other breeds of the same size. This is an active breed and for optimum health they should be fed a high-quality protein-based food. A dog kept at optimum weight, and not overweight, lives a healthier longer life. He is by nature fastidiously clean and is free from body odor.</p>",
+                    "akc_org_nutrition": "<p>Feeding a high-quality dog food is essential for the Siberian's healthy skin and coat. Adjustments in the level of protein in the food is required for the working Siberian, based on the level of activity. In the summer months, a lower protein level may be appropriate, around 20 percent, while a dog working in harness in wintertime may need 32 percent protein. Monitor each individual Siberian, and adjust the amount and type of food as required. Be careful not to overfeed. Monitor the weight of each dog, and be selective about supplements.</p>",
+                    "akc_org_grooming": "<p>Siberian Huskies are considered a 'natural'\u009d breed. They are remarkably self-cleaning and often need only a few baths a year, unless being shown in conformation dog shows. Weekly brushings help keep the coat and skin in good condition. Siberians have a double coat'\u00bfan undercoat, and guard hair. The undercoat is shed twice a year, and it is important to continually 'rake out'\u009d the old coat, using a pin brush and metal comb. Pay close attention to the length of the nails, and keep them trimmed to prevent any foot problems. Siberians competing in conformation require a bit more selective grooming for the best presentation.</p>",
+                    "akc_org_exercise": "<p>Siberians are active, athletic dogs who need a lot of exercise. They are a working breed and happiest when they have a function to perform. Regular exercise is important both physically and mentally, and doing activities together strengthens the bond between dog and owner. Siberians were bred to run and will do so at every opportunity; it is vital to keep the dog on a leash, in harness, or in a fenced yard at all times. There are several AKC-sponsored activities that can be enjoyed by dog and owners'\u00bfrally, agility, and obedience are a few. A busy and active Siberian is a happy and healthy Siberian. This breed is also very adaptable, and for those who live in a more urban setting, daily walks or doggie play groups can provide great exercise.</p>",
+                    "akc_org_training": "<p>All breeds benefit from early socialization, basic obedience training, and learning good manners, and the Siberian Husky is no exception. For those owners who want to work their dogs in harness, training for this requires hours of dedication and patience. There are several good books available on training for the trail that provide advice and information on getting started. The best approach is to make all training exercises fun for both dog and handler. Siberians are very social, and regularly need the company of their people or other dogs; they are not suited to being left alone all day. Most importantly, Siberians have an overwhelming desire to run, and they should be on leash or in a securely fenced-in area at all times and never allowed off lead.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Siberian Husky Shaking Puppy Syndrome Type 1 (SPS1)",
+                    "test_4": "Siberian Husky Polyneuropathy Type 1 (SHPN1)",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Siberian Husky Shaking Puppy Syndrome Type 1 (SPS1) | Siberian Husky Polyneuropathy Type 1 (SHPN1)"
+                }
+            },
+            "basics": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "breed_name_oracle": "Siberian Husky",
+                    "matches_oracle": "Siberian Husky",
+                    "akc_code": "626",
+                    "breed_name_plural": "Siberian Huskies",
+                    "breed_nicknames": "Husky",
+                    "origin": "Siberia",
+                    "breed_group": "Working Group",
+                    "year_recognized": "1930",
+                    "life_expectancy": "12-14 years",
+                    "related_breeds": "Alaskan Malamute, Yakutian Laika, Akita, Chinook, Samoyed",
+                    "links": [],
+                    "popularity_2025": 30,
+                    "popularity_2024": 26,
+                    "popularity_2023": 24,
+                    "popularity_2022": 21,
+                    "popularity_2021": 19,
+                    "popularity_2020": 16,
+                    "popularity_2019": 15,
+                    "popularity_2018": 14,
+                    "popularity_2017": 12,
+                    "popularity_2016": 12,
+                    "popularity_2015": 12,
+                    "related_groups_characteristics": "Largest Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "alaskan-malamute",
+                        "yakutian-laika",
+                        "akita",
+                        "chinook",
+                        "samoyed"
+                    ],
+                    "related_breeds_items": {
+                        "alaskan-malamute": {
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "breed_name_oracle": "Alaskan Malamute",
+                            "matches_oracle": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "breed_name_plural": "Alaskan Malamutes",
+                            "breed_nicknames": "Mal",
+                            "origin": "Alaska",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1935",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Samoyed, Chinook, Lapponian Herder",
+                            "links": {
+                                "mp_url": "https://marketplace.akc.org/puppies/alaskan-malamute",
+                                "akc_url": "https://www.akc.org/dog-breeds/alaskan-malamute"
+                            },
+                            "popularity_2025": 81,
+                            "popularity_2024": 79,
+                            "popularity_2023": 71,
+                            "popularity_2022": 67,
+                            "popularity_2021": 68,
+                            "popularity_2020": 65,
+                            "popularity_2019": 65,
+                            "popularity_2018": 58,
+                            "popularity_2017": 59,
+                            "popularity_2016": 59,
+                            "popularity_2015": 54,
+                            "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds",
+                            "temperament": "loyal / playful / affectionate"
+                        },
+                        "yakutian-laika": {
+                            "breed_name_url": "yakutian-laika",
+                            "breed_name": "Yakutian Laika",
+                            "breed_name_oracle": "Yakutian Laika",
+                            "matches_oracle": "Yakutian Laika",
+                            "akc_code": "670",
+                            "breed_name_plural": "Yakutian Laikas",
+                            "breed_nicknames": "Yakuts",
+                            "origin": "Yakutia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Swedish Lapphund, Lapponian Herder, Alaskan Malamute, Samoyed, Siberian Husky",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / active / affectionate"
+                        },
+                        "akita": {
+                            "breed_name_url": "akita",
+                            "breed_name": "Akita",
+                            "breed_name_oracle": "Akita",
+                            "matches_oracle": "Akita",
+                            "akc_code": "630",
+                            "breed_name_plural": "Akitas",
+                            "breed_nicknames": "",
+                            "origin": "Japan",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1972",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Kai Ken, Kishu Ken, Hokkaido, Shiba Inu, Shikoku Ken",
+                            "links": {
+                                "mp_url": "https://marketplace.akc.org/puppies/akita",
+                                "akc_url": "https://akc.org/dog-breeds/akita/"
+                            },
+                            "popularity_2025": 62,
+                            "popularity_2024": 59,
+                            "popularity_2023": 58,
+                            "popularity_2022": 55,
+                            "popularity_2021": 52,
+                            "popularity_2020": 48,
+                            "popularity_2019": 47,
+                            "popularity_2018": 47,
+                            "popularity_2017": 47,
+                            "popularity_2016": 46,
+                            "popularity_2015": 46,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "dignified / courageous / profoundly loyal"
+                        },
+                        "chinook": {
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "breed_name_oracle": "Chinook",
+                            "matches_oracle": "Chinook",
+                            "akc_code": "653",
+                            "breed_name_plural": "Chinooks",
+                            "breed_nicknames": "Chinook",
+                            "origin": "United States",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2013",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Siberian Husky, Mastiff, Samoyed, Yakutian Laika, Alaskan Malamute",
+                            "links": [],
+                            "popularity_2025": 198,
+                            "popularity_2024": 182,
+                            "popularity_2023": 179,
+                            "popularity_2022": 180,
+                            "popularity_2021": 172,
+                            "popularity_2020": 186,
+                            "popularity_2019": 186,
+                            "popularity_2018": 190,
+                            "popularity_2017": 179,
+                            "popularity_2016": 175,
+                            "popularity_2015": 177,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "devoted / smart / patient"
+                        },
+                        "samoyed": {
+                            "breed_name_url": "samoyed",
+                            "breed_name": "Samoyed",
+                            "breed_name_oracle": "Samoyed",
+                            "matches_oracle": "Samoyed",
+                            "akc_code": "624",
+                            "breed_name_plural": "Samoyeds",
+                            "breed_nicknames": "Sammy, Sam, The Smiling Dog",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Norwegian Elkhound, Swedish Lapphund, Lapponian Herder",
+                            "links": [],
+                            "popularity_2025": 55,
+                            "popularity_2024": 53,
+                            "popularity_2023": 50,
+                            "popularity_2022": 53,
+                            "popularity_2021": 55,
+                            "popularity_2020": 56,
+                            "popularity_2019": 59,
+                            "popularity_2018": 59,
+                            "popularity_2017": 57,
+                            "popularity_2016": 65,
+                            "popularity_2015": 61,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / gentle / adaptable"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "temperament": "Loyal / Outgoing / mischievous",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "akc_org_blurb": "Siberian Husky, a thickly coated, compact sled dog of medium size and great endurance, was developed to work in packs, pulling light loads at moderate speeds over vast frozen expanses. Sibes are friendly, fastidious, and dignified.",
+                    "akc_org_about": "The graceful, medium-sized Siberian Husky's almond-shaped eyes can be either brown or blue'\u00bfand sometimes one of each'\u00bfand convey a keen but amiable and even mischievous expression. Quick and nimble-footed, Siberians are known for their powerful but seemingly effortless gait. Tipping the scales at no more than 60 pounds, they are noticeably smaller and lighter than their burly cousin, the Alaskan Malamute.\n\n\n\n As born pack dogs, they enjoy family life and get on well with other dogs. The Sibe's innate friendliness render them indifferent watchdogs. These are energetic dogs who can't resist chasing small animals, so secure running room is a must. An attractive feature of the breed: Sibes are naturally clean, with little doggy odor.",
+                    "mp_description": "Even if you're not planning on dog-sledding across Alaska, the Siberian Husky's agreeable, outgoing temperament make him a great addition to your family. The breed won America's heart in the 1920's, when teams of Siberians rushed serum to diphtheria-stricken Nome. The breed's willingness to work and love of exercise is matched with a friendly and gentle nature. These are sociable, energetic dogs and your Siberian Husky puppy will love being a member of your pack, including kids and dogs."
+                }
+            },
+            "standards": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "title_1": "General Appearance",
+                    "description_1": "The Siberian Husky is a medium-sized working dog, quick and light on his feet and free and graceful in action. His moderately compact and well furred body, erect ears and brush tail suggest his Northern heritage. His characteristic gait is smooth and seemingly effortless. He performs his original function in harness most capably, carrying a light load at a moderate speed over great distances. His body proportions and form reflect this basic balance of power, speed and endurance.",
+                    "title_2": "Head",
+                    "description_2": "Expression is keen, but friendly; interested and even mischievous. Eyes almond shaped, moderately spaced and set a trifle obliquely. Eyes may be brown or blue in color; one of each or parti-colored are acceptable. Faults - Eyes set too obliquely; set too close together. Ears of medium size, triangular in shape, close fitting and set high on the head. They are thick, well furred, slightly arched at the back, and strongly erect, with slightly rounded tips pointing straight up. Faults - Ears too large in proportion to the head; too wide set; not strongly erect.",
+                    "title_3": "Body",
+                    "description_3": "Neck medium in length, arched and carried proudly erect when dog is standing. When moving at a trot, the neck is extended so that the head is carried slightly forward. Faults-Neck too short and thick; neck too long. Chest deep and strong, but not too broad, with the deepest point being just behind and level with the elbows. The ribs are well sprung from the spine but flattened on the sides to allow for freedom of action.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulder blade is well laid back. The upper arm angles slightly backward from point of shoulder to elbow, and is never perpendicular to the ground. The muscles and ligaments holding the shoulder to the rib cage are firm and well developed. Forelegs - When standing and viewed from the front, the legs are moderately spaced, parallel and straight, with the elbows close to the body and turned neither in nor out. Viewed from the side, pasterns are slightly slanted, with the pastern joint strong, but flexible. Bone is substantial but never heavy. Length of the leg from elbow to ground is slightly more than the distance from the elbow to the top of withers. Dewclaws on forelegs may be removed. Feet oval in shape but not long. The paws are medium in size, compact and well furred between the toes and pads. The pads are tough and thickly cushioned. The paws neither turn in nor out when the dog is in natural stance.",
+                    "title_5": "Coat",
+                    "description_5": "The coat of the Siberian Husky is double and medium in length, giving a well furred appearance, but is never so long as to obscure the clean-cut outline of the dog. The undercoat is soft and dense and of sufficient length to support the outer coat. The guard hairs of the outer coat are straight and somewhat smooth lying, never harsh nor standing straight off from the body. It should be noted that the absence of the undercoat during the shedding season is normal. Trimming of whiskers and fur between the toes and around the feet to present a neater appearance is permissible.",
+                    "title_6": "Hindquarters",
+                    "description_6": "When standing and viewed from the rear, the hind legs are moderately spaced and parallel. The upper thighs are well muscled and powerful, the stifles well bent, the hock joint well-defined and set low to the ground. Dewclaws, if any, are to be removed.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "20",
+                    "height_max": "23.5",
+                    "weight_min": "35",
+                    "weight_max": "60",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/SiberianHusky.pdf",
+                    "height_min_f": "20",
+                    "height_max_f": "23.5",
+                    "height_min_m": "20",
+                    "height_max_m": "23.5",
+                    "height_display": "21-23.5 inches (male), 20-22 inches (female)",
+                    "weight_min_f": "35",
+                    "weight_max_f": "60",
+                    "weight_min_m": "35",
+                    "weight_max_m": "60",
+                    "weight_display": "45-60 pounds (male), 35-50 pounds (female)"
+                }
+            },
+            "markings": {
+                "siberian-husky": {
+                    "markings": [
+                        {
+                            "marking_index": 440,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "A",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        },
+                        {
+                            "marking_index": 441,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "cde_markings": "083",
+                            "markings_long": "Saddle-Back",
+                            "markings_short": "SDL-BCK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "siberian-husky": {
+                    "colors": [
+                        {
+                            "color_index": 1459,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "001",
+                            "color_long": "Agouti & White",
+                            "color_short": "AGT & WH"
+                        },
+                        {
+                            "color_index": 1460,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1461,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "105",
+                            "color_long": "Gray & White",
+                            "color_short": "GR & WH"
+                        },
+                        {
+                            "color_index": 1462,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 1463,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        },
+                        {
+                            "color_index": 1464,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1465,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "063",
+                            "color_long": "Brown & White",
+                            "color_short": "BR & WH"
+                        },
+                        {
+                            "color_index": 1466,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "030",
+                            "color_long": "Black Tan & White",
+                            "color_short": "BLK TN & WH"
+                        },
+                        {
+                            "color_index": 1467,
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "akc_code": "626",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "breed_club_name": "Siberian Husky Club of America, Inc.",
+                    "breed_club_url": "www.shca.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/06/21084504/Siberian-Husky-Club-Flier.pdf",
+                    "breed_rescue_url": "http://www.shcatrust.org/rescue.html",
+                    "national_breed_club": "Siberian Husky Club of America, Inc.",
+                    "national_breed_club_url": "www.shca.org",
+                    "breed_referral_contact_name": "Delbert Thacker",
+                    "breed_referral_contact_phone_number": "(262) 939-5335",
+                    "breed_referral_contact_email": "dtcorsecshca@yahoo.com",
+                    "breed_referral_contact_address": "3413 67TH DR\nUNION GROVE, WI 53182-9405",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.shca.org/shcahp4f.htm",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.shca.org/shcahp4e.htm",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.shcatrust.org/rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1637,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 223,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Founded in 1938, the Siberian Husky Club of America is the AKC Parent Club for the Siberian Husky."
+                        },
+                        {
+                            "id": 1172,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1174,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1171,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1173,
+                            "breed_id": "227",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "siberian-husky": {
+                    "breed_name_url": "siberian-husky",
+                    "breed_name": "Siberian Husky",
+                    "akc_org_history": "The Siberian Husky's compact body, well-furred coat, erect ears, and thick, sickle-shaped tail immediately suggest the breed's northern heritage. The breed's ancestors were originally bred in northeastern Asia by the Chukchi people and were kept as companion dogs for their families as well as endurance sled dogs.\n \n \n \n When changing climate conditions forced the semi-nomadic Chukchi to expand their hunting grounds or perish, they rose to the challenge by developing a sled dog capable of hauling light loads over vast expanses of frozen wasteland in sub-zero temperatures, with a minimum expenditure of energy. The Chukchi, isolated by from the rest of the world, were able to maintain the purity of their sled teams for many generations. The dogs they developed were the direct forerunners of today's Siberian Husky.\n \n \n \n Siberians caught the eye of the public when they began winning sled races in the early 1900s, but they made headlines in 1925 when a legendary musher Leonhard Seppala led a relay of Siberian Huskies 658 miles in only five and half days to rush a lifesaving serum to Nome, Alaska, where an epidemic of diphtheria had broken out. The thrilling 'serum run,'\u009d reported breathlessly in newspapers around the world, won Sibes a popularity that has not abated to this day. Balto, who was Seppala's lead dog on the final leg of the journey, remains one of the most honored hero dogs in canine history.\n \n \n \n Mushers still keep packs of sledding Siberians for fun and sport throughout North America. Less adventurous devotees of the breed simply enjoy the company of this sociable, gentle companion.",
+                    "mp_history_job": "These dogs were originally bred in northeastern Asia by the Chukchi people and were kept as companion dogs for their families as well as endurance sled dogs. They caught the eye of the public when they began winning sled races in the early 1900s, but they made headlines in 1925 when a relay of Siberian Huskies traveled 658 miles in only 5 and half days to rush a lifesaving serum to Nome, Alaska, where an epidemic of diphtheria had broken out.",
+                    "did_you_know": "Siberian Huskies originated by the Chukchi people of northeastern Asia as an endurance sled dog, capable of traveling long distances at moderate speed, carrying a light load in low temperatures with a minimum expenditure of energy. | In 1910, a team of Siberian Huskies driven by John \"Iron Man\" Johnson won the grueling 400-mile All Alaska Sweepstakes Race, and for the rest of the decade, the breed (particularly those bred and raced by Leonhard Seppala) captured most of the racing titles in Alaska. | In 1925, the city of Nome, AK was stricken by a diphtheria epidemic and dog teams of Siberians led heroic \"serum runs\" to retrieve antitoxins. | Siberian Huskies served valiantly in the Army's Arctic Search & Rescue Unit of the Air Transport Command during WWII and in the Byrd Antarctic expeditions."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25687%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop Siberian Husky Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/siberian-husky?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Siberian_Husky/siberian-husky",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-standing-outdoors-in-the-winter.jpg",
+                    "alt": "Siberian Husky standing outdoors in the winter.",
+                    "caption": "",
+                    "credit": "\u00a9Sergey Bogdanov - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Working-Group-David-0E9A1344.jpg",
+                    "alt": "Best of Breed: GCHS CH Karnovanda's Stephen Coldbear, Siberian Husky; Working Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-On-White-01.jpg",
+                    "alt": "Siberian Husky standing in three-quarter view facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-head-portrait-outdoors.jpg",
+                    "alt": "Siberian Husky head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Tatiana - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-On-White-03.jpg",
+                    "alt": "Siberian Husky lying in three-quarter view facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Huskies-together-outdoors-in-the-winter.jpg",
+                    "alt": "Siberian Huskies together outdoors in the winter.",
+                    "caption": "",
+                    "credit": "\u00a9Konstantin - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-Illo.jpg",
+                "alt": "Siberian Husky illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-Illo.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Siberian-Husky-puppies.jpg",
+                "alt": "Two Siberian Husky puppies laying side by side."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/siberian-husky",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Siberian Husky",
+        "shopCta": {
+            "title": "Shop Siberian Husky Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/siberian-husky?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Siberian_Husky/siberian-husky",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-Merchandise-Collection.png"
+        }
+    }
+}

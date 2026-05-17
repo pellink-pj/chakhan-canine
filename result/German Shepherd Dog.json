@@ -1,0 +1,1372 @@
+{
+    "settings": {
+        "current_breed": "german-shepherd-dog",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23143628/German-Shepherd-Dog-Health-Statement-December-2015.pdf",
+                    "mp_health": "<p>German Shepherd Dogs are generally a healthy breed. Like all breeds there may be some health issues, like hip and elbow dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of German Shepherd Dogs are healthy dogs.</p>",
+                    "akc_org_health": "<p>Most German Shepherds are healthy dogs. A responsible breeder will screen breeding stock for health conditions such as degenerative myelopathy and elbow and hip dysplasia. German Shepherd Dogs can experience bloat, a sudden and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to do should bloat occur.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Small pieces of biscuit or the dog's kibble can be used as treats for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary, although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The German Shepherd Dog has a medium-length, double coat consisting of a dense, harsh, and close-lying outer coat with a softer undercoat. The breed is easy to maintain, usually requiring just a quick brushing every few days or so to help remove loose hairs, but they do shed more profusely once or twice a year. During these periods, more frequent brushing will help control the amount of hair that ends up around the house and on the furniture. The German Shepherd only needs an occasional bath. It is important to trim or grind his nails every month if they are not worn down naturally, as overly long nails can cause pain and structural issues.</p>",
+                    "akc_org_exercise": "<p>As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical and mental well-being. A dog who is not exercised enough will become frustrated and likely to develop undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions in a safely fenced area. Remember to not let the dog off leash, as even the best-trained dog can become distracted and not follow every command. Participating in canine activities such as agility, herding, tracking, and dock diving provides excellent physical and mental exercise and is fun and rewarding for both dog and owner.</p>",
+                    "akc_org_training": "<p>Early socialization and puppy training classes are vital, and continuing obedience training will help ensure that the pup will grow to be an adaptable and well-mannered adult. The German Shepherd is a highly intelligent companion and an extraordinary worker. Consistency and positive, reward-based training will yield excellent results. He is extremely bonded to his people, so he is happiest when he lives with his family. He should be raised in the household and exposed to the family's activities. The German Shepherd Dog Club of America provides detailed training advice for owners on the club's website.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Temperament Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Temperament Test"
+                }
+            },
+            "basics": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "breed_name_oracle": "German Shepherd Dog",
+                    "matches_oracle": "German Shepherd Dog",
+                    "akc_code": "812",
+                    "breed_name_plural": "German Shepherd Dogs",
+                    "breed_nicknames": "GSD, Alsatian (U.K.)",
+                    "origin": "Germany",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1908",
+                    "life_expectancy": "12-14 years",
+                    "related_breeds": "Belgian Malinois, Czechoslovakian Vlciak, Belgian Sheepdog, Dutch Shepherd, Belgian Tervuren",
+                    "links": [],
+                    "popularity_2025": 4,
+                    "popularity_2024": 4,
+                    "popularity_2023": 4,
+                    "popularity_2022": 4,
+                    "popularity_2021": 4,
+                    "popularity_2020": 3,
+                    "popularity_2019": 2,
+                    "popularity_2018": 2,
+                    "popularity_2017": 2,
+                    "popularity_2016": 2,
+                    "popularity_2015": 2,
+                    "related_groups_characteristics": "Smartest Breeds of Dogs, Best Guard Dogs",
+                    "related_breeds_items_url": [
+                        "belgian-malinois",
+                        "czechoslovakian-vlciak",
+                        "belgian-sheepdog",
+                        "dutch-shepherd",
+                        "belgian-tervuren"
+                    ],
+                    "related_breeds_items": {
+                        "belgian-malinois": {
+                            "breed_name_url": "belgian-malinois",
+                            "breed_name": "Belgian Malinois",
+                            "breed_name_oracle": "Belgian Malinois",
+                            "matches_oracle": "Belgian Malinois",
+                            "akc_code": "802",
+                            "breed_name_plural": "Belgian Malinois",
+                            "breed_nicknames": "",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Belgian Sheepdog, Belgian Tervuren, Dutch Shepherd, Schipperke, Belgian Laekenois",
+                            "links": [],
+                            "popularity_2025": 32,
+                            "popularity_2024": 33,
+                            "popularity_2023": 33,
+                            "popularity_2022": 32,
+                            "popularity_2021": 36,
+                            "popularity_2020": 37,
+                            "popularity_2019": 41,
+                            "popularity_2018": 43,
+                            "popularity_2017": 44,
+                            "popularity_2016": 47,
+                            "popularity_2015": 51,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "confident / smart / hardworking"
+                        },
+                        "czechoslovakian-vlciak": {
+                            "breed_name_url": "czechoslovakian-vlciak",
+                            "breed_name": "Czechoslovakian Vlciak",
+                            "breed_name_oracle": "Czechoslovakian Vlciak",
+                            "matches_oracle": "Czechoslovakian Vlciak",
+                            "akc_code": "663",
+                            "breed_name_plural": "Czechoslovakian Vlcaks",
+                            "breed_nicknames": "Vlcak",
+                            "origin": "Czechoslovakia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "German Shepherd Dog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "loyal / intelligent / active"
+                        },
+                        "belgian-sheepdog": {
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "breed_name_oracle": "Belgian Sheepdog",
+                            "matches_oracle": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "breed_name_plural": "Belgian Sheepdogs",
+                            "breed_nicknames": "Belgian, aka Groenendael (Europe)",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1912",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Belgian Laekenois, Belgian Tervuren, Bouvier des Flandres, Dutch Shepherd, Belgian Malinois",
+                            "links": [],
+                            "popularity_2025": 120,
+                            "popularity_2024": 131,
+                            "popularity_2023": 124,
+                            "popularity_2022": 125,
+                            "popularity_2021": 129,
+                            "popularity_2020": 117,
+                            "popularity_2019": 128,
+                            "popularity_2018": 125,
+                            "popularity_2017": 120,
+                            "popularity_2016": 129,
+                            "popularity_2015": 120,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "bright / watchful / serious-minded"
+                        },
+                        "dutch-shepherd": {
+                            "breed_name_url": "dutch-shepherd",
+                            "breed_name": "Dutch Shepherd",
+                            "breed_name_oracle": "Dutch Shepherd",
+                            "matches_oracle": "Dutch Shepherd",
+                            "akc_code": "863",
+                            "breed_name_plural": "Dutch Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Belgian Malinois, Belgian Tervuren, Belgian Sheepdog, Belgian Laekenois, Croatian Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / lively / athletic"
+                        },
+                        "belgian-tervuren": {
+                            "breed_name_url": "belgian-tervuren",
+                            "breed_name": "Belgian Tervuren",
+                            "breed_name_oracle": "Belgian Tervuren",
+                            "matches_oracle": "Belgian Tervuren",
+                            "akc_code": "804",
+                            "breed_name_plural": "Belgian Tervuren",
+                            "breed_nicknames": "Terv",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Belgian Sheepdog, Beauceron, Dutch Shepherd, Belgian Laekenois, Belgian Malinois",
+                            "links": [],
+                            "popularity_2025": 115,
+                            "popularity_2024": 107,
+                            "popularity_2023": 102,
+                            "popularity_2022": 104,
+                            "popularity_2021": 103,
+                            "popularity_2020": 106,
+                            "popularity_2019": 105,
+                            "popularity_2018": 106,
+                            "popularity_2017": 103,
+                            "popularity_2016": 107,
+                            "popularity_2015": 98,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "alert / intelligent / courageous"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "temperament": "courageous / confident / smart",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "akc_org_blurb": "Generally considered dogkind's finest all-purpose worker, the German Shepherd Dog is a large, agile, muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady, the German Shepherd is truly a dog lover's delight.",
+                    "akc_org_about": "German Shepherd Dogs can stand as high as 26 inches at the shoulder and, when viewed in outline, presents a picture of smooth, graceful curves rather than angles. The natural gait is a free-and-easy trot, but they can turn it up a notch or two and reach great speeds.\n\n\n\n There are many reasons why German Shepherds stand in the front rank of canine royalty, but experts say their defining attribute is character: loyalty, courage, confidence, the ability to learn commands for many tasks, and the willingness to put their life on the line in defense of loved ones. German Shepherds will be gentle family pets and steadfast guardians, but, the breed standard says, there's a 'certain aloofness that does not lend itself to immediate and indiscriminate friendships.'\u009d",
+                    "mp_description": "Few dogs have such ardent fans as the German Shepherd, one of the most popular breeds in the U.S. These fearless working dogs are beloved for their loyalty, courage and intelligence. They make not only excellent police and guard dogs, but can be affectionate playful family companions. German Shepherd puppies take well to early socialization and training. They're smart dogs who can learn dozens of commands and take on numerous canine jobs. They also have a protective nature, ready to defend their family, so training is very important. This muscular, agile dog thrives on lots of exercise for both mind and body and will reward you with love and devotion."
+                }
+            },
+            "standards": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "title_1": "General Appearance",
+                    "description_1": "The first impression of a good German Shepherd Dog is that of a strong, agile, well muscled animal, alert and full of life. It is well balanced, with harmonious development of the forequarter and hindquarter. The dog is longer than tall, deep-bodied, and presents an outline of smooth curves rather than angles. It looks substantial and not spindly, giving the impression, both at rest and in motion, of muscular fitness and nimbleness without any look of clumsiness or soft living. The ideal dog is stamped with a look of quality and nobility - difficult to define, but unmistakable when present. Secondary sex characteristics are strongly marked, and every animal gives a definite impression of masculinity or femininity, according to its sex.",
+                    "title_2": "Head",
+                    "description_2": "The head is noble, cleanly chiseled, strong without coarseness, but above all not fine, and in proportion to the body. The head of the male is distinctly masculine, and that of the bitch distinctly feminine. The expression keen, intelligent and composed. Eyes of medium size, almond shaped, set a little obliquely and not protruding. The color is as dark as possible. Ears are moderately pointed, in proportion to the skull, open toward the front, and carried erect when at attention, the ideal carriage being one in which the center lines of the ears, viewed from the front, are parallel to each other and perpendicular to the ground.",
+                    "title_3": "Body",
+                    "description_3": "The neck is strong and muscular, clean-cut and relatively long, proportionate in size to the head and without loose folds of skin. When the dog is at attention or excited, the head is raised and the neck carried high; otherwise typical carriage of the head is forward rather than up and but little higher than the top of the shoulders, particularly in motion. Topline- The withers are higher than and sloping into the level back. The back is straight, very strongly developed without sag or roach, and relatively short. The whole structure of the body gives an impression of depth and solidity without bulkiness.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulder blades are long and obliquely angled, laid on flat and not placed forward. The upper arm joins the shoulder blade at about a right angle. Both the upper arm and the shoulder blade are well muscled. The forelegs, viewed from all sides, are straight and the bone oval rather than round.",
+                    "title_5": "Coat",
+                    "description_5": "The ideal dog has a double coat of medium length. The outer coat should be as dense as possible, hair straight, harsh and lying close to the body. A slightly wavy outer coat, often of wiry texture, is permissible. The head, including the inner ear and foreface, and the legs and paws are covered with short hair, and the neck with longer and thicker hair. The rear of the forelegs and hind legs has somewhat longer hair extending to the pastern and hock, respectively.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The whole assembly of the thigh, viewed from the side, is broad, with both upper and lower thigh well muscled, forming as nearly as possible a right angle. The upper thigh bone parallels the shoulder blade while the lower thigh bone parallels the upper arm. The metatarsus (the unit between the hock joint and the foot) is short, strong and tightly articulated.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "26",
+                    "weight_min": "50",
+                    "weight_max": "90",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GermanShepherdDog.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "26",
+                    "height_min_m": "22",
+                    "height_max_m": "26",
+                    "height_display": "24-26 inches (male), 22-24 inches (female)",
+                    "weight_min_f": "50",
+                    "weight_max_f": "90",
+                    "weight_min_m": "50",
+                    "weight_max_m": "90",
+                    "weight_display": "65-90 pounds (male), 50-70 pounds (female)"
+                }
+            },
+            "colors": {
+                "german-shepherd-dog": {
+                    "colors": [
+                        {
+                            "color_index": 1736,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1737,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "010",
+                            "color_long": "Black & Cream",
+                            "color_short": "BLK & CR"
+                        },
+                        {
+                            "color_index": 1738,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "014",
+                            "color_long": "Black & Red",
+                            "color_short": "BLK & RD"
+                        },
+                        {
+                            "color_index": 1739,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "016",
+                            "color_long": "Black & Silver",
+                            "color_short": "BLK & SLVR"
+                        },
+                        {
+                            "color_index": 1740,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1741,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1742,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "164",
+                            "color_long": "Sable",
+                            "color_short": "SBL"
+                        },
+                        {
+                            "color_index": 1743,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1744,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 1745,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1746,
+                            "breed_name_url": "german-shepherd-dog",
+                            "breed_name": "German Shepherd Dog",
+                            "akc_code": "812",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "454",
+                            "color_long": "Bi-Color",
+                            "color_short": "BI-COL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "breed_club_name": "German Shepherd Dog Club of America",
+                    "breed_club_url": "www.gsdca.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2025/07/14144450/German-Shepherd-Club-Flyer-060525.pdf",
+                    "breed_rescue_url": "http://www.agsra.org",
+                    "national_breed_club": "German Shepherd Dog Club of America",
+                    "national_breed_club_url": "www.gsdca.org",
+                    "breed_referral_contact_name": "Janeane Cappara",
+                    "breed_referral_contact_phone_number": "(440) 227-1111",
+                    "breed_referral_contact_email": "jrcappara@gmail.com",
+                    "breed_referral_contact_address": "7799 KING MEMORIAL RD\nMENTOR, OH 44060-7324",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.gsdca.org/join-the-gsdca/regional-clubs",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.agsra.org",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1527,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 113,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. The German Shepherd Dog Club of America, formed in 1913, is the AKC Parent Club representing the breed. Those interested in adopting a rescue can browse the list of affiliated rescues on the American German Shepherd Rescue Association's website."
+                        },
+                        {
+                            "id": 732,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 734,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 731,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 733,
+                            "breed_id": "113",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "german-shepherd-dog": {
+                    "breed_name_url": "german-shepherd-dog",
+                    "breed_name": "German Shepherd Dog",
+                    "akc_org_history": "<p>The German Shepherd Dog (Deutshe SSch\u00e4ferhund) descends from the family of German herding dogs that, until the late 19th century, varied in type from district to district.&nbsp;</p>\n<p><br></p>\n<p>In the waning years of the 1800s, a German cavalry officer, Captain Max von Stephanitz, made it his mission to develop the ideal German herder. Von Stephanitz and like-minded breeders crossed various strains from the northern and central districts of Germany, resulting in the ancestors of today's German Shepherd Dog (GSD).&nbsp;</p>\n<p><br></p>\n<p>Von Stephanitz co-founded the world's first club devoted to GSDs and spent 35 years promoting and refining the breed. Today, the GSD's versatility is so thoroughly deployed in the performance of myriad tasks that it is easy to forget that the breed was originally created to herd sheep. The GSD's now-famous qualities-intelligence, agility, speed, stealth, and the overall air of firm authority-were forged not in the police academy but in the sheep pasture.</p>\n<p><br></p>\n<p>GSDs became popular in the United States in the early 1900s, thanks in part to the adventures of canine movie stars Rin-Tin-Tin and Strongheart. The GSD is among those German breeds, the Dachshund is another, that suffered from anti-German sentiment during and after the world wars. In World War I-era Britain, the breed was referred to as the Alsatian, a name many British dog lovers still prefer.&nbsp;</p>\n<p><br></p>\n<p>&nbsp;With the rise of modern livestock management and the decline of herding as a canine occupation, von Stephanitz shrewdly promoted his breed as an ideal K-9 worker. The GSD is today the preferred dog for police and military units the world over.</p>",
+                    "mp_history_job": "<p>German Shepherd Dogs were developed in the waning years of the 19th century by Captain Max von Stephanitz, a German cavalry officer, through judicious crosses of older farming and herding breeds of Continental Europe. GSDs became popular in the United States in the early 1900s, thanks in part to the adventures of canine movie stars Rin-Tin-Tin and Strongheart. Since then, the GSD's versatility, brains, and steady temperament have made it the preferred breed for police and military K-9 units the world over.</p>",
+                    "did_you_know": "The German Shepherd Dog is distinguished for loyalty, courage, and the ability to assimilate and retain training for a number of special services; he is not pugnacious, as his reputation posits him to be, but a bold and punishing fighter if need be. | German Shepherd Dogs are utilized often as police dogs, service dogs, agility dogs, conformation animals, obedience dogs, and sentinels. Their high trainability and extreme loyalty and commitment make them an excellent choice for any agenda. | The German Shepherd Dog has been in the public eye and media many times, recognizable as \"Rin Tin Tin\" and other canine characters. | The German Shepherd Dog is one of the most popular and recognizable breeds of the AKC. | In terms of show presentation, the German Shepherd Dog has a unique stack or \"pose\", featuring one rear leg under the body and one extended, as opposed to conventional \"square\" stacks (parallel front and rear) or extended stacks. | The German Shepherd Dog does not give affection lightly and is known for his dignity and stature; it is also known as a \"one-man\" breed for its tendency to display serious loyalty and fidelity, especially to its owner or main caretaker."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775369586",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24451%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop German Shepherd Dog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/german-shepherd-dog?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=German_Shepherd_Dog/german-shepherd-dog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/GSD-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg",
+                    "alt": "German Shepherd Dog lying in three-quarter view with front paws crossed.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/IMG_0462.jpg",
+                    "alt": "Best of Breed: GCHS CH Stuttgart's Now Don'T Refuse Me Of Masrock, German Shepherd Dog; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-running.jpg",
+                    "alt": "German Shepherd Dog running in a field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-On-White-03-1-1.jpg",
+                    "alt": "German Shepherd Dog standing sideways facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-obedience-course.1.jpg",
+                    "alt": "German Shepherd Dog navigating an obedience course.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-wearing-a-police-vest-laying-down-outdoors.20190822202511377.jpg",
+                    "alt": "German Shepherd Dog wearing a police vest laying down outdoors.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd.jpg",
+                    "alt": "German Shepherd Dog laying in the snow guarding a flock of sheep and horse grazing.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-obedience-course.jpg",
+                    "alt": "German Shepherd Dog navigating an obedience course.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-Illo-2.jpg",
+                "alt": "German Shepherd Dog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-puppies.jpg",
+                "alt": "Three German Shepherd puppies sitting side by side."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "http://marketplace.akc.org/puppies/german-shepherd-dog",
+                "is_external": true
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "German Shepherd Dog",
+        "shopCta": {
+            "title": "Shop German Shepherd Dog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/german-shepherd-dog?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=German_Shepherd_Dog/german-shepherd-dog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/GSD-Merchandise-Collection.png"
+        }
+    }
+}

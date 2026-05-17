@@ -1,0 +1,1544 @@
+{
+    "settings": {
+        "current_breed": "chinese-shar-pei",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Chinese-Shar-Pei.pdf",
+                    "mp_health": "<p>Choose a veterinarian who is knowledgeable about Shar-Pei. Ask your breeder about local vets or contact members of your local Shar-Pei club. Don't forget routine vaccinations, rabies shots and regular checkups. Shar-Pei thrive on high quality dog kibble. Some Shar-Pei have various food and other allergies.</p>",
+                    "akc_org_health": "<p>There are some unusual and specific health concerns in the Chinese Shar-Pei breed. One of the major problem areas is the eyes; eye disorders including entropion, glaucoma, retinal dysplasia, and SARDS are known to occur in the breed. Other conditions that can occur include respiratory, cardiovascular, musculoskeletal, immune-mediated, skin, and gastrointestinal disorders, and certain cancers. The website of the breed's national parent club, the Chinese Shar-Pei Club of America, provides detailed breed-health information for owners.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the Chinese Shar-Pei needs. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The Chinese Shar-Pei requires only minimal grooming. They need a bath only every month or so. Nails should be trimmed once a week, ideally using a grinder. The ears should be cleaned weekly, but don't overdo the products. The pup should be accustomed at a young age to having his ears cleaned regularly. Do not use cotton swabs, and do not use hydrogen peroxide. The best way to clean the ear canal is to \"float'\u009d debris out of the canal using an ear-cleaning solution. A wide variety of good solutions are available on the market and from the veterinarian.</p>",
+                    "akc_org_exercise": "<p>Individual dogs Shar-Pei vary in their exercise needs. This is a very adaptable breed. They can do well with a very active owner, walking every day, or living in an apartment with a few short walks. The breed also exercises mind and body by participating in obedience, tracking, agility, rally, and other activities that can be enjoyed by dog and owner.</p>",
+                    "akc_org_training": "<p>One breed expert says, 'Get a jump-start on basic obedience, and don't let the dog be the boss!'\u009d Shar-Pei are smart and willing, but sometimes they are stubborn and a bit too smart, thinking of new ways to do things you may not be thrilled with. If you teach them with love and consistency, however, they are a joy. Early socialization and puppy training classes are recommended and help to ensure that the Shar-Pei grows into a well-adjusted, well-mannered companion.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Elbow Evaluation",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Thyroid Evaluation",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "breed_name_oracle": "Chinese Shar-Pei",
+                    "matches_oracle": "Chinese Shar-Pei",
+                    "akc_code": "314",
+                    "breed_name_plural": "Chinese Shar-Pei",
+                    "breed_nicknames": "Shar-Pei",
+                    "origin": "China",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1992",
+                    "life_expectancy": "8-12 years",
+                    "related_breeds": "Chow Chow, Pug, Thai Ridgeback, Shiba Inu, Tibetan Mastiff",
+                    "links": [],
+                    "popularity_2025": 80,
+                    "popularity_2024": 83,
+                    "popularity_2023": 70,
+                    "popularity_2022": 68,
+                    "popularity_2021": 64,
+                    "popularity_2020": 61,
+                    "popularity_2019": 66,
+                    "popularity_2018": 64,
+                    "popularity_2017": 64,
+                    "popularity_2016": 61,
+                    "popularity_2015": 59,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "chow-chow",
+                        "pug",
+                        "thai-ridgeback",
+                        "shiba-inu",
+                        "tibetan-mastiff"
+                    ],
+                    "related_breeds_items": {
+                        "chow-chow": {
+                            "breed_name_url": "chow-chow",
+                            "breed_name": "Chow Chow",
+                            "breed_name_oracle": "Chow Chow",
+                            "matches_oracle": "Chow Chow",
+                            "akc_code": "303",
+                            "breed_name_plural": "Chow Chow",
+                            "breed_nicknames": "Chow",
+                            "origin": "China",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1903",
+                            "life_expectancy": "8-12 years",
+                            "related_breeds": "Chinese Shar-Pei, Tibetan Mastiff, Hokkaido, Shiba Inu, Akita",
+                            "links": [],
+                            "popularity_2025": 94,
+                            "popularity_2024": 88,
+                            "popularity_2023": 88,
+                            "popularity_2022": 92,
+                            "popularity_2021": 80,
+                            "popularity_2020": 84,
+                            "popularity_2019": 78,
+                            "popularity_2018": 75,
+                            "popularity_2017": 76,
+                            "popularity_2016": 74,
+                            "popularity_2015": 73,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "dignified / bright / serious-minded"
+                        },
+                        "pug": {
+                            "breed_name_url": "pug",
+                            "breed_name": "Pug",
+                            "breed_name_oracle": "Pug",
+                            "matches_oracle": "Pug",
+                            "akc_code": "512",
+                            "breed_name_plural": "Pugs",
+                            "breed_nicknames": "Multum in Parvo",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Pekingese, Japanese Chin, French Bulldog, Boston Terrier, Shih Tzu",
+                            "links": [],
+                            "popularity_2024": 38,
+                            "popularity_2023": 36,
+                            "popularity_2022": 35,
+                            "popularity_2021": 33,
+                            "popularity_2020": 29,
+                            "popularity_2019": 31,
+                            "popularity_2018": 28,
+                            "popularity_2017": 31,
+                            "popularity_2016": 32,
+                            "popularity_2015": 33,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "charming / loving / mischievous"
+                        },
+                        "thai-ridgeback": {
+                            "breed_name_url": "thai-ridgeback",
+                            "breed_name": "Thai Ridgeback",
+                            "breed_name_oracle": "Thai Ridgeback",
+                            "matches_oracle": "Thai Ridgeback",
+                            "akc_code": "436",
+                            "breed_name_plural": "Thai Ridgeback",
+                            "breed_nicknames": "",
+                            "origin": "Thailand",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "14-15 years",
+                            "related_breeds": "Rhodesian Ridgeback",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds, Best Guard Dogs",
+                            "temperament": "Loyal / Alert / Intelligent"
+                        },
+                        "shiba-inu": {
+                            "breed_name_url": "shiba-inu",
+                            "breed_name": "Shiba Inu",
+                            "breed_name_oracle": "Shiba Inu",
+                            "matches_oracle": "Shiba Inu",
+                            "akc_code": "315",
+                            "breed_name_plural": "Shiba Inu",
+                            "breed_nicknames": "Shiba",
+                            "origin": "Japan",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1992",
+                            "life_expectancy": "13-16 years",
+                            "related_breeds": "Akita, Kishu Ken, Kai Ken, Shikoku Ken, Hokkaido",
+                            "links": [],
+                            "popularity_2025": 44,
+                            "popularity_2024": 42,
+                            "popularity_2023": 46,
+                            "popularity_2022": 43,
+                            "popularity_2021": 42,
+                            "popularity_2020": 43,
+                            "popularity_2019": 45,
+                            "popularity_2018": 44,
+                            "popularity_2017": 45,
+                            "popularity_2016": 44,
+                            "popularity_2015": 45,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / active / attentive"
+                        },
+                        "tibetan-mastiff": {
+                            "breed_name_url": "tibetan-mastiff",
+                            "breed_name": "Tibetan Mastiff",
+                            "breed_name_oracle": "Tibetan Mastiff",
+                            "matches_oracle": "Tibetan Mastiff",
+                            "akc_code": "640",
+                            "breed_name_plural": "Tibetan Mastiffs",
+                            "breed_nicknames": "TM",
+                            "origin": "Tibet",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2006",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Spanish Mastiff, Mastiff, Pyrenean Mastiff",
+                            "links": [],
+                            "popularity_2025": 142,
+                            "popularity_2024": 148,
+                            "popularity_2023": 143,
+                            "popularity_2022": 137,
+                            "popularity_2021": 147,
+                            "popularity_2020": 140,
+                            "popularity_2019": 130,
+                            "popularity_2018": 131,
+                            "popularity_2017": 153,
+                            "popularity_2016": 135,
+                            "popularity_2015": 133,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "reserved / independent / intelligent"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "temperament": "independent / loyal / calm",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "akc_org_blurb": "This fascinating but challenging breed of ancient pedigree is steadfastly loyal to family, but standoffish with strangers. The Chinese Shar-Pei has physical characteristics that make him a one-of-a-kind companion and guardian dog.",
+                    "akc_org_about": "The compact, medium-sized Chinese Shar-Pei is an amalgam of odd physical traits: a broad 'hippopotamus'\u009d muzzle; a blue-black tongue; small, sunken eyes with a scowling expression; tiny triangular ears; abundant folds of loose skin about the head, neck, and shoulders; the tapered high-set tail'\u00bfall blanketed by a harsh, sandpapery coat. (A literal translation of Shar-Pei: 'sand skin.'\u009d)\n\n\n\n Shar-Pei are strong, regal, independent guardians famous for intelligence and loyalty. They are suspicious of strangers and other dogs. Shar-Pei are serene dogs, but they will meet a perceived threat with tenacity and vigor. Early training and socialization are essential'\u00bfa dominant adult Shar-Pei without them is a serious problem waiting to happen.",
+                    "mp_description": "There is no mistaking the Chinese Shar-Pei for any other breed. With his wrinkled face, deep folds of skin, tiny ears, blue-black tongue and sandpaper-like coat, this ancient breed is certainly distinctive. These are intelligent and independent dogs, with strong protective instincts. Your Chinese Shar-Pei puppy, as cute as he is, needs early socialization and training. He'll quickly grow into a fiercely loyal adult dog, wary of other dogs and strangers and quick to react to any perceived threat. He'll do best with owners who are up to the challenge of training and caring for such a bright, strong-willed, substantial dog."
+                }
+            },
+            "standards": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "title_1": "General Appearance",
+                    "description_1": "An alert, compact dog of medium size and substance; square in profile, close coupled; the well-proportioned head slightly but not overly large for the body. The short, harsh coat, the loose skin covering the head and body, the small ears, the \"hippopotamus\" muzzle shape and the high set tail impart to the Shar-Pei a unique look peculiar to him alone. The loose skin and wrinkles covering the head, neck and body are superabundant in puppies but these features may be limited to the head, neck and withers in the adult.",
+                    "title_2": "Head",
+                    "description_2": "The head is large, slightly, but not overly, proudly carried and covered with profuse wrinkles on the forehead continuing into side wrinkles framing the face. Eyes - Dark, small, almond-shaped and sunken, displaying a scowling expression. In the dilute colored dogs the eye color may be lighter. Ears - extremely small, rather thick, equilateral triangles in shape, slightly rounded at the tips; edges of the ear may curl. Ears lie flat against the head, are set high, wide apart and forward on the skull, pointing toward the eyes. The ears have the ability to move.",
+                    "title_3": "Body",
+                    "description_3": "Neck - medium length, full and set well into the shoulders. There are moderate to heavy folds of loose skin and abundant dewlap about the neck and throat. The topline dips slightly behind the withers, slightly rising over the short, broad loin. A level, roach or swayed topline/backline shall be faulted. Chest - broad and deep with the brisket extending to the elbow and rising slightly under the loin. Back - short and close-coupled. Croup - flat, with the base of the tail set extremely high, clearly exposing an up-tilted anus. Tail - the high set tail is a characteristic feature of the Shar-Pei. A low set tail shall be faulted. The tail is thick and round at the base, tapering to a fine point and curling over or to either side of the back.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - muscular, well laid back and sloping. Forelegs - when viewed from the front, straight moderately spaced, with elbows close to the body. When viewed from the side, the forelegs are straight, the pasterns are strong and flexible. The bone is substantial but never heavy and is of moderate length. Removal of front dewclaws is optional. Feet - moderate in size, compact and firmly set, not splayed.",
+                    "title_5": "Coat",
+                    "description_5": "The extremely harsh coat is one of the distinguishing features of the breed. The coat is absolutely straight and off standing on the main trunk of the body but generally lies somewhat flatter on the limbs. The coat appears healthy without being shiny or lustrous. Acceptable coat lengths may range from extremely short \"horse coat\" up to the \"brush coat,\" not to exceed 1 inch in length at the withers. A soft coat, a wavy coat, a coat in excess of one inch at the withers or a coat that has been trimmed is a major fault. The Shar-Pei is shown in its natural state.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Muscular, strong, and moderately angulated. The metatarsi (hocks) are short, perpendicular to the ground and parallel to each other when viewed from the rear. Hind dewclaws must be removed. Feet as in front.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "18",
+                    "height_max": "20",
+                    "weight_min": "45",
+                    "weight_max": "60",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/ChineseSharPei.pdf",
+                    "height_min_f": "18",
+                    "height_max_f": "20",
+                    "height_min_m": "18",
+                    "height_max_m": "20",
+                    "height_display": "18-20 inches",
+                    "weight_min_f": "45",
+                    "weight_max_f": "60",
+                    "weight_min_m": "45",
+                    "weight_max_m": "60",
+                    "weight_display": "45-60 pounds"
+                }
+            },
+            "markings": {
+                "chinese-shar-pei": {
+                    "markings": [
+                        {
+                            "marking_index": 172,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "128",
+                            "markings_long": "Mask",
+                            "markings_short": "MSK"
+                        },
+                        {
+                            "marking_index": 173,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        },
+                        {
+                            "marking_index": 174,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "071",
+                            "markings_long": "Spotted On White",
+                            "markings_short": "SPTD ON WH"
+                        },
+                        {
+                            "marking_index": 175,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "130",
+                            "markings_long": "Pointed",
+                            "markings_short": "PTD"
+                        },
+                        {
+                            "marking_index": 176,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 177,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 178,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "cde_markings": "131",
+                            "markings_long": "Saddle Pattern",
+                            "markings_short": "SDL PTRN"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "chinese-shar-pei": {
+                    "colors": [
+                        {
+                            "color_index": 599,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "473",
+                            "color_long": "Apricot Dilute",
+                            "color_short": "APCT DLUT"
+                        },
+                        {
+                            "color_index": 600,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 601,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "474",
+                            "color_long": "Blue Dilute",
+                            "color_short": "BL DLUT"
+                        },
+                        {
+                            "color_index": 602,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "475",
+                            "color_long": "Lilac Dilute",
+                            "color_short": "LI DLUT"
+                        },
+                        {
+                            "color_index": 603,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 604,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "476",
+                            "color_long": "Cream Dilute",
+                            "color_short": "CR DLUT"
+                        },
+                        {
+                            "color_index": 605,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 606,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "477",
+                            "color_long": "Chocolate Dilute",
+                            "color_short": "CHLT DLUT"
+                        },
+                        {
+                            "color_index": 607,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 608,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "478",
+                            "color_long": "Five Point Red Dilute",
+                            "color_short": "FIVE PT RD DLUT"
+                        },
+                        {
+                            "color_index": 609,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "150",
+                            "color_long": "Red Fawn",
+                            "color_short": "RD FN"
+                        },
+                        {
+                            "color_index": 610,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 611,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "479",
+                            "color_long": "Isabella Dilute",
+                            "color_short": "ISB DLUT"
+                        },
+                        {
+                            "color_index": 612,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "480",
+                            "color_long": "Black Sable",
+                            "color_short": "BLK SBL"
+                        },
+                        {
+                            "color_index": 613,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "348",
+                            "color_long": "Cream Sable",
+                            "color_short": "CR SBL"
+                        },
+                        {
+                            "color_index": 614,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "338",
+                            "color_long": "Fawn Sable",
+                            "color_short": "FN SBL"
+                        },
+                        {
+                            "color_index": 615,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "155",
+                            "color_long": "Red Sable",
+                            "color_short": "RD SBL"
+                        },
+                        {
+                            "color_index": 616,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 617,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 618,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "481",
+                            "color_long": "Blue Sable",
+                            "color_short": "BL SBL"
+                        },
+                        {
+                            "color_index": 619,
+                            "breed_name_url": "chinese-shar-pei",
+                            "breed_name": "Chinese Shar-Pei",
+                            "akc_code": "314",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "482",
+                            "color_long": "Brown Sable",
+                            "color_short": "BR SBL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "breed_club_name": "Chinese Shar-Pei Club of America, Inc.",
+                    "breed_club_url": "www.cspca.com",
+                    "breed_club_pdf_url": "http://cdn.akc.org/ChineseSharPei-club-flyer.pdf",
+                    "breed_rescue_url": "http://www.cspca.com/pdfs/rescuegroups.pdf",
+                    "national_breed_club": "Chinese Shar-Pei Club of America, Inc.",
+                    "national_breed_club_url": "www.cspca.com",
+                    "breed_referral_contact_name": "Paula Perry",
+                    "breed_referral_contact_phone_number": "(806) 392-4477",
+                    "breed_referral_contact_email": "paulapei@yahoo.com",
+                    "breed_referral_contact_address": "5245 Marshall St\nLubbock, TX 79416",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.cspca.com/pdfs/rescuegroups.pdf",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1489,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 75,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 580,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 582,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 579,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 581,
+                            "breed_id": "75",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "chinese-shar-pei": {
+                    "breed_name_url": "chinese-shar-pei",
+                    "breed_name": "Chinese Shar-Pei",
+                    "akc_org_history": "<p>For much of its long history China, vast and impregnable, was a closed society immune to outside influences. As such, China developed a culture unique to itself. This singularity is clearly seen in Chinese dog breeds. From the clownish Pug to the dignified Chow Chow, China's dogs are breeds apart, with their own look and feel. Among this ancient canine clan, perhaps none is as uniquely Chinese as the Shar-Pei.&nbsp;</p>\n<p><br></p>\n<p>Native to China's southern provinces, the Shar-Pei goes back more than 2,000 years to the Han Dynasty. It was believed to have been a peasant's dog, and in the manner of peasant's dogs in all times and places, the Shar-Pei was expected to be versatile. Chinese farmers employed these rugged, intelligent dogs as hunters, herders, and guardians of livestock against predators and rustlers.</p>\n<p><br></p>\n<p>The People's Republic of China was established in 1949. The Communist regime frowned on dog ownership and systematically slaughtered much of the mainland's purebred dog population. A few good specimens of the Shar-Pei were preserved, however, in Hong Kong and Taiwan.</p>\n<p><br></p>\n<p>The breed's documented U.S. history began in the mid-1960s, but American interest in the breed truly began in 1973. In that year, a Hong Kong breeder named Matgo Law appealed to the U.S. fancy to save the endangered Shar-Pei from extinction. The enthusiastic response from American dog lovers ensured the breed's survival. The AKC recognized the Chinese Shar-Pei in 1992.</p>",
+                    "mp_history_job": "<p>For much of its long history China, vast and impregnable, was a closed society immune to outside influences. As such, China developed a culture unique to itself. This singularity is clearly seen in Chinese dog breeds. From the clownish Pug to the dignified Chow Chow, China's dogs are breeds apart, with their own look and feel. Among this ancient canine clan, perhaps none is as uniquely Chinese as the Shar-Pei. The breed goes back 2,000 years and was used in various eras as fighters, guarders, hunters, and herders.</p>",
+                    "did_you_know": "The Chinese Shar-Pei is AKC's 134th breed. | Statues bearing a strong resemblance to the Shar-Pei have been discovered dating to ancient times, and Chinese manuscripts with references to \"wrinkled dogs\" exist. | The Shar-Pei, like the Chow-Chow, has a blue-black tongue; these are the only two breeds featuring this characteristic."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24031%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-standing-on-the-sidewalk.jpg",
+                    "alt": "Chinese Shar Pei standing on the sidewalk.",
+                    "caption": "",
+                    "credit": "\u00a9alexbush - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-running.20200208224754968.jpg",
+                    "alt": "Chinese Shar-Pei running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9Leah Caracino"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-in-conformation-at-the-AKC-National-Championship.jpg",
+                    "alt": "Chinese Shar-Pei at the AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-running-in-lure-coursing.20200208224621832.jpg",
+                    "alt": "Chinese Shar-Pei running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9Leah Caracino"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-On-White.jpg",
+                    "alt": "Chinese Shar-Pei standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "Thomas Pitera \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-at-the-AKC-National-Championship.jpg",
+                    "alt": "Chinese Shar-Pei at the AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "HOTdog \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-running-outdoors.20200208224720049.jpg",
+                    "alt": "Chinese Shar-Pei running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9Leah Caracino"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-Illo-2.jpg",
+                "alt": "Chinese Shar-Pei illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-MP.jpg",
+                "alt": "Chinese Shar-Pei"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/chinese-shar-pei",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Chinese Shar Pei",
+        "shopCta": false
+    }
+}

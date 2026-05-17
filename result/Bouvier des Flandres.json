@@ -1,0 +1,1445 @@
+{
+    "settings": {
+        "current_breed": "bouvier-des-flandres",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22111117/Bouvier-Health-Statement.pdf",
+                    "mp_health": "<p>Bouviers are a large breed and grow rapidly. A diet too high in protein can cause serious problems with bone growth. Limit heavy exercise while your puppy is growing. Exercise is healthy, but don\u00bft let, or force, your growing puppy to overdo it. Your Bouvier will be your loving companion for years to come. Puppyhood goes by quickly.</p>",
+                    "akc_org_health": "<p>Bouviers are generally healthy dogs, and responsible breeders will screen their stock for health conditions such as Bouvier des Flandres myopathy, cataracts, deafness, ectopic ureters, epilepsy, glaucoma, hip dysplasia, hypothyroidism, laryngeal paralysis, megaesophagus, elbow dysplasia, portosystemic shunt, and subaortic stenosis. Like all large and deep-chested breeds, the Bouvier can experience gastric dilatation and bloat. Owners should learn how identify this potentially life-threatening condition and learn what emergency steps to take to address it.</p>",
+                    "akc_org_nutrition": "<p>The Bouvier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior), and the Bouvier requires a diet lower in protein than most other breeds. Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Bouvier's coat needs brushing once or twice a week. A good slicker brush or pin brush and large comb will work for this. The beard may need cleaning at the same time, and the dog's toenails should be trimmed every week or two.</p>",
+                    "akc_org_exercise": "<p>The Bouvier was bred to do everything that needs doing in a barnyard and pasture except milk the cows. They are happiest when they stay busy. A bored Bouvier can be a very destructive one. They are an excellent fit for an active household with an owner who hikes or jogs or even bikes. The Bouvier needs a large, enclosed exercise area where he can romp and play, preferably with other dogs or kids who will keep him in good condition both mentally and physically. Heavy exercise should be limited while he is a growing puppy.</p>",
+                    "akc_org_training": "<p>The Bouvier is happiest when he has a job to do, whether that job is babysitting, herding, obedience, or guard dog or rescue work. Bouviers are easily trained to do almost any type of dog sport or activity, and they usually excel at it. They have a strong prey drive so should be well socialized from the start. They are consummate showmen and enjoy working or competing with their owner at their side. Extremely eager to please, once they know what you want them to do, they will do their best to satisfy you. This breed is well suited for search and rescue work and adapts to the training easily.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "breed_name_oracle": "Bouvier des Flandres",
+                    "matches_oracle": "Bouvier des Flandres",
+                    "akc_code": "806",
+                    "breed_name_plural": "Bouvier des Flandres",
+                    "breed_nicknames": "Bouvier, the Franco-Belgian Dog",
+                    "origin": "Flanders (France, Belgium, Netherlands)",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1931",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Belgian Tervuren, Briard, Black Russian Terrier, Giant Schnauzer, Dutch Shepherd",
+                    "links": [],
+                    "popularity_2025": 100,
+                    "popularity_2024": 101,
+                    "popularity_2023": 99,
+                    "popularity_2022": 98,
+                    "popularity_2021": 101,
+                    "popularity_2020": 94,
+                    "popularity_2019": 93,
+                    "popularity_2018": 84,
+                    "popularity_2017": 85,
+                    "popularity_2016": 83,
+                    "popularity_2015": 83,
+                    "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                    "related_breeds_items_url": [
+                        "belgian-tervuren",
+                        "briard",
+                        "black-russian-terrier",
+                        "giant-schnauzer",
+                        "dutch-shepherd"
+                    ],
+                    "related_breeds_items": {
+                        "belgian-tervuren": {
+                            "breed_name_url": "belgian-tervuren",
+                            "breed_name": "Belgian Tervuren",
+                            "breed_name_oracle": "Belgian Tervuren",
+                            "matches_oracle": "Belgian Tervuren",
+                            "akc_code": "804",
+                            "breed_name_plural": "Belgian Tervuren",
+                            "breed_nicknames": "Terv",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Belgian Sheepdog, Beauceron, Dutch Shepherd, Belgian Laekenois, Belgian Malinois",
+                            "links": [],
+                            "popularity_2025": 115,
+                            "popularity_2024": 107,
+                            "popularity_2023": 102,
+                            "popularity_2022": 104,
+                            "popularity_2021": 103,
+                            "popularity_2020": 106,
+                            "popularity_2019": 105,
+                            "popularity_2018": 106,
+                            "popularity_2017": 103,
+                            "popularity_2016": 107,
+                            "popularity_2015": 98,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "alert / intelligent / courageous"
+                        },
+                        "briard": {
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "breed_name_oracle": "Briard",
+                            "matches_oracle": "Briard",
+                            "akc_code": "808",
+                            "breed_name_plural": "Briards",
+                            "breed_nicknames": "Berger de Brie (France)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1928",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Schapendoes, Beauceron, Polish Lowland Sheepdog, Berger Picard, Pyrenean Shepherd",
+                            "links": [],
+                            "popularity_2025": 172,
+                            "popularity_2024": 145,
+                            "popularity_2023": 150,
+                            "popularity_2022": 151,
+                            "popularity_2021": 150,
+                            "popularity_2020": 150,
+                            "popularity_2019": 137,
+                            "popularity_2018": 132,
+                            "popularity_2017": 127,
+                            "popularity_2016": 132,
+                            "popularity_2015": 130,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "confident / smart / faithful"
+                        },
+                        "black-russian-terrier": {
+                            "breed_name_url": "black-russian-terrier",
+                            "breed_name": "Black Russian Terrier",
+                            "breed_name_oracle": "Black Russian Terrier",
+                            "matches_oracle": "Black Russian Terrier",
+                            "akc_code": "637",
+                            "breed_name_plural": "Black Russian Terriers",
+                            "breed_nicknames": "BRT, Blackie, Black Pearl of Russia",
+                            "origin": "Russia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2004",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Giant Schnauzer, Bouvier des Flandres, Newfoundland, Soft Coated Wheaten Terrier, Airedale Terrier",
+                            "links": [],
+                            "popularity_2025": 154,
+                            "popularity_2024": 127,
+                            "popularity_2023": 128,
+                            "popularity_2022": 128,
+                            "popularity_2021": 127,
+                            "popularity_2020": 126,
+                            "popularity_2019": 116,
+                            "popularity_2018": 118,
+                            "popularity_2017": 116,
+                            "popularity_2016": 119,
+                            "popularity_2015": 116,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "intelligent / calm / powerful"
+                        },
+                        "giant-schnauzer": {
+                            "breed_name_url": "giant-schnauzer",
+                            "breed_name": "Giant Schnauzer",
+                            "breed_name_oracle": "Giant Schnauzer",
+                            "matches_oracle": "Giant Schnauzer",
+                            "akc_code": "613",
+                            "breed_name_plural": "Giant Schnauzers",
+                            "breed_nicknames": "Giant",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Standard Schnauzer, Black Russian Terrier, Great Dane, Bouvier des Flandres, Miniature Schnauzer",
+                            "links": [],
+                            "popularity_2025": 52,
+                            "popularity_2024": 57,
+                            "popularity_2023": 56,
+                            "popularity_2022": 58,
+                            "popularity_2021": 65,
+                            "popularity_2020": 67,
+                            "popularity_2019": 72,
+                            "popularity_2018": 78,
+                            "popularity_2017": 80,
+                            "popularity_2016": 79,
+                            "popularity_2015": 81,
+                            "related_groups_characteristics": "Hypoallergenic Dogs, Best Guard Dogs",
+                            "temperament": "alert / loyal / trainable"
+                        },
+                        "dutch-shepherd": {
+                            "breed_name_url": "dutch-shepherd",
+                            "breed_name": "Dutch Shepherd",
+                            "breed_name_oracle": "Dutch Shepherd",
+                            "matches_oracle": "Dutch Shepherd",
+                            "akc_code": "863",
+                            "breed_name_plural": "Dutch Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Belgian Malinois, Belgian Tervuren, Belgian Sheepdog, Belgian Laekenois, Croatian Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / lively / athletic"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "temperament": "strong-willed / courageous / affectionate",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Rough"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "akc_org_blurb": "<p>They don't build 'em like this anymore. Burly and broad-chested, the tousle-coated dog of Flandres is from a time and place where a dog had to work like '\u00a6 well, a dog. These smart and steady all-purpose workers make excellent watchdogs.</p>",
+                    "akc_org_about": "<p>Standing as high as 27.5 inches, with heavy bone and powerful muscles beneath a weatherproof coat, and an impressive head accented by beard and mustache, Bouviers can do anything that needs doing in a barnyard or pasture except milk the cows. And yet, Bouviers are more than just farm equipment. Their sterling character, huge heart, and keen intelligence endear them to dog lovers the world over. The Bouvier work ethic must be accommodated, and happily the breed's versatility allows them to do myriad tasks. Bouviers are excellent watchdogs and guardians, and eager participants in dog sports, especially herding trials. These strong-willed dogs do best with owners who can devote ample time and space to a top-of-the-line working dog.</p>",
+                    "mp_description": "<p>This rugged herding dog is the very definition of brawn and brains. Bouvier des Flandres were bred to work, in Flanders and the plains of Northern France. Big, powerful and intelligent, they performed almost any task the farmer needed. They're also affectionate and protective with the family and make excellent watchdogs. Your Bouvier des Flandres puppy will grow fast, and early socialization and training is essential. In fact, they're great candidates for puppy kindergarten. Take them on lots of outings where they can meet new people and dogs and get familiar with the outside world. They'll be happiest with owners who understand their herding dog temperament and can give then the time and attention they need.</p>"
+                }
+            },
+            "standards": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "title_1": "General Appearance",
+                    "description_1": "The Bouvier des Flandres is a powerfully built, compact, short-coupled, rough-coated dog of notably rugged appearance. He gives the impression of great strength without any sign of heaviness or clumsiness in his overall makeup. He is agile, spirited and bold, yet his serene, well behaved disposition denotes his steady, resolute and fearless character. His gaze is alert and brilliant, depicting his intelligence, vigor and daring. By nature he is an equable dog. His origin is that of a cattle herder and general farmer's helper, including cart pulling.",
+                    "title_2": "Head",
+                    "description_2": "The head is impressive in scale, accentuated by beard and mustache. It is in proportion to body and build. The expression is bold and alert. Eyes neither protrude nor are sunken in the sockets. Their shape is oval with the axis on the horizontal plane, when viewed from the front. Their color is a dark brown. The eye rims are black without lack of pigment and the haw is barely visible. Yellow or light eyes are to be strongly penalized, along with a walleyed or staring expression. Ears placed high and alert. If cropped, they are to be a triangular contour and in proportion to the size of the head. The inner corner of the ear should be in line with the outer corner of the eye. Ears that are too low or too closely set are serious faults.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "The neck is strong and muscular, widening gradually into the shoulders. When viewed from the side, it is gracefully arched with proud carriage. A short, squatty neck is faulty. No dewlap. Back short, broad, well muscled with firm level topline. It is supple and flexible with no sign of weakness. Body or trunkpowerful, broad and short. The chest is broad, with the brisket extending to the elbow in depth. The ribs are deep and well sprung. The first ribs are slightly curved, the others well sprung and very well sloped nearing the rear, giving proper depth to the chest. Flat ribs or slabsidedness is to be strongly penalized. Flanks and loins short, wide and well muscled, without weakness. The abdomen is only slightly tucked up. The horizontal line of the back should mold unnoticeably into the curve of the rump, which is characteristically wide. A sunken or slanted croup is a serious fault.",
+                    "title_4": "Forequarters",
+                    "description_4": "Strong boned, well muscled and straight. The shoulders are relatively long, muscular but not loaded, with good layback. The shoulder blade and humerus are approximately the same length, forming an angle slightly greater than 90 degrees when standing. Steep shoulders are faulty.Elbows close to the body and parallel. Elbows which are too far out or in are faults. Forearms viewed either in profile or from the front are perfectly straight, parallel to each other and perpendicular to the ground. They are well muscled and strong boned.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Firm, well muscled with large, powerful hams. They should be parallel with the front legs when viewed from either front or rear. Legs moderately long, well muscled, neither too straight nor too inclined. Thighs wide and muscular. The upper thigh must be neither too straight nor too sloping. There is moderate angulation at the stifle.Hocks strong, rather close to the ground. When standing and seen from the rear, they will be straight and perfectly parallel to each other.",
+                    "title_6": "Coat",
+                    "description_6": "A tousled, double coat capable of withstanding the hardest work in the most inclement weather. The outer hairs are rough and harsh, with the undercoat being fine, soft and dense. The coat may be trimmed slightly only to accent the body line. Overtrimming which alters the natural rugged appearance is to be avoided. Topcoat must be harsh to the touch, dry, trimmed, if necessary, to a length of approximately 2_ inches. A coat too long or too short is a fault, as is a silky or woolly coat. It is tousled without being curly. Ears are rough-coated. Undercoat a dense mass of fine, close hair, thicker in winter. Together with the topcoat, it will form a water-resistant covering.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23.5",
+                    "height_max": "27.5",
+                    "weight_min": "70",
+                    "weight_max": "110",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BouvierdesFlandres.pdf",
+                    "height_min_f": "23.5",
+                    "height_max_f": "27.5",
+                    "height_min_m": "23.5",
+                    "height_max_m": "27.5",
+                    "height_display": "24.5-27.5 inches (male), 23.5-26.5 inches (female)",
+                    "weight_min_f": "70",
+                    "weight_max_f": "110",
+                    "weight_min_m": "70",
+                    "weight_max_m": "110",
+                    "weight_display": "70-110 pounds"
+                }
+            },
+            "markings": {
+                "bouvier-des-flandres": {
+                    "markings": [
+                        {
+                            "marking_index": 536,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        },
+                        {
+                            "marking_index": 537,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 538,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "bouvier-des-flandres": {
+                    "colors": [
+                        {
+                            "color_index": 1703,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1704,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1705,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1706,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "107",
+                            "color_long": "Gray Brindle",
+                            "color_short": "GR BRDL"
+                        },
+                        {
+                            "color_index": 1707,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "139",
+                            "color_long": "Pepper & Salt",
+                            "color_short": "PPR & SLT"
+                        },
+                        {
+                            "color_index": 1708,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1709,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "009",
+                            "color_long": "Black & Brown",
+                            "color_short": "BLK & BR"
+                        },
+                        {
+                            "color_index": 1710,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "011",
+                            "color_long": "Black & Fawn",
+                            "color_short": "BLK & FN"
+                        },
+                        {
+                            "color_index": 1711,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "012",
+                            "color_long": "Black & Gray",
+                            "color_short": "BLK & GR"
+                        },
+                        {
+                            "color_index": 1712,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1713,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1714,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 1715,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "048",
+                            "color_long": "Blue & Gray",
+                            "color_short": "BL & GR"
+                        },
+                        {
+                            "color_index": 1716,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1717,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "180",
+                            "color_long": "Silver & Gray",
+                            "color_short": "SLVR & GR"
+                        },
+                        {
+                            "color_index": 1718,
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "008",
+                            "color_long": "Black & Brindle",
+                            "color_short": "BLK & BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "breed_club_name": "American Bouvier des Flandres Club, Inc.",
+                    "breed_club_url": "www.bouvier.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Bouvier_des_Flandres-club-flier.pdf",
+                    "breed_rescue_url": "http://www.abrl.org/",
+                    "national_breed_club": "American Bouvier des Flandres Club, Inc.",
+                    "national_breed_club_url": "www.bouvier.org",
+                    "breed_referral_contact_name": "Susan Upcraft",
+                    "breed_referral_contact_phone_number": "(817) 428-2866",
+                    "breed_referral_contact_email": "twobouvs@sbcglobal.net",
+                    "breed_referral_contact_address": "120 Flying Diamond Drive\nSpringtown, TX 76082",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.borzoiclubofamerica.org/region.htm",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.abrl.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1463,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 49,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 476,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 478,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 475,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 477,
+                            "breed_id": "49",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "bouvier-des-flandres": {
+                    "breed_name_url": "bouvier-des-flandres",
+                    "breed_name": "Bouvier des Flandres",
+                    "akc_org_history": "<p>Bouvier des Flandres roughly translates as 'cowherd of Flanders.' In the breed's formative years, it was called 'vuilbaard' ('dirty beard'), 'koehond' ('cow dog'), and 'toucher de boeuf or pic' ('cattle driver')' apt descriptions of this majestic herder. Belgium once had several 'bouvier' breeds; the Bouvier des Flandres is the last to exist in any great numbers.</p>\n<p><br></p>\n<p>In medieval times, when the Bouvier was first conceived, Flanders was a principality encompassing parts of modern-day France, Belgium, and The Netherlands. (To this day, both France and Belgium claim the Bouvier as a native breed.) As the breed's many early names suggest, moving cattle was the Bouvier's primary occupation. But the thrifty farmers of France and the Low Countries preferred owning one versatile dog instead of a team of specialists, so Bouviers earned their keep as herders, watchdogs, guardians, and cart-pullers.</p>\n<p><br></p>\n<p>By the turn of the 20th century, Bouviers were attracting the attention of international dog fanciers far from the farms and pastures of Flanders. A Belgian breed club was formed, and French and Belgian experts drew up a written standard. With the outbreak of World War I, however, the Bouvier's bucolic homeland became a nightmarish battlefield. The region's farmers were displaced, and their dogs lost or destroyed.</p>\n<p><br></p>\n<p>The Belgian army was responsible for keeping the breed alive, and Bouviers distinguished themselves as courageous and resourceful dogs of war. In peacetime, Bouviers burnished their resume as European police K-9s and guide dogs for the blind.</p>\n<p><br></p>\n<p>After the second world war the Bouvier was again nearly extinct, but European expatriates kept the breed alive in America. The American Bouvier des Flandres Club was formed in 1963.</p>",
+                    "mp_history_job": "<p>In medieval times, when the Bouvier was first conceived, Flanders was a principality that encompassed parts of modern-day France, Belgium, and The Netherlands. Bouvier des Flandres roughly translates as 'cowherd of Flanders,' and moving cattle was once its primary occupation. But the frugal farmers of France and the Low Countries preferred owning one versatile dog instead of a team of specialists, so Bouviers earned their keep as herders, watchdogs, guardians, and cart-pullers. During World War I, they burnished their r\u00e9sum\u00e9 as messengers and ambulance dogs.</p>",
+                    "did_you_know": "The Bouvier originated in Southwest Flanders and on the French northern plain. | Other names for the Bouvier include Vuilbaard (dirty beard), koehond (cow dog), toucheur de boeuf or pic (cattle driver). | In Belgium, a Bouvier cannot win the title of champion unless he has also won a prize in work-competition as a police, defense, or army dog. | The owners/farmers needed help with their work. They needed a dog to churn the butter and grist mill, haul the product to market, drive the cattle and guard the farm and stock. | The Bouvier was first exhibited at the international dog show in may 1910 in Brussels, although a standard did not exist until 1912."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23743%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-standing-atop-a-hill.jpg",
+                    "alt": "Bouvier des Flandres standing atop a hill.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/IMG_0457.jpg",
+                    "alt": "Best of Breed: GCHB CH Quiche's Madness Full Throttle, Bouvier des Flandres; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-On-White-02.jpg",
+                    "alt": "Bouvier des Flandres standing facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Bouvier-des-Flandres-laying-in-the-grass.jpg",
+                    "alt": "Two Bouvier des Flandres laying in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-head-in-profile-outdoors.jpg",
+                    "alt": "Bouvier des Flandres head in profile outdoors.",
+                    "caption": "",
+                    "credit": "Mary Bloom"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Bouvier-des-Flandres-together-in-the-grass.jpg",
+                    "alt": "Two Bouvier des Flandres together in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-Illo-2.jpg",
+                "alt": "Bouvier des Flandres illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-puppy.jpg",
+                "alt": "Bouvier des Flandres puppy sitting."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/bouvier-des-flandres",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Bouvier Des Flandres",
+        "shopCta": false
+    }
+}

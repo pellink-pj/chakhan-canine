@@ -1,0 +1,1259 @@
+{
+    "settings": {
+        "current_breed": "glen-of-imaal-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/10/25110456/Glen-of-Imaal-Terrier-Health-updates-3-24.pdf",
+                    "mp_health": "<p>Glen of Imaal Terriers are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease such as cone rod dystrophy. Some dogs may be faced with these health challenges in their lives, but the majority of Glen of Imaal Terriers are healthy dogs.</p>",
+                    "akc_org_health": "<p>Glen of Imaal Terriers are generally healthy dogs, but there are several health and genetic screening considerations specific to the breed. These include hip dysplasia and eye disease such as cone rod dystrophy. Responsible breeders will screen their stock for conditions the breed can be prone to. Caution should be taken to avoid unnecessary stress on the front legs during their first nine months of life. As with all breeds, the Glen's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs.</p>",
+                    "akc_org_nutrition": "<p>The Glen of Imaal Terrier should be fed a high-quality dog food appropriate to the dog's age (puppy, adult, or senior) and activity level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet or the dog's breeder if you have any questions or concerns about your dog's weight or diet. Clean, fresh water should always be available.</p>",
+                    "akc_org_grooming": "<p>The Glen of Imaal Terrier's weather-resistant double coat, consisting of a rough outer coat and a soft undercoat, requires moderate brushing weekly to prevent matting of the furnishings (the soft hair around the ears, neck, legs and belly) and should also be stripped two or three times a year. They shed very little as a result of this effort. It does not take a great amount of time, and the bonding you achieve with your pup is well worth the time involved. Since Glens are a dwarf breed, a small but sturdy grooming table is a very good investment. It will make the process much easier on both of you. The nails should be trimmed regularly, and the ears checked weekly for debris or excess wax buildup.</p>",
+                    "akc_org_exercise": "<p>A little more laid-back than the typical terrier, Glens require moderate exercise to stay healthy and happy. As a dwarf breed with slightly curved front legs, Glens should not be rushed into strenuous exercise such as long walks on leash'\u00bfit's good to start leash training, but keep the walks short and fun. A small handful of the pup's regular kibble can be used to reward him for staying close while on leash. Let him run around the house or a fenced yard, perhaps chasing a toy or ball. He will flop down for a rest when he has had enough. Owners should prevent puppies from jumping off couches, going down steep stairs, or engaging in anything that might put undue stress on their growing front legs and joints. Pups need time for the growth plates in their legs to close before they do any jumping or start climbing or descending stairs. Going down stairs is more stressful on the front legs than going up. Some breeders have pups avoid stairs and jumping as much as possible until they are at least 9 months of age, as the growth plates will close sometime between 9 and 12 months. This is a normal part of the developmental process but especially important in dwarf breeds whose legs are short in relation to their body weight.</p>",
+                    "akc_org_training": "<p>Glens are versatile, trainable, and very smart. They love people but normally won't get chummy with other dogs. They are quieter and less spiky than other terriers'\u00bfbut, still, they're terriers: brave, sometimes stubborn, and keenly interested in the doings of small furry critters, their natural prey. Like most terriers, they have a great deal of character and learn quickly, which can make training a joy, although they may get bored with repetition. Positive reinforcement is the key. Keep training sessions short: Five minutes of training two or three times a day is much better than one 30-minute session. Early socialization and puppy training classes puppy training classesare recommended.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Degenerative Myelopathy (Common Variant) (DM) - DNA Test",
+                    "test_5": "Progressive Retinal Atrophy, Cone-Rod Dystrophy 3 (PRA-crd3) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | Degenerative Myelopathy (Common Variant) (DM) - DNA Test | Progressive Retinal Atrophy, Cone-Rod Dystrophy 3 (PRA-crd3) - DNA Test"
+                }
+            },
+            "basics": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "breed_name_oracle": "Glen of Imaal Terrier",
+                    "matches_oracle": "Glen of Imaal Terrier",
+                    "akc_code": "229",
+                    "breed_name_plural": "Glen of Imaal Terriers",
+                    "breed_nicknames": "Glen",
+                    "origin": "Ireland",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "2004",
+                    "life_expectancy": "10-15 years",
+                    "related_breeds": "Skye Terrier, Dandie Dinmont Terrier, Norfolk Terrier, Sealyham Terrier, Norwich Terrier",
+                    "links": [],
+                    "popularity_2025": 165,
+                    "popularity_2024": 176,
+                    "popularity_2023": 170,
+                    "popularity_2022": 169,
+                    "popularity_2021": 175,
+                    "popularity_2020": 169,
+                    "popularity_2019": 170,
+                    "popularity_2018": 174,
+                    "popularity_2017": 158,
+                    "popularity_2016": 180,
+                    "popularity_2015": 168,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "skye-terrier",
+                        "dandie-dinmont-terrier",
+                        "norfolk-terrier",
+                        "sealyham-terrier",
+                        "norwich-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "skye-terrier": {
+                            "breed_name_url": "skye-terrier",
+                            "breed_name": "Skye Terrier",
+                            "breed_name_oracle": "Skye Terrier",
+                            "matches_oracle": "Skye Terrier",
+                            "akc_code": "220",
+                            "breed_name_plural": "Skye Terriers",
+                            "breed_nicknames": "Skye",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Cesky Terrier, West Highland White Terrier, Cairn Terrier, Glen of Imaal Terrier, Scottish Terrier",
+                            "links": [],
+                            "popularity_2025": 181,
+                            "popularity_2024": 179,
+                            "popularity_2023": 185,
+                            "popularity_2022": 189,
+                            "popularity_2021": 181,
+                            "popularity_2020": 183,
+                            "popularity_2019": 189,
+                            "popularity_2018": 178,
+                            "popularity_2017": 172,
+                            "popularity_2016": 178,
+                            "popularity_2015": 175,
+                            "related_groups_characteristics": "",
+                            "temperament": "courageous / good-tempered / canny"
+                        },
+                        "dandie-dinmont-terrier": {
+                            "breed_name_url": "dandie-dinmont-terrier",
+                            "breed_name": "Dandie Dinmont Terrier",
+                            "breed_name_oracle": "Dandie Dinmont Terrier",
+                            "matches_oracle": "Dandie Dinmont Terrier",
+                            "akc_code": "208",
+                            "breed_name_plural": "Dandie Dinmont Terriers",
+                            "breed_nicknames": "Dandie",
+                            "origin": "English-Scottish border",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Glen of Imaal Terrier, Cesky Terrier, West Highland White Terrier, Skye Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 186,
+                            "popularity_2024": 180,
+                            "popularity_2023": 186,
+                            "popularity_2022": 186,
+                            "popularity_2021": 174,
+                            "popularity_2020": 181,
+                            "popularity_2019": 176,
+                            "popularity_2018": 176,
+                            "popularity_2017": 182,
+                            "popularity_2016": 167,
+                            "popularity_2015": 172,
+                            "related_groups_characteristics": "",
+                            "temperament": "independent / proud / smart"
+                        },
+                        "norfolk-terrier": {
+                            "breed_name_url": "norfolk-terrier",
+                            "breed_name": "Norfolk Terrier",
+                            "breed_name_oracle": "Norfolk Terrier",
+                            "matches_oracle": "Norfolk Terrier",
+                            "akc_code": "216",
+                            "breed_name_plural": "Norfolk Terriers",
+                            "breed_nicknames": "Norfolk",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1979",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Norwich Terrier, Glen of Imaal Terrier, West Highland White Terrier, Cairn Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 126,
+                            "popularity_2024": 130,
+                            "popularity_2023": 134,
+                            "popularity_2022": 138,
+                            "popularity_2021": 130,
+                            "popularity_2020": 130,
+                            "popularity_2019": 133,
+                            "popularity_2018": 126,
+                            "popularity_2017": 128,
+                            "popularity_2016": 134,
+                            "popularity_2015": 131,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / fearless / fun-loving"
+                        },
+                        "sealyham-terrier": {
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "breed_name_oracle": "Sealyham Terrier",
+                            "matches_oracle": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "breed_name_plural": "Sealyham Terriers",
+                            "breed_nicknames": "Sealy",
+                            "origin": "Wales",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1911",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Glen of Imaal Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Dandie Dinmont Terrier",
+                            "links": [],
+                            "popularity_2025": 163,
+                            "popularity_2024": 168,
+                            "popularity_2023": 169,
+                            "popularity_2022": 164,
+                            "popularity_2021": 139,
+                            "popularity_2020": 148,
+                            "popularity_2019": 156,
+                            "popularity_2018": 164,
+                            "popularity_2017": 150,
+                            "popularity_2016": 155,
+                            "popularity_2015": 158,
+                            "related_groups_characteristics": "",
+                            "temperament": "alert / outgoing / sense of humor"
+                        },
+                        "norwich-terrier": {
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "breed_name_oracle": "Norwich Terrier",
+                            "matches_oracle": "Norwich Terrier",
+                            "akc_code": "215",
+                            "breed_name_plural": "Norwich Terriers",
+                            "breed_nicknames": "Norwich",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Terrier, Norfolk Terrier, Australian Terrier, West Highland White Terrier, Cairn Terrier",
+                            "links": [],
+                            "popularity_2025": 109,
+                            "popularity_2024": 104,
+                            "popularity_2023": 105,
+                            "popularity_2022": 109,
+                            "popularity_2021": 111,
+                            "popularity_2020": 109,
+                            "popularity_2019": 104,
+                            "popularity_2018": 108,
+                            "popularity_2017": 105,
+                            "popularity_2016": 103,
+                            "popularity_2015": 103,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / curious / loyal / affectionate / gregarious"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "temperament": "spirited / gentle / bold",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "akc_org_blurb": "Gentler, less excitable than most terriers, but still bold and spirited, the double-coated Glen of Imaal Terrier is named for one of Ireland's most remote locales. The brave but docile Glen is a strong, no-fuss dog built for hard work.",
+                    "akc_org_about": "Glens are scruffy, sturdy, low-slung terriers standing no more than 14 inches at the shoulder. There's nothing fancy or fussed-over about Glens.\n\n\n\n Rather, their wiry no-frills coat, broad head, and bowed front legs suggest a working farm dog from a time and place where substance was more important than style. And yet, they're also ridiculously cute. It takes a heart of stone to resist reaching down to give a Glen a scratch behind the ear and a pat on the well-muscled rump.",
+                    "mp_description": "Originating in an isolated valley in County Wicklow, Ireland, you may not often meet a Glen of Imaal Terrier. Once you do, however, he'll melt your heart. This scruffy, no-frills working dog is both irresistibly cute and all terrier: vigorous, agile and brave. Bred to hunt vermin, he also excels at dog sports like agility, rally, coursing and tracking. Glen of Imaal Terrier puppies are quick learners and respond well to training. He's gentler than most terriers and makes a loving family dog."
+                }
+            },
+            "standards": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "The Glen of Imaal Terrier, named for the region in the Wicklow Mountains of Ireland where it was developed long ago, is a medium sized working terrier. Longer than tall and sporting a double coat of medium length, the Glen possesses great strength and should always convey the impression of maximum substance for size of dog. Unrefined to this day, the breed still possesses \"antique\" features once common to many early terrier types; its distinctive head with rose or half-prick ears, its bowed forequarters with turned out feet, its unique outline and topline are hallmarks of the breed and essential to the breed type.",
+                    "title_2": "Head",
+                    "description_2": "The head must be powerful and strong with no suggestion of coarseness. Impressive in size yet in balance with, and in proportion to, the overall size and symmetry of the dog. Eyes - Brown, medium size, round and set well apart. Light eyes should be penalized. Ears - Small, rose or half pricked when alert, thrown back when in repose. Set wide apart and well back on the top outer edge of the skull. Full drop or prick ears undesirable. Nose - Black. Teeth - Set in a strong jaw, sound, regular, and of good size. Full dentition. Scissors bite preferred; level mouth accepted.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Very muscular and of moderate length. Topline - Straight, slightly rising to a very strong well-muscled loin with no drop-off at the croup. Body - Deep, long and fully muscled. Longer than high with the ideal ratio of body length to shoulder height approximately five (length) to three (height). Chest - Wide, strong and deep, extending below the elbows. Ribs - Well sprung with neither a flat nor a barrel appearance. Loin - Strong and well muscled. Tail - Docked to approximately half-length, in balance with the overall dog and long enough to allow a good handhold. Strong at root, well set on and carried gaily. Dogs with undocked tails not to be penalized.",
+                    "title_4": "Forequarters",
+                    "description_4": "Short, bowed and well boned. Forearm should curve slightly around the chest. Upper arm (humerus) nearly equal in length to the shoulder blades (scapula). Feet to turn out slightly but perceptibly from pasterns. Feet - Compact and strong with rounded pads.",
+                    "title_5": "Coat",
+                    "description_5": "Medium length, of harsh texture with a soft undercoat. The coat may be tidied to present a neat outline characteristic of a rough-and-ready working terrier. Over trimming of dogs is undesirable.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Strong and well muscled, with ample bone and in balance with forequarters. Good bend of stifle and a well-defined second thigh. Hocks turn neither in nor out, are short, well let down and perpendicular from hock to ground. Feet - As front, except they should point forward.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "12.5",
+                    "height_max": "14",
+                    "weight_min": "32",
+                    "weight_max": "40",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GlenofImaalTerrier.pdf",
+                    "height_min_f": "12.5",
+                    "height_max_f": "14",
+                    "height_min_m": "12.5",
+                    "height_max_m": "14",
+                    "height_display": "12.5-14 inches",
+                    "weight_min_f": "32",
+                    "weight_max_f": "40",
+                    "weight_min_m": "32",
+                    "weight_max_m": "40",
+                    "weight_display": "32-40 pounds"
+                }
+            },
+            "colors": {
+                "glen-of-imaal-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 397,
+                            "breed_name_url": "glen-of-imaal-terrier",
+                            "breed_name": "Glen of Imaal Terrier",
+                            "akc_code": "229",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "056",
+                            "color_long": "Blue Brindle",
+                            "color_short": "BL BRDL"
+                        },
+                        {
+                            "color_index": 398,
+                            "breed_name_url": "glen-of-imaal-terrier",
+                            "breed_name": "Glen of Imaal Terrier",
+                            "akc_code": "229",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "224",
+                            "color_long": "Wheaten",
+                            "color_short": "WHTN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "breed_club_name": "Glen of Imaal Terrier Club of America",
+                    "breed_club_url": "www.glens.org",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Glen of Imaal Terrier Club of America",
+                    "national_breed_club_url": "www.glens.org",
+                    "breed_referral_contact_name": "Jo Lynn",
+                    "breed_referral_contact_phone_number": "(412) 780-0111",
+                    "breed_referral_contact_email": "irishglen@aol.com",
+                    "breed_referral_contact_address": "1185 STEWART RD\nMC DONALD, PA 15057-2143",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1532,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 118,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 752,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 754,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 751,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 753,
+                            "breed_id": "118",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "glen-of-imaal-terrier": {
+                    "breed_name_url": "glen-of-imaal-terrier",
+                    "breed_name": "Glen of Imaal Terrier",
+                    "akc_org_history": "<p>Glens are tough terriers from tough country, the remote and rocky Glen of Imaal in mountainous County Wicklow. Old-time farmers worked hard to scratch a living from the desolate landscape, and their dogs were expected to work just as hard. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glens were developed as badger hunters, but they also did various odd jobs around the farm. Glens carry the nickname 'Turnspit Dog'\u009d because, according to some, they were used in kitchens to run in a hamster-wheel contraption that turned meat over an open fire. The Glen's highly individualized bowed front legs, well-padded loin and powerful hindquarters were ideally suited for this. For several hundred years, these hearty dogs performed their chores in this remote corner of Ireland unnoticed by all except those who treasured them. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are sporadic reports of Glens emigrating to America with their owners as early as 1930; however, the breed did not gain a foothold in America until the 1980's when several dedicated breeders and fanciers imported foundation stock from Ireland and the United Kingdom. In 1986, these same pioneers founded the Glen of Imaal Terrier Club of America.</p>",
+                    "mp_history_job": "<p>Glens are tough terriers from tough country, the remote and rocky Glen of Imaal in mountainous County Wicklow. Old-time farmers worked hard to scratch a living from the desolate landscape, and their dogs were expected to work just as hard. Glens were developed as badger hunters, but they also did various odd jobs around the farm. Glens carry the nickname 'Turnspit Dog' because, according to some, they were used in kitchens to run in a hamster-wheel contraption that turned meat over an open fire.</p>",
+                    "did_you_know": "The Glen of Imaal Terrier is AKC's 153rd breed. | The turnspit was a large wheel paddled by the dog turning a spit over the hearth - a canine propelled rotisserie, if you will. | In 1934, the Glen of Imaal Terrier was given full recognition by the Irish Kennel Club. It was the third of four terrier breeds of Ireland to be so acknowledged. The Kennel Club of England followed suit in 1975. | There is a glen, Imaal, in the Wicklow mountains that has always been, and still is, celebrated for its terriers.\" This 19th-century reference is to the beguiling Irish breed we now know as the Glen of Imaal Terrier. | The Glen of Imaal Terrier was initially bred to rid the home and farm of vermin, and hunt badger and fox; these rugged dogs also had a unique task for which they were expressly designed to perform (they were turnspit dogs). | With the advent of dog shows in the latter half of the 19th century, the breed began to emerge into the public eye. There are documented reports of Glens at Irish dog shows as early as 1878."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24519%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-On-White-01.jpg",
+                    "alt": "Glen of Imaal Terrier standing in three-quarter view",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Terrier-Group-David-0E9A3317.jpg",
+                    "alt": "Best of Breed: GCH CH Kilkenny's Across The Universe At Setanta, Glen of Imaal Terrier; Terrier Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-standing-in-profile.jpg",
+                    "alt": "Glen of Imaal Terrier standing in profile.",
+                    "caption": "",
+                    "credit": "\u00a9Vincent - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-together-outdoors.jpg",
+                    "alt": "Glen of Imaal Terrier together outdoors.",
+                    "caption": "",
+                    "credit": "jtyler/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-running.jpg",
+                    "alt": "Glen of Imaal Terrier running outdoors.",
+                    "caption": "",
+                    "credit": "@Hans Surfer/Getty Images Plus via Getty Images"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-Illo-2.jpg",
+                "alt": "Glen of Imaal Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-MP.jpg",
+                "alt": "Glen of Imaal Terrier"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/glen-of-imaal-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Glen Of Imaal Terrier",
+        "shopCta": false
+    }
+}

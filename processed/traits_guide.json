@@ -1,0 +1,186 @@
+{
+  "_meta": {
+    "description": "AKC 견종 traits(특성) 점수 기준표. 모든 견종에 공통 적용됨.",
+    "scale_explanation": "radio형 항목은 1-5점. 1=low_value, 3=middle_value, 5=high_value. checkbox형은 여러 값 선택 가능."
+  },
+  "traits": {
+    "adaptability_level": {
+      "name": "Adaptability Level",
+      "group": "Social",
+      "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+      "scale": {
+        "1": "Lives For Routine",
+        "3": "Moderate",
+        "5": "Highly Adaptable"
+      }
+    },
+    "affectionate_with_family": {
+      "name": "Affectionate With Family",
+      "group": "Family Life",
+      "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+      "scale": {
+        "1": "Independent",
+        "3": "Friendly",
+        "5": "Lovey-Dovey"
+      }
+    },
+    "barking_level": {
+      "name": "Barking Level",
+      "group": "Character",
+      "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+      "scale": {
+        "1": "Only To Alert",
+        "3": "Occasional",
+        "5": "Very Vocal"
+      }
+    },
+    "coat_grooming_frequency": {
+      "name": "Coat Grooming Frequency",
+      "group": "Physical",
+      "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+      "scale": {
+        "1": "Monthly",
+        "3": "Weekly",
+        "5": "Daily"
+      }
+    },
+    "good_with_young_children": {
+      "name": "Good With Young Children",
+      "group": "Family Life",
+      "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+      "scale": {
+        "1": "Not Recommended",
+        "3": "With Supervision",
+        "5": "Good With Children"
+      }
+    },
+    "coat_length": {
+      "name": "Coat Length",
+      "group": "Physical",
+      "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+      "type": "checkbox",
+      "choices": [
+        "Short",
+        "Medium",
+        "Long"
+      ]
+    },
+    "coat_type": {
+      "name": "Coat Type",
+      "group": "Physical",
+      "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+      "type": "checkbox",
+      "choices": [
+        "Wiry",
+        "Hairless",
+        "Smooth",
+        "Rough",
+        "Corded",
+        "Double",
+        "Curly",
+        "Wavy",
+        "Silky"
+      ]
+    },
+    "drooling_level": {
+      "name": "Drooling Level",
+      "group": "Physical",
+      "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+      "scale": {
+        "1": "Less Likely to Drool",
+        "3": "Average",
+        "5": "Always Have a Towel"
+      }
+    },
+    "energy_level": {
+      "name": "Energy Level",
+      "group": "Character",
+      "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+      "scale": {
+        "1": "Couch Potato",
+        "3": "Moderate",
+        "5": "High Energy"
+      }
+    },
+    "good_with_other_dogs": {
+      "name": "Good With Other Dogs",
+      "group": "Social",
+      "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+      "scale": {
+        "1": "Not Recommended",
+        "3": "With Supervision",
+        "5": "Good With Other Dogs"
+      }
+    },
+    "mental_stimulation_needs": {
+      "name": "Mental Stimulation Needs",
+      "group": "Character",
+      "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+      "scale": {
+        "1": "Happy to Lounge",
+        "3": "Moderate",
+        "5": "Needs a Job or Activity"
+      }
+    },
+    "openness_to_strangers": {
+      "name": "Openness To Strangers",
+      "group": "Social",
+      "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+      "scale": {
+        "1": "Reserved",
+        "3": "Ambivalent",
+        "5": "Everyone Is My Best Friend"
+      }
+    },
+    "playfulness_level": {
+      "name": "Playfulness Level",
+      "group": "Social",
+      "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+      "scale": {
+        "1": "Only When You Want To Play",
+        "3": "Moderate",
+        "5": "Non-Stop"
+      }
+    },
+    "shedding_level": {
+      "name": "Shedding Level",
+      "group": "Physical",
+      "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+      "scale": {
+        "1": "No Shedding",
+        "3": "Moderate",
+        "5": "Hair Everywhere"
+      }
+    },
+    "trainability_level": {
+      "name": "Trainability Level",
+      "group": "Character",
+      "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+      "scale": {
+        "1": "Self-Willed",
+        "3": "Agreeable",
+        "5": "Eager to Please"
+      }
+    },
+    "watchdogprotective_nature": {
+      "name": "Watchdog/Protective Nature",
+      "group": "Social",
+      "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+      "scale": {
+        "1": "What's Mine Is Yours",
+        "3": "Occasional",
+        "5": "Vigilant"
+      }
+    },
+    "other_petsanimals_this_breed_may_not_interact_well_with": {
+      "name": "Other Pets/Animals This Breed May Not Interact Well With",
+      "group": "Social",
+      "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+      "scale": {
+        "1": "Checkbox (can have multiple values)",
+        "3": "",
+        "5": ""
+      }
+    }
+  }
+}

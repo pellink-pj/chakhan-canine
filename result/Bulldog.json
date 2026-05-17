@@ -1,0 +1,1454 @@
+{
+    "settings": {
+        "current_breed": "bulldog",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23093344/Bulldog-Health-Statement-May-2019.pdf",
+                    "mp_health": "<p>Like all breeds there may be some health issues. Because of their brachycephalic (short-nosed) build, Bulldogs frequently have breathing difficulties relating to their elongated soft-palate blocking their airways. If this develops into a chronic problem, a simple surgery can correct the blockage. Other health issues reported in Bulldogs are, 'cherry eye' &amp; skin infections which can be treated by cleaning the skin-folds regularly. Some dogs may be faced with these health challenges in their lives, but the majority of well-bred Bulldogs are healthy dogs.</p>",
+                    "akc_org_health": "<p>Bulldog owners should be vigilant to ensure their dog does not become overheated. A Bulldog should not be left out in the hot sun unsupervised or without access to shade and water, and of course no dog should be left in an enclosed car in even mildly warm weather. If a Bulldog is overexcited or breathing too hard, his tongue will hang out unusually far and have a bluish cast instead of the normal pink. Immediate soaking with cool water and giving ice can help to cool the dog. The Bulldog Club of America provides additional detailed advice on Bulldog health and care.</p>",
+                    "akc_org_nutrition": "<p>The Bulldog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>An all-over brushing with a soft brush for 10 minutes two or three times a week will keep the Bulldog looking his best. During periods of heavier shedding, it can help to first use a rubber curry brush. The wrinkles on the Bulldog's face need to be regularly checked to make sure the skin is clean and dry, as food or moisture can get trapped and cause irritation or infection. A cotton ball dipped in peroxide can be used to clean the wrinkles, and cornstarch can be applied afterward to aid in drying'\u00bfalthough neither should be used near the eyes. The ears and the area under the tail should be kept clean, and the dog's nails trimmed every two weeks or so.</p>",
+                    "akc_org_exercise": "<p>Bulldogs are mellow and are happy to relax next to their owner's feet, but they also enjoy an occasional romp and going on walks. Moderate exercise will help the dog to stay trim. Very warm days are best spent in front of an air-conditioner, however, as the Bulldog's short muzzle can make breathing difficult in heat and humidity. Stairs and pools also present major safety hazards. Bulldogs enjoy wading in very shallow water, but they should never be allowed in water that's more than elbow deep unless supervised closely.</p>",
+                    "akc_org_training": "<p>Bulldogs are sweet, devoted, and easygoing, and they want to please their owner. As with all breeds, early socialization is vital to help give the dog a good start in life. Puppy training classes are highly recommended as well and allow the owner to learn how to curb any undesirable behaviors. Bulldogs love to chew'\u00bfmost will enjoy chew toys their entire life. They also love to play tug-of-war, but it is important to teach the dog when he is young to release what's in his mouth on command. From the start the young Bulldog should also be taught to accept having people take food from his bowl while he is eating, so that he does not develop a habit of being protective of his food.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Tracheal Hypoplasia Radiographic Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Cardiac Exam | Tracheal Hypoplasia Radiographic Evaluation"
+                }
+            },
+            "basics": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "breed_name_oracle": "Bulldog",
+                    "matches_oracle": "Bulldog",
+                    "akc_code": "302",
+                    "breed_name_plural": "Bulldogs",
+                    "breed_nicknames": "Sourmug",
+                    "origin": "England",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1886",
+                    "life_expectancy": "8-10 years",
+                    "related_breeds": "Bull Terrier, French Bulldog, Bullmastiff, American Staffordshire Terrier, Staffordshire Bull Terrier",
+                    "links": [],
+                    "popularity_2025": 10,
+                    "popularity_2024": 9,
+                    "popularity_2023": 7,
+                    "popularity_2022": 6,
+                    "popularity_2021": 6,
+                    "popularity_2020": 5,
+                    "popularity_2019": 5,
+                    "popularity_2018": 5,
+                    "popularity_2017": 5,
+                    "popularity_2016": 4,
+                    "popularity_2015": 4,
+                    "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "bull-terrier",
+                        "french-bulldog",
+                        "bullmastiff",
+                        "american-staffordshire-terrier",
+                        "staffordshire-bull-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "bull-terrier": {
+                            "breed_name_url": "bull-terrier",
+                            "breed_name": "Bull Terrier",
+                            "breed_name_oracle": "Bull Terrier",
+                            "matches_oracle": "Bull Terrier",
+                            "akc_code": "206",
+                            "breed_name_plural": "Bull Terriers",
+                            "breed_nicknames": "BT, Bully, White Cavalier",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Miniature Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, Bulldog",
+                            "links": [],
+                            "popularity_2025": 86,
+                            "popularity_2024": 72,
+                            "popularity_2023": 65,
+                            "popularity_2022": 64,
+                            "popularity_2021": 61,
+                            "popularity_2020": 64,
+                            "popularity_2019": 62,
+                            "popularity_2018": 62,
+                            "popularity_2017": 60,
+                            "popularity_2016": 57,
+                            "popularity_2015": 55,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Medium Dog Breeds",
+                            "temperament": "playful / charming / mischievous"
+                        },
+                        "french-bulldog": {
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "breed_name_oracle": "French Bulldog",
+                            "matches_oracle": "French Bulldog",
+                            "akc_code": "305",
+                            "breed_name_plural": "French Bulldogs",
+                            "breed_nicknames": "Frenchie",
+                            "origin": "England",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1898",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Boston Terrier, Bulldog, Bull Terrier, Miniature Bull Terrier, Pug",
+                            "links": [],
+                            "popularity_2025": 1,
+                            "popularity_2024": 1,
+                            "popularity_2023": 1,
+                            "popularity_2022": 1,
+                            "popularity_2021": 2,
+                            "popularity_2020": 2,
+                            "popularity_2019": 4,
+                            "popularity_2018": 4,
+                            "popularity_2017": 4,
+                            "popularity_2016": 6,
+                            "popularity_2015": 6,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / smart / adaptable"
+                        },
+                        "bullmastiff": {
+                            "breed_name_url": "bullmastiff",
+                            "breed_name": "Bullmastiff",
+                            "breed_name_oracle": "Bullmastiff",
+                            "matches_oracle": "Bullmastiff",
+                            "akc_code": "609",
+                            "breed_name_plural": "Bullmastiffs",
+                            "breed_nicknames": "gamekeeper night dog",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1934",
+                            "life_expectancy": "7-9 years",
+                            "related_breeds": "Mastiff, Neapolitan Mastiff, Rottweiler, Dogue de Bordeaux, Cane Corso",
+                            "links": [],
+                            "popularity_2025": 78,
+                            "popularity_2024": 67,
+                            "popularity_2023": 60,
+                            "popularity_2022": 61,
+                            "popularity_2021": 56,
+                            "popularity_2020": 55,
+                            "popularity_2019": 52,
+                            "popularity_2018": 51,
+                            "popularity_2017": 51,
+                            "popularity_2016": 48,
+                            "popularity_2015": 43,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "loyal / affectionate / brave"
+                        },
+                        "american-staffordshire-terrier": {
+                            "breed_name_url": "american-staffordshire-terrier",
+                            "breed_name": "American Staffordshire Terrier",
+                            "breed_name_oracle": "American Staffordshire Terrier",
+                            "matches_oracle": "American Staffordshire Terrier",
+                            "akc_code": "202",
+                            "breed_name_plural": "American Staffordshire Terriers",
+                            "breed_nicknames": "AmStaff",
+                            "origin": "United States",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Staffordshire Bull Terrier, Bulldog, Boxer, Miniature Bull Terrier, Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 97,
+                            "popularity_2024": 77,
+                            "popularity_2023": 95,
+                            "popularity_2022": 87,
+                            "popularity_2021": 81,
+                            "popularity_2020": 82,
+                            "popularity_2019": 86,
+                            "popularity_2018": 85,
+                            "popularity_2017": 83,
+                            "popularity_2016": 81,
+                            "popularity_2015": 77,
+                            "related_groups_characteristics": "Best Family Dogs, Smartest Breeds of Dogs, Medium Dog Breeds",
+                            "temperament": "good-natured / confident / smart"
+                        },
+                        "staffordshire-bull-terrier": {
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "breed_name_oracle": "Staffordshire Bull Terrier",
+                            "matches_oracle": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "breed_name_plural": "Staffordshire Bull Terriers",
+                            "breed_nicknames": "Stafford",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1974",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "American Staffordshire Terrier, Bull Terrier, Miniature Bull Terrier, Bulldog, Boxer",
+                            "links": [],
+                            "popularity_2025": 61,
+                            "popularity_2024": 63,
+                            "popularity_2023": 72,
+                            "popularity_2022": 75,
+                            "popularity_2021": 75,
+                            "popularity_2020": 81,
+                            "popularity_2019": 83,
+                            "popularity_2018": 80,
+                            "popularity_2017": 82,
+                            "popularity_2016": 82,
+                            "popularity_2015": 79,
+                            "related_groups_characteristics": "Best Guard Dogs",
+                            "temperament": "clever / brave / tenacious"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "temperament": "friendly / courageous / calm",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "akc_org_blurb": "<p>Kind but courageous, friendly but dignified, the Bulldog is a thick-set, low-slung, well-muscled bruiser whose 'sourmug'\u009d face is the universal symbol of courage and tenacity. These docile, loyal companions adapt well to town or country.&nbsp;</p>",
+                    "akc_org_about": "<p>You can't mistake a Bulldog for any other breed. The loose skin of the head, furrowed brow, pushed-in nose, small ears, undershot jaw with hanging chops on either side, and the distinctive rolling gait all practically scream 'I'm a Bulldog!'\u009d The coat, seen in a variety of colors and patterns, is short, smooth, and glossy. Bulldogs can weigh up to 50 pounds, but that won't stop them from curling up in your lap, or at least trying to. But don't mistake their easygoing ways for laziness'\u00bfBulldogs enjoy brisk walks and need regular moderate exercise, along with a careful diet, to stay trim. Summer afternoons are best spent in an air-conditioned room as a Bulldog's short snout can cause labored breathing in hot and humid weather.</p>",
+                    "mp_description": "<p>With his short face and wrinkly body, your Bulldog puppy is a far cry from his fierce ancestors. The modern Bulldog is beloved for his even-tempered gentleness, and your pup will grow up to be a mellow companion and your kids' best friend. Instantly recognizable by his wrinkled brow, hanging jowls and rolling gait, the Bulldog has the physique of a muscled, thick-set tough guy combined with a lovable and mellow personality.</p>"
+                }
+            },
+            "standards": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "title_1": "General Appearance",
+                    "description_1": "The perfect Bulldog must be of medium size and smooth coat; with heavy, thick-set, low-swung body, massive short-faced head, wide shoulders and sturdy limbs. The general appearance and attitude should suggest great stability, vigor and strength. The disposition should be equable and kind, resolute and courageous (not vicious or aggressive), and demeanor should be pacific and dignified. These attributes should be countenanced by the expression and behavior.",
+                    "title_2": "Head",
+                    "description_2": "The skull should be very large, and in circumference, in front of the ears, should measure at least the height of the dog at the shoulders. Viewed from the front, it should appear very high from the corner of the lower jaw to the apex of the skull, and also very broad and square. Viewed at the side, the head should appear very high, and very short from the point of the nose to occiput. The forehead should be flat (not rounded or domed), neither too prominent nor overhanging the face.",
+                    "title_3": "Body",
+                    "description_3": "The brisket and body should be very capacious, with full sides, well-rounded ribs and very deep from the shoulders down to its lowest part, where it joins the chest. It should be well let down between the shoulders and forelegs, giving the dog a broad, low, short-legged appearance. Chest - The chest should be very broad, deep and full. Underline - The body should be well ribbed up behind with the belly tucked up and not rotund. Back and Loin - The back should be short and strong, very broad at the shoulders and comparatively narrow at the loins.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - The shoulders should be muscular, very heavy, widespread and slanting outward, giving stability and great power. Forelegs - The forelegs should be short, very stout, straight and muscular, set wide apart, with well developed calves, presenting a bowed outline, but the bones of the legs should not be curved or bandy, nor the feet brought too close together. Elbows - The elbows should be low and stand well out and loose from the body. Feet - The feet should be moderate in size, compact and firmly set. Toes compact, well split up, with high knuckles and very short stubby nails. The front feet may be straight or slightly out-turned.",
+                    "title_5": "Coat",
+                    "description_5": "Coat - The coat should be straight, short, flat, close, of fine texture, smooth and glossy. (No fringe, feather or curl.) Skin - The skin should be soft and loose, especially at the head, neck and shoulders. Wrinkles and Dewlap - The head and face should be covered with heavy wrinkles, and at the throat, from jaw to chest, there should be two loose pendulous folds, forming the dewlap.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Legs - The hind legs should be strong and muscular and longer than the forelegs, so as to elevate the loins above the shoulders. Hocks should be slightly bent and well let down, so as to give length and strength from the loins to hock. The lower leg should be short, straight and strong, with the stifles turned slightly outward and away from the body. The hocks are thereby made to approach each other, and the hind feet to turn outward.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "14",
+                    "height_max": "15",
+                    "weight_min": "40",
+                    "weight_max": "50",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Bulldog.pdf",
+                    "height_min_f": "14",
+                    "height_max_f": "15",
+                    "height_min_m": "14",
+                    "height_max_m": "15",
+                    "height_display": "14-15 inches",
+                    "weight_min_f": "40",
+                    "weight_max_f": "50",
+                    "weight_min_m": "40",
+                    "weight_max_m": "50",
+                    "weight_display": "50 pounds (male), 40 pounds (female)"
+                }
+            },
+            "markings": {
+                "bulldog": {
+                    "markings": [
+                        {
+                            "marking_index": 143,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 144,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        },
+                        {
+                            "marking_index": 145,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 146,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 147,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "053",
+                            "markings_long": "Black Tips",
+                            "markings_short": "BLK TPS"
+                        },
+                        {
+                            "marking_index": 148,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "bulldog": {
+                    "colors": [
+                        {
+                            "color_index": 484,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 485,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 486,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 487,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "089",
+                            "color_long": "Fawn Brindle & White",
+                            "color_short": "FN BRDL & WH"
+                        },
+                        {
+                            "color_index": 488,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 489,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 490,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "148",
+                            "color_long": "Red Brindle",
+                            "color_short": "RD BRDL"
+                        },
+                        {
+                            "color_index": 491,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "149",
+                            "color_long": "Red Brindle & White",
+                            "color_short": "RD BRDL & WH"
+                        },
+                        {
+                            "color_index": 492,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 493,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "084",
+                            "color_long": "Fawn & Brindle",
+                            "color_short": "FN & BRDL"
+                        },
+                        {
+                            "color_index": 494,
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "akc_code": "302",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "540",
+                            "color_long": "Fallow",
+                            "color_short": "FAL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "breed_club_name": "Bulldog Club of America",
+                    "breed_club_url": "www.bulldogclubofamerica.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/12/06104751/Bulldog20200114.pdf",
+                    "breed_rescue_url": "http://www.rescuebulldogs.org/",
+                    "national_breed_club": "Bulldog Club of America",
+                    "national_breed_club_url": "www.bulldogclubofamerica.org",
+                    "breed_referral_contact_name": "Julie Babcock",
+                    "breed_referral_contact_phone_number": "(702) 496-3761",
+                    "breed_referral_contact_email": "babbysbulldogs@gmail.com",
+                    "breed_referral_contact_address": "201 W KIMBERLY DR\nHENDERSON, NV 89015-7847",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.rescuebulldogs.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1474,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 60,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 520,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 522,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 519,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 521,
+                            "breed_id": "60",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "bulldog": {
+                    "breed_name_url": "bulldog",
+                    "breed_name": "Bulldog",
+                    "akc_org_history": "<p>Historical evidence suggests that Bulldogs were created in 13th-century England, during the reign of King John, for the 'sport' of bullbaiting, in which a staked bull fought a pack of dogs while spectators bet on the outcome. The dogs used in this grisly pastime, the ancestors of today's Bulldog, were ferocious brutes with huge jaws, unbelievably brave and seemingly impervious to pain.&nbsp;</p>\n<p><br>\n</p>\n<p>A turning point in Bulldog history came in 1835, when England banned blood sports with animals. Blood sports went underground, literally, as bullbaiting gave way to pit-dog fighting in cellars. This illicit activity required quicker, more animated dogs than the plodding Bulldog of the early 19th century. Gamblers created their fiery, four-legged gladiators by crossing various terriers with Bulldogs, and in so doing put forth early prototypes of the Bull Terrier, Staffordshire Bull Terrier, and other bull-type terrier breeds still popular today.</p>\n<p><br>\n</p>\n<p>With bullbaiting obsolete, the Bulldog faced extinction. In response, Bulldog admirers began the long process of transforming the breed from brawler to companion. They refined the physical contours to make the dog more attractive, and they also tamped down the Bulldog's ferociousness and reconceived the breed as a sweet and mellow pet who is especially fond of children. By 1886, Bulldog fanciers on both sides of the Atlantic had done their work well enough to see the breed recognized by the AKC.</p>\n<p><br>\n</p>\n<p>The Bulldog has long since been the national symbol of England. During World War II much was made of the similarities between the jowly, tenacious Bulldog and the jowly, tenacious Prime Minister Winston Churchill. In America, the breed is the mascot of myriad sports team, including those representing Yale University. Yale's Bulldog mascot, Handsome Dan, was said to be the first animal mascot in all of sports. Another famous Bulldog football mascot is Uga, who enjoys the exploits of the University of Georgia Bulldogs from the comfort of an air-conditioned doghouse on the sidelines. The Bulldog also serves as the wrinkly face of the Mack Truck company and the U.S. Marine Corps.</p>",
+                    "mp_history_job": "<p>Bulldogs were created in medieval England for the 'sport' of bullbaiting, in which a staked bull fought a pack of dogs while spectators bet on the outcome. The dogs used in this grisly pastime, the ancestors of today's Bulldog, were unbelievably brave and seemingly impervious to pain. The turning point in Bulldog history came in 1835, when England banned blood sports. With no work to do, the Bulldog might've gone extinct. Instead, breeders began eliminating the Bulldog's ferociousness while accentuating its finer qualities.</p>",
+                    "did_you_know": "President Calvin Coolidge owned a Bulldog named \"Boston Beans.\" | Despite their small size, Bulldogs can weigh up to 50 pounds. | The word \"bull\" appears in \"Bulldog\" due to the breed's historical connection with bullbaiting, a popular sport in medieval Europe that is now illegal. | President Warren G. Harding owned a Bulldog named \"Old Boy.\" | Hanna-Barbera's animated film series \"Tom and Jerry\" features a Bulldog named \"Spike,\" who made his first appearance in 1942. | The Bulldog originated in the British Isles and is also known as the English Bulldog."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23854%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg",
+                    "alt": "Bulldog standing in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9liliya kulianionak - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-Slide-02.jpg",
+                    "alt": "Two Bulldogs running together in the fall.",
+                    "caption": "",
+                    "credit": "\u00a9Grigorita Ko - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-asleep-on-couch-tongue-out.jpg",
+                    "alt": "Bulldog asleep on couch tongue out.",
+                    "caption": "",
+                    "credit": "\u00a9Lindsay_Helms - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-at-the-AKC-National-Championship.jpg",
+                    "alt": "Bulldog at the AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-looking-up-portrait-closeup.jpg",
+                    "alt": "Bulldog looking up portrait closeup.",
+                    "caption": "",
+                    "credit": "\u00a9Lunja - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog.jpg",
+                    "alt": "Bulldog standing in the grass in the sunshine.",
+                    "caption": "",
+                    "credit": "\u00a9Lunja - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-on-skateboard-grinning.jpg",
+                    "alt": "Bulldog on skateboard grinning.",
+                    "caption": "",
+                    "credit": "\u00a9OTS-PHOTO/stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-leaping-over-an-agility-jump.jpg",
+                    "alt": "Bulldog leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-puppy-playing-with-small-toy.jpg",
+                    "alt": "Bulldog puppy playing with small toy.",
+                    "caption": "",
+                    "credit": "\u00a9kozorog - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/bulldogs-greeting-on-street.jpg",
+                    "alt": "Bulldogs greeting on street",
+                    "caption": "",
+                    "credit": "\u00a9Tatiana Katsai - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-Illo-2.jpg",
+                "alt": "Bulldog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-puppies.jpg",
+                "alt": "Two Bulldog puppies, one pulling on the ear of the other."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "http://marketplace.akc.org/puppies/bulldog/",
+                "is_external": true
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Bulldog",
+        "shopCta": false
+    }
+}

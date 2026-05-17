@@ -1,0 +1,1331 @@
+{
+    "settings": {
+        "current_breed": "american-foxhound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "parent_club_health_statement_link": null,
+                    "mp_health": "<p>Some American Foxhounds have been know to have hip dysplasia and ear infections but not enough to call it a chronic problem in the breed. While typically a healthy breed, some have occasionally suffered from thrombocytopathy which is caused by poorly functioning platelets and results in abnormal or excessive bleeding from minor scrapes.</p>",
+                    "akc_org_health": "<p>The American Foxhound is typically a healthy breed, and a responsible breeder will test breeding stock for health conditions such as hip dysplasia and thrombocytopathy, which is a blood disorder. Long-eared breeds can develop ear infections, and a Foxhound's ears should be checked regularly to remove foreign matter and avoid a buildup of wax. Regular brushing will keep the hound's teeth healthy as well.</p>",
+                    "akc_org_nutrition": "<p>The American Foxhound should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Foxhounds love to eat and can be prone to getting overweight, so to prevent obesity it can be better to feed an adult two measured feedings per day rather than allowing him to free-feed all day. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The American Foxhound's handsome coat is short and lies close to the body. The coat's hard texture protects the dog from the underbrush he courses through while on the hunt'\u00bfand the coat also happens to be extremely easy to take care of. A short, once-a-week session with a bristle brush, a rubber grooming mitt or tool, or a hound glove is usually all that is needed. The Foxhound should not need to be bathed unless he gets into something particularly messy while outdoors. As with all breeds, the American Foxhound'\u00bfs nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Foxhounds were bred specifically to spend long hours chasing after prey. That's why an American Foxhound needs at least a solid hour or two of exercise every day'\u00bfif he doesn't get it, he may become bored and destructive. If they get all the activity they need, they can fit in pretty much anywhere. While they are happiest living indoors with their human family, American Foxhounds make great companions on long walks or hikes. Because they were bred to hunt and chase animals and to follow a scent, they should only be allowed loose in areas that are securely fenced, and any walks must be taken on a leash. The breed also exercises mind and body by participating in canine sports such as tracking, rally, coursing ability tests, and other activities that can be enjoyed together by dog and owner.</p>",
+                    "akc_org_training": "<p>American Foxhounds are easygoing and amiable. They also can be stubborn and independent, however, which can make training an exercise in patience. Obedience classes are recommended, and as scenthounds, it may never be safe to have them off-leash, because their noses can lead them into trouble. Foxhounds raised in the home tend to be wonderfully mild-tempered, devoted, and easygoing companions, and they get along well with children. Even so, owners will need patience and persistence when training them, and hounds can develop unwanted behaviors if not given enough exercise.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "No recommended health tests",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "No recommended health tests"
+                }
+            },
+            "basics": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "breed_name_oracle": "American Foxhound",
+                    "matches_oracle": "American Foxhound",
+                    "akc_code": "409",
+                    "breed_name_plural": "American Foxhounds",
+                    "breed_nicknames": "Foxhound",
+                    "origin": "United States",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1886",
+                    "life_expectancy": "11-13 years",
+                    "related_breeds": "American English Coonhound, English Foxhound, Beagle, Treeing Walker Coonhound, Harrier",
+                    "links": [],
+                    "popularity_2025": 188,
+                    "popularity_2024": 193,
+                    "popularity_2023": 182,
+                    "popularity_2022": 196,
+                    "popularity_2021": 195,
+                    "popularity_2020": 192,
+                    "popularity_2019": 191,
+                    "popularity_2018": 186,
+                    "popularity_2017": 187,
+                    "popularity_2016": 189,
+                    "popularity_2015": 181,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "american-english-coonhound",
+                        "english-foxhound",
+                        "beagle",
+                        "treeing-walker-coonhound",
+                        "harrier"
+                    ],
+                    "related_breeds_items": {
+                        "american-english-coonhound": {
+                            "breed_name_url": "american-english-coonhound",
+                            "breed_name": "American English Coonhound",
+                            "breed_name_oracle": "American English Coonhound",
+                            "matches_oracle": "American English Coonhound",
+                            "akc_code": "425",
+                            "breed_name_plural": "American English Coonhounds",
+                            "breed_nicknames": "",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "11-12 years",
+                            "related_breeds": "American Foxhound, Redbone Coonhound, Black and Tan Coonhound, Bluetick Coonhound, Treeing Walker Coonhound",
+                            "links": [],
+                            "popularity_2025": 182,
+                            "popularity_2024": 171,
+                            "popularity_2023": 178,
+                            "popularity_2022": 182,
+                            "popularity_2021": 184,
+                            "popularity_2020": 185,
+                            "popularity_2019": 177,
+                            "popularity_2018": 175,
+                            "popularity_2017": 178,
+                            "popularity_2016": 170,
+                            "popularity_2015": 166,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "sociable / sweet / mellow"
+                        },
+                        "english-foxhound": {
+                            "breed_name_url": "english-foxhound",
+                            "breed_name": "English Foxhound",
+                            "breed_name_oracle": "English Foxhound",
+                            "matches_oracle": "English Foxhound",
+                            "akc_code": "410",
+                            "breed_name_plural": "English Foxhounds",
+                            "breed_nicknames": "English hound",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1909",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "American Foxhound, Hamiltonstovare, American English Coonhound, Beagle, Harrier",
+                            "links": [],
+                            "popularity_2025": 187,
+                            "popularity_2024": 201,
+                            "popularity_2023": 199,
+                            "popularity_2022": 199,
+                            "popularity_2021": 196,
+                            "popularity_2020": 194,
+                            "popularity_2019": 195,
+                            "popularity_2018": 188,
+                            "popularity_2017": 189,
+                            "popularity_2016": 187,
+                            "popularity_2015": 184,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "sociable / affectionate / gentle"
+                        },
+                        "beagle": {
+                            "breed_name_url": "beagle",
+                            "breed_name": "Beagle",
+                            "breed_name_oracle": "Beagle",
+                            "matches_oracle": "Beagle",
+                            "akc_code": "404",
+                            "breed_name_plural": "Beagles",
+                            "breed_nicknames": "",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "English Foxhound, Harrier, Basset Fauve de Bretagne, Basset Hound, American Foxhound",
+                            "links": {
+                                "akc_url": null
+                            },
+                            "popularity_2025": 7,
+                            "popularity_2024": 7,
+                            "popularity_2023": 8,
+                            "popularity_2022": 8,
+                            "popularity_2021": 7,
+                            "popularity_2020": 7,
+                            "popularity_2019": 7,
+                            "popularity_2018": 6,
+                            "popularity_2017": 6,
+                            "popularity_2016": 5,
+                            "popularity_2015": 5,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids",
+                            "temperament": "curious / friendly / merry"
+                        },
+                        "treeing-walker-coonhound": {
+                            "breed_name_url": "treeing-walker-coonhound",
+                            "breed_name": "Treeing Walker Coonhound",
+                            "breed_name_oracle": "Treeing Walker Coonhound",
+                            "matches_oracle": "Treeing Walker Coonhound",
+                            "akc_code": "426",
+                            "breed_name_plural": "Treeing Walker Coonhounds",
+                            "breed_nicknames": "The People's Choice",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2012",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Bluetick Coonhound, Treeing Tennessee Brindle, Plott Hound, Redbone Coonhound, Mountain Cur",
+                            "links": [],
+                            "popularity_2025": 143,
+                            "popularity_2024": 152,
+                            "popularity_2023": 155,
+                            "popularity_2022": 159,
+                            "popularity_2021": 151,
+                            "popularity_2020": 153,
+                            "popularity_2019": 131,
+                            "popularity_2018": 137,
+                            "popularity_2017": 131,
+                            "popularity_2016": 137,
+                            "popularity_2015": 117,
+                            "related_groups_characteristics": "",
+                            "temperament": "smart / brave / courteous"
+                        },
+                        "harrier": {
+                            "breed_name_url": "harrier",
+                            "breed_name": "Harrier",
+                            "breed_name_oracle": "Harrier",
+                            "matches_oracle": "Harrier",
+                            "akc_code": "412",
+                            "breed_name_plural": "Harriers",
+                            "breed_nicknames": "Harrier",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "American Foxhound, English Foxhound, Transylvanian Hound, Beagle, Hamiltonstovare",
+                            "links": [],
+                            "popularity_2025": 199,
+                            "popularity_2024": 183,
+                            "popularity_2023": 190,
+                            "popularity_2022": 193,
+                            "popularity_2021": 188,
+                            "popularity_2020": 190,
+                            "popularity_2019": 188,
+                            "popularity_2018": 189,
+                            "popularity_2017": 183,
+                            "popularity_2016": 186,
+                            "popularity_2015": 183,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / outgoing / people-oriented"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "temperament": "independent / easy-going / sweet-tempered",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "akc_org_blurb": "American Foxhounds are good-natured, low-maintenance hounds who get on well with kids, dogs, even cats, but come with special considerations for prospective owners. They are closely associated with Revolutionary heroes and the rolling estates of old Virginia.",
+                    "akc_org_about": "American Foxhounds are sleek, rangy hunters known for their speed, endurance, and work ethic. You can tell the American Foxhound apart from their British cousin the English Foxhound by length of leg'\u00bfthe American's legs are longer and more finely boned'\u00bfand by the American's slightly arched loin (back end). American Foxhounds have large, soft eyes with an expression described as gentle and pleading.\n\n\n\n So far, so good. But Foxhounds come with special considerations. They need lots of exercise or they can get depressed and destructive. A Foxhound's single-minded prey drive must be managed. Their loud bawling is melodious to hound lovers but can be a nuisance to neighbors, and training and housebreaking these independent souls can be a steep challenge for novice owners.",
+                    "mp_description": "It may be hard to resist the alert, intelligent demeanor of the American Foxhound, but as handsome as he is, ownership may be a challenge. This native breed is independent and can have a stubborn streak. He was born to run and hunt and may not be interested in what you have to say about it. Your American Foxhound puppy will need patient, persistent training. He needs a great deal of exercise and an experienced owner to manage his strong prey instinct. Like other hounds, he's a vocal dog, with the baying and bawling that might not suit a quiet living environment. But with plenty of training and exercise, he can learn to be a sweet-tempered, easy going family dog."
+                }
+            },
+            "standards": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "title_1": "Appearance",
+                    "description_1": "Skull-Should be fairly long, slightly domed at occiput, with cranium broad and full. Ears-Ears set on moderately low, long, reaching when drawn out nearly, if not quite, to the tip of the nose; fine in texture, fairly broad, with almost entire absence of erectile power-setting close to the head with the forward edge slightly inturning to the cheek-round at tip. Eyes- Eyes large, set well apart, soft and houndlike-expression gentle and pleading; of a brown or hazel color. Muzzle-Muzzle of fair length-straight and square-cut-the stop moderately defined.",
+                    "title_2": "Body",
+                    "description_2": "Neck rising free and light from the shoulders, strong in substance yet not loaded, of medium length. The throat clean and free from folds of skin, a slight wrinkle below the angle of the jaw, however, is allowable. Defects-A thick, short, cloddy neck carried on a line with the top of the shoulders. Throat showing dewlap and folds of skin to a degree termed \"throatiness\".Shoulders sloping-clean, muscular, not heavy or loaded-conveying the idea of freedom of action with activity and strength. Chest should be deep for lung space, narrower in proportion to depth than the English hound-28 inches (girth) in a 23-inch hound being good. Well-sprung ribs-back ribs should extend well back-a three-inch flank allowing springiness.",
+                    "title_3": "Tail",
+                    "description_3": "Set moderately high; carried gaily, but not turned forward over the back; with slight curve; with very slight brush. Defects-A long tail, teapot curve or inclined forward from the root. Rat tail, entire absence of brush.",
+                    "title_4": "Forelegs And Feet",
+                    "description_4": "The forelegs are straight from elbows to feet, well boned and muscular, with pasterns strong, flexible and very slightly sloping. Feet-Fox-like. Pad full and hard. Well-arched toes. Strong nails. Defects-Straight, upright shoulders, chest disproportionately wide or with lack of depth. Flat ribs. Out at elbow. Knees knuckled over forward, or bent backward. Forelegs crooked. Feet long, open or spreading.",
+                    "title_5": "Coat",
+                    "description_5": "A close, hard, hound coat of medium length. Defects-A short thin coat, or of a soft quality.",
+                    "title_6": "Hips Thighs Hind Legs And Feet",
+                    "description_6": "Hips and thighs, strong and muscled, giving abundance of propelling power. Stifles strong and well let down. Hocks firm, symmetrical and moderately bent. Feet close and firm. Defects-Cowhocks, or straight hocks. Lack of muscle and propelling power. Open feet.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "21",
+                    "height_max": "25",
+                    "weight_min": "60",
+                    "weight_max": "70",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AmericanFoxhound.pdf",
+                    "height_min_f": "21",
+                    "height_max_f": "25",
+                    "height_min_m": "21",
+                    "height_max_m": "25",
+                    "height_display": "22-25 inches (male), 21-24 inches (female)",
+                    "weight_min_f": "60",
+                    "weight_max_f": "70",
+                    "weight_min_m": "60",
+                    "weight_max_m": "70",
+                    "weight_display": "65-70 pounds (male), 60-65 pounds (female)"
+                }
+            },
+            "colors": {
+                "american-foxhound": {
+                    "colors": [
+                        {
+                            "color_index": 822,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "034",
+                            "color_long": "Black White & Tan",
+                            "color_short": "BLK WH & TN"
+                        },
+                        {
+                            "color_index": 823,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "219",
+                            "color_long": "White Black & Tan",
+                            "color_short": "WH BLK & TN"
+                        },
+                        {
+                            "color_index": 824,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 825,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "214",
+                            "color_long": "White & Red",
+                            "color_short": "WH & RD"
+                        },
+                        {
+                            "color_index": 826,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "206",
+                            "color_long": "White & Cream",
+                            "color_short": "WH & CR"
+                        },
+                        {
+                            "color_index": 827,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "022",
+                            "color_long": "Black Brown & White",
+                            "color_short": "BLK BR & WH"
+                        },
+                        {
+                            "color_index": 828,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 829,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "195",
+                            "color_long": "Tan",
+                            "color_short": "TN"
+                        },
+                        {
+                            "color_index": 830,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "066",
+                            "color_long": "Brown White & Tan",
+                            "color_short": "BR WH & TN"
+                        },
+                        {
+                            "color_index": 831,
+                            "breed_name_url": "american-foxhound",
+                            "breed_name": "American Foxhound",
+                            "akc_code": "409",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "breed_club_name": "American Foxhound Club, Inc",
+                    "breed_club_url": null,
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "American Foxhound Club, Inc",
+                    "national_breed_club_url": "",
+                    "breed_referral_contact_name": "Harry Miller",
+                    "breed_referral_contact_phone_number": "(301) 904-7685",
+                    "breed_referral_contact_email": "sitecon@md.metrocast.net",
+                    "breed_referral_contact_address": "41525 NEW MARKET TURNER RD\nMECHANICSVLLE, MD 20659-4812",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1422,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 8,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 312,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 314,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 311,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 313,
+                            "breed_id": "8",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "american-foxhound": {
+                    "breed_name_url": "american-foxhound",
+                    "breed_name": "American Foxhound",
+                    "akc_org_history": "<p>George Washington can be seen as the ultimate American. But he and other wealthy Virginia planters who came of age in pre-Revolutionary times considered themselves in most ways thoroughly British. George and Martha Washington's life at Mount Vernon was modeled on the customs of British elites who inhabited England's vast country estates. The Washingtons played English music on their English-made pianoforte, danced English dances, and entertained their guests with English chinaware and crystal. The general even had his pre-Revolutionary uniforms made by a London tailor.&nbsp;</p>\n<p><br></p>\n<p>Another cherished British institution upheld at Mount Vernon was the traditional English foxhunt, with scores of equestrians and hounds thundering across the countryside in pursuit of the wily fox. Washington was an avid foxhunter. He kept a pack of hounds bred from British imports and kept meticulous records of his breeding program. He refined his pack with French breeding stock given to him by his friend the Marquis de Lafayette. Washington didn't invent American Foxhounds single-handedly, but he was a key player in the breed's development. The Jeffersons, the Lees, and the Custises were among other famous families of America's founding generation for whom horses and hounds were a way of life.&nbsp;</p>\n<p><br></p>\n<p>In post-Colonial times, further refinements were made to the American Foxhound throughout the South until the breed was distinctly separate from its cousin the English Foxhound. Until the coming of the Civil War, foxhunting with hounds was the principal field sport of the American gentry. Today, the American Foxhound is the state dog of Virginia.</p>",
+                    "mp_history_job": "<p>George Washington can be seen as the ultimate American. But he and other wealthy Virginia planters who came of age in pre-Revolutionary times considered themselves in most ways thoroughly British. This included a passion for traditional English foxhunts. Washington was an avid foxhunter who kept a pack of English hounds, which he interbred with French hounds given to him by his friend the Marquis de Lafayette. Washington didn't invent American Foxhounds single-handedly, but he was a key player in the breed's development.</p>",
+                    "did_you_know": "The American Foxhound has achieved great renown for his musical voice. His bays and howls can carry for miles. | American Foxhounds can be extremely difficult to call back once they get on a scent. | The American Foxhound was bred to chase a fox, but not to kill it. Additionally, the breed has always worked closely alongside horses. | The American Foxhound was one of the first dog breeds developed in the United States, if not the first. | George Washington owned 36 Foxhounds. Some of their names were Sweet Lips, Tipsy, Tipler, Chloe, Searcher and Drunkard. | Jewel, a 3-year-old American Foxhound, won Best in Show at The National Dog Show presented by Purina in 2013 in Philadelphia. She was first dog in the Hound Group to capture the top honor in the history of the show."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23292%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2018/06/american-foxhound-pair-looking-up.jpg",
+                    "alt": "American Foxhounds outdoors looking up at the viewer.",
+                    "caption": "",
+                    "credit": "\u00a9terex - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Hound-Group-David-0E9A5881.jpg",
+                    "alt": "BBE Hound Group Fourth, Best of Breed, and Best Bred By in Breed/Variety: GCHS CH Kiarry's Stonewall Jackson, American Foxhound; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Foxhound-Illo-2.jpg",
+                "alt": "American Foxhound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/American-Foxhound-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/American-Foxhound-2.jpg",
+                "alt": "American Foxhound lying in three-quarter view."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/american-foxhound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "American Foxhound",
+        "shopCta": false
+    }
+}

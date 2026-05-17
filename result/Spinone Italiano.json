@@ -1,0 +1,1275 @@
+{
+    "settings": {
+        "current_breed": "spinone-italiano",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Spinone-Italiano.pdf",
+                    "mp_health": "Spinoni Italiani are generally a healthy breed. Like all breeds there may be some health issues, like hip and elbow dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Spinoni Italiani are healthy dogs.",
+                    "akc_org_health": "Responsible breeders will screen their stock for health conditions such as hip and elbow dysplasia and eye anomalies. As with all breeds, the Spinone's ears should be checked regularly for signs of infection, and the teeth should be brushed often, ideally every day, using a toothpaste formulated for dogs.",
+                    "akc_org_nutrition": "The Spinone should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some Spinoni can be picky eaters. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.\n\n\n\n Some Spinoni can experience bloat, which can be related to the very sensitive nature of the breed. Because Spinoni will worry more when their owners are worried, this can create a vicious cycle in terms of the dog not eating or possibly stressing himself into bloat. Making sure the Spinone has quiet time to digest after eating in order to help prevent bloat is important.",
+                    "akc_org_grooming": "Despite the standard saying that the breed should be \"kept in a natural state,\" Spinoni do need some grooming. They should be hand-stripped, rather than scissored, to get out the dead hair, as well as maintain a coat length of one and a half to two and a half inches. Spinone need their ears cleaned at least once a week. The legs should be kept in a brushy column, and no feathers left on the tail. Nails should be trimmed once a week.",
+                    "akc_org_exercise": "Spinoni are 'low octane'\u009d compared to other sporting breeds. While a hike or walk is always a good idea, it is not something that must be done every day. A large, securely fenced yard and plenty of playtime will keep a Spinone happy, along with being part of the family, which is just as important to his well-being as exercise. Spinoni are not \"kennel dogs,\" or dogs who can just be left alone outside'\u00bfthey must be part of the family at all times, which means being a house dog, living inside with the family.",
+                    "akc_org_training": "One experienced breeder shares insight on breed trainability: 'Spinoni are very soft, very stubborn, and very smart. Training is mostly about '\u00bfbarter.' With many breeds, if you say, '\u00bfJump,' they will ask, '\u00bfHow high?' as they are jumping, whereas a Spinone will ask, '\u00bfWhy?' You can teach a Spinone the basics and even train them for competitive obedience'\u00bfjust don't expect them to be '\u00bfhigh and tight' about it every single time. They may tell you, '\u00bfNo, not today. Maybe later.' They are smart, but a challenge, and they will shut down if training is too hard or harsh. When hunting, they hunt where they want and will put food on your table. Spinoni are not '\u00bfrobot hunters' who will go where you tell them to. Spinoni teach hunters to trust their dogs in the field.'\u009d",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "breed_name_oracle": "Spinone Italiano",
+                    "matches_oracle": "Spinone Italiano",
+                    "akc_code": "132",
+                    "breed_name_plural": "Spinone Italianos",
+                    "breed_nicknames": "Spinone",
+                    "origin": "Italy",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "2000",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Bracco Italiano, Segugio Italiano, Pudelpointer, Otterhound, Wirehaired Pointing Griffon",
+                    "links": [],
+                    "popularity_2025": 113,
+                    "popularity_2024": 120,
+                    "popularity_2023": 119,
+                    "popularity_2022": 112,
+                    "popularity_2021": 108,
+                    "popularity_2020": 110,
+                    "popularity_2019": 118,
+                    "popularity_2018": 109,
+                    "popularity_2017": 111,
+                    "popularity_2016": 105,
+                    "popularity_2015": 112,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "bracco-italiano",
+                        "segugio-italiano",
+                        "pudelpointer",
+                        "otterhound",
+                        "wirehaired-pointing-griffon"
+                    ],
+                    "related_breeds_items": {
+                        "bracco-italiano": {
+                            "breed_name_url": "bracco-italiano",
+                            "breed_name": "Bracco Italiano",
+                            "breed_name_oracle": "Bracco Italiano",
+                            "matches_oracle": "Bracco Italiano",
+                            "akc_code": "133",
+                            "breed_name_plural": "Bracchi Italiano",
+                            "breed_nicknames": "Italian Pointer",
+                            "origin": "Italy",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2022",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Spinone Italiano, Pointer, Segugio Italiano, Bloodhound, Braque du Bourbonnais",
+                            "links": [],
+                            "popularity_2025": 136,
+                            "popularity_2024": 132,
+                            "popularity_2023": 152,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds",
+                            "temperament": "intelligent / affectionate / enthusiastic"
+                        },
+                        "segugio-italiano": {
+                            "breed_name_url": "segugio-italiano",
+                            "breed_name": "Segugio Italiano",
+                            "breed_name_oracle": "Segugio Italiano",
+                            "matches_oracle": "Segugio Italiano",
+                            "akc_code": "456",
+                            "breed_name_plural": "Segugi Italiani",
+                            "breed_nicknames": "Segit",
+                            "origin": "Italy",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Bracco Italiano, Transylvanian Hound, Porcelaine, Hanoverian Scenthound, Black and Tan Coonhound",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Medium Dog Breeds",
+                            "temperament": "intelligent / friendly / eager to please"
+                        },
+                        "pudelpointer": {
+                            "breed_name_url": "pudelpointer",
+                            "breed_name": "Pudelpointer",
+                            "breed_name_oracle": "Pudelpointer",
+                            "matches_oracle": "Pudelpointer",
+                            "akc_code": "147",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "14 years",
+                            "related_breeds": "German Wirehaired Pointer, Wirehaired Pointing Griffon, Wirehaired Vizsla, Slovakian Wirehaired Pointer, German Longhaired Pointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / willing to please"
+                        },
+                        "otterhound": {
+                            "breed_name_url": "otterhound",
+                            "breed_name": "Otterhound",
+                            "breed_name_oracle": "Otterhound",
+                            "matches_oracle": "Otterhound",
+                            "akc_code": "415",
+                            "breed_name_plural": "Otterhounds",
+                            "breed_nicknames": "OH",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1909",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Grand Basset Griffon Vend\u00e9en, Wirehaired Pointing Griffon, German Wirehaired Pointer, Wirehaired Vizsla, Slovakian Wirehaired Pointer",
+                            "links": [],
+                            "popularity_2025": 189,
+                            "popularity_2024": 196,
+                            "popularity_2023": 189,
+                            "popularity_2022": 176,
+                            "popularity_2021": 178,
+                            "popularity_2020": 176,
+                            "popularity_2019": 174,
+                            "popularity_2018": 182,
+                            "popularity_2017": 186,
+                            "popularity_2016": 166,
+                            "popularity_2015": 180,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "even-tempered / amiable / boisterous"
+                        },
+                        "wirehaired-pointing-griffon": {
+                            "breed_name_url": "wirehaired-pointing-griffon",
+                            "breed_name": "Wirehaired Pointing Griffon",
+                            "breed_name_oracle": "Wirehaired Pointing Griffon",
+                            "matches_oracle": "Wirehaired Pointing Griffon",
+                            "akc_code": "124",
+                            "breed_name_plural": "Wirehaired Pointing Griffons",
+                            "breed_nicknames": "Supreme Gundog",
+                            "origin": "Continental Europe",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Spinone Italiano, German Wirehaired Pointer, Pudelpointer, Slovakian Wirehaired Pointer, Wirehaired Vizsla",
+                            "links": [],
+                            "popularity_2025": 51,
+                            "popularity_2024": 51,
+                            "popularity_2023": 57,
+                            "popularity_2022": 57,
+                            "popularity_2021": 60,
+                            "popularity_2020": 63,
+                            "popularity_2019": 63,
+                            "popularity_2018": 65,
+                            "popularity_2017": 65,
+                            "popularity_2016": 66,
+                            "popularity_2015": 66,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / devoted / trainable"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "temperament": "sociable / patient / docile",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "akc_org_blurb": "The Spinone Italiano, a densely-coated hunting dog, is sociable, docile, and patient, sometimes stubborn but always endearing. Of ancient Italian lineage, the Spinone is among the field dogs of Continental Europe famed for versatility.",
+                    "akc_org_about": "The Spinone Italiano (plural: Spinoni Italiani) is a squarely and solidly built all-around hunter. Spinoni are muscular and powerful, built more for endurance than speed. The dense coat has a natural, unclippered look and comes in various colors and patterns. The face conveys the breed's abundant Old World charm. Those soft, sweetly expressive eyes set off by shaggy eyebrows and a tufted beard have won many a heart in Italy'\u00bfand they're making new conquests here in America every day.",
+                    "mp_description": "If you've ever had a roommate who's a little eccentric, messy and goofy, but an all-around great guy, you know what it's like to live with a Spinone Italiano. This rugged hunting breed is calm around the house, but loves an energetic romp. Spinone Italiano puppies need early socialization and training. He can be stubborn and clever, pulling out all the stops to get his way. But he's soulful and affectionate with his family, other dogs and kids. With plenty of exercise and attention, he's an endearing companion."
+                }
+            },
+            "standards": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The Spinone has a distinctive profile and soft, almost-human expression. The breed is constructed for endurance. Muscular, vigorous and with powerful bone, the Spinone has a robust build that makes him resistant to fatigue and able to work on almost any terrain; big feet and a two-piece topline give the dog stability on rough ground. The Spinone covers ground efficiently, combining a purposeful, easy trot with an intermittent gallop. A harsh, single coat and thick skin enable the Spinone to negotiate underbrush and endure cold water that would punish any dog not so naturally armored. This versatile pointer is a proficient swimmer and an excellent retriever by nature. The Spinone is patient, methodical and cooperative in the field, and has a gentle demeanor.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>Expression is of paramount importance to the breed. It should denote intelligence and gentleness. Eyes - Must have a soft sweet expression. Ochre (yellowish brown) in color, darker eyes with darker colored dogs, lighter eyes with lighter colored dogs. Large, well opened, set well apart, the eye is almost round, the lids closely fitting the eye, to protect the eye from gathering debris while the dog is hunting, loose eye lids must be faulted. Which is neither protruding nor deep set. Eye rim clearly visible, color will vary with coat color from flesh colored to brown.</p>",
+                    "title_3": "Body",
+                    "description_3": "<p>Neck - Strong, thick, and muscular. Clearly defined from the nape, blending in to the shoulders in a harmonious line. The throat is moderate in skin with a double dewlap. Chest - Broad, deep, well muscled and well rounded; extending at least to the elbow. The ribs are well sprung. The distance from ground to the elbow is equal to _ the height at the withers. Back - The topline consists of two segments. The first slopes slightly downward in a nearly straight line from the withers to the eleventh thoracic vertebrae, approximately 6 inches behind the withers. The second rises gradually and continues into a solid and well-arched loin. The underline is solid and should have minimal tuck up. Croup - Well muscled, long. The hipbones fall away from the spinal column at an angle of about 30 degrees, producing a lightly rounded, well filled-out croup.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>Powerful and long, withers not too prominent; forming an angle with the upper arm of approximately angle 105. With well-developed muscles, the points of the shoulder blades are not close together. The ideal distance between the shoulder blades is approximately two inches or more. Angulation of shoulder is in balance with angulation in the rear. Forelegs: The forelegs are straight when viewed from the front angle with strong bone and well-developed muscles; elbows set under the withers and close to the body. Pasterns are long, lean and flexible following the vertical line of the forearm. In profile, they are slightly slanted.</p>",
+                    "title_5": "Coat",
+                    "description_5": "<p>A Spinone must have a correct coat to be of correct type. The ideal coat length is 1_ to 2_ inches on the body, with a tolerance of _ inch over or under the ideal length. Head, ears, muzzle and front sides of legs and feet are covered by shorter hair. The hair on the backsides of the legs forms a rough brush, but there are never any fringes. The eyes and lips are framed by stiff hair forming eyebrows, mustache and tufted beard, which combine to save fore face from laceration by briar and bush. The coat is dense, stiff and flat or slightly crimped, but not curly, with an absence of undercoat. The Spinone is exhibited in a natural state.</p>",
+                    "title_6": "Hindquarters",
+                    "description_6": "<p>Thighs are strong and well muscled, stifles show good function angulation, lower thigh to be well developed and muscled with good breadth. The hock, with proportion of one third the distance from the hip joint to foot being ideal, is strong, lean and perpendicular to the ground. Fault - Cowhocks. Feet - Slightly more oval than the forefoot with the same characteristics. Dewclaws may be removed.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "27",
+                    "size": "<p>Medium</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/SpinoneItaliano.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "27",
+                    "height_min_m": "22",
+                    "height_max_m": "27",
+                    "height_display": "23-27 inches (male), 22-25 inches (female)",
+                    "weight_min_f": "31",
+                    "weight_max_f": "49",
+                    "weight_min_m": "31",
+                    "weight_max_m": "49",
+                    "weight_display": "In direct proportion to size and structure of a dog"
+                }
+            },
+            "markings": {
+                "spinone-italiano": {
+                    "markings": [
+                        {
+                            "marking_index": 35,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "cde_markings": "102",
+                            "markings_long": "Orange Markings",
+                            "markings_short": "ORNGE MRKNGS"
+                        },
+                        {
+                            "marking_index": 36,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "cde_markings": "022",
+                            "markings_long": "Brown Markings",
+                            "markings_short": "BR MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "spinone-italiano": {
+                    "colors": [
+                        {
+                            "color_index": 152,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 153,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "136",
+                            "color_long": "Orange Roan",
+                            "color_short": "ORG RN"
+                        },
+                        {
+                            "color_index": 154,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "213",
+                            "color_long": "White & Orange",
+                            "color_short": "WH & ORG"
+                        },
+                        {
+                            "color_index": 155,
+                            "breed_name_url": "spinone-italiano",
+                            "breed_name": "Spinone Italiano",
+                            "akc_code": "132",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "462",
+                            "color_long": "Brown Roan",
+                            "color_short": "BRN RN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "breed_club_name": "Spinone Club of America",
+                    "breed_club_url": "www.spinoneclubofamerica.com",
+                    "breed_club_pdf_url": "http://cdn.akc.org/SpinoneItaliano-club-flier.pdf",
+                    "breed_rescue_url": "http://www.spinoneclubofamerica.com/Rescue.aspx",
+                    "national_breed_club": "Spinone Club of America",
+                    "national_breed_club_url": "www.spinoneclubofamerica.com",
+                    "breed_referral_contact_name": "Karen Luckey",
+                    "breed_referral_contact_phone_number": "(516) 674-0988",
+                    "breed_referral_contact_email": "kluluckey@gmail.com",
+                    "breed_referral_contact_address": "",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.spinoneclubofamerica.com/Rescue.aspx",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1648,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 234,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Founded in 1987, the Spinone Club of America is the official AKC Parent Club for the Spinone Italiano."
+                        },
+                        {
+                            "id": 1216,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1218,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1215,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1217,
+                            "breed_id": "239",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "spinone-italiano": {
+                    "breed_name_url": "spinone-italiano",
+                    "breed_name": "Spinone Italiano",
+                    "akc_org_history": "Spinoni, a very old breed, are among the many field dogs of Continental Europe famed for versatility. Their strengths as hunter's companions include intelligence, a great nose, the ability to retrieve on land or lake, and the stamina to work all day and eagerly ask for more. The name Spinone refers to 'pino,'\u009d the thorny undergrowth found in Italy's Piedmont region. It was there that all-weather, all-purpose Spinoni were first bred to work alongside human huntsmen on the hilly terrain of Alpine Italy.",
+                    "mp_history_job": "Spinoni, a very old breed, are among the many field dogs of Continental Europe famed for versatility. Their strengths as hunter\u00bfs companions include intelligence, a great nose, the ability to retrieve on land or lake, and the stamina to work all day and eagerly ask for more. The name Spinone refers to \u00bfpino,\u00bf the thorny undergrowth found in Italy\u00bfs Piedmont region. It was there that all-weather, all-purpose Spinoni were first bred to work alongside human huntsmen on the hilly terrain of Alpine Italy.",
+                    "did_you_know": "The Spinone Club of America and the Club Italian Spinone, U.S.A. were both formed in the late 1980s. CISP, U.S.A. is also the official sister club of the Club Italiano Spinone of Italy. | The Spinone Italiano is AKC's 146th breed. | The Spinone originated in Italy, where it is estimated to be a cross of coarsehaired Italian Setters, bred with those left by Greek traders and others from the Adriatic coast, in addition to crosses with the White Mastiff and perhaps French Griffons. | The highly adaptable Spinone Italiano is known for its superior nose and ultrasoft mouth. | The Spinone is also known as the Italian Coarsehaired Pointer."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25794%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-On-White-03.jpg",
+                    "alt": "Spinone Italiano sitting in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2017-Sporting-Group-Oleg-HDM_5227.jpg",
+                    "alt": "Best of Breed: GCHS CH Ovidius Dal Podere Antico (Ovidius), Spinone Italiano; 2017 AKC National Championship presented by Royal Canin, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano.jpg",
+                    "alt": "Spinone Italiano on point in a field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-exploring-in-a-forest.jpg",
+                    "alt": "Spinone Italiano exploring in a forest.",
+                    "caption": "Spinone Italiano",
+                    "credit": "\u00a9Marina - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-running-in-a-field.jpg",
+                    "alt": "Spinone Italiano running in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Ricant Images - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-Illo.jpg",
+                "alt": "Spinone Italiano illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-Illo.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Spinoni-Italiani-puppies-together-in-the-yard.jpg",
+                "alt": "Spinoni Italiani puppies together in the yard."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/spinone-italiano",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Spinone Italiano",
+        "shopCta": false
+    }
+}

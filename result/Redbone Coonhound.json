@@ -1,0 +1,1258 @@
+{
+    "settings": {
+        "current_breed": "redbone-coonhound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "parent_club_health_statement_link": null,
+                    "mp_health": "Redbone Coonhounds are generally a very healthy and very hardy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Redbone Coonhounds are healthy dogs.",
+                    "akc_org_health": "Redbone Coonhounds are generally healthy dogs. Responsible breeders test their stock for health concerns and communicate with other dedicated breeders regularly, working together for breed health and preservation of the breed's unique qualities. A Redbone's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste formulated for dogs. Regular visits to the vet for checkups and parasite control help to ensure the dog a long, healthy life.",
+                    "akc_org_nutrition": "The Redbone Coonhound should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.",
+                    "akc_org_grooming": "The Redbone Conhound's short, smooth, protective coat requires a minimum of care. Using a shedding tool or grooming mitt at least weekly will help keep shedding to a minimum. This action also distributes skin oils down the hair shaft, giving his coat a natural shine. Nails should be trimmed once a month, and a bath every four to six weeks will keep the coat and skin clean and healthy. The Redbone's ears should be checked weekly and cleaned of any excess wax and debris as needed.",
+                    "akc_org_exercise": "The Redbone Coonhound is a friendly, energetic canine athlete and makes a wonderful companion for someone who is an active runner, biker, or hiker. He needs a lot of physical activity to stay healthy and happy. The breed has a very strong instinct to follow his nose and go off after prey, so he should never be allowed off leash in an uncontrolled situation.",
+                    "akc_org_training": "As with all breeds, early socialization and puppy training classes are recommended. Redbones are devoted companions and are very versatile, excelling in a range of venues, including coonhound trials and canine sports such as agility. Most of all they are great family dogs, very loving and loyal.",
+                    "text_yumove_link": null,
+                    "test_1": "No recommended health tests",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "No recommended health tests"
+                }
+            },
+            "basics": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "breed_name_oracle": "Redbone Coonhound",
+                    "matches_oracle": "Redbone Coonhound",
+                    "akc_code": "430",
+                    "breed_name_plural": "Redbone Coonhounds",
+                    "breed_nicknames": "Redbone",
+                    "origin": "United States",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "2009",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "American English Coonhound, Bluetick Coonhound, Plott Hound, Black and Tan Coonhound, Treeing Walker Coonhound",
+                    "links": [],
+                    "popularity_2025": 146,
+                    "popularity_2024": 144,
+                    "popularity_2023": 140,
+                    "popularity_2022": 158,
+                    "popularity_2021": 155,
+                    "popularity_2020": 146,
+                    "popularity_2019": 145,
+                    "popularity_2018": 142,
+                    "popularity_2017": 139,
+                    "popularity_2016": 143,
+                    "popularity_2015": 139,
+                    "related_groups_characteristics": "Largest Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "american-english-coonhound",
+                        "bluetick-coonhound",
+                        "plott-hound",
+                        "black-and-tan-coonhound",
+                        "treeing-walker-coonhound"
+                    ],
+                    "related_breeds_items": {
+                        "american-english-coonhound": {
+                            "breed_name_url": "american-english-coonhound",
+                            "breed_name": "American English Coonhound",
+                            "breed_name_oracle": "American English Coonhound",
+                            "matches_oracle": "American English Coonhound",
+                            "akc_code": "425",
+                            "breed_name_plural": "American English Coonhounds",
+                            "breed_nicknames": "",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "11-12 years",
+                            "related_breeds": "American Foxhound, Redbone Coonhound, Black and Tan Coonhound, Bluetick Coonhound, Treeing Walker Coonhound",
+                            "links": [],
+                            "popularity_2025": 182,
+                            "popularity_2024": 171,
+                            "popularity_2023": 178,
+                            "popularity_2022": 182,
+                            "popularity_2021": 184,
+                            "popularity_2020": 185,
+                            "popularity_2019": 177,
+                            "popularity_2018": 175,
+                            "popularity_2017": 178,
+                            "popularity_2016": 170,
+                            "popularity_2015": 166,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "sociable / sweet / mellow"
+                        },
+                        "bluetick-coonhound": {
+                            "breed_name_url": "bluetick-coonhound",
+                            "breed_name": "Bluetick Coonhound",
+                            "breed_name_oracle": "Bluetick Coonhound",
+                            "matches_oracle": "Bluetick Coonhound",
+                            "akc_code": "424",
+                            "breed_name_plural": "Bluetick Coonhounds",
+                            "breed_nicknames": "Bluetick",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2009",
+                            "life_expectancy": "11-12 years",
+                            "related_breeds": "Black and Tan Coonhound, American English Coonhound, Plott Hound, Redbone Coonhound, Treeing Walker Coonhound",
+                            "links": [],
+                            "popularity_2025": 132,
+                            "popularity_2024": 137,
+                            "popularity_2023": 139,
+                            "popularity_2022": 133,
+                            "popularity_2021": 140,
+                            "popularity_2020": 137,
+                            "popularity_2019": 140,
+                            "popularity_2018": 130,
+                            "popularity_2017": 132,
+                            "popularity_2016": 121,
+                            "popularity_2015": 123,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "devoted / smart / tenacious"
+                        },
+                        "plott-hound": {
+                            "breed_name_url": "plott-hound",
+                            "breed_name": "Plott Hound",
+                            "breed_name_oracle": "Plott Hound",
+                            "matches_oracle": "Plott Hound",
+                            "akc_code": "423",
+                            "breed_name_plural": "Plotts",
+                            "breed_nicknames": "Plott",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2006",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Hanoverian Scenthound, Bavarian Mountain Scent Hound, Mountain Cur, Transylvanian Hound",
+                            "links": [],
+                            "popularity_2025": 171,
+                            "popularity_2024": 173,
+                            "popularity_2023": 181,
+                            "popularity_2022": 173,
+                            "popularity_2021": 171,
+                            "popularity_2020": 167,
+                            "popularity_2019": 179,
+                            "popularity_2018": 171,
+                            "popularity_2017": 166,
+                            "popularity_2016": 158,
+                            "popularity_2015": 149,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "Loyal / Alert / Intelligent"
+                        },
+                        "black-and-tan-coonhound": {
+                            "breed_name_url": "black-and-tan-coonhound",
+                            "breed_name": "Black and Tan Coonhound",
+                            "breed_name_oracle": "Black and Tan Coonhound",
+                            "matches_oracle": "Black and Tan Coonhound",
+                            "akc_code": "405",
+                            "breed_name_plural": "Black and Tan Coonhounds",
+                            "breed_nicknames": "Black and Tan, Cooner, B&T",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1945",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Bluetick Coonhound, Redbone Coonhound, American Foxhound, English Foxhound, Treeing Walker Coonhound",
+                            "links": [],
+                            "popularity_2025": 137,
+                            "popularity_2024": 151,
+                            "popularity_2023": 131,
+                            "popularity_2022": 149,
+                            "popularity_2021": 141,
+                            "popularity_2020": 127,
+                            "popularity_2019": 143,
+                            "popularity_2018": 138,
+                            "popularity_2017": 130,
+                            "popularity_2016": 128,
+                            "popularity_2015": 127,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "easy-going / bright / brave"
+                        },
+                        "treeing-walker-coonhound": {
+                            "breed_name_url": "treeing-walker-coonhound",
+                            "breed_name": "Treeing Walker Coonhound",
+                            "breed_name_oracle": "Treeing Walker Coonhound",
+                            "matches_oracle": "Treeing Walker Coonhound",
+                            "akc_code": "426",
+                            "breed_name_plural": "Treeing Walker Coonhounds",
+                            "breed_nicknames": "The People's Choice",
+                            "origin": "United States",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2012",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Bluetick Coonhound, Treeing Tennessee Brindle, Plott Hound, Redbone Coonhound, Mountain Cur",
+                            "links": [],
+                            "popularity_2025": 143,
+                            "popularity_2024": 152,
+                            "popularity_2023": 155,
+                            "popularity_2022": 159,
+                            "popularity_2021": 151,
+                            "popularity_2020": 153,
+                            "popularity_2019": 131,
+                            "popularity_2018": 137,
+                            "popularity_2017": 131,
+                            "popularity_2016": 137,
+                            "popularity_2015": 117,
+                            "related_groups_characteristics": "",
+                            "temperament": "smart / brave / courteous"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "temperament": "eager to please / even-tempered / amiable",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "akc_org_blurb": "The streamlined Redbone Coonhound, an American original, is even-tempered, mellow, and kindly at home but a tiger on the trail. Vigorous activities like hunting and swimming between long periods of rest is the rhythm of coonhound life.",
+                    "akc_org_about": "Redbones are medium-to-large hound dogs whose muscles undulate beneath a sleek and stunning red coat. The overall impression is that a master sculptor carved them from blocks of the finest mahogany. The classically houndy head is flanked by ears long enough to reach the nose. Dreamy brown eyes give the face an expression described by the breed's devotees as 'pleading.'\u009d\n\n\n\n Bred to work on all kinds of punishing terrain, Redbones are fast and surefooted and move with a proud, determined gait.",
+                    "mp_description": "The handsome, powerfully built Redbone Coonhound is a hunter's best partner and a family's best friend. As great as he is at trailing and treeing game, at home he's even-tempered, very loving and loyal. In the field, the breed is prized for versatility, agility, speed and tracking ability. Their soulfulness and eagerness to please also make them great therapy dogs. Your Redbone Coonhound puppy will want to make you happy and is agreeable to training. Come prepared to be gentle, with patience and a sense of humor. You'll be rewarded with a best friend for life."
+                }
+            },
+            "standards": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "title_1": "General Appearance",
+                    "description_1": "Hunted from swamplands to mountains, the Redbone is surefooted and swift, even on the most difficult terrain. Well-balanced, with a flashy red coat and excellent cold nose, the powerfully built Redbone mingles handsome looks with a confident air and fine hunting talents.",
+                    "title_2": "Head",
+                    "description_2": "Expression - Pleading. Eyes - Dark brown to hazel in color, dark preferred. Set well apart. No drooping eyelids. Eyes round in shape. Faults-Yellow eyes, drooping eyelids. Ears - Set moderately low, fine in texture. Reaching near the end of the nose when stretched out. Proportioned to head. Faults -Stiff to the touch. Appearing to be attached only to the skin, instead of firmly attached to the head.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Medium in length, strong, slightly arched and held erect, denoting proudness. Throat - Slight fold of skin below the angle of jaw, clean throat is permissible. Faults - Too long, too thick, not in proportion with head and body. Topline - slightly taller at the withers than at the hips. Fault - Hips higher than withers. Body Chest - Deep, broad. Ribs - Well sprung to provide optimal lung capacity, denoting stamina. Back - Strong. Faults - Roach or sway back. Loin - Slightly arched. Tail - Medium length, very slight brush and saber-like. Faults - Not strong at root, heavy brush, Setter-like plume, curl tail.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - Clean and muscular. Shoulder angulation should have a perfect 90-degree angle or close. Legs - Straight, well-boned. The forelegs will be set under dog and feet under his withers, not under ears. Pasterns - Straight, well set, clean and muscular, denoting both speed and strength. Faults - Forelegs crooked, out at elbows. Feet - Cat-paw type, compact, well padded. Toes - Stout, strong and well-arched. Nails - Well-set. Faults - Flat feet, open feet, hind dewclaws.",
+                    "title_5": "Coat",
+                    "description_5": "Short, smooth, coarse enough to provide protection.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Thighs - Clean and muscular. Fault - Cowhocked. Hindquarters should have the same angulation as the forequarters. Well boned.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "21",
+                    "height_max": "27",
+                    "weight_min": "45",
+                    "weight_max": "70",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/RedboneCoonhound.pdf",
+                    "height_min_f": "21",
+                    "height_max_f": "27",
+                    "height_min_m": "21",
+                    "height_max_m": "27",
+                    "height_display": "22-27 inches (male), 21-26 inches (female)",
+                    "weight_min_f": "45",
+                    "weight_max_f": "70",
+                    "weight_min_m": "45",
+                    "weight_max_m": "70",
+                    "weight_display": "45-70 pounds"
+                }
+            },
+            "markings": {
+                "redbone-coonhound": {
+                    "markings": [
+                        {
+                            "marking_index": 289,
+                            "breed_name_url": "redbone-coonhound",
+                            "breed_name": "Redbone Coonhound",
+                            "akc_code": "430",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "redbone-coonhound": {
+                    "colors": [
+                        {
+                            "color_index": 992,
+                            "breed_name_url": "redbone-coonhound",
+                            "breed_name": "Redbone Coonhound",
+                            "akc_code": "430",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "breed_club_name": "National Redbone Coonhound Club ",
+                    "breed_club_url": "https://nationalredboneclu.wixsite.com/nrcc",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "National Redbone Coonhound Club ",
+                    "national_breed_club_url": "https://nationalredboneclu.wixsite.com/nrcc",
+                    "breed_referral_contact_name": "Lori Mills",
+                    "breed_referral_contact_phone_number": "(251) 533-0255",
+                    "breed_referral_contact_email": "sidearmkennel@yahoo.com",
+                    "breed_referral_contact_address": "14401 BURNHAM RD\nGRAND BAY, AL 36541-4471",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1617,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 203,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 1092,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1094,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1091,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1093,
+                            "breed_id": "207",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "redbone-coonhound": {
+                    "breed_name_url": "redbone-coonhound",
+                    "breed_name": "Redbone Coonhound",
+                    "akc_org_history": "Redbones are one of six hounds developed by American settlers to provide a steady source of raccoon meat and fur during the new nation's expansion to the south and west. Coonhounds are often portrayed in pop culture as lazy ol' dawgs snoozing away their lives on the front porch. But anyone who's been on a 'nite hunt'\u009d in pursuit of the wily, nocturnal raccoon will tell you that Redbones and their cooner cousins are among dogdom's most tireless and tenacious pursuers.",
+                    "mp_history_job": "Redbones are one of six hounds developed by American settlers to provide a steady source of raccoon meat and fur during the new nation\u00bfs expansion to the south and west. Coonhounds are often portrayed in pop culture as lazy ol\u00bf dawgs snoozing away their lives on the front porch. But anyone who\u00bfs been on a \u00bfnite hunt\u00bf in pursuit of the wily, nocturnal raccoon will tell you that Redbones and their cooner cousins are among dogdom\u00bfs most tireless and tenacious pursuers.",
+                    "did_you_know": "The Redbone descends from handsome red foxhounds brought to America by Scottish immigrants in the late 1700s and Red Irish Foxhounds were imported before the Civil War. | Redbone breeders, for a period of several years, concentrated on breeding a nearly solid-colored, flashy, red dog, bred also for looks. | The Redbone is an excellent choice for the hunter who wants an honest, versatile and capable trailer. | By the late 18th century, some coon hunters began breeding for hotter-nosed, faster dogs that were swifter at locating and faster at treeing raccoons. | The Redbone is widely used and acclaimed for its speed and agility from lowlands to steep, rocky hills. | The Redbone has been bred for the purpose of treeing game, and the treeing instinct is natural, as it has been bred into the Redbone for many generations."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775365901",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25467%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound.jpg",
+                    "alt": "Redbone Coonhound standing in a field outdoors.",
+                    "caption": "",
+                    "credit": "Nick Chase 68/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-wading-through-water.jpg",
+                    "alt": "Redbone Coonhound wading through a river.",
+                    "caption": "",
+                    "credit": "Lokibaho/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_5059.jpg",
+                    "alt": "Redbone Coonhound; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-running-in-FastCat.jpg",
+                    "alt": "Redbone Coonhound running in FastCat",
+                    "caption": "",
+                    "credit": "Mark L. Baer/MLBaer Photography"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-Illo-2.jpg",
+                "alt": "Redbone Coonhound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-mother-and-puppy.jpg",
+                "alt": "Redbone Coonhound mother and puppy laying in the grass at sunset."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/redbone-coonhound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Redbone Coonhound",
+        "shopCta": false
+    }
+}

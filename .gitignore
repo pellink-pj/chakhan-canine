@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# result/ 폴더 안의 분석 스크립트/결과 파일 제외 (JSON 크롤링 결과만 유지)
+result/*.py
+result/*.html
+result/*.txt
+
+# result.zip 제외 (용량 크고 중복)
+result.zip
+
+# macOS 시스템 파일
+.DS_Store

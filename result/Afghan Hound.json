@@ -1,0 +1,1418 @@
+{
+    "settings": {
+        "current_breed": "afghan-hound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21153358/Afghan-Hound-Health-Statement-March-2015.pdf",
+                    "mp_health": "<p>Afghan Hounds may be affected by bloat, a digestive disorder of the stomach. Make sure to educate yourself about this potentially fatal condition by educating yourself on the symptoms of bloat. Call your veterinarian immediately if you see any symptoms.</p>",
+                    "akc_org_health": "<p>Sighthounds such as Afghans have naturally low stores of body fat, so they tend to be sensitive to anesthesia; breed experts recommend seeking out a sighthound-savvy veterinarian for surgical procedures. Like other deep-chested types of dogs, Afghan Hounds can experience bloat, a sudden and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to do should bloat occur.</p>",
+                    "akc_org_nutrition": "<p>The Afghan Hound should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). As sight hounds, Afghan Hounds have naturally svelte physiques, and their protruding hipbones are a unique breed characteristic, not a sign of being underweight. That said, Afghan Hounds are athletic, active dogs, so be mindful that your dog is getting enough good nutrition to meet his needs. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Afghan puppies have short, fuzzy coats (including adorable facial hair called 'monkey whiskers'\u009d) that require little maintenance. They don't stay that way for long, however. As is to be expected, the long, silky coat of an adolescent or adult Afghan requires regular grooming. Several hours per week of brushing are needed to keep the hair free of tangles and mats, as well as to remove any debris. Keeping the hair clean and mat-free is the key to keeping the Afghan's glorious coat looking its best. Regular bathing, with shampoo and conditioner, is also required. Like all breeds, Afghans should have their nails trimmed and their teeth brushed regularly.</p>",
+                    "akc_org_exercise": "<p>Because Afghans are sighthounds, bred to hunt and chase prey by sight, they will have a strong instinct to run off in pursuit of perceived prey; walking off leash is not advisable. Short walks do not provide enough exercise for this athletic breed, and some owners take their leashed Afghans on long runs once they reach maturity. Ideally, an Afghan should have the opportunity to run full out several times a week in a large, enclosed area. Afghans are tall, lean, and strong, which makes them excellent jumpers, so their exercise area must have a high, secure fence.</p>",
+                    "akc_org_training": "<p>Afghans are independent, dignified, and aloof in general, but they are affectionate and extremely loyal to humans they have bonded with. This loyalty can make it difficult for an adult Afghan to adjust to a new home. On the other hand, it can make them fairly easy to housetrain, because they want to please their owners. Unless obedience or agility competition is a goal, teaching basic commands such as come, sit, and stay is generally sufficient. Afghan Hound owners are often quick to point out that no amount of training will overcome the breed's hunting instinct to break off on a high-speed chase.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Thyroid Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "breed_name_oracle": "Afghan Hound",
+                    "matches_oracle": "Afghan Hound",
+                    "akc_code": "401",
+                    "breed_name_plural": "Afghan Hounds",
+                    "breed_nicknames": "Afghan",
+                    "origin": "Afghanistan",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1926",
+                    "life_expectancy": "12-18 years",
+                    "related_breeds": "Borzoi, Saluki, Scottish Deerhound, Greyhound, Azawakh",
+                    "links": [],
+                    "popularity_2025": 117,
+                    "popularity_2024": 110,
+                    "popularity_2023": 111,
+                    "popularity_2022": 117,
+                    "popularity_2021": 114,
+                    "popularity_2020": 122,
+                    "popularity_2019": 113,
+                    "popularity_2018": 113,
+                    "popularity_2017": 93,
+                    "popularity_2016": 113,
+                    "popularity_2015": 100,
+                    "related_groups_characteristics": "Hypoallergenic Dogs, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "borzoi",
+                        "saluki",
+                        "scottish-deerhound",
+                        "greyhound",
+                        "azawakh"
+                    ],
+                    "related_breeds_items": {
+                        "borzoi": {
+                            "breed_name_url": "borzoi",
+                            "breed_name": "Borzoi",
+                            "breed_name_oracle": "Borzoi",
+                            "matches_oracle": "Borzoi",
+                            "akc_code": "407",
+                            "breed_name_plural": "Borzoi",
+                            "breed_nicknames": "",
+                            "origin": "Russia",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1891",
+                            "life_expectancy": "9-14 years",
+                            "related_breeds": "Irish Wolfhound, Saluki, Scottish Deerhound, Azawakh, Greyhound",
+                            "links": [],
+                            "popularity_2025": 99,
+                            "popularity_2024": 102,
+                            "popularity_2023": 101,
+                            "popularity_2022": 101,
+                            "popularity_2021": 104,
+                            "popularity_2020": 103,
+                            "popularity_2019": 107,
+                            "popularity_2018": 103,
+                            "popularity_2017": 102,
+                            "popularity_2016": 98,
+                            "popularity_2015": 89,
+                            "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds, ",
+                            "temperament": "loyal / affectionate / regally dignified"
+                        },
+                        "saluki": {
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "breed_name_oracle": "Saluki",
+                            "matches_oracle": "Saluki",
+                            "akc_code": "417",
+                            "breed_name_plural": "Salukis",
+                            "breed_nicknames": "",
+                            "origin": "Middle East",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1929",
+                            "life_expectancy": "10-17 years",
+                            "related_breeds": "Sloughi, Azawakh, Pharaoh Hound, Greyhound, Afghan Hound",
+                            "links": [],
+                            "popularity_2025": 135,
+                            "popularity_2024": 141,
+                            "popularity_2023": 120,
+                            "popularity_2022": 135,
+                            "popularity_2021": 128,
+                            "popularity_2020": 144,
+                            "popularity_2019": 127,
+                            "popularity_2018": 120,
+                            "popularity_2017": 123,
+                            "popularity_2016": 125,
+                            "popularity_2015": 132,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "dignified / gentle / independent-minded"
+                        },
+                        "scottish-deerhound": {
+                            "breed_name_url": "scottish-deerhound",
+                            "breed_name": "Scottish Deerhound",
+                            "breed_name_oracle": "Scottish Deerhound",
+                            "matches_oracle": "Scottish Deerhound",
+                            "akc_code": "418",
+                            "breed_name_plural": "Scottish Deerhounds",
+                            "breed_nicknames": "Deerhound, Royal Dog of Scotland",
+                            "origin": "Scotland",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "8-11 years",
+                            "related_breeds": "Greyhound, Irish Wolfhound, Otterhound, Afghan Hound, Borzoi",
+                            "links": [],
+                            "popularity_2025": 156,
+                            "popularity_2024": 165,
+                            "popularity_2023": 171,
+                            "popularity_2022": 155,
+                            "popularity_2021": 158,
+                            "popularity_2020": 166,
+                            "popularity_2019": 151,
+                            "popularity_2018": 158,
+                            "popularity_2017": 168,
+                            "popularity_2016": 154,
+                            "popularity_2015": 152,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / gentle / polite"
+                        },
+                        "greyhound": {
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "breed_name_oracle": "Greyhound",
+                            "matches_oracle": "Greyhound",
+                            "akc_code": "411",
+                            "breed_name_plural": "Greyhounds",
+                            "breed_nicknames": "greyhound",
+                            "origin": "Egypt",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                            "links": [],
+                            "popularity_2025": 151,
+                            "popularity_2024": 118,
+                            "popularity_2023": 127,
+                            "popularity_2022": 129,
+                            "popularity_2021": 132,
+                            "popularity_2020": 142,
+                            "popularity_2019": 164,
+                            "popularity_2018": 145,
+                            "popularity_2017": 156,
+                            "popularity_2016": 151,
+                            "popularity_2015": 147,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                            "temperament": "independent / gentle / noble"
+                        },
+                        "azawakh": {
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "breed_name_oracle": "Azawakh",
+                            "matches_oracle": "Azawakh",
+                            "akc_code": "437",
+                            "breed_name_plural": "Azawakhs",
+                            "breed_nicknames": "Azawakh",
+                            "origin": "Sahel Region",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2019",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                            "links": [],
+                            "popularity_2025": 195,
+                            "popularity_2024": 192,
+                            "popularity_2023": 196,
+                            "popularity_2022": 194,
+                            "popularity_2021": 185,
+                            "popularity_2020": 193,
+                            "popularity_2019": 192,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / loyal / deeply affectionate"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "temperament": "independent / sweet",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Silky"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "akc_org_blurb": "<p>Among the most eye-catching of all dog breeds, the Afghan Hound is an aloof and dignified aristocrat of sublime beauty. Despite his regal appearance, the Afghan can exhibit an endearing streak of silliness and a profound loyalty.</p>",
+                    "akc_org_about": "<p>Since ancient times, Afghan Hounds have been famous for their elegant beauty. But the thick, silky, flowing coat that is the breed's crowning glory isn't just for show ' it served as protection from the harsh climate in mountainous regions where Afghans originally earned their keep. Beneath the Afghan's glamorous exterior is a powerful, agile hound ' standing as high as 27 inches at the shoulder ' built for a long day's hunt. Their huge paw-pads acted as shock absorbers on their homeland's punishing terrain. &nbsp;The Afghan Hound is a special breed for special people. A breed expert writes, 'It's not the breed for all would-be dog owners, but where the dog and owner combination is right, no animal can equal the Afghan Hound as a pet.'\u009d</p>",
+                    "mp_description": "<p>There is not a more beautiful sight than an Afghan Hound at full gallop. Under that long flowing coat is a strong, agile sighthound who loves the chase. This elegant dog is sure to turn heads, especially when properly groomed. In fact, grooming is of particular importance with the breed. Your Afghan Hound puppy will grow up to be an endearing, sweet and devoted companion. He's a hound at heart and needs plenty of room to run. With his strong prey drive, grooming needs and independent mind, he takes some effort, but this faithful, aristocratic dog is worth it.</p>"
+                }
+            },
+            "standards": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "title_1": "General Appearance",
+                    "description_1": "The Afghan Hound is an aristocrat, his whole appearance one of dignity and aloofness with no trace of plainness or coarseness. He has a straight front, proudly carried head, eyes gazing into the distance as if in memory of ages past. The striking characteristics of the breed-exotic, or \"Eastern,\" expression, long silky topknot, peculiar coat pattern, very prominent hipbones, large feet, and the impression of a somewhat exaggerated bend in the stifle due to profuse trouserings-stand out clearly, giving the Afghan Hound the appearance of what he is, a king of dogs, that has held true to tradition throughout the ages.",
+                    "title_2": "Head",
+                    "description_2": "The head is of good length, showing much refinement, the skull evenly balanced with the foreface. There is a slight prominence of the nasal bone structure causing a slightly Roman appearance, the center line running up over the foreface with little or no stop, falling away in front of the eyes so there is an absolutely clear outlook with no interference; the underjaw showing great strength, the jaws long and punishing; the mouth level, meaning that the teeth from the upper jaw and lower jaw match evenly, neither overshot nor undershot. This is a difficult mouth to breed. A scissors bite is even more punishing and can be more easily bred into a dog than a level mouth, and a dog having a scissors bite, where the lower teeth slip inside and rest against the teeth of the upper jaw, should not be penalized. The occipital bone is very prominent. The head is surmounted by a topknot of long silky hair. Ears-The ears are long, set approximately on level with outer corners of the eyes, the leather of the ear reaching nearly to the end of the dog's nose, and covered with long silky hair. Eyes-The eyes are almond-shaped (almost triangular), never full or bulgy, and are dark in color. Nose-Nose is of good size, black in color. Faults-Coarseness; snipiness; overshot or undershot; eyes round or bulgy or light in color; exaggerated Roman nose; head not surmounted with topknot.",
+                    "title_3": "Body",
+                    "description_3": "Neck: The neck is of good length, strong and arched, running in a curve to the shoulders which are long and sloping and well laid back. Faults-Neck too short or too thick; a ewe neck; a goose neck; a neck lacking in substance.\n\nBody: The back line appearing practically level from the shoulders to the loin. Strong and powerful loin and slightly arched, falling away toward the stern, with the hipbones very pronounced; well ribbed and tucked up in flanks. The height at the shoulders equals the distance from the chest to the buttocks; the brisket well let down, and of medium width. Faults-Roach back, swayback, goose rump, slack loin; lack of prominence of hipbones; too much width of brisket, causing interference with elbows.",
+                    "title_4": "Tail",
+                    "description_4": "The tail set is not too high on the body, having a ring, or a curve on the end; should never be curled over, or rest on the back, or be carried sideways; and should never be bushy.",
+                    "title_5": "Legs",
+                    "description_5": "Forelegs are straight and strong with great length between elbow and pastern; elbows well held in; forefeet large in both length and width; toes well arched; feet covered with long thick hair; fine in texture; pasterns long and straight; pads of feet unusually large and well down on the ground. Shoulders have plenty of angulation so that the legs are well set underneath the dog. Too much straightness of shoulder causes the dog to break down in the pasterns, and this is a serious fault. All four feet of the Afghan Hound are in line with the body, turning either in nor out. The hind feet are broad and of good length; the toes arched, and covered with long thick hair; hindquarters powerful and well muscled, with great length between hip and hock; hocks are well let down; good angulation of both stifle and hock; slightly bowed from hock to crotch. Faults-Front or back feet thrown outward or inward; pads of feet not thick enough; or feet too small; or any other evidence of weakness in feet; weak or broken down pasterns; too straight in stifle; too long in hock.",
+                    "title_6": "Coat",
+                    "description_6": "Hindquarters, flanks, ribs, forequarters, and legs well covered with thick, silky hair, very fine in texture; ears and all four feet well feathered; from in front of the shoulders; and also backwards from the shoulders along the saddle from the flanks and the ribs upwards, the hair is short and close, forming a smooth back in mature dogs - this is a traditional characteristic of the Afghan Hound. The Afghan Hound should be shown in its natural state; the coat is not clipped or trimmed; the head is surmounted (in the full sense of the word) with a topknot of long, silky hair - that is also an outstanding characteristic of the Afghan Hound. Showing of short hair on cuffs on either front or back legs is permissible. Fault-Lack of shorthaired saddle in mature dogs.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_max": "27",
+                    "weight_max": "60",
+                    "weight_min": "50",
+                    "height_min": "25",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AfghanHound.pdf",
+                    "height_min_f": "25",
+                    "height_max_f": "27",
+                    "height_min_m": "25",
+                    "height_max_m": "27",
+                    "height_display": "25-27 inches",
+                    "weight_min_f": "50",
+                    "weight_max_f": "60",
+                    "weight_min_m": "50",
+                    "weight_max_m": "60",
+                    "weight_display": "50-60 pounds"
+                }
+            },
+            "markings": {
+                "afghan-hound": {
+                    "markings": [
+                        {
+                            "marking_index": 207,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 208,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        },
+                        {
+                            "marking_index": 209,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "cde_markings": "069",
+                            "markings_long": "Brindle Black Mask",
+                            "markings_short": "BRDL BLK MSK"
+                        },
+                        {
+                            "marking_index": 210,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "cde_markings": "070",
+                            "markings_long": "Brindle Domino",
+                            "markings_short": "BRDL DMNO"
+                        },
+                        {
+                            "marking_index": 211,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "cde_markings": "017",
+                            "markings_long": "Domino",
+                            "markings_short": "DMNO"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "afghan-hound": {
+                    "colors": [
+                        {
+                            "color_index": 713,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 714,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 715,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "016",
+                            "color_long": "Black & Silver",
+                            "color_short": "BLK & SLVR"
+                        },
+                        {
+                            "color_index": 716,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 717,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "273",
+                            "color_long": "Blue & Cream",
+                            "color_short": "BL & CR"
+                        },
+                        {
+                            "color_index": 718,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 719,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 720,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 721,
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "akc_code": "401",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "breed_club_name": "Afghan Hound Club of America, Inc.",
+                    "breed_club_url": "https://afghanhoundclubofamerica.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Afghan-club-flier.pdf",
+                    "breed_rescue_url": "http://www.afghanhound.net/",
+                    "national_breed_club": "Afghan Hound Club of America, Inc.",
+                    "national_breed_club_url": "https://afghanhoundclubofamerica.org",
+                    "breed_referral_contact_name": "Christine Pinkston",
+                    "breed_referral_contact_phone_number": "(757) 721-5642",
+                    "breed_referral_contact_email": "criston@aol.com",
+                    "breed_referral_contact_address": "1428 Princess Anne Rd\nVirginia Bch, VA 23456-3804",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "See Parent Club website - Regional Clubs",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "See Parent Club website - New Comers",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.afghanhound.net/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1416,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 2,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. The Afghan Hound Club of America is the official AKC Parent Club for the Afghan Hound."
+                        },
+                        {
+                            "id": 288,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 290,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 287,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 289,
+                            "breed_id": "2",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "afghan-hound": {
+                    "breed_name_url": "afghan-hound",
+                    "breed_name": "Afghan Hound",
+                    "akc_org_history": "<p>This is a very old breed. In fact, some authorities maintain that the Afghan Hound is the oldest breed of purebred dogs. (An ancient myth says that a brace of Afghan Hounds represented the canine species on Noah's Ark.) Because the breed predates written history by a few thousand years, and because it was developed in some of the world's most remote locales, its exact time and place of origin within the vast area that is now Afghanistan, India, and Pakistan will never be known. What we do know is that for centuries Afghans were rugged, fleet-footed hunting companions and status symbols of royals, tribal chieftains, and aristocrats in Asia's mountain kingdoms. Afghan Hounds belong to the subcategory of hound breeds known as sighthounds, dogs who rely on their panoramic vision and explosive speed to spot and pursue their prey. A fixture of Eastern culture since the dawn of civilization, the Afghan hound didn't make its entrance on the stage of Western history until the late 1800s. It was then that English officers returning from the British Empire's farthest corners introduced the breed to Europe. By the early 1900s, the Afghan was a preferred breed of the British gentry. The AKC registered its first of the breed in 1927, but not until the early '30s did the breed really catch on with U.S. breeders and owners. Among the most important dogs of those early years in America were a breeding pair imported from England by Zeppo Marx, the youngest of the wacky Marx Brothers. Since then, the Afghan's fame in America has been built on his sterling qualities as a pet and his show-stopping presence in the ring. The giant sculpture by Pablo Picasso in Chicago's Daley Plaza depicts Kabul, the artist's much-loved Afghan Hound.</p>",
+                    "mp_history_job": "<p>This is a very old breed. So old, in fact, it predates written history. And, it was developed in some of the most remote locales on Earth. These two facts make it impossible to pinpoint the breed's beginnings. What we do know is that for centuries Afghans were rugged, explosively fast hunting companions and status symbols of royals, tribal chieftains, and aristocrats of Asia's mountain kingdoms. In the 1800s, English officers returning from the British Empire's farthest corners introduced Afghans to the West.</p>",
+                    "did_you_know": "Pablo Picasso owned an Afghan Hound named Kabul. His 1962 painting 'Femme au chien'\u009d features an Afghan Hound. It was sold for more than $10 million in 2012. | The hound's popularity soared when Mattel's Barbie doll and Beauty, her pet Afghan Hound, found their way into the homes and hearts of countless American girls. | Snuppy, an Afghan Hound, became the first cloned dog in 2005. Scientists in South Korea used skin cells from a 3-year-old Afghan Hound in the process, which involved 123 surrogate mothers. | In 1940, the Afghan Hound Club of America was admitted to AKC membership and held its first specialty show. | The Afghan Hound first appeared in the United States in 1926. Zeppo Marx of the Marx Brothers was one of the first to bring Afghan Hounds to America. | Afghan Hounds won Best in Show at Westminster in 1957 and 1983."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23209%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-standing-in-a-garden.jpg",
+                    "alt": "Afghan Hound standing in profile in the garden.",
+                    "caption": "",
+                    "credit": "SubertT/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-portrait-outdoors.jpg",
+                    "alt": "Afghan Hound head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-running-in-lure-coursing1.jpg",
+                    "alt": "Afghan Hound running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9Lois Stanfield"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Aghan-Hound-at-the-National-Championship.jpg",
+                    "alt": "Afghan Hound at the 2016 AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-running-outdoors.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": "\u00a9Lois Stanfield"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-standing-outdoors-in-the-fall.jpg",
+                    "alt": "Afghan Hound standing outdoors in the fall.",
+                    "caption": "",
+                    "credit": "David Raihelgauz/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-running-in-the-snow.jpg",
+                    "alt": "Afghan Hound running in profile in the snow.",
+                    "caption": "",
+                    "credit": "Maria Ivanushkina/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Young-Afghan-Hounds-head-portrait-outdoors.jpg",
+                    "alt": "Young Afghan Hounds head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Lois Stanfield"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-standing-in-profile-outdoors-at-sunset.jpg",
+                    "alt": "Afghan Hound standing in profile outdoors.",
+                    "caption": "",
+                    "credit": "SubertT/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-at-the-National-Championship.jpg",
+                    "alt": "Afghan Hound at the 2017 AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-illustration.jpg",
+                "alt": "Afghan Hound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-puppy-playing-with-a-ball-in-the-backyard.jpg",
+                "alt": "Afghan Hound puppy standing in the yard with a ball."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/afghan-hound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Afghan Hound",
+        "shopCta": false
+    }
+}

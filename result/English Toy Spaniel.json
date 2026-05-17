@@ -1,0 +1,1259 @@
+{
+    "settings": {
+        "current_breed": "english-toy-spaniel",
+        "current_breed_group": {
+            "name": "Toy Group",
+            "url": "https://www.akc.org/dog-breeds/toy/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23124836/English-Toy-Spaniel-Health-Statements-November-2015.pdf",
+                    "mp_health": "<p>English Toy Spaniels are generally a healthy breed. :ike all breeds there may be some health issues, like eye and cardiac disease and patellar luxation. Some dogs may be faced with these health challenges in their lives, but the majority of English Toy Spaniels are healthy dogs.</p>",
+                    "akc_org_health": "<p>English Toy Spaniels are generally healthy dogs, but there are several health and genetic screening considerations specific to the breed, including eye conditions, cardiac disease, and luxating patellas. Dedicated breeders test their breeding stock and communicate with each other regularly to work together for breed health and preservation of the breed's unique qualities. The English Toy Spaniel's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs. Regular visits to the vet for checkups and parasite control help to ensure the dog a long, healthy life.</p>",
+                    "akc_org_nutrition": "<p>The English Toy Spaniel should be fed a high-quality dog food appropriate to the dog's age (puppy, adult, or senior) and ideally formulated for small or toy breeds. Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with overly high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The English Toy Spaniel's long, wavy, silky, and profuse coat should be brushed at least twice a week with a pin brush or soft bristle brush. A long-toothed metal dog comb can also come in handy for gently working through areas where tangles may be beginning to form. Left unattended, tangles and mats are uncomfortable for your dog and can cause skin problems to develop. Regular trimming around the face, feet, and other areas can keep your English Toy Spaniel looking neat. The nails should be trimmed once a month, and a bath every four to six weeks with a gentle shampoo meant for dogs will help to keep the English Toy's coat and skin clean and healthy. Grooming sessions are a good time to check the dog all over for any new lumps or skin problems, and to check that the eyes and ears are healthy and trouble free.</p>",
+                    "akc_org_exercise": "<p>English Toy Spaniels are moderately active'\u00bfwhen outdoors exercising they are alert, playful, and energetic, while at home they are sedate and dignified. They are easygoing dogs who make excellent companions for city dwellers in small apartments who can provide the dogs with daily walks on lead. As a short-faced breed, the ETS is not tolerant of hot weather and should not be left outdoors on warm or humid days.</p>",
+                    "akc_org_training": "<p>The 'Charlie,'\u009d as the breed is sometimes known, is quiet, happy, and devoted to his owners. He is forgiving in nature and physically fastidious. Although primarily a companion to owners desiring a merry, affectionate pet, the breed has retained traits of his sporting ancestors and is said to be a fine small hunting spaniel. They are smart but can be stubborn during training; patience, consistency, and a positive, gentle approach are keys to success. Harsh methods are never appropriate for this sensitive, trusting breed. Early socialization and puppy training classes are recommended and help to ensure that the Charlie grows into a well-adjusted, well-mannered companion.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Cardiac Exam",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "breed_name_oracle": "English Toy Spaniel",
+                    "matches_oracle": "English Toy Spaniel",
+                    "akc_code": "504",
+                    "breed_name_plural": "English Toy Spaniels",
+                    "breed_nicknames": "ETS, Charlie (U.K., King Charles Spaniel)",
+                    "origin": "England",
+                    "breed_group": "Toy Group",
+                    "year_recognized": "1886",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Cavalier King Charles Spaniel, Japanese Chin, Chihuahua, Pekingese, Affenpinscher",
+                    "links": [],
+                    "popularity_2025": 134,
+                    "popularity_2024": 146,
+                    "popularity_2023": 145,
+                    "popularity_2022": 134,
+                    "popularity_2021": 137,
+                    "popularity_2020": 138,
+                    "popularity_2019": 141,
+                    "popularity_2018": 135,
+                    "popularity_2017": 134,
+                    "popularity_2016": 130,
+                    "popularity_2015": 129,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "cavalier-king-charles-spaniel",
+                        "japanese-chin",
+                        "chihuahua",
+                        "pekingese"
+                    ],
+                    "related_breeds_items": {
+                        "cavalier-king-charles-spaniel": {
+                            "breed_name_url": "cavalier-king-charles-spaniel",
+                            "breed_name": "Cavalier King Charles Spaniel",
+                            "breed_name_oracle": "Cavalier King Charles Spaniel",
+                            "matches_oracle": "Cavalier King Charles Spaniel",
+                            "akc_code": "517",
+                            "breed_name_plural": "Cavalier King Charles Spaniels",
+                            "breed_nicknames": "Cavie",
+                            "origin": "England",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1995",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Japanese Chin, Pug, Tibetan Spaniel, Cocker Spaniel, English Toy Spaniel",
+                            "links": [],
+                            "popularity_2025": 12,
+                            "popularity_2024": 13,
+                            "popularity_2023": 14,
+                            "popularity_2022": 14,
+                            "popularity_2021": 15,
+                            "popularity_2020": 17,
+                            "popularity_2019": 16,
+                            "popularity_2018": 18,
+                            "popularity_2017": 19,
+                            "popularity_2016": 19,
+                            "popularity_2015": 18,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "affectionate / gentle / graceful"
+                        },
+                        "japanese-chin": {
+                            "breed_name_url": "japanese-chin",
+                            "breed_name": "Japanese Chin",
+                            "breed_name_oracle": "Japanese Chin",
+                            "matches_oracle": "Japanese Chin",
+                            "akc_code": "506",
+                            "breed_name_plural": "Japanese Chins",
+                            "breed_nicknames": "Chin (plural and singular)",
+                            "origin": "Japan",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Pekingese, Shih Tzu, Chihuahua, Tibetan Spaniel, English Toy Spaniel",
+                            "links": [],
+                            "popularity_2025": 103,
+                            "popularity_2024": 103,
+                            "popularity_2023": 103,
+                            "popularity_2022": 105,
+                            "popularity_2021": 105,
+                            "popularity_2020": 111,
+                            "popularity_2019": 110,
+                            "popularity_2018": 104,
+                            "popularity_2017": 108,
+                            "popularity_2016": 108,
+                            "popularity_2015": 97,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "charming / loving / noble"
+                        },
+                        "chihuahua": {
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "breed_name_oracle": "Chihuahua",
+                            "matches_oracle": "Chihuahua",
+                            "akc_code": "503",
+                            "breed_name_plural": "Chihuahuas",
+                            "breed_nicknames": "Chi",
+                            "origin": "Mexican State of Chihuahua",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1904",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Toy Fox Terrier, Japanese Chin, Russian Toy, Papillon",
+                            "links": [],
+                            "popularity_2025": 24,
+                            "popularity_2024": 27,
+                            "popularity_2023": 32,
+                            "popularity_2022": 34,
+                            "popularity_2021": 37,
+                            "popularity_2020": 34,
+                            "popularity_2019": 35,
+                            "popularity_2018": 33,
+                            "popularity_2017": 32,
+                            "popularity_2016": 30,
+                            "popularity_2015": 28,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "charming / graceful / sassy"
+                        },
+                        "pekingese": {
+                            "breed_name_url": "pekingese",
+                            "breed_name": "Pekingese",
+                            "breed_name_oracle": "Pekingese",
+                            "matches_oracle": "Pekingese",
+                            "akc_code": "510",
+                            "breed_name_plural": "Pekingese",
+                            "breed_nicknames": "Peke",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Shih Tzu, Chinese Crested, English Toy Spaniel, Tibetan Spaniel, Japanese Chin",
+                            "links": [],
+                            "popularity_2025": 90,
+                            "popularity_2024": 87,
+                            "popularity_2023": 91,
+                            "popularity_2022": 96,
+                            "popularity_2021": 94,
+                            "popularity_2020": 95,
+                            "popularity_2019": 84,
+                            "popularity_2018": 92,
+                            "popularity_2017": 88,
+                            "popularity_2016": 93,
+                            "popularity_2015": 80,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "loyal / affectionate / regal in manner"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "temperament": "intelligent / playful / gentle",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Silky",
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "akc_org_blurb": "<p>The merry English Toy Spaniel was bred to be the companion of kings. But ETS are spaniels first and pampered lapdogs second, and beneath the patrician exterior beats the heart of a real doggy dog-bright, loving, and willing to please.</p>",
+                    "akc_org_about": "<p>The ETS is a square, snub-nosed toy weighing no more than 14 pounds. The large domed head-with its long and lush ears, dark melting eyes, and chubby cheeks-is a famous breed trait. The profuse coat comes in four varieties, each with its own proper name: red and white (Blenheim); black and tan (King Charles); white, black, and tan (Prince Charles); and a solid red (Ruby). Blenheims often have a red mark, the 'Blenheim Spot,' on top of the head. The ETS, like many toy breeds kept by royals, came to assume the personalities of their aristocratic owners. They can be proud and willful, and extremely discriminating in their choice of friends. With their favored humans, they are affectionate at home and exuberant and curious at play.</p>",
+                    "mp_description": "<p>The English Toy Spaniel is irresistible, with his domed head, long ears, soulful eyes and silky coat. Long a companion of royalty, he may have some of the haughty temperament you'd expect from a little aristocrat. But at heart, he's merry, gentle, loving and a playful companion. Your English Toy Spaniel puppy can be willful and stubborn during training. But your patience will pay off and you'll be rewarded with an intelligent, eager to please and affectionate companion.</p>"
+                }
+            },
+            "standards": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "title_1": "General Appearance",
+                    "description_1": "The English Toy Spaniel is a compact, cobby and essentially square toy dog possessed of a short-nosed, domed head, a merry and affectionate demeanor and a silky, flowing coat. His compact, sturdy body and charming temperament, together with his rounded head, lustrous dark eye, and well cushioned face, proclaim him a dog of distinction and character. The important characteristics of the breed are exemplified by the head.",
+                    "title_2": "Head",
+                    "description_2": "Large in comparison to size, with a plush, chubby look, albeit with a degree of refinement which prevents it from being coarse. Expression - Soft and appealing, indicating an intelligent nature. Eyes - Large and very dark brown or black, set squarely on line with the nose, with little or no white showing. The eye rims should be black. Ears - Very long and set low and close to the head, fringed with heavy feathering. Skull - High and well domed; from the side, curves as far out over the eyes as possible. Stop - Deep and well-defined.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "Neck - Moderate in length; nicely arched. Topline - Level. Body - Short, compact, square and deep, on cobby lines, with a broad back. Sturdy of frame, with good rib and deep brisket.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders well laid back; legs well boned and strong, dropping straight down from the elbow; strong in pastern. Feet, front and rear, are neat and compact; fused toes are often seen and are acceptable.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Rear legs are well muscled and nicely angulated to indicate strength, and parallel of hock.",
+                    "title_6": "Coat",
+                    "description_6": "Profusely coated, heavy fringing on the ears, body, and on the chest, and with flowing feathering on both the front and hind legs, and feathering on the feet. The coat is straight or only slightly wavy, with a silken, glossy texture. Although the Blenheim and the Ruby rarely gain the length of coat and ears of the Prince Charles and King Charles, good coats and long ear fringes are a desired and prized attribute. Over-trimming of the body, feet or tail fringings should be penalized.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "9",
+                    "height_max": "10",
+                    "weight_min": "8",
+                    "weight_max": "14",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/EnglishToySpaniel.pdf",
+                    "height_min_f": "9",
+                    "height_max_f": "10",
+                    "height_min_m": "9",
+                    "height_max_m": "10",
+                    "height_display": "9-10 inches",
+                    "weight_min_f": "8",
+                    "weight_max_f": "14",
+                    "weight_min_m": "8",
+                    "weight_max_m": "14",
+                    "weight_display": "8-14 pounds"
+                }
+            },
+            "colors": {
+                "english-toy-spaniel": {
+                    "colors": [
+                        {
+                            "color_index": 1163,
+                            "breed_name_url": "english-toy-spaniel",
+                            "breed_name": "English Toy Spaniel",
+                            "akc_code": "504",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1164,
+                            "breed_name_url": "english-toy-spaniel",
+                            "breed_name": "English Toy Spaniel",
+                            "akc_code": "504",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "034",
+                            "color_long": "Black White & Tan",
+                            "color_short": "BLK WH & TN"
+                        },
+                        {
+                            "color_index": 1165,
+                            "breed_name_url": "english-toy-spaniel",
+                            "breed_name": "English Toy Spaniel",
+                            "akc_code": "504",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1166,
+                            "breed_name_url": "english-toy-spaniel",
+                            "breed_name": "English Toy Spaniel",
+                            "akc_code": "504",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "breed_club_name": "English Toy Spaniel Club of America",
+                    "breed_club_url": "www.englishtoyspanielclubofamerica.org",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "English Toy Spaniel Club of America",
+                    "national_breed_club_url": "www.englishtoyspanielclubofamerica.org",
+                    "breed_referral_contact_name": "Theresa Cousins",
+                    "breed_referral_contact_phone_number": "(715) 558-5310",
+                    "breed_referral_contact_email": "corresponding-secretary@englishtoyspanielclubofamerica.org",
+                    "breed_referral_contact_address": "10640 N O BRIEN HILL RD\nHAYWARD, WI 54843-4090",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1515,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 101,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 684,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 686,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 683,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 685,
+                            "breed_id": "101",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "english-toy-spaniel": {
+                    "breed_name_url": "english-toy-spaniel",
+                    "breed_name": "English Toy Spaniel",
+                    "akc_org_history": "<p>Toy spaniels are famously associated with Britain's Charles I and II, the 'Merry Monarchs' of the 1600s, whose sporty little dogs became symbols of the House of Stuart. In the time of Charles II, perhaps Britain's most dog-happy monarch before the reign of Victoria, it was decreed that toy spaniels be the only dogs allowed in the House of Parliament.</p>\n<p><br></p>\n<p>The origins of Europe and Britain's toy spaniels are a matter of conjecture. Some authorities maintain that miniature spaniels were brought to Europe from Japan or China in ancient times. Others say that toy spaniels were imported to Asia from Spain, thought to be the birthplace of the spaniel breeds, and that Asian breeders refined the dogs and exported their handiwork to England, Italy, and France.</p>\n<p><br></p>\n<p>The fad dogs among the nobles of Renaissance England were toy-sized versions of their favorite sporting-spaniel types. In Shakespeare's time, toy spaniels were known as 'the 'Spaniel Gentle,' or 'the Comforter.' A toy spaniel accompanied Mary Queen of Scots to her beheading in 1587. By the time Charles II assumed the throne in 1665, toy spaniels were the mascots of several aristocratic houses of Britain.</p>\n<p><br></p>\n<p>During the Victorian Era, British toy spaniels were crossed with Asian toys, probably Pugs and Japanese Chin, and became what is known in America as the English Toy Spaniel (or, in the United Kingdom, the King Charles Spaniel). This new-style toy spaniel had a domed skull and a flatter face than those of Charles's time. Before long, the new type, the EST, came to dominate, and the traditional toy spaniel of the Restoration times was rendered nearly extinct. The old-style toy was revived in the 1920s and is today known by U.S. fanciers as the Cavalier King Charles Spaniel.</p>",
+                    "mp_history_job": "<p>Toy spaniels are famously associated with Britain\u00bfs Charles I and II, the \"Merry Monarchs\" of the 1600s, whose sporty little dogs became symbols of the House of Stuart. Later, in Victorian times, the toy-spaniel types of the Stuarts were refined to produce a distinctly different breed, smaller and flatter-faced. In America the new breed became known as the English Toy Spaniel, and the original type was called the Cavalier King Charles Spaniel. In England, the English Toy Spaniel is called the King Charles Spaniel. Got that?</p>",
+                    "did_you_know": "Most authorities agree that the English Toy has its origins in the East, namely Japan (traveling to Europe as part of royal presents). | All English Toys seem to have been Black and Tan up to the time of King Charles II (these were later called the King Charles); the different colors emerged much later. | Celebrated professor and physician to Queen Elizabeth refers to the English Toys as \"Spaniell Gentle, otherwise called the Comforter.\" | Evidence that the English Toy was a favorite of Mary Queen of Scots, where it is said that her favorite refused to leave her, even on the scaffold. | English Toys still possess the natural hunting instinct. | In the US, the breed has appeared in the AKC's records since the club was founded. Before 1903 all four colors were classified as separate breeds for show purposes, but were permitted to intermix for breeding. But in 1904 the AKC ruled that they should be combined into one breed, the English Toy Spaniel, and shown in two color varieties: King Charles and Ruby; and Prince Charles and Blenheim."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24321%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-On-White-01.jpg",
+                    "alt": "English Toy Spaniel standing in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Toy-Group-David-0E9A5206.jpg",
+                    "alt": "BBE Toy Group Third, Best of Breed, and Best Bred By in Breed/Variety: CH Clussexx Paddington Of Flivverway, English Toy Spaniel (King Charles & Ruby); Toy Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Toy-Group-David-0E9A5247.jpg",
+                    "alt": "Best of Breed: GCHB CH Clussexx Cream And Crimson, English Toy Spaniel (Blenheim & Prince Charles); Toy Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-head-portrait-in-profile-outdoors.jpg",
+                    "alt": "English Toy Spaniel head portrait in profile outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-Slide-03.jpg",
+                    "alt": "English Toy Spaniel lying down facing forward",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-standing-in-profile-on-the-beach.jpg",
+                    "alt": "English Toy Spaniel standing in profile on the beach.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-Illo-2.jpg",
+                "alt": "English Toy Spaniel illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-MP.jpg",
+                "alt": "English Toy Spaniel puppy."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/english-toy-spaniel",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "English Toy Spaniel",
+        "shopCta": false
+    }
+}

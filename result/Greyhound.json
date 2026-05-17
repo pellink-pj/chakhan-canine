@@ -1,0 +1,1638 @@
+{
+    "settings": {
+        "current_breed": "greyhound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Greyhound.pdf",
+                    "mp_health": "<p>Greyhounds are generally a healthy breed. Like all breeds there may be some health issues, like cardiac disease. Some dogs may be faced with these health challenges in their lives, but the majority of Greyhounds are healthy dogs. The breed has few major health problems. Gastric torsion and bloat are life-threatening and require immediate action and treatment. Because they are athletes, Greyhounds can be subject to sports injuries such as pulled muscles, broken toes or split pads, and their fine, taut skin can be prone to tears and lacerations. The long, whip-like tails can split or break from impact.</p>",
+                    "akc_org_health": "<p>Greyhounds are overall very healthy dogs, although there are a few conditions the breed can be prone to. As are most deep-chested breeds, the Greyhound is susceptible to bloat and gastric torsion, a sudden and life-threatening enlargement of the stomach that is sometimes accompanied by twisting. Owners should be aware of the symptoms of bloat and seek medical attention immediately if they occur. A condition called Greyhound neuropathy seems to be isolated in the breed. Other disorders that can occur include cardiac and eye conditions. Responsible breeders screen their stock for conditions that can affect the breed.</p>",
+                    "akc_org_nutrition": "<p>Feed the Greyhound a high-quality dog food appropriate to his age (puppy, adult, or senior). The breed typically requires somewhat higher calories and protein than some dogs. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The Greyhound's short, smooth coat requires little grooming beyond regular baths and weekly rubdowns with a damp cloth or hound glove. His strong, fast-growing nails should be trimmed regularly if not worn down naturally, as overly long nails can cause the dog discomfort. The ears should be checked at least weekly for any buildup of wax or debris that could result in an infection, and cleaned if needed. The teeth should be brushed regularly'\u00bfdaily if possible'\u00bfwith a toothpaste formulated for dogs.</p>",
+                    "akc_org_exercise": "<p>The Greyhound is the cheetah of the dog world. While perfectly happy to lounge around the house all day, he is capable of amazing speed and energy when faced with potential prey'\u00bfor the chance to chase a tennis ball or a coursing lure. Greyhounds require a regular schedule of exercise time and opportunities to (safely) run full-out. They must only be allowed off leash in a securely fenced area, as they may not be able to resist the urge to run off in pursuit of perceived prey.</p>",
+                    "akc_org_training": "<p>Training a Greyhound can be frustrating for anyone who does not understand the genetic origins of the Greyhound temperament. As a sighthound, or coursing breed, the Greyhound was developed to pursue game by sight rather than by scent. They course game independently of humans, making decisions on their own, unlike other types of hunting breeds that require a bit of direction. A Greyhound should be socialized from an early age with small animals and children. Keep training lessons short and sweet, as the Greyhound will become bored very easily. With his mild, sensitive personality, he needs a gentle approach in training, never harsh. Greyhounds are more interested in doing things *with* you than *for* you. They are very affectionate with their families, though they tend to be reserved with strangers.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Cardiac Exam",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Greyhound Polyneuropathy - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Cardiac Exam | Ophthalmologist Evaluation | Greyhound Polyneuropathy - DNA Test"
+                }
+            },
+            "basics": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "breed_name_oracle": "Greyhound",
+                    "matches_oracle": "Greyhound",
+                    "akc_code": "411",
+                    "breed_name_plural": "Greyhounds",
+                    "breed_nicknames": "greyhound",
+                    "origin": "Egypt",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1885",
+                    "life_expectancy": "10-13 years",
+                    "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                    "links": [],
+                    "popularity_2025": 151,
+                    "popularity_2024": 118,
+                    "popularity_2023": 127,
+                    "popularity_2022": 129,
+                    "popularity_2021": 132,
+                    "popularity_2020": 142,
+                    "popularity_2019": 164,
+                    "popularity_2018": 145,
+                    "popularity_2017": 156,
+                    "popularity_2016": 151,
+                    "popularity_2015": 147,
+                    "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "italian-greyhound",
+                        "whippet",
+                        "saluki",
+                        "azawakh",
+                        "sloughi"
+                    ],
+                    "related_breeds_items": {
+                        "italian-greyhound": {
+                            "breed_name_url": "italian-greyhound",
+                            "breed_name": "Italian Greyhound",
+                            "breed_name_oracle": "Italian Greyhound",
+                            "matches_oracle": "Italian Greyhound",
+                            "akc_code": "505",
+                            "breed_name_plural": "Italian Grehounds",
+                            "breed_nicknames": "IG, Iggy",
+                            "origin": "The Mediterranean basin",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "14-15 years",
+                            "related_breeds": "Whippet, Greyhound, Toy Fox Terrier, Miniature Pinscher",
+                            "links": [],
+                            "popularity_2025": 53,
+                            "popularity_2024": 56,
+                            "popularity_2023": 62,
+                            "popularity_2022": 63,
+                            "popularity_2021": 73,
+                            "popularity_2020": 69,
+                            "popularity_2019": 68,
+                            "popularity_2018": 73,
+                            "popularity_2017": 74,
+                            "popularity_2016": 72,
+                            "popularity_2015": 71,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / playful / sensitive"
+                        },
+                        "whippet": {
+                            "breed_name_url": "whippet",
+                            "breed_name": "Whippet",
+                            "breed_name_oracle": "Whippet",
+                            "matches_oracle": "Whippet",
+                            "akc_code": "419",
+                            "breed_name_plural": "Whippets",
+                            "breed_nicknames": "whippet",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Italian Greyhound, Azawakh, Pharaoh Hound, Manchester Terrier (Standard)",
+                            "links": [],
+                            "popularity_2025": 48,
+                            "popularity_2024": 50,
+                            "popularity_2023": 51,
+                            "popularity_2022": 54,
+                            "popularity_2021": 57,
+                            "popularity_2020": 59,
+                            "popularity_2019": 58,
+                            "popularity_2018": 61,
+                            "popularity_2017": 61,
+                            "popularity_2016": 60,
+                            "popularity_2015": 57,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "playful / affectionate / calm"
+                        },
+                        "saluki": {
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "breed_name_oracle": "Saluki",
+                            "matches_oracle": "Saluki",
+                            "akc_code": "417",
+                            "breed_name_plural": "Salukis",
+                            "breed_nicknames": "",
+                            "origin": "Middle East",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1929",
+                            "life_expectancy": "10-17 years",
+                            "related_breeds": "Sloughi, Azawakh, Pharaoh Hound, Greyhound, Afghan Hound",
+                            "links": [],
+                            "popularity_2025": 135,
+                            "popularity_2024": 141,
+                            "popularity_2023": 120,
+                            "popularity_2022": 135,
+                            "popularity_2021": 128,
+                            "popularity_2020": 144,
+                            "popularity_2019": 127,
+                            "popularity_2018": 120,
+                            "popularity_2017": 123,
+                            "popularity_2016": 125,
+                            "popularity_2015": 132,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "dignified / gentle / independent-minded"
+                        },
+                        "azawakh": {
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "breed_name_oracle": "Azawakh",
+                            "matches_oracle": "Azawakh",
+                            "akc_code": "437",
+                            "breed_name_plural": "Azawakhs",
+                            "breed_nicknames": "Azawakh",
+                            "origin": "Sahel Region",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2019",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                            "links": [],
+                            "popularity_2025": 195,
+                            "popularity_2024": 192,
+                            "popularity_2023": 196,
+                            "popularity_2022": 194,
+                            "popularity_2021": 185,
+                            "popularity_2020": 193,
+                            "popularity_2019": 192,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / loyal / deeply affectionate"
+                        },
+                        "sloughi": {
+                            "breed_name_url": "sloughi",
+                            "breed_name": "Sloughi",
+                            "breed_name_oracle": "Sloughi",
+                            "matches_oracle": "Sloughi",
+                            "akc_code": "435",
+                            "breed_name_plural": "Sloughis",
+                            "breed_nicknames": "",
+                            "origin": "Arabian Greyhound",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2016",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Azawakh, Saluki, Borzoi, Greyhound, Pharaoh Hound",
+                            "links": [],
+                            "popularity_2025": 201,
+                            "popularity_2024": 197,
+                            "popularity_2023": 200,
+                            "popularity_2022": 197,
+                            "popularity_2021": 193,
+                            "popularity_2020": 189,
+                            "popularity_2019": 193,
+                            "popularity_2018": 192,
+                            "popularity_2017": 188,
+                            "popularity_2016": 185,
+                            "related_groups_characteristics": "Largest Dog Breeds, ",
+                            "temperament": "reserved / graceful / noble"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "temperament": "independent / gentle / noble",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "akc_org_blurb": "The champion sprinter of dogdom, the Greyhound is a gentle, noble, and sweet-tempered companion with an independent spirit. For thousands of years these graceful hounds have been an object of fascination for artists, poets, and kings.",
+                    "akc_org_about": "Greyhounds are the essence of the dog breeder's credo 'Form follows function.'\u009d From the narrow, aerodynamic skull to the shock-absorbing pads of the feet, Greyhounds are perfectly constructed for high-speed pursuit. The lean beauty of the Greyhound 'inverted S'\u009d shape, created by the deep chest curving gently into a tightly tucked waist, has been an object of fascination for artists, poets, and kings for as long as human beings have called themselves civilized. Greyhounds are the template from which other coursing hounds have been struck.",
+                    "mp_description": "Your Greyhound puppy is from a long line of royalty, dating back about 5000 years, In fact, in olden times, only the aristocracy had Greyhounds. This lean and elegant sighthound is renowned for his speed and form. There is nothing quite like the sight of a Greyhound sprinting at full speed. Today, Greyhounds are sweet and affectionate family companions. They still have the independent spirit of their ancestors, so gentle and patient training is important. GIve him plenty of fenced space to run; he's got a strong prey drive and will take off after small animals if left to his own devices. With his natural need to run, he'll enjoy activities like lure coursing, too."
+                }
+            },
+            "standards": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "title_1": "General Appearance",
+                    "description_1": "Long and narrow, fairly wide between the ears, scarcely perceptible stop, little or no development of nasal sinuses, good length of muzzle, which should be powerful without coarseness. Teeth very strong and even in front. Ears are mall and fine in texture, thrown back and folded, except when excited, when they are semi-pricked. Eyes are dark, bright, intelligent, indicating spirit.",
+                    "title_2": "Body",
+                    "description_2": "Neck: Long, muscular, without throatiness, slightly arched, and widening gradually into the shoulder. Shoulders: Placed as obliquely as possible, muscular without being loaded. Chest: Deep, and as wide as consistent with speed, fairly well-sprung ribs. Back: Muscular and broad. Loins: Good depth of muscle, well arched, well cut up in the flanks.\nTail: Long, fine and tapering with a slight upward curve",
+                    "title_3": "Forequarters",
+                    "description_3": "Perfectly straight, set well into the shoulders, neither turned in nor out, pasterns strong.",
+                    "title_4": "Coat",
+                    "description_4": "Short, smooth and firm in texture.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Long, very muscular and powerful, wide and well let down, well-bent stifles. Hocks well bent and rather close to ground, wide but straight fore and aft.",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "27",
+                    "height_max": "30",
+                    "weight_min": "60",
+                    "weight_max": "70",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Greyhound.pdf",
+                    "height_min_f": "27",
+                    "height_max_f": "30",
+                    "height_min_m": "27",
+                    "height_max_m": "30",
+                    "height_display": "28-30 inches (male), 27-28 inches (female)",
+                    "weight_min_f": "60",
+                    "weight_max_f": "70",
+                    "weight_min_m": "60",
+                    "weight_max_m": "70",
+                    "weight_display": "65-70 pounds (male), 60-65 pounds (female)"
+                }
+            },
+            "markings": {
+                "greyhound": {
+                    "markings": [
+                        {
+                            "marking_index": 240,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 241,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 242,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        },
+                        {
+                            "marking_index": 243,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "cde_markings": "110",
+                            "markings_long": "Solid",
+                            "markings_short": "SLD"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "greyhound": {
+                    "colors": [
+                        {
+                            "color_index": 835,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 836,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "279",
+                            "color_long": "Black Brindle",
+                            "color_short": "BLK BRDL"
+                        },
+                        {
+                            "color_index": 837,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "056",
+                            "color_long": "Blue Brindle",
+                            "color_short": "BL BRDL"
+                        },
+                        {
+                            "color_index": 838,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 839,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "148",
+                            "color_long": "Red Brindle",
+                            "color_short": "RD BRDL"
+                        },
+                        {
+                            "color_index": 840,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 841,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "202",
+                            "color_long": "White & Black",
+                            "color_short": "WH & BLK"
+                        },
+                        {
+                            "color_index": 842,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "333",
+                            "color_long": "White & Blue Brindle",
+                            "color_short": "WH & BL BRDL"
+                        },
+                        {
+                            "color_index": 843,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "214",
+                            "color_long": "White & Red",
+                            "color_short": "WH & RD"
+                        },
+                        {
+                            "color_index": 844,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 845,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "036",
+                            "color_long": "Blue Fawn",
+                            "color_short": "BL FN"
+                        },
+                        {
+                            "color_index": 846,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "328",
+                            "color_long": "White & Black Brindle",
+                            "color_short": "WH & BLK BRDL"
+                        },
+                        {
+                            "color_index": 847,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "288",
+                            "color_long": "White & Blue",
+                            "color_short": "WH & BL"
+                        },
+                        {
+                            "color_index": 848,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "334",
+                            "color_long": "White & Blue Fawn",
+                            "color_short": "WH & BL FN"
+                        },
+                        {
+                            "color_index": 849,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "336",
+                            "color_long": "White & Red Brindle",
+                            "color_short": "WH & RD BRDL"
+                        },
+                        {
+                            "color_index": 850,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 851,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "254",
+                            "color_long": "Blue Brindle & White",
+                            "color_short": "BL BRDL & WH"
+                        },
+                        {
+                            "color_index": 852,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 853,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "021",
+                            "color_long": "Black Brindle & White",
+                            "color_short": "BLK BRDL & WH"
+                        },
+                        {
+                            "color_index": 854,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 855,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "274",
+                            "color_long": "Blue Fawn & White",
+                            "color_short": "BL FN & WH"
+                        },
+                        {
+                            "color_index": 856,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 857,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 858,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 859,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "125",
+                            "color_long": "Liver & White",
+                            "color_short": "LVR & WH"
+                        },
+                        {
+                            "color_index": 860,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "332",
+                            "color_long": "Liver Brindle",
+                            "color_short": "LVR BRDL"
+                        },
+                        {
+                            "color_index": 861,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "149",
+                            "color_long": "Red Brindle & White",
+                            "color_short": "RD BRDL & WH"
+                        },
+                        {
+                            "color_index": 862,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "207",
+                            "color_long": "White & Fawn",
+                            "color_short": "WH & FN"
+                        },
+                        {
+                            "color_index": 863,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "212",
+                            "color_long": "White & Liver",
+                            "color_short": "WH & LVR"
+                        },
+                        {
+                            "color_index": 864,
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "akc_code": "411",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "335",
+                            "color_long": "White & Liver Brindle",
+                            "color_short": "WH & LVR BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "breed_club_name": "Greyhound Club of America",
+                    "breed_club_url": "www.greyhoundclubofamericainc.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/10111248/Greyhoundflier_20220404.pdf",
+                    "breed_rescue_url": "http://www.greyhoundclubofamericainc.org/rescue-gcoa/",
+                    "national_breed_club": "Greyhound Club of America",
+                    "national_breed_club_url": "www.greyhoundclubofamericainc.org",
+                    "breed_referral_contact_name": "Margaret Bryson",
+                    "breed_referral_contact_phone_number": "(804) 883-7800",
+                    "breed_referral_contact_email": "msbryson@earthlink.net",
+                    "breed_referral_contact_address": "4525 MORNINGSIDE DR\nLEBANON, OH 45036-7835",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.greyhoundclubofamericainc.org/rescue-gcoa/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1538,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 124,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Established in 1907, the Greyhound Club of America is the official AKC Parent Club for the Greyhound."
+                        },
+                        {
+                            "id": 776,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 778,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 775,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 777,
+                            "breed_id": "125",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "greyhound": {
+                    "breed_name_url": "greyhound",
+                    "breed_name": "Greyhound",
+                    "akc_org_history": "<p>Prehistoric art depicts doglike creatures and men chasing game, but the Greyhound story begins properly in Egypt some 5,000 years ago. The hounds of the pharaohs were designed to detect, chase, capture, and dispatch the fleet-footed wildlife of Egypt's deserts. To the pharaoh's subjects, the godlike beauty of these haughty hounds was an extension of their ruler's divine majesty. And ever after, from the Macedonia of Alexander the Great to the Moscow of the Tsars, nobles looked a bit nobler with an elegant hound by their side.</p>",
+                    "mp_history_job": "<p>Prehistoric art depicts doglike creatures and men chasing game, but the Greyhound story begins properly in Egypt some 5,000 years ago. The hounds of the pharaohs were designed to detect, chase, capture, and dispatch the fleet-footed wildlife of Egypt's deserts. To the pharaoh's subjects, the godlike beauty of these haughty hounds was an extension of their ruler's divine majesty. And ever after, from the Macedonia of Alexander the Great to the Moscow of the Tsars, nobles looked a bit nobler with an elegant hound by their side.</p>",
+                    "did_you_know": "The Greyhound is the fastest breed of dog. | Theories of the name \"Greyhound\" range from derivation from Graius, meaning Grecian; the old British grech or greg, meaning dog; and the past predominance of gray as the breed's color. | Greyhounds were among the first at American dog shows, and they have an entry of 18 listed in the first Westminster Kennel Club catalog in 1877. | The Greyhound was recognized by AKC in 1885 along with 14 other breeds. | The hare is the Greyhound's natural quarry. | The first knowledge of the Greyhound comes from the Tomb of Amten, in the Valley of the Nile, regarded by Egyptologists as belonging to the Fourth Dynasty, which in modern chronology would be between 2900 and 2751 B.C."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24618%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running.jpg",
+                    "alt": "Greyhound running in a field.",
+                    "caption": "",
+                    "credit": "\u00a9mfotohaus - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-standing-stacked-outdoors.20200426001712574.jpg",
+                    "alt": "Greyhound standing stacked outdoors in the forest.",
+                    "caption": "Greyhound standing stacked outdoors in the forest.",
+                    "credit": "Laitho/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhounds.jpg",
+                    "alt": "Greyhounds running on the beach.",
+                    "caption": "",
+                    "credit": "lvaloueva/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-head-portrait-outdoors.jpg",
+                    "alt": "Greyhound head portrait outdoors.",
+                    "caption": "",
+                    "credit": "Ekaterina Krivtsova/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running-in-summer.jpg",
+                    "alt": "Greyhound running in a field in summer.",
+                    "caption": "",
+                    "credit": "\u00a9Grigorita Ko - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-laying-down-in-the-grass.jpg",
+                    "alt": "Greyhound laying down in the grass.",
+                    "caption": "",
+                    "credit": "Paulo Hoeper/Moment via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running-in-lure-coursing.jpg",
+                    "alt": "Greyhound running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9R.Bitzer Photography - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-standing-in-the-backyard.20200425202250233.jpg",
+                    "alt": "Greyhound standing in the backyard.",
+                    "caption": "",
+                    "credit": "matthewcyee/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running-in-a-field.jpg",
+                    "alt": "Greyhound running in a field.",
+                    "caption": "Greyhound",
+                    "credit": "\u00a9Jos\u00e9 16 - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-at-the-AKC-National-Championship.jpg",
+                    "alt": "Greyhound at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-Illo-2.jpg",
+                "alt": "Greyhound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-puppy-laying-down-outdoors.jpg",
+                "alt": "Greyhound puppy laying down outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/greyhound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Greyhound",
+        "shopCta": false
+    }
+}

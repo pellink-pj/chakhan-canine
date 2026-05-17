@@ -1,0 +1,1273 @@
+{
+    "settings": {
+        "current_breed": "stabyhoun",
+        "current_breed_group": {
+            "name": "Foundation Stock Service",
+            "url": "https://www.akc.org/dog-breeds/foundation-stock-service/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "parent_club_health_statement_link": null,
+                    "mp_health": "<p>The Stabyhoun is, despite its small population, fortunately a relatively healthy breed. The ASA and the NVSW do everything possible to keep it that way. Responsible breeders screen their stock for health conditions such as epilepsy, hip and elbow dysplasia, patent ductus arteriosus, and cerebral dysfunction. The ASA's breeding program is aimed to reduce these occurrences as much as possible, though it is not easy, as the causes are not always clear or strictly hereditary.</p>",
+                    "akc_org_health": "<p>The Stabyhoun is, despite its small population, fortunately a relatively healthy breed. The ASA and the NVSW do everything possible to keep it that way. Responsible breeders screen their stock for health conditions such as epilepsy, hip and elbow dysplasia, patent ductus arteriosus, and cerebral dysfunction. The ASA's breeding program is aimed to reduce these occurrences as much as possible, though it is not easy, as the causes are not always clear or strictly hereditary.</p>",
+                    "akc_org_nutrition": "<p>The Stabyhoun should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>A Stabyhoun's grooming needs are almost nonexistent. Unless he is neutered, any necessary hair trimming can be done yourself. A neutered dog also comes with what is called a \"castrated coat\" where the undercoat is exploding and may require a bit more grooming. &nbsp;&nbsp;&nbsp;&nbsp;Otherwise, the medium-length coat of the Stabyhoun is self-cleaning, meaning dirt falls off by itself when the coat is dry. One brush through it to remove the last remnants of sand and he is clean again. This also means that he only rarely gets a bath. Even if he really is very dirty, just a rinse or a swim in a clean pool is usually sufficient. Shampoo is only required if he has been rolling in something smelly; then, use a special, neutral dog shampoo so as not to strip his skin oils.</p>",
+                    "akc_org_exercise": "<p>Daily exercise is necessary for the mental and physical health of your Staby. They do not require more than a good daily hour of exercise. Afterward, they are then content to sleep and rest quietly during the day. What is perhaps even more important is that the Staby needs a mental challenge. Stabys need to have a function in daily life, and preference should be given to something that offers variety. Agility, hunting, scent training, and lure coursing can all be productive and stimulating to your Staby. A busy dog is the perfect dog.</p>",
+                    "akc_org_training": "<p>Stabys are self-motivated and quick learners. The reason for this lies mainly in the fact that the Staby had to work independently to destroy pests, so it was handy to have a real \"thinker.\" That suited the breed well at a time when there were few outside influences and hardly any traffic. &nbsp;&nbsp;&nbsp;&nbsp;With positive and gentle training, the Staby is quick to learn and wants to please. Too much pressure is never a good idea, while a good coach is important. The Staby likes a job, but his family must provide a fair and consistent approach to his training, which is very important for a peaceful, happy and diverse education. A tough approach is useless with the Staby. He will completely cease working and no longer voluntarily perform his duties.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": ""
+                }
+            },
+            "basics": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "breed_name_oracle": "Stabyhoun",
+                    "matches_oracle": "Stabyhoun",
+                    "akc_code": "136",
+                    "breed_name_plural": "Stabyhouns",
+                    "breed_nicknames": "",
+                    "origin": "The Netherlands",
+                    "breed_group": "Foundation Stock Service",
+                    "year_recognized": 0,
+                    "life_expectancy": "13-15 years",
+                    "related_breeds": "Drentsche Patrijshond, Nederlandse Kooikerhondje, Deutscher Wachtelhund, Small Munsterlander, French Spaniel",
+                    "links": [],
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "drentsche-patrijshond",
+                        "nederlandse-kooikerhondje",
+                        "deutscher-wachtelhund",
+                        "small-munsterlander",
+                        "french-spaniel"
+                    ],
+                    "related_breeds_items": {
+                        "drentsche-patrijshond": {
+                            "breed_name_url": "drentsche-patrijshond",
+                            "breed_name": "Drentsche Patrijshond",
+                            "breed_name_oracle": "Drentsche Patrijshond",
+                            "matches_oracle": "Drentsche Patrijshond",
+                            "akc_code": "143",
+                            "breed_name_plural": "Drentsche Patrijshonds",
+                            "breed_nicknames": "Drent, DutchPartidgeDog",
+                            "origin": "The Netherlands",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Nederlandse Kooikerhondje, Stabyhoun, Boykin Spaniel, Deutscher Wachtelhund",
+                            "links": [],
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Medium Dog Breeds",
+                            "temperament": "loyal / intelligent / friendly"
+                        },
+                        "nederlandse-kooikerhondje": {
+                            "breed_name_url": "nederlandse-kooikerhondje",
+                            "breed_name": "Nederlandse Kooikerhondje",
+                            "breed_name_oracle": "Nederlandse Kooikerhondje",
+                            "matches_oracle": "Nederlandse Kooikerhondje",
+                            "akc_code": "135",
+                            "breed_name_plural": "Nederlandse Kooikerhondjes",
+                            "breed_nicknames": "Kooiker",
+                            "origin": "The Netherlands",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2018",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Nova Scotia Duck Tolling Retriever, Brittany, Chesapeake Bay Retriever, Drentsche Patrijshond, Welsh Springer Spaniel",
+                            "links": [],
+                            "popularity_2025": 158,
+                            "popularity_2024": 161,
+                            "popularity_2023": 161,
+                            "popularity_2022": 170,
+                            "popularity_2021": 156,
+                            "popularity_2020": 162,
+                            "popularity_2019": 159,
+                            "popularity_2018": 150,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / friendly / quick"
+                        },
+                        "deutscher-wachtelhund": {
+                            "breed_name_url": "deutscher-wachtelhund",
+                            "breed_name": "Deutscher Wachtelhund",
+                            "breed_name_oracle": "Deutscher Wachtelhund",
+                            "matches_oracle": "Deutscher Wachtelhund",
+                            "akc_code": "145",
+                            "breed_name_plural": "Deutscher Wachtelhunds",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Brittany, German Wirehaired Pointer, Boykin Spaniel, French Spaniel",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / versatile / determined"
+                        },
+                        "small-munsterlander": {
+                            "breed_name_url": "small-munsterlander",
+                            "breed_name": "Small Munsterlander",
+                            "breed_name_oracle": "Small Munsterlander",
+                            "matches_oracle": "Small Munsterlander",
+                            "akc_code": "139",
+                            "breed_name_plural": "Small Munsterlanders",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Deutscher Wachtelhund, Drentsche Patrijshond, Stabyhoun",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / devoted / self-confident"
+                        },
+                        "french-spaniel": {
+                            "breed_name_url": "french-spaniel",
+                            "breed_name": "French Spaniel",
+                            "breed_name_oracle": "French Spaniel",
+                            "matches_oracle": "French Spaniel",
+                            "akc_code": "146",
+                            "breed_name_plural": "French Spaniels",
+                            "breed_nicknames": "",
+                            "origin": "France",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Field Spaniel, Boykin Spaniel, Brittany, Drentsche Patrijshond",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / sociable / gentle"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "temperament": "intelligent / loving / responsive",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "akc_org_blurb": "<p>Although occasionally somewhat willful by nature, Stabyhouns are obedient, gentle, and patient dogs, who are deeply fond of their family, wanting to please their owners. He is both a soft-mouthed retriever and a pointer that is particularly useful for hunting ducks and upland birds. He is a fine retriever, and water work is one of his fortes. He is very sharp-eyed, owns a good sense of smell and aptitude, and works fast and efficiently.</p>",
+                    "akc_org_about": "<p>The Stabyhoun's independent nature was a deliberately bred characteristic by farmers who wanted a dog that could hunt independently for moles and rabbits. That propensity we still see today, therefore, you cannot be upset if he looks for prey independently and, for example, digs in the garden. With proper guidance, a Staby is a gentle dog and a great friend for life. &nbsp;&nbsp;&nbsp;&nbsp;Stabys are also very inquisitive. Always pay attention to what a Stabyhoun is up to because with their inquisitive nature, they can quickly get into trouble. If you think your Staby will sit quietly if something happens, you will often be disappointed. Although Stabys make a lot of noise when something is wrong or to alert his owner, they generally expect the owner to further investigate before they accept that things are normal. Most Stabys will need to verify that there are no \"surprises\" in store before calming down again. &nbsp;&nbsp;&nbsp;&nbsp;This breed is a functional and powerfully-built pointing dog that originated in the Netherlands. The majority of Stabyhouns are black and white. The brown and white coloring is seen in the Netherlands, but the orange and white Stabyhoun is nearly extinct. The Staby's build is such that it is greater in length than in height and similarly, the head shows more length than width. The feathering on his chest, collar, forelegs, trousers and tail gives the Staby the impression of being longhaired, but the coat is not excessively long. The Stabyhoun is considered to be an \"all-around\" dog, with abilities in hunting, retrieving, and pointing. They are also ideal family dogs because of their size and affectionate character. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>Club Contact Details &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Ameri-Can Stabyhoun Association &nbsp;&nbsp;&nbsp;Susie Nies &nbsp;&nbsp;&nbsp;AKCrep@stabyhouns.org &nbsp;&nbsp;&nbsp;0N282 Cumnor Ave, Glen Ellyn, IL 60137 &nbsp;&nbsp;Phone: (630) 632-3443</p>\n<p><br></p>\n<p>Pronunciation - Stab-bee-houn</p>",
+                    "mp_description": "<p>The Stabyhoun is a functional and powerfully-built pointing dog that originated in the Netherlands. The majority of Stabyhouns are black and white. The brown and white coloring is seen in the Netherlands, but the orange and white Stabyhoun is nearly extinct. The Staby's build is such that it is greater in length than in height and similarly, the head shows more length than width. The feathering on his chest, collar, forelegs, trousers and tail gives the Staby the impression of being longhaired, but the coat is not excessively long. The Stabyhoun is considered to be an \"all-around\" dog, with abilities in hunting, retrieving, and pointing. They are also ideal family dogs because of their size and affectionate character.</p>"
+                }
+            },
+            "standards": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "title_1": "General Appearance",
+                    "description_1": "Functional and powerful built pointing dog. The body is slightly longer than its height at the withers. The overall picture is neither too robust nor too fine. The skin should fit tightly. The feathering on chest, collar, forelegs, trousers and tail gives the Stabijhoun the impression of being longhaired, but the coat should not be excessively long. Sexual dimorphism should be unmistakable.",
+                    "title_2": "Head",
+                    "description_2": "Dry, without pendulous lips or dewlap. The size of the head is in proportion to the body and sexual dimorphism should be clearly defined. The head exhibits more length than width. The length of the muzzle, measured from the nose to the stop is approximately equal to the length from the stop to the occiput. The expression is gentle, friendly and attentive.\nSkull: The skull is slightly rounded and also slightly rounded on the sides, not narrow, but should not give the impression of being broad or round.\nStop: The skull is sloping gradually to the foreface. Seen from the side, the stop seams more marked due to the developed brows.\nNose: Black in dogs with a black and white coat colour. Brown in dogs with a brown and white coat colour. Nose well developed with wide-open nostrils.\nMuzzle: Strong, tapering gradually to the nose tip, without being snipy, viewed both from above and from the side (wedge shaped). The nasal bridge is straight and broad, and viewed from the side neither concave nor convex.\nLips: Tightly fitting, not pendulous and not showing labial folds. Jaws/Teeth: Powerful and complete. Scissor bite. Missing PM1 or M3 is allowed, as is also a duplicate PM1.\nCheeks: Barely pronounced.\nEyes: Set horizontally. Medium sized, slightly rounded shape with close fitting eyelids, without a visible conjunctiva. The pigment of the iris is dark brown for dogs with black and white coat and a lighter brown colour for dogs with a brown and white coat colour.\nEars: The ears are set in an imaginary line drawn from the nose tip through the inside corner of the eyes. When attentive, the ears should not protrude beyond the outline of the skull. The ear auricle is not strongly developed, so the ears are worn smoothly lying against the head. They are moderately long, reaching to the corner of the mouth, and have the shape of a trowel that is not round, but ends in a rounded point. The hair of the ear is a typical feature; at the base of the ear it is quite long then decreases in length gradually with the lower third of the ear being covered with short hair. The hair should be straight, but slightly wavy is allowed. Hair on the ears should not reach longer than the ear itself as it gives an untidy appearance.",
+                    "title_3": "Body",
+                    "description_3": "Neck: Strong and rounded, of medium length, but not too long. The neck runs smoothly with a blunt angle to the back line, so that the head is usually carried low.The neck shows no throatiness or dewlap.\nBody: Powerful, clean cut and well muscled.\nTop line: Smooth and strong topline.\nWithers: Far enough back, strong, but not prominent Back: Strong and straight.\nLoin: Strong and muscular.\nCroup: Slightly sloping.\nChest: Deep, reaching to the elbows. Viewed from the front rather broad, so that the forelegs are set wide apart. Ribs well sprung but not barreled. The ribs are deep and long, so the ribcage extends as far back as possible. Elbows must be tight to the chest.\nUnderline and belly: Smooth and reaching far enough to the rear. The belly only slightly tucked up.\nTail: Length reaching to the hock joint. Not set high. The tail is usually worn down although the last third of the tail may turn up during rest or at a stand. During movement the tail lifts, but should never be worn on or over the back or in a spiral. The tail is round and covered up to the tip with long, dense hair, without curls, waves, or feathering. Instead, the tail has a bushy structure, so the hair around is generously long and thick, giving a full and rich appearance.",
+                    "title_4": "Forequarters",
+                    "description_4": "General appearance: Powerful, muscular and functionally angulated, so the legs are correctly under the body. Forelegs seen from the front standing a bit wide.\nShoulder: Shoulder blade close to the chest/body and well laid back. Upper arm: Functionally angulated.Length is equal to or only slightly shorter than the length of the shoulder blade.\nElbow: Strong, straight and parallel.\nForearm: Strong, straight and parallel.\nCarpus (Wrist): Powerful, in the front straight, metacarpus.\nMetacarpus (Pastern): Slightly sloping.\nForefeet: Strong, compact and slightly oval shaped. T oes well arched, closed and facing forward.",
+                    "title_5": "Hindquarters",
+                    "description_5": "General appearance: Strong and functionally angulated, without exaggeration. When viewed from the rear, the legs are wide and hocks parallel.\nThigh: Of good width and length, well muscled and with functional angulations at hip and knee.\nStifle (Knee): Functionally angulated\nLower thigh: Of good length.\nHock joint: Straight, parallel and placed well apart, turning neither in nor out.\nMetatarsus (Rear pastern): Of normal length.\nHind feet: Strong, compact and slightly oval shaped.Toes well arched, closed and facing forward.",
+                    "title_6": "Coat",
+                    "description_6": "Hair: The coat is of medium length and straight on the body with a weather-resistant undercoat. At the most, a slightly wavy coat is tolerated on the croup. With the bushy hair on the chest, collar, trousers and tail, the coat gives the impression of being longhaired. Coat on the head, the front of the forelegs, and on the front of the hocks is short. The hair on the back of the front legs is longer and well developed. On the trousers and the tail, the hair is bushy rather than feathered. A curly coat is not allowed.\nColour: The Stabijhoun is a pied dog in black or brown with white markings, but also black or brown roans are accepted. The white may have roaning or ticking. The head is black or brown, with or without a blaze. Both of these colours occur with or without plates. Coats with a (distinct) saddle are tolerated. Tan marking or tricolor is disqualifying.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "19",
+                    "height_max": "21",
+                    "weight_min": "40",
+                    "weight_max": "60",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://www.fci.be/Nomenclature/Standards/222g07-en.pdf",
+                    "height_min_f": "19",
+                    "height_max_f": "21",
+                    "height_min_m": "19",
+                    "height_max_m": "21",
+                    "height_display": "19-21 inches",
+                    "weight_min_f": "40",
+                    "weight_max_f": "60",
+                    "weight_min_m": "40",
+                    "weight_max_m": "60",
+                    "weight_display": "40-60 pounds"
+                }
+            },
+            "markings": {
+                "stabyhoun": {
+                    "markings": [
+                        {
+                            "marking_index": 44,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "cde_markings": "021",
+                            "markings_long": "Spotted",
+                            "markings_short": "SPTD"
+                        },
+                        {
+                            "marking_index": 45,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 46,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "cde_markings": "036",
+                            "markings_long": "Roan",
+                            "markings_short": "RN"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "stabyhoun": {
+                    "colors": [
+                        {
+                            "color_index": 167,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 168,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "063",
+                            "color_long": "Brown & White",
+                            "color_short": "BR & WH"
+                        },
+                        {
+                            "color_index": 169,
+                            "breed_name_url": "stabyhoun",
+                            "breed_name": "Stabyhoun",
+                            "akc_code": "136",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "134",
+                            "color_long": "Orange & White",
+                            "color_short": "ORG & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "breed_club_name": "Stabyhoun",
+                    "breed_club_url": null,
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Stabyhoun",
+                    "national_breed_club_url": "",
+                    "breed_referral_contact_name": "",
+                    "breed_referral_contact_phone_number": "",
+                    "breed_referral_contact_email": "",
+                    "breed_referral_contact_address": "",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1649,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 235,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 1220,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1222,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1219,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1221,
+                            "breed_id": "240",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "stabyhoun": {
+                    "breed_name_url": "stabyhoun",
+                    "breed_name": "Stabyhoun",
+                    "akc_org_history": "Native to the Netherlands, the Stabyhoun is related to the Drentsche Patrijshond and Heidewachtel. He probably owes his name to his versatility; the word Stabyhoun is derived from the words sta mij bij or \"stand by me,\" while  is the Frisian word for dog and is pronounced \"hoon.\"\n \n \n \n The Stabyhoun that we know today shows definite similarities to dogs that were depicted in paintings from the 17th century. For example, those by the well-known Dutch artist Jan Steen. The Stabyhoun originated in the Frisian forest area of the Netherlands along with another breed, the Wetterhoun. In the early 20th century, Stabyhoun and Wetterhoun were regularly crossbred with each other, thereby, the unique varieties of each were threatened to be lost. In 1938, a group of enthusiastic people of the Kynologenclub Friesland started purifying the two breeds again and, in 1942, both breeds were officially recognized. Important names in this process were: J. Bos, T. van Dijk, B. de Graaf and W. Hoeksema. The first standard was dated February 10, 1944. In 1947, the Dutch Association for Staby and Wetterhounen (NVSW) was established with the mission to represent the interests of the Frisian breeds.\n \n \n \n The first recorded Stabyhoun litter born in the United States was in 1994. As of 2017, the population of the Stabyhoun is more than 7,000 dogs worldwide. His popularity has grown across much of Europe and North America, including Belgium, Finland, Sweden, Denmark, Norway, the US and the UK, in addition to his native Netherlands.",
+                    "mp_history_job": "The Stabyhoun that we know today shows definite similarities to dogs that were depicted in paintings from the 17th century. For example, those by the well-known Dutch artist Jan Steen. The Stabyhoun originated in the Frisian forest area of the Netherlands along with another breed, the Wetterhoun. In the early 20th century, Stabyhoun and Wetterhoun were regularly crossbred with each other, thereby, the unique varieties of each were threatened to be lost. In 1938, a group of enthusiastic people of the Kynologenclub Friesland started purifying the two breeds again and, in 1942, both breeds were officially recognized. Important names in this process were:  J. Bos, T. van Dijk, B. de Graaf and W. Hoeksema. The first standard was dated February 10, 1944. In 1947, the Dutch Association for Staby and Wetterhounen (NVSW) was established with the mission to represent the interests of the Frisian breeds.",
+                    "did_you_know": "The Stabyhoun (spelled Stabijhoun in Dutch) is also called a \"Friese Stabij,\" or Frisian Pointer. | Stabyhoun translates from the Dutch (sta-me-bij-hond) as \"Stand-by-me-dog\" and is pronounced: stah-bay-hoon. | The Stabyhoun has been recorded in the Foundation Stock Service since March 2005. | The Stabyhoun has been assigned the Sporting Group designation. | The Stabyhoun is a project-oriented dog and loves to share in his owner's tasks. | The Stabyhoun has been approved to compete in AKC Companion Events since July 1, 2008."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25808%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_62619970.jpg",
+                    "alt": "Stabyhoun standing sideways facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.34499497.jpg",
+                    "alt": "Stabyhoun lying facing forward.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.177302476.jpg",
+                    "alt": "Stabyhoun head in three-quarter view outdoors.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Stabyhoun.jpg",
+                    "alt": "Two Stabyhouns sitting side by side.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.22887776.jpg",
+                    "alt": "Stabyhoun lying on its side.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.22888158.jpg",
+                    "alt": "Two Stabyhouns side by side, one sitting and one lying down.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.480749699.jpg",
+                    "alt": "Stabyhoun sitting in three-quarter view.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.30135865.jpg",
+                    "alt": "Stabyhoun lying on its side facing forward.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun.480752773.jpg",
+                    "alt": "Stabyhoun sitting sideways facing left.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "",
+                "alt": ""
+            }
+        },
+        "standard": {
+            "image": null
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Stabyhoun-puppy.jpg",
+                "alt": "Stabyhoun puppy lying down."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/stabyhoun",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Stabyhoun",
+        "shopCta": false
+    }
+}

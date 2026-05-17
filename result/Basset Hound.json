@@ -1,0 +1,1429 @@
+{
+    "settings": {
+        "current_breed": "basset-hound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/06/13080710/Bassett-Hound-Health-Statement-August-2022.pdf",
+                    "mp_health": "<p>Basset Hounds are generally a healthy breed. Some health issues include glaucoma; thrombopathia; von Willebrand\u00bfs disease; hypothyroidism; patellar luxation; hip dysplasia; and elbow dysplasia. Some dogs may be faced with these health challenges in their lives, but the majority of Basset Hounds are healthy dogs.</p>",
+                    "akc_org_health": "<p>Because of the Basset's ears are long and droopy, it's important to check them frequently to ensure that air circulation hasn't led to an infection. Shaking the head or scratching at the ears may indicate the need for a vet visit. Responsible breeders check for health conditions such as hip dysplasia, elbow dysplasia, glaucoma, hypothyroidism, bleeding disorders, and luxating patella, a dislocated kneecap once called a 'trick knee' in humans. Brushing your dog's teeth with specially formulated canine toothpaste at least twice a week is also a vital part of Basset health care.</p>",
+                    "akc_org_nutrition": "<p>The Basset Hound should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Although it might seem that with his short, smooth hair the Basset Hound won't need any grooming, that's not quite the case. Regular grooming sessions are an important part of keeping the breed healthy and happy. The Basset's short hair can shed profusely. Shedding can be kept under control by gently going over the dog at least once a week with a soft brush or a shedding tool. As well as removing hair that is ready to shed, grooming is like an all-body massage that benefits his skin and overall health. The Basset will also need his nails trimmed regularly, and an occasional bath will help to keep his coat clean and shiny.</p>",
+                    "akc_org_exercise": "<p>Basset Hounds are not as active as some breeds, but they do require regular, moderate exercise. Usually a daily walk at a moderate pace will fill the bill. Exercise will help to keep the Basset healthy and prevent him from becoming overweight. Since the breed was developed to work in a pack with other dogs, Bassets enjoy canine company on their outings, and the breed can be quite playful. After a walk or play session they'll typically settle down for a comfortable sleep.</p>",
+                    "akc_org_training": "<p>Basset Hounds are very independent, and training the breed can be a challenge. Over the centuries, scenthounds of this type were developed to hunt on their own and to follow a track without distraction. Because of this, they can seem aloof and not interested in following your commands. However, a Basset definitely can be trained'\u00bfit will just take time, consistency, and persistence. Using treats and early socialization in puppyhood is crucial, and as the Basset matures he and his owner can benefit from continued positive obedience training.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Ophthalmologist Evaluation",
+                    "test_2": "Mucopolysaccharidosis I (MPS I) - DNA Test",
+                    "test_3": "Thrombopathia (Basset Hound) - DNA Test",
+                    "test_4": "Lafora Disease - DNA Test",
+                    "test_5": "Primary Open Angle Glaucoma (Basset Hound) (POAG) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Ophthalmologist Evaluation | Mucopolysaccharidosis I (MPS I) - DNA Test | Thrombopathia (Basset Hound) - DNA Test | Lafora Disease - DNA Test | Primary Open Angle Glaucoma (Basset Hound) (POAG) - DNA Test"
+                }
+            },
+            "basics": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "breed_name_oracle": "Basset Hound",
+                    "matches_oracle": "Basset Hound",
+                    "akc_code": "403",
+                    "breed_name_plural": "Basset Hounds",
+                    "breed_nicknames": "Basset",
+                    "origin": "France",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1885",
+                    "life_expectancy": "12-13 years",
+                    "related_breeds": "Bloodhound, Dachshund, Basset Fauve de Bretagne, Harrier",
+                    "links": [],
+                    "popularity_2025": 34,
+                    "popularity_2024": 34,
+                    "popularity_2023": 34,
+                    "popularity_2022": 36,
+                    "popularity_2021": 34,
+                    "popularity_2020": 36,
+                    "popularity_2019": 37,
+                    "popularity_2018": 39,
+                    "popularity_2017": 39,
+                    "popularity_2016": 39,
+                    "popularity_2015": 39,
+                    "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "bloodhound",
+                        "dachshund",
+                        "basset-fauve-de-bretagne",
+                        "harrier"
+                    ],
+                    "related_breeds_items": {
+                        "bloodhound": {
+                            "breed_name_url": "bloodhound",
+                            "breed_name": "Bloodhound",
+                            "breed_name_oracle": "Bloodhound",
+                            "matches_oracle": "Bloodhound",
+                            "akc_code": "406",
+                            "breed_name_plural": "Bloodhounds",
+                            "breed_nicknames": "Sleuth Hound",
+                            "origin": "Western Europe",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Hanoverian Scenthound, Transylvanian Hound, Bluetick Coonhound, Bavarian Mountain Scent Hound, Black and Tan Coonhound",
+                            "links": [],
+                            "popularity_2025": 59,
+                            "popularity_2024": 58,
+                            "popularity_2023": 53,
+                            "popularity_2021": 50,
+                            "popularity_2020": 46,
+                            "popularity_2019": 51,
+                            "popularity_2018": 49,
+                            "popularity_2017": 50,
+                            "popularity_2016": 52,
+                            "popularity_2015": 49,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / friendly / inquisitive"
+                        },
+                        "dachshund": {
+                            "breed_name_url": "dachshund",
+                            "breed_name": "Dachshund",
+                            "breed_name_oracle": "Dachshund",
+                            "matches_oracle": "Dachshund",
+                            "akc_code": "408",
+                            "breed_name_plural": "Dachshunds",
+                            "breed_nicknames": "Dachsie",
+                            "origin": "Germany",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Basset Hound, Drever, Swedish Vallhund, Teddy Roosevelt Terrier, Pembroke Welsh Corgi",
+                            "links": [],
+                            "popularity_2025": 5,
+                            "popularity_2024": 6,
+                            "popularity_2023": 6,
+                            "popularity_2022": 9,
+                            "popularity_2021": 10,
+                            "popularity_2020": 10,
+                            "popularity_2019": 11,
+                            "popularity_2018": 12,
+                            "popularity_2017": 13,
+                            "popularity_2016": 13,
+                            "popularity_2015": 13,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "curious / friendly / spunky"
+                        },
+                        "basset-fauve-de-bretagne": {
+                            "breed_name_url": "basset-fauve-de-bretagne",
+                            "breed_name": "Basset Fauve de Bretagne",
+                            "breed_name_oracle": "Basset Fauve de Bretagne",
+                            "matches_oracle": "Basset Fauve de Bretagne",
+                            "akc_code": "446",
+                            "breed_name_plural": "Basset Fauve de Bretagnes",
+                            "breed_nicknames": "Fauve, BassetFauve",
+                            "origin": "France",
+                            "breed_group": "Hound Group",
+                            "year_recognized": 0,
+                            "life_expectancy": "13-16 years",
+                            "related_breeds": "Basset Hound, Braque Francais Pyrenean, Porcelaine",
+                            "links": [],
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                            "temperament": "sociable / lively / smart"
+                        },
+                        "harrier": {
+                            "breed_name_url": "harrier",
+                            "breed_name": "Harrier",
+                            "breed_name_oracle": "Harrier",
+                            "matches_oracle": "Harrier",
+                            "akc_code": "412",
+                            "breed_name_plural": "Harriers",
+                            "breed_nicknames": "Harrier",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "American Foxhound, English Foxhound, Transylvanian Hound, Beagle, Hamiltonstovare",
+                            "links": [],
+                            "popularity_2025": 199,
+                            "popularity_2024": 183,
+                            "popularity_2023": 190,
+                            "popularity_2022": 193,
+                            "popularity_2021": 188,
+                            "popularity_2020": 190,
+                            "popularity_2019": 188,
+                            "popularity_2018": 189,
+                            "popularity_2017": 183,
+                            "popularity_2016": 186,
+                            "popularity_2015": 183,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / outgoing / people-oriented"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "temperament": "charming / patient / low-key",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "akc_org_blurb": "Among the most appealing of the AKC breeds, the endearing and instantly recognizable Basset Hound is a perennial favorite of dog lovers all over the world. This low-slung and low-key hound can be sometimes stubborn, but is always charming.",
+                    "akc_org_about": "The Basset Hound stands no higher than 14 inches at the shoulder but, with his remarkably heavy bone, powerful little legs, and massive paws, he possesses big-dog strength and stamina. Bassets are famous for a large, domed head that features extremely long, velvety ears, mournful eyes, and a wrinkled brow, which give the breed the look of a sad clown. Built more for endurance than speed, the Basset moves in a deliberate but effortless manner. The breed's scenting ability is uncanny; it's said that among dogs only the Bloodhound's nose is more accurate. Mild and agreeable at home, the Basset is stubborn on the trail and barks in a loud, ringing voice. Although they may not be wildly demonstrative in their affections, they are steadfastly loyal.",
+                    "mp_description": "While most recognizable for his long, hanging ears, what sets the Basset Hound apart is personality. He's gentle and sweet with his people and a skilled hunter in the field. He's got an incredible sense of smell and is always ready to follow a scent anywhere. Your Basset Hound puppy will love to join you on long walks where he can investigate interesting new smells. With his patient and easygoing ways, he makes an ideal family pet."
+                }
+            },
+            "standards": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "title_1": "General Appearance",
+                    "description_1": "The Basset Hound possesses in marked degree those characteristics which equip it admirably to follow a trail over and through difficult terrain. It is a short-legged dog, heavier in bone, size considered, than any other breed of dog, and while its movement is deliberate, it is in no sense clumsy. In temperament it is mild, never sharp or timid. It is capable of great endurance in the field and is extreme in its devotion.",
+                    "title_2": "Head",
+                    "description_2": "The head is large and well proportioned. Its length from occiput to muzzle is greater than the width at the brow. In overall appearance the head is of medium width. The skull is well domed, showing a pronounced occipital protuberance. A broad flat skull is a fault. The length from nose to stop is approximately the length from stop to occiput. The sides are flat and free from cheek bumps. Viewed in profile the top lines of the muzzle and skull are straight and lie in parallel planes, with a moderately defined stop. The skin over the whole of the head is loose, falling in distinct wrinkles over the brow when the head is lowered. A dry head and tight skin are faults.",
+                    "title_3": "Body",
+                    "description_3": "The rib structure is long, smooth, and extends well back. The ribs are well sprung, allowing adequate room for heart and lungs. Flatsidedness and flanged ribs are faults. The topline is straight, level, and free from any tendency to sag or roach, which are faults.",
+                    "title_4": "Forequarters",
+                    "description_4": "The chest is deep and full with prominent sternum showing clearly in front of the legs. The shoulders and elbows are set close against the sides of the chest. The distance from the deepest point of the chest to the ground, while it must be adequate to allow free movement when working in the field, is not to be more than one-third the total height at the withers of an adult Basset. The shoulders are well laid back and powerful. Steepness in shoulder, fiddle fronts, and elbows that are out, are serious faults. The forelegs are short, powerful, heavy in bone, with wrinkled skin. Knuckling over of the front legs is a disqualification. The paw is massive, very heavy with tough heavy pads, well rounded and with both feet inclined equally a trifle outward, balancing the width of the shoulders. Feet down at the pastern are a serious fault. The toes are neither pinched together nor splayed, with the weight of the forepart of the body borne evenly on each. The dewclaws may be removed.",
+                    "title_5": "Tail",
+                    "description_5": "The tail is not to be docked, and is set in continuation of the spine with but slight curvature, and carried gaily in hound fashion. The hair on the underside of the tail is coarse",
+                    "title_6": "Coat",
+                    "description_6": "The coat is hard, smooth, and short, with sufficient density to be of use in all weather. The skin is loose and elastic. A distinctly long coat is a disqualification.",
+                    "title_7": "Hindquarters",
+                    "description_7": "The hindquarters are very full and well rounded, and are approximately equal to the shoulders in width. They must not appear slack or light in relation to the overall depth of the body. The dog stands firmly on its hind legs showing a well-let-down stifle with no tendency toward a crouching stance. Viewed from behind, the hind legs are parallel, with the hocks turning neither in nor out. Cowhocks or bowed legs are serious faults. The hind feet point straight ahead. Steep, poorly angulated hindquarters are a serious fault. The dewclaws, if any, may be removed.",
+                    "title_8": "Ears",
+                    "description_8": "The ears are extremely long, low set, and when drawn forward, fold well over the end of the nose. They are velvety in texture, hanging in loose folds with the ends curling slightly inward. They are set far back on the head at the base of the skull and, in repose, appear to be set on the neck. A high set or flat ear is a serious fault.",
+                    "height_min": "15",
+                    "height_max": "15",
+                    "weight_min": "40",
+                    "weight_max": "65",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BassetHound.pdf",
+                    "height_min_f": "15",
+                    "height_max_f": "15",
+                    "height_min_m": "15",
+                    "height_max_m": "15",
+                    "height_display": "up to 15 inches",
+                    "weight_min_f": "40",
+                    "weight_max_f": "65",
+                    "weight_min_m": "40",
+                    "weight_max_m": "65",
+                    "weight_display": "40-65 pounds"
+                }
+            },
+            "markings": {
+                "basset-hound": {
+                    "markings": [
+                        {
+                            "marking_index": 216,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 217,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 218,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 219,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "basset-hound": {
+                    "colors": [
+                        {
+                            "color_index": 731,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 732,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "022",
+                            "color_long": "Black Brown & White",
+                            "color_short": "BLK BR & WH"
+                        },
+                        {
+                            "color_index": 733,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "030",
+                            "color_long": "Black Tan & White",
+                            "color_short": "BLK TN & WH"
+                        },
+                        {
+                            "color_index": 734,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "031",
+                            "color_long": "Black White & Brown",
+                            "color_short": "BLK WH & BR"
+                        },
+                        {
+                            "color_index": 735,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "034",
+                            "color_long": "Black White & Tan",
+                            "color_short": "BLK WH & TN"
+                        },
+                        {
+                            "color_index": 736,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "064",
+                            "color_long": "Brown Black & White",
+                            "color_short": "BR BLK & WH"
+                        },
+                        {
+                            "color_index": 737,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "115",
+                            "color_long": "Lemon & White",
+                            "color_short": "LMN & WH"
+                        },
+                        {
+                            "color_index": 738,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "130",
+                            "color_long": "Mahogany & White",
+                            "color_short": "MHGY & WH"
+                        },
+                        {
+                            "color_index": 739,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 740,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "009",
+                            "color_long": "Black & Brown",
+                            "color_short": "BLK & BR"
+                        },
+                        {
+                            "color_index": 741,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "027",
+                            "color_long": "Black Red & White",
+                            "color_short": "BLK RD & WH"
+                        },
+                        {
+                            "color_index": 742,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 743,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "063",
+                            "color_long": "Brown & White",
+                            "color_short": "BR & WH"
+                        },
+                        {
+                            "color_index": 744,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "197",
+                            "color_long": "Tan & White",
+                            "color_short": "TN & WH"
+                        },
+                        {
+                            "color_index": 745,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "211",
+                            "color_long": "White & Lemon",
+                            "color_short": "WH & LMN"
+                        },
+                        {
+                            "color_index": 746,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "360",
+                            "color_long": "White Black & Brown",
+                            "color_short": "WH BLK & BR"
+                        },
+                        {
+                            "color_index": 747,
+                            "breed_name_url": "basset-hound",
+                            "breed_name": "Basset Hound",
+                            "akc_code": "403",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "361",
+                            "color_long": "White Black & Red",
+                            "color_short": "WH BLK & RD"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "breed_club_name": "Basset Hound Club of America, Inc.",
+                    "breed_club_url": "http://basset-bhca.org/",
+                    "breed_club_pdf_url": "http://cdn.akc.org/BassetHound-club-flier.pdf",
+                    "breed_rescue_url": "http://www.basset-bhca.org/index.php?option=com_content&view=article&id=89&Itemid=194",
+                    "national_breed_club": "Basset Hound Club of America, Inc.",
+                    "national_breed_club_url": "http://basset-bhca.org/",
+                    "breed_referral_contact_name": "Susan Nelson Smyth",
+                    "breed_referral_contact_phone_number": "(609) 387-3027",
+                    "breed_referral_contact_email": "OldYork2002@aol.com",
+                    "breed_referral_contact_address": "1101 OLD YORK RD\nBURLINGTON, NJ 08016-3831",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://basset-bhca.com/index.php?option=com_content&view=section&id=13&Itemid=62",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://basset-bhca.com/index.php?option=com_content&view=article&id=57&Itemid=97",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.basset-bhca.org/index.php?option=com_content&view=article&id=89&Itemid=194",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1438,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 24,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 376,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 378,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 375,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 377,
+                            "breed_id": "24",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "basset-hound": {
+                    "breed_name_url": "basset-hound",
+                    "breed_name": "Basset Hound",
+                    "akc_org_history": "<p>Basset Hounds were originally bred in France and Belgium ('basset' is French for 'low'). It is thought that the friars of the Abbey of St. Hubert were responsible for crossing strains of older French breeds to create a low-built scenting hound that could plod over rough terrain while followed on foot by a human hunting partner tracking rabbit and deer. Their accuracy and persistence on scent made Bassets a popular choice for French aristocrats, for whom hunting was a way of life.</p>",
+                    "mp_history_job": "<p>Basset Hounds were originally bred in France by monks who combined a variety of hounds to come up with a low-slung hunting breed that could track rabbits and deer. Their incredible sense of smell and persistence in following their noses made Bassets a popular choice with French aristocrats who enjoyed hunting on their vast estates. Bassets were brought to America by the Marquis de Lafayette, who gave a pack of the hounds to his good friend George Washington.</p>",
+                    "did_you_know": "In trailing ability, the accuracy of the Basset's nose makes him second only to the Bloodhound. | In 1935, the Basset Hound Club of America was organized in the United States. | The February 27, 1928 issue of Time magazine carried the picture of a Basset puppy on the cover. The accompanying cover story was a write-up of the 52nd annual dog show of the Westminster Kennel Club at Madison Square Garden as if it were attended and observed by the puppy. | \"Basset\" as applied to a breed of dog derives from the French adjective bas, meaning \"low thing\" or \"dwarf\". | In the US, it was thought that George Washington owned Bassets presented to him as a gift by Lafayette after the American Revolution."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23436%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-standing-in-the-garden.jpg",
+                    "alt": "Basset Hound standing in the garden.",
+                    "caption": "",
+                    "credit": "Marcelino Pozo Ruiz/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-following-a-trail-in-the-grass.jpg",
+                    "alt": "Basset Hound following a trail in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9sue - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Hound-Group-David-0E9A6256.jpg",
+                    "alt": "Best of Breed: GCHG CH By U Cal's Monkey On The Bayou, Basset Hound; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-walking-outdoors-in-the-grass.jpg",
+                    "alt": "Basset Hound walking in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Grigorita Ko - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-On-White-03.jpg",
+                    "alt": "Basset Hound laying down in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-Illo-2.jpg",
+                "alt": "Basset Hound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-puppy-sitting-on-a-white-background.jpg",
+                "alt": "Basset Hound puppy sitting on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/basset-hound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Basset Hound",
+        "shopCta": false
+    }
+}

@@ -1,0 +1,1296 @@
+{
+    "settings": {
+        "current_breed": "parson-russell-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "parent_club_health_statement_link": "http://images.akc.org/pdf/Parson_Russell_Terrier_health_statement.pdf",
+                    "mp_health": "Parson Russell Terriers are generally a healthy breed. Like all breeds there may be some health issues, like eye disease, patellar luxation and deafness. Some dogs may be faced with these health challenges in their lives, but the majority of Parson Russell Terriers are healthy dogs.",
+                    "akc_org_health": "By far the majority of Parsons are very healthy dogs, and responsible breeders screen their stock for health conditions such as patellar luxation (loose kneecaps), congenital deafness, late onset ataxia, spinocerebellar ataxia, and certain eye disorders. Puppy buyers should always as for certification of screenings performed on a litter's sire and dam.",
+                    "akc_org_nutrition": "The Parson Russell Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.",
+                    "akc_org_grooming": "The Parson Russell Terrier has two coat types: smooth and broken (rough). Both require regular brushing'\u00bfthe smooth with a thick brush or hound glove, and the rough with a pin or slicker brush. Rough coats will require plucking or clipping to avoid matting of the longer hairs. A monthly bath should be sufficient, unless the Parson follows his nature and ends up digging in the mud. The Parson's nails should be trimmed monthly and his ears checked weekly for debris or excess wax, and cleaned as needed.",
+                    "akc_org_exercise": "Parson Russell Terriers are playful, affectionate, fun-loving companions. They have a great zest for life and are always ready to join in activities. They are also high-energy terriers with powerful hunting instincts'\u00bfwith their strong prey drive, keeping them on leash during outings is recommended, rather than letting them run loose, where the urge to go off on a chase may be irresistible. An ideal day for a pet Parson would include a long walk in the woods, where he could explore every hole and sniff every tree trunk. Exercise can also consist of play sessions in the backyard. A Parson is the dog for someone who is fairly active. He will not be satisfied to lie alone in the corner for long periods of time.",
+                    "akc_org_training": "Training the Parson Russell Terrier requires consistency, a gentle voice, and a great sense of humor. Smart, energetic, happy-go-lucky little dogs, they get bored easily, so training sessions must be kept fun and interesting. Positive training methods focused on giving praise and rewards for desired behavior yield the best results. The Parson Russell is a great choice for canine sports that require agility, speed, and intelligence. If properly socialized, he is wonderful with children, but he will not tolerate abuse.",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "BAER Testing",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Ophthalmologist Evaluation | BAER Testing"
+                }
+            },
+            "basics": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "breed_name_oracle": "Parson Russell Terrier",
+                    "matches_oracle": "Parson Russell Terrier",
+                    "akc_code": "230",
+                    "breed_name_plural": "Parson Russell Terriers",
+                    "breed_nicknames": "PRT",
+                    "origin": "England",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1997",
+                    "life_expectancy": "13-15 years",
+                    "related_breeds": "Russell Terrier, Jagdterrier, Danish-Swedish Farmdog, Wire Fox Terrier, Smooth Fox Terrier",
+                    "links": [],
+                    "popularity_2025": 121,
+                    "popularity_2024": 112,
+                    "popularity_2023": 117,
+                    "popularity_2022": 121,
+                    "popularity_2021": 117,
+                    "popularity_2020": 115,
+                    "popularity_2019": 120,
+                    "popularity_2018": 117,
+                    "popularity_2017": 119,
+                    "popularity_2016": 109,
+                    "popularity_2015": 111,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "russell-terrier",
+                        "jagdterrier",
+                        "danish-swedish-farmdog",
+                        "wire-fox-terrier",
+                        "smooth-fox-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "russell-terrier": {
+                            "breed_name_url": "russell-terrier",
+                            "breed_name": "Russell Terrier",
+                            "breed_name_oracle": "Russell Terrier",
+                            "matches_oracle": "Russell Terrier",
+                            "akc_code": "248",
+                            "breed_name_plural": "Russell Terriers",
+                            "breed_nicknames": "Russell",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "2012",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Parson Russell Terrier, Smooth Fox Terrier, Jagdterrier, Rat Terrier, Wire Fox Terrier",
+                            "links": [],
+                            "popularity_2025": 60,
+                            "popularity_2024": 66,
+                            "popularity_2023": 66,
+                            "popularity_2022": 73,
+                            "popularity_2021": 72,
+                            "popularity_2020": 72,
+                            "popularity_2019": 76,
+                            "popularity_2018": 82,
+                            "popularity_2017": 78,
+                            "popularity_2016": 90,
+                            "popularity_2015": 104,
+                            "related_groups_characteristics": "Smallest Dog Breeds, ",
+                            "temperament": "alert / inquisitive / lively"
+                        },
+                        "jagdterrier": {
+                            "breed_name_url": "jagdterrier",
+                            "breed_name": "Jagdterrier",
+                            "breed_name_oracle": "Jagdterrier",
+                            "matches_oracle": "Jagdterrier",
+                            "akc_code": "249",
+                            "breed_name_plural": "Jagdterriers",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Border Terrier, Smooth Fox Terrier, Dachshund, Australian Terrier, Wire Fox Terrier",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "intelligent / courageous / hardworking"
+                        },
+                        "danish-swedish-farmdog": {
+                            "breed_name_url": "danish-swedish-farmdog",
+                            "breed_name": "Danish-Swedish Farmdog",
+                            "breed_name_oracle": "Danish-Swedish Farmdog",
+                            "matches_oracle": "Danish-Swedish Farmdog",
+                            "akc_code": "662",
+                            "breed_name_plural": "Danish-Swedish Farmdogs",
+                            "breed_nicknames": "",
+                            "origin": "Denmark/Sweden",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2025",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Beagle, Teddy Roosevelt Terrier, Rat Terrier, Parson Russell Terrier, Jagdterrier",
+                            "links": [],
+                            "popularity_2025": 170,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "energetic / trainable / attentive"
+                        },
+                        "wire-fox-terrier": {
+                            "breed_name_url": "wire-fox-terrier",
+                            "breed_name": "Wire Fox Terrier",
+                            "breed_name_oracle": "Wire Fox Terrier",
+                            "matches_oracle": "Wire Fox Terrier",
+                            "akc_code": "226",
+                            "breed_name_plural": "Wire Fox Terriers",
+                            "breed_nicknames": "Wire",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Smooth Fox Terrier, Toy Fox Terrier, Rat Terrier, Parson Russell Terrier, Russell Terrier",
+                            "links": [],
+                            "popularity_2025": 107,
+                            "popularity_2024": 113,
+                            "popularity_2023": 104,
+                            "popularity_2022": 102,
+                            "popularity_2021": 99,
+                            "popularity_2020": 104,
+                            "popularity_2019": 101,
+                            "popularity_2018": 101,
+                            "popularity_2017": 99,
+                            "popularity_2016": 101,
+                            "popularity_2015": 94,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / confident / gregarious"
+                        },
+                        "smooth-fox-terrier": {
+                            "breed_name_url": "smooth-fox-terrier",
+                            "breed_name": "Smooth Fox Terrier",
+                            "breed_name_oracle": "Smooth Fox Terrier",
+                            "matches_oracle": "Smooth Fox Terrier",
+                            "akc_code": "225",
+                            "breed_name_plural": "Smooth Fox Terriers",
+                            "breed_nicknames": "Smooth",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Wire Fox Terrier, Parson Russell Terrier, Russell Terrier, Teddy Roosevelt Terrier, Toy Fox Terrier",
+                            "links": [],
+                            "popularity_2025": 144,
+                            "popularity_2024": 139,
+                            "popularity_2023": 133,
+                            "popularity_2022": 141,
+                            "popularity_2021": 131,
+                            "popularity_2020": 124,
+                            "popularity_2019": 124,
+                            "popularity_2018": 123,
+                            "popularity_2017": 122,
+                            "popularity_2016": 124,
+                            "popularity_2015": 122,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "independent / friendly / amusing"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "temperament": "friendly / clever / athletic",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "akc_org_blurb": "The Parson Russell Terrier is a bold and clever terrier, swift enough to run with horses and fearless enough to dig in and flush a fox from his lair. Independent problem solvers, PRTs can have their own ideas on how to go about things.",
+                    "akc_org_about": "PRTs stand 12'\u00bf15 inches at the shoulder, and weigh 13'\u00bf17 pounds when in peak condition. Their intelligent expression, mostly white coat, and beautifully balanced body give PRTs the adorable looks of a plush toy come to life. But don't be fooled by all that cuteness'\u00bfPRTs are tough little guys built for England's traditional sport of foxhunting. They're fast enough to follow the hounds and fearless enough to dig into the ground and flush a fox from his lair.",
+                    "mp_description": "If your ideal day includes long jaunts in the woods, lots of exercise and an adventure or two, you may be able to keep up with the Parson Russell Terrier. He's a true terrier--tenacious, brave and clever. He's also a fun-loving, affectionate and playful, although young children may be too rough for him. Parson Russell Terrier puppies need patient and consistent training. Plenty of attention and physical and mental exercise will harness all that terrier energy and make him a happy family companion."
+                }
+            },
+            "standards": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "To function as a working terrier, he must possess certain characteristics: a ready attitude, alert and confident; balance in height and length; medium in size and bone, suggesting strength and endurance. Important to breed type is a natural appearance: harsh, weatherproof coat with a compact construction and clean silhouette. The coat is broken or smooth. He has a small, flexible chest to enable him to pursue his quarry underground and sufficient length of leg to follow the hounds.",
+                    "title_2": "Head",
+                    "description_2": "Head is strong and in good proportion to the rest of the body, so the appearance of balance is maintained. Expression - Keen, direct, full of life and intelligence. Eyes -Almond shaped, dark in color, moderate in size, not protruding. Dark rims are desirable, however where the coat surrounding the eye is white, the eye rim may be pink. Ears -Small \"V\"- shaped drop ears of moderate thickness carried forward close to the head with the tip so as to cover the orifice and pointing toward the eye. Fold is level with the top of the skull or slightly above. When alert, ear tips do not extend below the corner of the eye.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "Neck - Clean and muscular, moderately arched, of fair length, gradually widening so as to blend well into the shoulders. Topline - Strong, straight, and level in motion, the loin of moderate length. Body - In overall length to height proportion, the dog appears approximately square and balanced. The back is neither short nor long. The back gives no appearance of slackness but is laterally flexible, so that he may turn around in an earth. Tuck-up is moderate. Chest: Narrow and of moderate depth, giving an athletic rather than heavily-chested appearance; must be flexible and compressible. The ribs are fairly well sprung, oval rather than round, not extending past the level of the elbow.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - Long and sloping, well laid back, cleanly cut at the withers. Point of shoulder sits in a plane behind the point of the prosternum. The shoulder blade and upper arm are of approximately the same length; forelegs are placed well under the dog. Elbows hang perpendicular to the body, working free of the sides. Legs are strong and straight with good bone. Joints turn neither in nor out. Pasterns firm and nearly straight. Feet - Round, cat-like, very compact, the pads thick and tough, the toes moderately arched pointing forward, turned neither in nor out. Fault - Hare feet.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Strong and muscular, smoothly molded, with good angulation and bend of stifle. Hocks near the ground, parallel, and driving in action. Feet as in front.",
+                    "title_6": "Coat",
+                    "description_6": "Smooth and Broken: Whether smooth or broken, a double coat of good sheen, naturally harsh, close and dense, straight with no suggestion of kink. There is a clear outline with only a hint of eyebrows and beard if natural to the coat. No sculptured furnishings. The terrier is shown in his natural appearance not excessively groomed. Sculpturing is to be severely penalized. Faults - Soft, silky, woolly, or curly topcoat. Lacking undercoat. Excessive grooming and sculpturing.",
+                    "title_7": "Tail",
+                    "description_7": "Docked so the tip is approximately level to the skull. Set on not too high, but so that a level topline, with a very slight arch over the loin, is maintained. Carried gaily when in motion, but when baiting or at rest may be held level but not below the horizontal. Faults - Chest not spannable or shallow; barrel ribs. Tail set low or carried low to or over the back, i.e. squirrel tail.",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "13",
+                    "height_max": "14",
+                    "weight_min": "13",
+                    "weight_max": "17",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/ParsonRussellTerrier.pdf",
+                    "height_min_f": "13",
+                    "height_max_f": "14",
+                    "height_min_m": "13",
+                    "height_max_m": "14",
+                    "height_display": "14 inches (male), 13 inches (female)",
+                    "weight_min_f": "13",
+                    "weight_max_f": "17",
+                    "weight_min_m": "13",
+                    "weight_max_m": "17",
+                    "weight_display": "13-17 pounds"
+                }
+            },
+            "markings": {
+                "parson-russell-terrier": {
+                    "markings": [
+                        {
+                            "marking_index": 104,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 105,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "cde_markings": "022",
+                            "markings_long": "Brown Markings",
+                            "markings_short": "BR MKGS"
+                        },
+                        {
+                            "marking_index": 106,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "cde_markings": "044",
+                            "markings_long": "Cream Markings",
+                            "markings_short": "CR MKGS"
+                        },
+                        {
+                            "marking_index": 107,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "cde_markings": "024",
+                            "markings_long": "Tri Color Markings",
+                            "markings_short": "TRI MKGS"
+                        },
+                        {
+                            "marking_index": 108,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "parson-russell-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 399,
+                            "breed_name_url": "parson-russell-terrier",
+                            "breed_name": "Parson Russell Terrier",
+                            "akc_code": "230",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "breed_club_name": "Parson Russell Terrier Association of America",
+                    "breed_club_url": "www.prtaa.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/ParsonRussellTerrier-club-flier.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Parson Russell Terrier Association of America",
+                    "national_breed_club_url": "www.prtaa.org",
+                    "breed_referral_contact_name": "Michelle Tilley-Freshour",
+                    "breed_referral_contact_phone_number": "(678) 986-9134",
+                    "breed_referral_contact_email": "michellefreshour3@gmail.com",
+                    "breed_referral_contact_address": "187 MOUNT ZION RD NE\nRESACA, GA 30735-6481",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.papillonclub.org/index.php?option=com_content&view=article&id=1055:2012-breeders-list&catid=35:news&Itemid=53",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1593,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 179,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 996,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 998,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 995,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 997,
+                            "breed_id": "181",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "parson-russell-terrier": {
+                    "breed_name_url": "parson-russell-terrier",
+                    "breed_name": "Parson Russell Terrier",
+                    "akc_org_history": "The PRT was developed in the south of England in the 1800s to pursue fox both above and below the ground. The breed was named for Reverend John 'The Sporting Parson'\u009d Russell, who had two passions in life: his ministry and his hunting dogs. His terriers were bred to work together with foxhounds in pursuit of the clever fox. Russell created them to be independent problem solvers, and to this day PRTs can have their own ideas about how to go about things.",
+                    "mp_history_job": "The PRT was developed in the south of England in the 1800s to pursue fox both above and below the ground. The breed was named for Reverend John \u00bfThe Sporting Parson\u00bf Russell, who had two passions in life: his ministry and his hunting dogs. His terriers were bred to work together with foxhounds in pursuit of the clever fox. Russell created them to be independent problem solvers, and to this day PRTs can have their own ideas about how to go about things.",
+                    "did_you_know": "The Parson Russell Terrier is AKC's 145th breed. | The breed got its name from the most renowned of British huntsman, Reverend John Russell, \"The Sporting Parson,\" whose passion for fox hunting, hounds, and working terriers is legendary. | After John Russell's death, the name \"Jack Russell\" was misused to describe all mix and manner of working and hunt terriers, many of which bore little, if any, similarity to Russell's own terriers. | The Parson Russell Terrier was first bred in the south of England in the mid-1800s to hunt European red fox, both over and underground, for the sport of kings. | Arthur Heinemann, who founded the Parson Jack Russell Terrier Club in 1914, drafted the first Jack Russell breed standard in 1904. | To date, the Parson Jack Russell has been recognized under the F.C.I. umbrella by news in Germany, Norway, Finland, Sweden, Denmark, the Netherlands, Italy, South Africa, and Australia."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25221%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-standing-in-three-quarter-view-on-a-white-background.jpg",
+                    "alt": "Parson Russell Terrier standing in three-quarter view on a white background.",
+                    "caption": "",
+                    "credit": "\u00a9Eric Issel\u00e9e - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-head-portrait-outdoors.1.jpg",
+                    "alt": "Parson Russell Terrier head portrait outdoors.",
+                    "caption": "",
+                    "credit": "Lisjatina/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-laying-down-indoors.jpg",
+                    "alt": "Parson Russell Terrier laying down indoors.",
+                    "caption": "",
+                    "credit": "Dora Zett/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-standing-in-profile-in-the-grass.jpg",
+                    "alt": "Parson Russell Terrier standing in profile in the grass.",
+                    "caption": "",
+                    "credit": "Radomir Rezny/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-head-portrait-outdoors.jpg",
+                    "alt": "Parson Russell Terrier head portrait outdoors.",
+                    "caption": "",
+                    "credit": "CharlitoCZ/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-leaping-over-an-agility-jump.jpg",
+                    "alt": "Parson Russell Terrier leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "Juha Saastamoinen/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-at-the-AKC-National-Championship.jpg",
+                    "alt": "Parson Russell Terrier at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-illustration.jpg",
+                "alt": "Parson Russell Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-MP.jpg",
+                "alt": "Parson Russell Terrier"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/parson-russell-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Parson Russell Terrier",
+        "shopCta": false
+    }
+}

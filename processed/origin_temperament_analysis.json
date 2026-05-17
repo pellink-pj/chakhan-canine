@@ -1,0 +1,1808 @@
+{
+  "_meta": {
+    "description": "AKC 상위 100위 견종의 원산지-성격 연관성 분석 결과",
+    "total_breeds": 97,
+    "total_regions": 24
+  },
+  "region_analysis": {
+    "영국/아일랜드": {
+      "breed_count": 31,
+      "breeds": [
+        "French Bulldog",
+        "Golden Retriever",
+        "Beagle",
+        "Bulldog",
+        "Cavalier King Charles Spaniel",
+        "Yorkshire Terrier",
+        "Pembroke Welsh Corgi",
+        "Border Collie",
+        "English Springer Spaniel",
+        "Shetland Sheepdog",
+        "Cocker Spaniel",
+        "English Cocker Spaniel",
+        "Collie",
+        "Mastiff",
+        "West Highland White Terrier",
+        "Whippet",
+        "Scottish Terrier",
+        "Russell Terrier",
+        "Staffordshire Bull Terrier",
+        "Cardigan Welsh Corgi",
+        "Cairn Terrier",
+        "Airedale Terrier",
+        "Irish Setter",
+        "Irish Wolfhound",
+        "Soft Coated Wheaten Terrier",
+        "Bullmastiff",
+        "Bull Terrier",
+        "Old English Sheepdog",
+        "English Setter",
+        "Border Terrier",
+        "Flat-Coated Retriever"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "affectionate",
+          "count": 8
+        },
+        {
+          "keyword": "friendly",
+          "count": 7
+        },
+        {
+          "keyword": "smart",
+          "count": 6
+        },
+        {
+          "keyword": "playful",
+          "count": 5
+        },
+        {
+          "keyword": "courageous",
+          "count": 4
+        },
+        {
+          "keyword": "happy",
+          "count": 4
+        },
+        {
+          "keyword": "merry",
+          "count": 3
+        },
+        {
+          "keyword": "calm",
+          "count": 3
+        }
+      ],
+      "all_keywords": {
+        "playful": 5,
+        "smart": 6,
+        "adaptable": 2,
+        "intelligent": 1,
+        "friendly": 7,
+        "devoted": 2,
+        "curious": 1,
+        "merry": 3,
+        "courageous": 4,
+        "calm": 3,
+        "affectionate": 8,
+        "gentle": 3,
+        "graceful": 2,
+        "sprightly": 1,
+        "tomboyish": 1,
+        "alert": 3,
+        "energetic": 3,
+        "obedient": 1,
+        "bright": 1,
+        "happy": 4,
+        "responsive": 1,
+        "proud": 1,
+        "dignified": 2,
+        "good-natured": 1,
+        "loyal": 3,
+        "entertaining": 1,
+        "independent": 1,
+        "confident": 1,
+        "spirited": 1,
+        "inquisitive": 1,
+        "lively": 1,
+        "clever": 2,
+        "brave": 2,
+        "tenacious": 1,
+        "cheerful": 2,
+        "busy": 1,
+        "active": 1,
+        "sweet-natured": 1,
+        "outgoing": 1,
+        "deeply devoted": 1,
+        "charming": 1,
+        "mischievous": 1,
+        "mellow": 1,
+        "plucky": 1,
+        "optimistic": 1,
+        "good-humored": 1
+      }
+    },
+    "독일권": {
+      "breed_count": 18,
+      "breeds": [
+        "German Shepherd Dog",
+        "Dachshund",
+        "Rottweiler",
+        "German Shorthaired Pointer",
+        "Doberman Pinscher",
+        "Miniature Schnauzer",
+        "Boxer",
+        "Bernese Mountain Dog",
+        "Great Dane",
+        "Giant Schnauzer",
+        "Weimaraner",
+        "German Wirehaired Pointer",
+        "Saint Bernard",
+        "Miniature Pinscher",
+        "Greater Swiss Mountain Dog",
+        "Biewer Terrier",
+        "Standard Schnauzer",
+        "Leonberger"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "friendly",
+          "count": 6
+        },
+        {
+          "keyword": "smart",
+          "count": 4
+        },
+        {
+          "keyword": "fearless",
+          "count": 4
+        },
+        {
+          "keyword": "loyal",
+          "count": 3
+        },
+        {
+          "keyword": "alert",
+          "count": 2
+        },
+        {
+          "keyword": "obedient",
+          "count": 2
+        },
+        {
+          "keyword": "fun-loving",
+          "count": 2
+        },
+        {
+          "keyword": "dependable",
+          "count": 2
+        }
+      ],
+      "all_keywords": {
+        "courageous": 1,
+        "confident": 1,
+        "smart": 4,
+        "curious": 1,
+        "friendly": 6,
+        "spunky": 1,
+        "loyal": 3,
+        "loving": 1,
+        "confident guardian": 1,
+        "willing to please": 1,
+        "alert": 2,
+        "fearless": 4,
+        "obedient": 2,
+        "active": 1,
+        "bright": 1,
+        "fun-loving": 2,
+        "good-natured": 1,
+        "calm": 1,
+        "strong": 1,
+        "patient": 1,
+        "dependable": 2,
+        "trainable": 1,
+        "affectionate": 1,
+        "eager": 1,
+        "enthusiastic": 1,
+        "playful": 2,
+        "charming": 1,
+        "inquisitive": 1,
+        "proud": 1,
+        "faithful": 1,
+        "family-oriented": 1,
+        "intelligent": 1,
+        "devoted": 1,
+        "amusing": 1,
+        "spirited": 1,
+        "gentle": 1
+      }
+    },
+    "북미": {
+      "breed_count": 9,
+      "breeds": [
+        "Labrador Retriever",
+        "Boston Terrier",
+        "Miniature American Shepherd",
+        "Newfoundland",
+        "Chesapeake Bay Retriever",
+        "Boykin Spaniel",
+        "Nova Scotia Duck Tolling Retriever",
+        "Rat Terrier",
+        "American Staffordshire Terrier"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "friendly",
+          "count": 4
+        },
+        {
+          "keyword": "outgoing",
+          "count": 2
+        },
+        {
+          "keyword": "bright",
+          "count": 2
+        },
+        {
+          "keyword": "intelligent",
+          "count": 2
+        },
+        {
+          "keyword": "good-natured",
+          "count": 2
+        },
+        {
+          "keyword": "devoted",
+          "count": 2
+        },
+        {
+          "keyword": "affectionate",
+          "count": 2
+        },
+        {
+          "keyword": "lovable",
+          "count": 2
+        }
+      ],
+      "all_keywords": {
+        "active": 1,
+        "friendly": 4,
+        "outgoing": 2,
+        "bright": 2,
+        "amusing": 1,
+        "intelligent": 2,
+        "good-natured": 2,
+        "devoted": 2,
+        "sweet": 1,
+        "patient": 1,
+        "affectionate": 2,
+        "sensitive": 1,
+        "eager": 1,
+        "lovable": 2,
+        "inquisitive": 1,
+        "confident": 1,
+        "smart": 1
+      }
+    },
+    "프랑스/벨기에": {
+      "breed_count": 8,
+      "breeds": [
+        "Brittany",
+        "Belgian Malinois",
+        "Basset Hound",
+        "Papillon",
+        "Great Pyrenees",
+        "Brussels Griffon",
+        "Dogue de Bordeaux",
+        "Bouvier des Flandres"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "smart",
+          "count": 2
+        },
+        {
+          "keyword": "patient",
+          "count": 2
+        },
+        {
+          "keyword": "alert",
+          "count": 2
+        },
+        {
+          "keyword": "loyal",
+          "count": 2
+        },
+        {
+          "keyword": "courageous",
+          "count": 2
+        },
+        {
+          "keyword": "affectionate",
+          "count": 2
+        },
+        {
+          "keyword": "bright",
+          "count": 1
+        },
+        {
+          "keyword": "fun-loving",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "bright": 1,
+        "fun-loving": 1,
+        "upbeat": 1,
+        "confident": 1,
+        "smart": 2,
+        "hardworking": 1,
+        "charming": 1,
+        "patient": 2,
+        "low-key": 1,
+        "alert": 2,
+        "friendly": 1,
+        "happy": 1,
+        "calm": 1,
+        "curious": 1,
+        "loyal": 2,
+        "courageous": 2,
+        "affectionate": 2,
+        "strong-willed": 1
+      }
+    },
+    "동아시아": {
+      "breed_count": 7,
+      "breeds": [
+        "Shih Tzu",
+        "Shiba Inu",
+        "Akita",
+        "Chinese Crested",
+        "Chinese Shar-Pei",
+        "Pekingese",
+        "Chow Chow"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "affectionate",
+          "count": 3
+        },
+        {
+          "keyword": "alert",
+          "count": 2
+        },
+        {
+          "keyword": "dignified",
+          "count": 2
+        },
+        {
+          "keyword": "loyal",
+          "count": 2
+        },
+        {
+          "keyword": "playful",
+          "count": 1
+        },
+        {
+          "keyword": "outgoing",
+          "count": 1
+        },
+        {
+          "keyword": "active",
+          "count": 1
+        },
+        {
+          "keyword": "attentive",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "playful": 1,
+        "affectionate": 3,
+        "outgoing": 1,
+        "alert": 2,
+        "active": 1,
+        "attentive": 1,
+        "dignified": 2,
+        "courageous": 1,
+        "profoundly loyal": 1,
+        "lively": 1,
+        "independent": 1,
+        "loyal": 2,
+        "calm": 1,
+        "regal in manner": 1,
+        "bright": 1,
+        "serious-minded": 1
+      }
+    },
+    "남유럽": {
+      "breed_count": 4,
+      "breeds": [
+        "Cane Corso",
+        "Maltese",
+        "Portuguese Water Dog",
+        "Lagotto Romagnolo"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "affectionate",
+          "count": 3
+        },
+        {
+          "keyword": "intelligent",
+          "count": 1
+        },
+        {
+          "keyword": "majestic",
+          "count": 1
+        },
+        {
+          "keyword": "playful",
+          "count": 1
+        },
+        {
+          "keyword": "charming",
+          "count": 1
+        },
+        {
+          "keyword": "gentle",
+          "count": 1
+        },
+        {
+          "keyword": "adventurous",
+          "count": 1
+        },
+        {
+          "keyword": "athletic",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "intelligent": 1,
+        "affectionate": 3,
+        "majestic": 1,
+        "playful": 1,
+        "charming": 1,
+        "gentle": 1,
+        "adventurous": 1,
+        "athletic": 1,
+        "keen": 1,
+        "undemanding": 1
+      }
+    },
+    "기타(Siberia)": {
+      "breed_count": 2,
+      "breeds": [
+        "Siberian Husky",
+        "Samoyed"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "loyal",
+          "count": 1
+        },
+        {
+          "keyword": "outgoing",
+          "count": 1
+        },
+        {
+          "keyword": "mischievous",
+          "count": 1
+        },
+        {
+          "keyword": "friendly",
+          "count": 1
+        },
+        {
+          "keyword": "gentle",
+          "count": 1
+        },
+        {
+          "keyword": "adaptable",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "loyal": 1,
+        "outgoing": 1,
+        "mischievous": 1,
+        "friendly": 1,
+        "gentle": 1,
+        "adaptable": 1
+      }
+    },
+    "러시아/동유럽": {
+      "breed_count": 2,
+      "breeds": [
+        "Vizsla",
+        "Borzoi"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "affectionate",
+          "count": 2
+        },
+        {
+          "keyword": "energetic",
+          "count": 1
+        },
+        {
+          "keyword": "gentle",
+          "count": 1
+        },
+        {
+          "keyword": "loyal",
+          "count": 1
+        },
+        {
+          "keyword": "regally dignified",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "energetic": 1,
+        "affectionate": 2,
+        "gentle": 1,
+        "loyal": 1,
+        "regally dignified": 1
+      }
+    },
+    "북유럽": {
+      "breed_count": 1,
+      "breeds": [
+        "Pomeranian"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "inquisitive",
+          "count": 1
+        },
+        {
+          "keyword": "lively",
+          "count": 1
+        },
+        {
+          "keyword": "bold",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "inquisitive": 1,
+        "lively": 1,
+        "bold": 1
+      }
+    },
+    "기타(Mexican State of Chihuahua)": {
+      "breed_count": 1,
+      "breeds": [
+        "Chihuahua"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "charming",
+          "count": 1
+        },
+        {
+          "keyword": "graceful",
+          "count": 1
+        },
+        {
+          "keyword": "sassy",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "charming": 1,
+        "graceful": 1,
+        "sassy": 1
+      }
+    },
+    "기타(Cuba)": {
+      "breed_count": 1,
+      "breeds": [
+        "Havanese"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "intelligent",
+          "count": 1
+        },
+        {
+          "keyword": "outgoing",
+          "count": 1
+        },
+        {
+          "keyword": "funny",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "intelligent": 1,
+        "outgoing": 1,
+        "funny": 1
+      }
+    },
+    "기타(Zambia/Zimbabwe (formerly Rhodesia))": {
+      "breed_count": 1,
+      "breeds": [
+        "Rhodesian Ridgeback"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "dignified",
+          "count": 1
+        },
+        {
+          "keyword": "affectionate",
+          "count": 1
+        },
+        {
+          "keyword": "even-tempered",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "dignified": 1,
+        "affectionate": 1,
+        "even-tempered": 1
+      }
+    },
+    "호주": {
+      "breed_count": 1,
+      "breeds": [
+        "Australian Cattle Dog"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "loyal",
+          "count": 1
+        },
+        {
+          "keyword": "intelligent",
+          "count": 1
+        },
+        {
+          "keyword": "tenacious",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "loyal": 1,
+        "intelligent": 1,
+        "tenacious": 1
+      }
+    },
+    "기타(The Mediterranean)": {
+      "breed_count": 1,
+      "breeds": [
+        "Bichon Frise"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "curious",
+          "count": 1
+        },
+        {
+          "keyword": "playful",
+          "count": 1
+        },
+        {
+          "keyword": "peppy",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "curious": 1,
+        "playful": 1,
+        "peppy": 1
+      }
+    },
+    "기타(Dalmatia (today, Croatia))": {
+      "breed_count": 1,
+      "breeds": [
+        "Dalmatian"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "dignified",
+          "count": 1
+        },
+        {
+          "keyword": "outgoing",
+          "count": 1
+        },
+        {
+          "keyword": "smart",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "dignified": 1,
+        "outgoing": 1,
+        "smart": 1
+      }
+    },
+    "기타(Continental Europe)": {
+      "breed_count": 1,
+      "breeds": [
+        "Wirehaired Pointing Griffon"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "friendly",
+          "count": 1
+        },
+        {
+          "keyword": "devoted",
+          "count": 1
+        },
+        {
+          "keyword": "trainable",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "friendly": 1,
+        "devoted": 1,
+        "trainable": 1
+      }
+    },
+    "기타(The Mediterranean basin)": {
+      "breed_count": 1,
+      "breeds": [
+        "Italian Greyhound"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "alert",
+          "count": 1
+        },
+        {
+          "keyword": "playful",
+          "count": 1
+        },
+        {
+          "keyword": "sensitive",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "alert": 1,
+        "playful": 1,
+        "sensitive": 1
+      }
+    },
+    "기타(Western Europe)": {
+      "breed_count": 1,
+      "breeds": [
+        "Bloodhound"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "independent",
+          "count": 1
+        },
+        {
+          "keyword": "friendly",
+          "count": 1
+        },
+        {
+          "keyword": "inquisitive",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "independent": 1,
+        "friendly": 1,
+        "inquisitive": 1
+      }
+    },
+    "기타(Madagascar)": {
+      "breed_count": 1,
+      "breeds": [
+        "Coton de Tulear"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "charming",
+          "count": 1
+        },
+        {
+          "keyword": "bright",
+          "count": 1
+        },
+        {
+          "keyword": "happy-go-lucky",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "charming": 1,
+        "bright": 1,
+        "happy-go-lucky": 1
+      }
+    },
+    "기타(Alaska)": {
+      "breed_count": 1,
+      "breeds": [
+        "Alaskan Malamute"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "loyal",
+          "count": 1
+        },
+        {
+          "keyword": "playful",
+          "count": 1
+        },
+        {
+          "keyword": "affectionate",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "loyal": 1,
+        "playful": 1,
+        "affectionate": 1
+      }
+    },
+    "중앙아시아/티베트": {
+      "breed_count": 1,
+      "breeds": [
+        "Lhasa Apso"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "confident",
+          "count": 1
+        },
+        {
+          "keyword": "smart",
+          "count": 1
+        },
+        {
+          "keyword": "comical",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "confident": 1,
+        "smart": 1,
+        "comical": 1
+      }
+    },
+    "기타(The Netherlands)": {
+      "breed_count": 1,
+      "breeds": [
+        "Keeshond"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "friendly",
+          "count": 1
+        },
+        {
+          "keyword": "lively",
+          "count": 1
+        },
+        {
+          "keyword": "outgoing",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "friendly": 1,
+        "lively": 1,
+        "outgoing": 1
+      }
+    },
+    "기타(Turkey)": {
+      "breed_count": 1,
+      "breeds": [
+        "Anatolian Shepherd Dog"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "reserved",
+          "count": 1
+        },
+        {
+          "keyword": "independent",
+          "count": 1
+        },
+        {
+          "keyword": "loyal",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "reserved": 1,
+        "independent": 1,
+        "loyal": 1
+      }
+    },
+    "중동/아프리카": {
+      "breed_count": 1,
+      "breeds": [
+        "Basenji"
+      ],
+      "top_keywords": [
+        {
+          "keyword": "independent",
+          "count": 1
+        },
+        {
+          "keyword": "smart",
+          "count": 1
+        },
+        {
+          "keyword": "poised",
+          "count": 1
+        }
+      ],
+      "all_keywords": {
+        "independent": 1,
+        "smart": 1,
+        "poised": 1
+      }
+    }
+  },
+  "total_keyword_ranking": [
+    {
+      "rank": 1,
+      "keyword": "affectionate",
+      "count": 23
+    },
+    {
+      "rank": 2,
+      "keyword": "friendly",
+      "count": 22
+    },
+    {
+      "rank": 3,
+      "keyword": "smart",
+      "count": 16
+    },
+    {
+      "rank": 4,
+      "keyword": "loyal",
+      "count": 15
+    },
+    {
+      "rank": 5,
+      "keyword": "playful",
+      "count": 12
+    },
+    {
+      "rank": 6,
+      "keyword": "alert",
+      "count": 10
+    },
+    {
+      "rank": 7,
+      "keyword": "courageous",
+      "count": 8
+    },
+    {
+      "rank": 8,
+      "keyword": "outgoing",
+      "count": 8
+    },
+    {
+      "rank": 9,
+      "keyword": "intelligent",
+      "count": 7
+    },
+    {
+      "rank": 10,
+      "keyword": "gentle",
+      "count": 7
+    },
+    {
+      "rank": 11,
+      "keyword": "bright",
+      "count": 7
+    },
+    {
+      "rank": 12,
+      "keyword": "devoted",
+      "count": 6
+    },
+    {
+      "rank": 13,
+      "keyword": "calm",
+      "count": 6
+    },
+    {
+      "rank": 14,
+      "keyword": "dignified",
+      "count": 6
+    },
+    {
+      "rank": 15,
+      "keyword": "charming",
+      "count": 6
+    },
+    {
+      "rank": 16,
+      "keyword": "happy",
+      "count": 5
+    },
+    {
+      "rank": 17,
+      "keyword": "independent",
+      "count": 5
+    },
+    {
+      "rank": 18,
+      "keyword": "confident",
+      "count": 5
+    },
+    {
+      "rank": 19,
+      "keyword": "inquisitive",
+      "count": 5
+    },
+    {
+      "rank": 20,
+      "keyword": "curious",
+      "count": 4
+    },
+    {
+      "rank": 21,
+      "keyword": "energetic",
+      "count": 4
+    },
+    {
+      "rank": 22,
+      "keyword": "good-natured",
+      "count": 4
+    },
+    {
+      "rank": 23,
+      "keyword": "lively",
+      "count": 4
+    },
+    {
+      "rank": 24,
+      "keyword": "active",
+      "count": 4
+    },
+    {
+      "rank": 25,
+      "keyword": "patient",
+      "count": 4
+    },
+    {
+      "rank": 26,
+      "keyword": "fearless",
+      "count": 4
+    },
+    {
+      "rank": 27,
+      "keyword": "adaptable",
+      "count": 3
+    },
+    {
+      "rank": 28,
+      "keyword": "merry",
+      "count": 3
+    },
+    {
+      "rank": 29,
+      "keyword": "graceful",
+      "count": 3
+    },
+    {
+      "rank": 30,
+      "keyword": "obedient",
+      "count": 3
+    }
+  ],
+  "distinctive_by_region": {
+    "영국/아일랜드": [
+      {
+        "keyword": "merry",
+        "score": 32.26
+      },
+      {
+        "keyword": "clever",
+        "score": 21.51
+      },
+      {
+        "keyword": "brave",
+        "score": 21.51
+      },
+      {
+        "keyword": "cheerful",
+        "score": 21.51
+      },
+      {
+        "keyword": "happy",
+        "score": 8.52
+      }
+    ],
+    "독일권": [
+      {
+        "keyword": "fearless",
+        "score": 74.07
+      },
+      {
+        "keyword": "dependable",
+        "score": 37.04
+      },
+      {
+        "keyword": "obedient",
+        "score": 8.78
+      },
+      {
+        "keyword": "fun-loving",
+        "score": 8.78
+      },
+      {
+        "keyword": "friendly",
+        "score": 1.65
+      }
+    ],
+    "북미": [
+      {
+        "keyword": "lovable",
+        "score": 74.07
+      },
+      {
+        "keyword": "good-natured",
+        "score": 9.78
+      },
+      {
+        "keyword": "devoted",
+        "score": 4.89
+      },
+      {
+        "keyword": "bright",
+        "score": 3.91
+      },
+      {
+        "keyword": "intelligent",
+        "score": 3.91
+      }
+    ],
+    "프랑스/벨기에": [
+      {
+        "keyword": "patient",
+        "score": 11.12
+      },
+      {
+        "keyword": "courageous",
+        "score": 3.71
+      },
+      {
+        "keyword": "alert",
+        "score": 2.78
+      },
+      {
+        "keyword": "loyal",
+        "score": 1.71
+      },
+      {
+        "keyword": "smart",
+        "score": 1.59
+      }
+    ],
+    "동아시아": [
+      {
+        "keyword": "dignified",
+        "score": 6.43
+      },
+      {
+        "keyword": "alert",
+        "score": 3.21
+      },
+      {
+        "keyword": "loyal",
+        "score": 1.98
+      },
+      {
+        "keyword": "affectionate",
+        "score": 1.93
+      }
+    ],
+    "남유럽": [
+      {
+        "keyword": "affectionate",
+        "score": 3.49
+      }
+    ],
+    "러시아/동유럽": [
+      {
+        "keyword": "affectionate",
+        "score": 4.52
+      }
+    ]
+  },
+  "breed_origin_map": [
+    {
+      "breed": "French Bulldog",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 1
+    },
+    {
+      "breed": "Labrador Retriever",
+      "origin": "Canada",
+      "region": "북미",
+      "popularity_2025": 2
+    },
+    {
+      "breed": "Golden Retriever",
+      "origin": "Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 3
+    },
+    {
+      "breed": "German Shepherd Dog",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 4
+    },
+    {
+      "breed": "Dachshund",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 5
+    },
+    {
+      "breed": "Beagle",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 7
+    },
+    {
+      "breed": "Rottweiler",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 8
+    },
+    {
+      "breed": "German Shorthaired Pointer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 9
+    },
+    {
+      "breed": "Bulldog",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 10
+    },
+    {
+      "breed": "Cane Corso",
+      "origin": "Italy",
+      "region": "남유럽",
+      "popularity_2025": 11
+    },
+    {
+      "breed": "Cavalier King Charles Spaniel",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 12
+    },
+    {
+      "breed": "Yorkshire Terrier",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 13
+    },
+    {
+      "breed": "Doberman Pinscher",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 15
+    },
+    {
+      "breed": "Pembroke Welsh Corgi",
+      "origin": "Wales",
+      "region": "영국/아일랜드",
+      "popularity_2025": 16
+    },
+    {
+      "breed": "Miniature Schnauzer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 17
+    },
+    {
+      "breed": "Boxer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 18
+    },
+    {
+      "breed": "Pomeranian",
+      "origin": "Iceland",
+      "region": "북유럽",
+      "popularity_2025": 19
+    },
+    {
+      "breed": "Bernese Mountain Dog",
+      "origin": "Switzerland",
+      "region": "독일권",
+      "popularity_2025": 20
+    },
+    {
+      "breed": "Shih Tzu",
+      "origin": "China",
+      "region": "동아시아",
+      "popularity_2025": 21
+    },
+    {
+      "breed": "Great Dane",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 22
+    },
+    {
+      "breed": "Boston Terrier",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 23
+    },
+    {
+      "breed": "Chihuahua",
+      "origin": "Mexican State of Chihuahua",
+      "region": "기타(Mexican State of Chihuahua)",
+      "popularity_2025": 24
+    },
+    {
+      "breed": "Havanese",
+      "origin": "Cuba",
+      "region": "기타(Cuba)",
+      "popularity_2025": 25
+    },
+    {
+      "breed": "Border Collie",
+      "origin": "England/Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 26
+    },
+    {
+      "breed": "English Springer Spaniel",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 27
+    },
+    {
+      "breed": "Miniature American Shepherd",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 28
+    },
+    {
+      "breed": "Shetland Sheepdog",
+      "origin": "Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 29
+    },
+    {
+      "breed": "Siberian Husky",
+      "origin": "Siberia",
+      "region": "기타(Siberia)",
+      "popularity_2025": 30
+    },
+    {
+      "breed": "Brittany",
+      "origin": "France",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 31
+    },
+    {
+      "breed": "Belgian Malinois",
+      "origin": "Belgium",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 32
+    },
+    {
+      "breed": "Cocker Spaniel",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 33
+    },
+    {
+      "breed": "Basset Hound",
+      "origin": "France",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 34
+    },
+    {
+      "breed": "English Cocker Spaniel",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 35
+    },
+    {
+      "breed": "Vizsla",
+      "origin": "Hungary",
+      "region": "러시아/동유럽",
+      "popularity_2025": 36
+    },
+    {
+      "breed": "Maltese",
+      "origin": "Malta",
+      "region": "남유럽",
+      "popularity_2025": 37
+    },
+    {
+      "breed": "Collie",
+      "origin": "Scotland and Northern England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 39
+    },
+    {
+      "breed": "Mastiff",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 40
+    },
+    {
+      "breed": "Rhodesian Ridgeback",
+      "origin": "Zambia/Zimbabwe (formerly Rhodesia)",
+      "region": "기타(Zambia/Zimbabwe (formerly Rhodesia))",
+      "popularity_2025": 41
+    },
+    {
+      "breed": "Papillon",
+      "origin": "France",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 42
+    },
+    {
+      "breed": "Portuguese Water Dog",
+      "origin": "Portugal",
+      "region": "남유럽",
+      "popularity_2025": 43
+    },
+    {
+      "breed": "Shiba Inu",
+      "origin": "Japan",
+      "region": "동아시아",
+      "popularity_2025": 44
+    },
+    {
+      "breed": "West Highland White Terrier",
+      "origin": "Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 45
+    },
+    {
+      "breed": "Newfoundland",
+      "origin": "Canada",
+      "region": "북미",
+      "popularity_2025": 46
+    },
+    {
+      "breed": "Australian Cattle Dog",
+      "origin": "Australia",
+      "region": "호주",
+      "popularity_2025": 47
+    },
+    {
+      "breed": "Whippet",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 48
+    },
+    {
+      "breed": "Bichon Frise",
+      "origin": "The Mediterranean",
+      "region": "기타(The Mediterranean)",
+      "popularity_2025": 49
+    },
+    {
+      "breed": "Dalmatian",
+      "origin": "Dalmatia (today, Croatia)",
+      "region": "기타(Dalmatia (today, Croatia))",
+      "popularity_2025": 50
+    },
+    {
+      "breed": "Wirehaired Pointing Griffon",
+      "origin": "Continental Europe",
+      "region": "기타(Continental Europe)",
+      "popularity_2025": 51
+    },
+    {
+      "breed": "Giant Schnauzer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 52
+    },
+    {
+      "breed": "Italian Greyhound",
+      "origin": "The Mediterranean basin",
+      "region": "기타(The Mediterranean basin)",
+      "popularity_2025": 53
+    },
+    {
+      "breed": "Weimaraner",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 54
+    },
+    {
+      "breed": "Samoyed",
+      "origin": "Siberia",
+      "region": "기타(Siberia)",
+      "popularity_2025": 55
+    },
+    {
+      "breed": "Chesapeake Bay Retriever",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 56
+    },
+    {
+      "breed": "Scottish Terrier",
+      "origin": "Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 57
+    },
+    {
+      "breed": "German Wirehaired Pointer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 58
+    },
+    {
+      "breed": "Bloodhound",
+      "origin": "Western Europe",
+      "region": "기타(Western Europe)",
+      "popularity_2025": 59
+    },
+    {
+      "breed": "Russell Terrier",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 60
+    },
+    {
+      "breed": "Staffordshire Bull Terrier",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 61
+    },
+    {
+      "breed": "Akita",
+      "origin": "Japan",
+      "region": "동아시아",
+      "popularity_2025": 62
+    },
+    {
+      "breed": "Saint Bernard",
+      "origin": "Switzerland",
+      "region": "독일권",
+      "popularity_2025": 63
+    },
+    {
+      "breed": "Boykin Spaniel",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 64
+    },
+    {
+      "breed": "Cardigan Welsh Corgi",
+      "origin": "Wales",
+      "region": "영국/아일랜드",
+      "popularity_2025": 65
+    },
+    {
+      "breed": "Great Pyrenees",
+      "origin": "France",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 66
+    },
+    {
+      "breed": "Miniature Pinscher",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 67
+    },
+    {
+      "breed": "Cairn Terrier",
+      "origin": "Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 68
+    },
+    {
+      "breed": "Nova Scotia Duck Tolling Retriever",
+      "origin": "Canada",
+      "region": "북미",
+      "popularity_2025": 69
+    },
+    {
+      "breed": "Airedale Terrier",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 70
+    },
+    {
+      "breed": "Greater Swiss Mountain Dog",
+      "origin": "Switzerland",
+      "region": "독일권",
+      "popularity_2025": 71
+    },
+    {
+      "breed": "Chinese Crested",
+      "origin": "Africa/China",
+      "region": "동아시아",
+      "popularity_2025": 72
+    },
+    {
+      "breed": "Irish Setter",
+      "origin": "Ireland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 73
+    },
+    {
+      "breed": "Biewer Terrier",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 74
+    },
+    {
+      "breed": "Irish Wolfhound",
+      "origin": "Ireland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 75
+    },
+    {
+      "breed": "Soft Coated Wheaten Terrier",
+      "origin": "Ireland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 76
+    },
+    {
+      "breed": "Lagotto Romagnolo",
+      "origin": "Italy",
+      "region": "남유럽",
+      "popularity_2025": 77
+    },
+    {
+      "breed": "Bullmastiff",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 78
+    },
+    {
+      "breed": "Coton de Tulear",
+      "origin": "Madagascar",
+      "region": "기타(Madagascar)",
+      "popularity_2025": 79
+    },
+    {
+      "breed": "Chinese Shar-Pei",
+      "origin": "China",
+      "region": "동아시아",
+      "popularity_2025": 80
+    },
+    {
+      "breed": "Alaskan Malamute",
+      "origin": "Alaska",
+      "region": "기타(Alaska)",
+      "popularity_2025": 81
+    },
+    {
+      "breed": "Brussels Griffon",
+      "origin": "Belgium",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 82
+    },
+    {
+      "breed": "Lhasa Apso",
+      "origin": "Tibet",
+      "region": "중앙아시아/티베트",
+      "popularity_2025": 83
+    },
+    {
+      "breed": "Rat Terrier",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 84
+    },
+    {
+      "breed": "Keeshond",
+      "origin": "The Netherlands",
+      "region": "기타(The Netherlands)",
+      "popularity_2025": 85
+    },
+    {
+      "breed": "Bull Terrier",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 86
+    },
+    {
+      "breed": "Old English Sheepdog",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 87
+    },
+    {
+      "breed": "Anatolian Shepherd Dog",
+      "origin": "Turkey",
+      "region": "기타(Turkey)",
+      "popularity_2025": 88
+    },
+    {
+      "breed": "English Setter",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 89
+    },
+    {
+      "breed": "Pekingese",
+      "origin": "China",
+      "region": "동아시아",
+      "popularity_2025": 90
+    },
+    {
+      "breed": "Border Terrier",
+      "origin": "England/Scotland",
+      "region": "영국/아일랜드",
+      "popularity_2025": 91
+    },
+    {
+      "breed": "Basenji",
+      "origin": "Central Africa",
+      "region": "중동/아프리카",
+      "popularity_2025": 92
+    },
+    {
+      "breed": "Standard Schnauzer",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 93
+    },
+    {
+      "breed": "Chow Chow",
+      "origin": "China",
+      "region": "동아시아",
+      "popularity_2025": 94
+    },
+    {
+      "breed": "Dogue de Bordeaux",
+      "origin": "France",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 95
+    },
+    {
+      "breed": "Leonberger",
+      "origin": "Germany",
+      "region": "독일권",
+      "popularity_2025": 96
+    },
+    {
+      "breed": "American Staffordshire Terrier",
+      "origin": "United States",
+      "region": "북미",
+      "popularity_2025": 97
+    },
+    {
+      "breed": "Flat-Coated Retriever",
+      "origin": "England",
+      "region": "영국/아일랜드",
+      "popularity_2025": 98
+    },
+    {
+      "breed": "Borzoi",
+      "origin": "Russia",
+      "region": "러시아/동유럽",
+      "popularity_2025": 99
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "origin": "Flanders (France, Belgium, Netherlands)",
+      "region": "프랑스/벨기에",
+      "popularity_2025": 100
+    }
+  ]
+}

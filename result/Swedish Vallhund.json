@@ -1,0 +1,1348 @@
+{
+    "settings": {
+        "current_breed": "swedish-vallhund",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Swedish-Vallhund.pdf",
+                    "mp_health": "<p>Swedish Vallhunds are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Swedish Vallhunds are healthy dogs.</p>",
+                    "akc_org_health": "<p>Responsible breeders screen their stock for health conditions such as hip dysplasia. A genetic test for an eye issue called Swedish Vallhund retinopathy was developed in 2017; breeders can now identify carriers and breed them accordingly to ensure they do not produce affected offspring.</p>",
+                    "akc_org_nutrition": "<p>The Swedish Vallhund should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Most Vallhunds are \"easy keepers\" and need less food than one would think, even if they're very active. They tend to become overweight easily, even if they get a lot of exercise. Owners should not free-feed Vallhunds (or any dog)'\u00bfit's not normal for dogs to graze, and it makes it difficult to know quickly if the dog isn't eating well. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Swedish Vallhunds need a good, down-to-the-skin brushing occasionally and a &nbsp;bath when they get dirty. They shed their undercoat twice a year, which will make you wonder just how many dogs you have, going by the snowdrifts of hair. Vallhunds are very easy dogs to manage when it comes to grooming. When they are shedding, a warm bath and good massage when shampooing, followed by drying with a dryer and a thorough brushing, can get rid of the worst of it.</p>",
+                    "akc_org_exercise": "<p>There is quite a bit of individual variability in terms of exercise needs in the breed. Some Swedish Vallhunds have more energy than others. Keep in mind that while this isn't a breed intended to run all day, the Vallhund is a working farm dog and needs regular exercise. One decent walk daily with some time playing fetch or performing a sport or other activity is likely adequate for most Vallhunds, but some need more. They also need mental exercise in addition to their physical exercise. Puzzle games, clicker training, and participating in a sport can all contribute to their mental and physical well-being.</p>",
+                    "akc_org_training": "<p>Most Vallhunds should want to work with you; that's one of the hallmarks of the breed. They do best with positive, reward-based training, since most just need to understand what you want. Keep in mind that this is a cattle-herding breed. They're strong willed (as they need to be to do their job), and your goal should be to get the dog to work happily with you. Most do extremely well with clicker training, and most are very biddable.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "SV Retinopathy - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | SV Retinopathy - DNA Test"
+                }
+            },
+            "basics": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "breed_name_oracle": "Swedish Vallhund",
+                    "matches_oracle": "Swedish Vallhund",
+                    "akc_code": "844",
+                    "breed_name_plural": "Swedish Vallhunds",
+                    "breed_nicknames": "SV, Vallhund, Viking Dog",
+                    "origin": "Sweden",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "2007",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Cardigan Welsh Corgi, Icelandic Sheepdog, Swedish Lapphund, Pembroke Welsh Corgi, Norwegian Lundehund",
+                    "links": [],
+                    "popularity_2025": 152,
+                    "popularity_2024": 153,
+                    "popularity_2023": 138,
+                    "popularity_2022": 160,
+                    "popularity_2021": 160,
+                    "popularity_2020": 147,
+                    "popularity_2019": 161,
+                    "popularity_2018": 169,
+                    "popularity_2017": 149,
+                    "popularity_2016": 163,
+                    "popularity_2015": 155,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "cardigan-welsh-corgi",
+                        "icelandic-sheepdog",
+                        "swedish-lapphund",
+                        "pembroke-welsh-corgi",
+                        "norwegian-lundehund"
+                    ],
+                    "related_breeds_items": {
+                        "cardigan-welsh-corgi": {
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "breed_name_oracle": "Cardigan Welsh Corgi",
+                            "matches_oracle": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "breed_name_plural": "Cardigan Welsh Corgis",
+                            "breed_nicknames": "Cardigan, Cardi",
+                            "origin": "Wales",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1935",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Pembroke Welsh Corgi, Lancashire Heeler, Teddy Roosevelt Terrier, Drever, Dachshund",
+                            "links": [],
+                            "popularity_2025": 65,
+                            "popularity_2024": 60,
+                            "popularity_2023": 63,
+                            "popularity_2022": 62,
+                            "popularity_2021": 67,
+                            "popularity_2020": 66,
+                            "popularity_2019": 67,
+                            "popularity_2018": 68,
+                            "popularity_2017": 68,
+                            "popularity_2016": 69,
+                            "popularity_2015": 76,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "loyal / affectionate / smart"
+                        },
+                        "icelandic-sheepdog": {
+                            "breed_name_url": "icelandic-sheepdog",
+                            "breed_name": "Icelandic Sheepdog",
+                            "breed_name_oracle": "Icelandic Sheepdog",
+                            "matches_oracle": "Icelandic Sheepdog",
+                            "akc_code": "842",
+                            "breed_name_plural": "Icelandic Sheedogs",
+                            "breed_nicknames": "Icelandic, aka Iceland Dog (U.K.)",
+                            "origin": "Iceland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2010",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Finnish Lapphund, Norwegian Buhund, Eurasier, Keeshond, Swedish Lapphund",
+                            "links": [],
+                            "popularity_2025": 138,
+                            "popularity_2024": 143,
+                            "popularity_2023": 146,
+                            "popularity_2022": 132,
+                            "popularity_2021": 138,
+                            "popularity_2020": 154,
+                            "popularity_2019": 134,
+                            "popularity_2018": 155,
+                            "popularity_2017": 144,
+                            "popularity_2016": 153,
+                            "popularity_2015": 140,
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds",
+                            "temperament": "friendly / playful / inquisitive"
+                        },
+                        "swedish-lapphund": {
+                            "breed_name_url": "swedish-lapphund",
+                            "breed_name": "Swedish Lapphund",
+                            "breed_name_oracle": "Swedish Lapphund",
+                            "matches_oracle": "Swedish Lapphund",
+                            "akc_code": "857",
+                            "breed_name_plural": "Swedish Lapphunds",
+                            "breed_nicknames": "",
+                            "origin": "Sweden",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Samoyed, Finnish Lapphund, Yakutian Laika, Lapponian Herder, Swedish Vallhund",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / playful / lively"
+                        },
+                        "pembroke-welsh-corgi": {
+                            "breed_name_url": "pembroke-welsh-corgi",
+                            "breed_name": "Pembroke Welsh Corgi",
+                            "breed_name_oracle": "Pembroke Welsh Corgi",
+                            "matches_oracle": "Pembroke Welsh Corgi",
+                            "akc_code": "829",
+                            "breed_name_plural": "Pembroke Welsh Corgi",
+                            "breed_nicknames": "Pembroke, Pem, or Pembi (U.K.)",
+                            "origin": "Wales",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1934",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Cardigan Welsh Corgi, Drever, Teddy Roosevelt Terrier, Swedish Vallhund, Dachshund",
+                            "links": [],
+                            "popularity_2025": 16,
+                            "popularity_2024": 15,
+                            "popularity_2023": 11,
+                            "popularity_2022": 11,
+                            "popularity_2021": 11,
+                            "popularity_2020": 11,
+                            "popularity_2019": 10,
+                            "popularity_2018": 13,
+                            "popularity_2017": 15,
+                            "popularity_2016": 18,
+                            "popularity_2015": 20,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / affectionate / smart"
+                        },
+                        "norwegian-lundehund": {
+                            "breed_name_url": "norwegian-lundehund",
+                            "breed_name": "Norwegian Lundehund",
+                            "breed_name_oracle": "Norwegian Lundehund",
+                            "matches_oracle": "Norwegian Lundehund",
+                            "akc_code": "330",
+                            "breed_name_plural": "Norwegian Lundehunds",
+                            "breed_nicknames": "Lundhund, Lundie",
+                            "origin": "Norway",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Swedish Vallhund, Finnish Lapphund, Norwegian Buhund, Norrbottenspets, Icelandic Sheepdog",
+                            "links": [],
+                            "popularity_2025": 202,
+                            "popularity_2024": 198,
+                            "popularity_2023": 198,
+                            "popularity_2022": 198,
+                            "popularity_2021": 197,
+                            "popularity_2020": 195,
+                            "popularity_2019": 194,
+                            "popularity_2018": 191,
+                            "popularity_2017": 190,
+                            "popularity_2016": 188,
+                            "popularity_2015": 182,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / loyal / energetic"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "temperament": "friendly / energetic / watchful",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "akc_org_blurb": "<p>The long and low Swedish Vallhund, Viking Dog of ancient legend, is a smart and sociable herder of dense coat and boundless energy. These rugged cattle dogs are known for their zest for life, unique vocalizations, and cheerful demeanor.</p>",
+                    "akc_org_about": "<p>With their thick sable coat, sturdy construction, and overall no-frills look, Vallhunds are a timeless breed, as comfortable in a suburban backyard as they were on the prow of Viking longships 1,200 years ago. These lively herders are built long and low the ground in not quite as exaggerated a fashion as their distant cousins the corgis, but the idea is the same: Their build makes it easier to nip at the heels of cattle and avoid kicks to the head. Balance, power, and smooth movement are breed hallmarks.</p>",
+                    "mp_description": "<p>If you are lucky enough to own this scarce breed, you'll enjoy an extremely sociable, intelligent and even-tempered companion. The Swedish Vallhund has been around since the Viking days and is prized for his herding instinct, handsome sturdy appearance and people-oriented eagerness to please. Your Swedish Vallhund puppy is easy to train and thrives on plenty of exercise, both physical and mental. This is also a talkative dog, so be prepared for lots of 'conversation.' An active owner who likes to involve his pet in most everything he does couldn't ask for a more fun-loving, alert and joyful companion.</p>"
+                }
+            },
+            "standards": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "title_1": "General Appearance",
+                    "description_1": "The Swedish Vallhund is a small, powerful, fearless, sturdily built Spitz herding dog. The correct relationship of height to length of body is 2:3. The SV has a wedge-shaped head, prick ears, and a close-fitting hard coat of medium length and sable coloring. The double coat and the characteristic \"harness markings\" are essential features of this breed. Tail may be natural (long, stub, or bob) or docked. The appearance of the Swedish Vallhund conveys intelligence, alertness and energy. Balance, outline, temperament and movement are of overriding importance.",
+                    "title_2": "Head",
+                    "description_2": "Rather long and clean. Viewed from above, the head forms an even wedge from skull to tip of nose and is well filled-in under the eyes. Eyes - Medium size, oval in shape and dark brown with black eye rims. Ears - Medium size, pointed, prick. Set at the outer edge of the skull above a line drawn from the corner of the eye. Ear leather should be firm from base to tip, smooth-haired and mobile. The dog should make good use of them.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Long, strongly muscled with good reach. Topline - Level when standing or moving. Body - Chest - Good depth. The ribcage is long with fairly well sprung ribs. Viewed from the front, the chest should be oval; from the side, elliptical. In a mature dog it should reach down two-fifths of the length of the forelegs and, when viewed from the side, the lowest point of the chest is immediately behind the back part of the foreleg.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - Strongly-muscled. Shoulder blades - Long and well laid back. Upper arms - Slightly shorter than the shoulder blades, set at an approximate 90 degree angle, close fitting to ribs, but still very mobile. A line perpendicular to the ground can be drawn from the tip of the shoulder blade through the elbow to the ground. Elbows - Move parallel to the body, turning neither in nor out. Forearms - When viewed from the front, slightly curved to give free action against the lower part of the chest; the pasterns and feet are parallel. Viewed from the side the forearms are straight. The height from ground to elbow is almost half the height from ground to withers. Legs - Well boned. Patterns - Slightly sloping, elastic.",
+                    "title_5": "Coat",
+                    "description_5": "Medium length hair, harsh; topcoat close and tight. Undercoat is soft and dense. Hair is short on the head and the foreparts of the legs and slightly longer on neck, chest and back parts of the hind legs. Dogs are to be shown in an untrimmed, natural state. Faults include woolly, curly, or open coats. Fluffy coats (longer hair on body and furnishings, with ear fringes) are a serious fault.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Angulation - To balance the front. Well angulated at stifle and hock. Legs - Well boned. Upper and lower thighs are strongly muscled. Lower thigh is slightly longer than the distance from hock to ground. Stifles - Well bent. Hocks (Metatarsal bones) - Perpendicular to the ground and viewed from the rear, parallel. Feet, toes and pads - Same as forefeet.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "11.5",
+                    "height_max": "13.75",
+                    "weight_min": "20",
+                    "weight_max": "35",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/SwedishVallhund.pdf",
+                    "height_min_f": "11.5",
+                    "height_max_f": "13.75",
+                    "height_min_m": "11.5",
+                    "height_max_m": "13.75",
+                    "height_display": "12.5-13.75 inches (male), 11.5-12.75 inches (female)",
+                    "weight_min_f": "20",
+                    "weight_max_f": "35",
+                    "weight_min_m": "20",
+                    "weight_max_m": "35",
+                    "weight_display": "20-35 pounds"
+                }
+            },
+            "markings": {
+                "swedish-vallhund": {
+                    "markings": [
+                        {
+                            "marking_index": 597,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 598,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "swedish-vallhund": {
+                    "colors": [
+                        {
+                            "color_index": 1904,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1905,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "232",
+                            "color_long": "Yellow",
+                            "color_short": "YLW"
+                        },
+                        {
+                            "color_index": 1906,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1907,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1908,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1909,
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "breed_club_name": "Swedish Vallhund Club of America",
+                    "breed_club_url": "http://www.swedishvallhund.com/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/08/09132441/Swedish-Vallhund-Club-Flyer.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Swedish Vallhund Club of America",
+                    "national_breed_club_url": "http://www.swedishvallhund.com/",
+                    "breed_referral_contact_name": "Charlene Sayles",
+                    "breed_referral_contact_phone_number": "(541) 606-8078",
+                    "breed_referral_contact_email": "akutchi@aol.com",
+                    "breed_referral_contact_address": "35 BANGLE CT\nCOTTAGE GROVE, OR 97424-1701",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1654,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 240,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Founded in 1987, the Swedish Vallhund Club of America is the official AKC Parent Club representing the Swedish Vallhund."
+                        },
+                        {
+                            "id": 1240,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1242,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1239,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1241,
+                            "breed_id": "245",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "swedish-vallhund": {
+                    "breed_name_url": "swedish-vallhund",
+                    "breed_name": "Swedish Vallhund",
+                    "akc_org_history": "Between the 8th and 11th centuries, seaborn Vikings from Scandinavia raided, conquered, and settled vast areas of Britain. Traces of Viking influence can still be seen in the Scandinavian place names around the British Isles. Another reminder of Britain's Viking past is the Vallhund, thought to be a cross of Scandinavian spitz dogs with Welsh corgis. Exactly when and where the breed was developed is unknown, but we do know that for centuries Vallhunds were rugged cattle dogs and all-purpose farmhands in western Sweden.",
+                    "mp_history_job": "Between the 8th and 11th centuries, seaborn Vikings from Scandinavia raided, conquered, and settled vast areas of Britain. Traces of Viking influence can still be seen in the Scandinavian place names around the British Isles. Another reminder of Britain\u00bfs Viking past is the Vallhund, thought to be a cross of Scandinavian spitz dogs with Welsh corgis. Exactly when and where the breed was developed is unknown, but we do know that for centuries Vallhunds were rugged cattle dogs and all-purpose farmhands in western Sweden.",
+                    "did_you_know": "The Swedish Vallhund is AKC's 156th breed. | The Swedish Vallhund is also known as Vastgotaspets and Swedish Cattledog. | The Swedish Vallhund is considered an ancient breed. Sweden says the Swedish Vallhund goes back well over 1,000 years and that it is an original species meaning it did not (come from another breed of dog). | The Swedish Vallhund comes naturally with no tail (bobtail), stub tail or full curl tail. | The Swedish Vallhund is pictured on a number of countries' stamps: Sweden, Nicaragua, Ukraine, Mali, Russia, Tajikastan, Altay...but not yet in the USA postage stamps. | The first Swedish Vallhund litter in the United States was bred by Marilyn Thell of Jonricker Kennel in 1986."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25851%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-running-in-the-grass.jpg",
+                    "alt": "Swedish Vallhund running in the grass.",
+                    "caption": "",
+                    "credit": "Marcel van den Bos/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2017-Herding-0S9A2096.jpg",
+                    "alt": "Best of Breed, Best of Winners, Best Bred By in Breed/Variety, Winners Dog, and BBE- -D-1: Kingscrest Star Of The New Year (Grayson), Swedish Vallhund; 2017 AKC National Championship presented by Royal Canin, Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-standing-in-a-grassy-field.jpg",
+                    "alt": "Swedish Vallhund standing in a grassy field.",
+                    "caption": "",
+                    "credit": "M G White/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-head-in-profile-outdoors.jpg",
+                    "alt": "Swedish Vallhund head in profile outdoors.",
+                    "caption": "",
+                    "credit": "Liv Oom / EyeEm via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-leaping-over-an-agility-jump.jpg",
+                    "alt": "Swedish Vallhund leaping over an agility jump in an outdoor course.",
+                    "caption": "",
+                    "credit": "Marcel van den Bos/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-standing-in-profile.jpg",
+                    "alt": "Swedish Vallhund standing in profile facing left.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-standing-in-a-field.jpg",
+                    "alt": "Swedish Vallhund standing in a field.",
+                    "caption": "",
+                    "credit": "Liv Oom / EyeEm via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-head-portrait-outdoors.jpg",
+                    "alt": "Swedish Vallhund head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Vera Reva - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-running-in-lure-coursing.jpg",
+                    "alt": "Swedish Vallhund running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9feeferlump - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-laying-outdoors-with-a-ball.jpg",
+                    "alt": "Swedish Vallhund laying down with a tennis ball outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Christian - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-Illo.jpg",
+                "alt": "Swedish Vallhund illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-Illo.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-MP.jpg",
+                "alt": "Swedish Vallhund puppies indoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/swedish-vallhund",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Swedish Vallhund",
+        "shopCta": false
+    }
+}
