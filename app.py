@@ -26,6 +26,19 @@ from recommender import (
     SIZE_OPTIONS,
     COAT_LENGTH_OPTIONS,
 )
+from journey import (
+    QUESTIONS,
+    STAGES,
+    SHOCK_CARDS,
+    questions_by_stage,
+    collect_insights,
+    get_recommendation_modifiers,
+    get_opening_message,
+)
+from breed_messages import (
+    get_trait_messages,
+    get_founder_message_if_relevant,
+)
 
 
 st.set_page_config(
@@ -33,6 +46,48 @@ st.set_page_config(
     page_icon="🐕",
     layout="wide",
 )
+
+
+# ─── 폰트 + 테마 (따뜻한 톤) ───────────────────────────────
+st.markdown("""
+<style>
+@import url('https://cdn.jsdelivr.net/gh/webfontworld/nanum/NanumSquareRound.css');
+
+/* 전체 앱에 나눔스퀘어 라운드 적용 */
+html, body, [class*="css"], [class*="st-"], button, input, textarea, select {
+    font-family: 'NanumSquareRound', 'Apple SD Gothic Neo', sans-serif !important;
+}
+
+/* 타이틀·헤더는 굵게 */
+h1, h2, h3, h4 {
+    font-family: 'NanumSquareRound', 'Apple SD Gothic Neo', sans-serif !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.02em;
+}
+
+/* 따뜻한 색감 — 멍메이트 팔레트 */
+:root {
+    --coral: #E8574A;
+    --orange: #F08040;
+    --yellow: #F5C842;
+    --soft-bg: #FFF8F2;
+}
+
+/* primary 버튼: 코랄→오렌지 그라데이션 */
+.stButton button[kind="primary"] {
+    background: linear-gradient(135deg, #E8574A, #F08040) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 700 !important;
+    box-shadow: 0 4px 12px rgba(232,87,74,0.25);
+}
+.stButton button[kind="primary"]:hover {
+    box-shadow: 0 6px 18px rgba(232,87,74,0.35);
+    transform: translateY(-1px);
+    transition: all 0.15s ease;
+}
+</style>
+""", unsafe_allow_html=True)
 
 
 @st.cache_data
@@ -99,6 +154,14 @@ def render_breed_card(breed: dict, show_match: bool = True):
         elif kr_rank:
             st.caption(f"🇰🇷 한국 인기 {kr_rank}위")
 
+        # 시야 확장 추천 뱃지
+        if breed.get("_horizon_pick"):
+            st.markdown(
+                "🌍 **시야를 넓혀볼 견종**  \n"
+                "<small style='color:gray'>한국에선 흔치 않지만 당신과 잘 맞을 수 있어요</small>",
+                unsafe_allow_html=True,
+            )
+
         # 비용 (현재 / 시니어)
         render_cost_box(breed)
 
@@ -110,8 +173,64 @@ def render_breed_card(breed: dict, show_match: bool = True):
         train = scores.get("training_difficulty", {})
         col2.markdown(f"**🎓 훈련**  \n난이도 {train.get('level_kr','—')}")
 
+        # ─── 멍메이트 톤 메시지 (훈련 희망) ────────────────
+        trait_msgs = get_trait_messages(breed)
+        if trait_msgs:
+            st.markdown("")
+            for m in trait_msgs[:3]:   # 카드에선 최대 3개만 (상세에서 전부)
+                bg_color = {
+                    "good":    "#F0F9F0",   # 연한 초록
+                    "hope":    "#FFF8E8",   # 연한 노랑
+                    "caution": "#FFF0EC",   # 연한 코랄
+                }.get(m["tone"], "#F8F8F8")
+                border_color = {
+                    "good":    "#86C86A",
+                    "hope":    "#F0A040",
+                    "caution": "#E8574A",
+                }.get(m["tone"], "#CCC")
+                st.markdown(
+                    f"""<div style='
+                        background: {bg_color};
+                        border-left: 3px solid {border_color};
+                        border-radius: 6px;
+                        padding: 8px 12px;
+                        margin: 4px 0;
+                        font-size: 13.5px;
+                        line-height: 1.5;
+                    '>
+                        <b>{m['icon']} {m['title']}</b>
+                    </div>""",
+                    unsafe_allow_html=True,
+                )
+
+        # 창업자 셸티 사례 (관련 견종에만)
+        founder_msg = get_founder_message_if_relevant(breed)
+        if founder_msg:
+            st.markdown(
+                f"""<div style='
+                    background: linear-gradient(135deg, #FFF8F2, #FFF);
+                    border: 1px dashed #E8574A88;
+                    border-radius: 8px;
+                    padding: 10px 14px;
+                    margin: 8px 0;
+                    font-size: 13px;
+                    color: #5A4030;
+                    line-height: 1.6;
+                '>
+                    {founder_msg}
+                </div>""",
+                unsafe_allow_html=True,
+            )
+
         # 상세 펼침
         with st.expander("📖 자세히 알아보기"):
+            # 상세에선 모든 trait 메시지 + 텍스트도 보여줌
+            if trait_msgs:
+                st.markdown("**🎯 이 견종과 함께 살려면**")
+                for m in trait_msgs:
+                    st.markdown(f"- {m['icon']} **{m['title']}**")
+                    st.caption(m["text"])
+                st.markdown("---")
             chunks = breed.get("rag_chunks", [])
             for ch in chunks:
                 st.markdown(f"**{ch['topic_kr']}**")
@@ -144,6 +263,10 @@ if "show_appearance" not in st.session_state:
     st.session_state.show_appearance = False
 if "picked_breed_id" not in st.session_state:
     st.session_state.picked_breed_id = None
+if "journey_answers" not in st.session_state:
+    st.session_state.journey_answers = {}   # Q_id → 답변값
+if "shock_index" not in st.session_state:
+    st.session_state.shock_index = 0        # 충격 카드 페이지 인덱스
 
 
 def reset():
@@ -152,6 +275,63 @@ def reset():
     st.session_state.appearance = None
     st.session_state.show_appearance = False
     st.session_state.picked_breed_id = None
+    st.session_state.journey_answers = {}
+    st.session_state.shock_index = 0
+
+
+def render_journey_stage(stage_key: str, stage_emoji: str, stage_name: str, next_step: str, prev_step: str, stage_index: int, total_stages: int):
+    """3단계 여정 페이지 1개 렌더링. 다음/이전 페이지 자동 처리."""
+    questions = questions_by_stage(stage_key)
+
+    # 진행률 표시
+    progress_value = stage_index / total_stages
+    st.progress(progress_value, text=f"입양 준비 여정 — {stage_emoji} {stage_name} ({stage_index}/{total_stages})")
+    st.caption(
+        "추천 전에 함께 생각해볼 것들이에요. "
+        "솔직하게 답해주시면 더 잘 맞는 견종을 찾아드릴 수 있어요."
+    )
+    st.markdown("")
+
+    with st.form(f"journey_{stage_key}"):
+        for q in questions:
+            st.subheader(q["question"])
+            if q.get("helper"):
+                st.caption(q["helper"])
+
+            current = st.session_state.journey_answers.get(q["id"])
+            option_labels = [opt["label"] for opt in q["options"]]
+            default_index = 0
+            if current:
+                for i, opt in enumerate(q["options"]):
+                    if opt["value"] == current:
+                        default_index = i
+                        break
+
+            selected_label = st.radio(
+                q["id"],
+                options=option_labels,
+                index=default_index,
+                label_visibility="collapsed",
+                key=f"radio_{q['id']}",
+            )
+            # 임시 저장 (제출 전이라도 기억)
+            for opt in q["options"]:
+                if opt["label"] == selected_label:
+                    st.session_state.journey_answers[q["id"]] = opt["value"]
+                    break
+
+            st.divider()
+
+        col_prev, col_next = st.columns([1, 2])
+        prev = col_prev.form_submit_button("← 이전", use_container_width=True)
+        nxt = col_next.form_submit_button("다음 →", use_container_width=True, type="primary")
+
+        if prev:
+            st.session_state.step = prev_step
+            st.rerun()
+        if nxt:
+            st.session_state.step = next_step
+            st.rerun()
 
 
 # ════════════════════════════════════════════════════════════════
@@ -190,10 +370,12 @@ if st.session_state.step == "intro":
         with st.container(border=True):
             st.markdown("### 🤔 아직 잘 모르겠어요")
             st.caption(
-                "3가지 질문에 답하시면 라이프스타일에 잘 맞는 강아지를 추천해드릴게요."
+                "함께 천천히 알아봐요. 입양 전에 알아두면 좋을 것들과 "
+                "라이프스타일에 잘 맞는 강아지를 함께 보여드릴게요."
             )
-            if st.button("추천 받기", use_container_width=True, type="primary", key="btn_recommend"):
-                st.session_state.step = "questions"
+            if st.button("함께 알아보기", use_container_width=True, type="primary", key="btn_recommend"):
+                st.session_state.step = "journey_shock"
+                st.session_state.shock_index = 0
                 st.rerun()
 
 
@@ -259,14 +441,111 @@ elif st.session_state.step == "breed_picked":
 
 
 # ════════════════════════════════════════════════════════════════
+# Stage 0 — 인지 충격 카드 (한국 통계 기반)
+# ════════════════════════════════════════════════════════════════
+
+elif st.session_state.step == "journey_shock":
+    idx = st.session_state.shock_index
+    total = len(SHOCK_CARDS)
+    card = SHOCK_CARDS[idx]
+
+    # 진행 표시
+    st.progress((idx + 1) / (total + 4), text=f"잠시 함께 알아봐요 ({idx+1}/{total})")
+
+    # 카드 본체
+    st.markdown(f"""
+    <div style='
+        background: linear-gradient(135deg, #FFF8F2, #fff);
+        border: 2px solid #E8574A22;
+        border-radius: 24px;
+        padding: 48px 36px;
+        margin: 16px 0;
+        text-align: center;
+        min-height: 420px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    '>
+        <div style='font-size: 64px; line-height: 1; margin-bottom: 12px;'>{card["icon"]}</div>
+        <div style='font-size: 18px; color: #666; font-weight: 600;'>{card["headline"]}</div>
+        <div style='font-size: 64px; font-weight: 900; color: #E8574A; letter-spacing: -0.03em; margin: 8px 0;'>
+            {card["big_stat"]}
+        </div>
+        <div style='font-size: 18px; color: #444; font-weight: 700; margin-bottom: 28px;'>{card["stat_label"]}</div>
+        <div style='font-size: 15px; color: #555; line-height: 1.8; max-width: 540px; margin: 0 auto; text-align: left; font-weight: 500;'>
+            {card["subtext"].replace(chr(10), "<br>").replace("**", "<b>", 1).replace("**", "</b>", 1).replace("**", "<b>", 1).replace("**", "</b>", 1).replace("**", "<b>", 1).replace("**", "</b>", 1)}
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # 네비게이션
+    col_back, col_skip, col_next = st.columns([1, 1, 2])
+    if col_back.button("← 이전", disabled=(idx == 0), use_container_width=True):
+        st.session_state.shock_index -= 1
+        st.rerun()
+    if col_skip.button("건너뛰기", use_container_width=True):
+        st.session_state.step = "journey_myth"
+        st.rerun()
+    if col_next.button(card["next_label"], use_container_width=True, type="primary"):
+        if idx + 1 < total:
+            st.session_state.shock_index += 1
+            st.rerun()
+        else:
+            # 마지막 카드 → 자가진단으로
+            st.session_state.step = "journey_myth"
+            st.rerun()
+
+
+# ════════════════════════════════════════════════════════════════
+# 3단계 여정 — Stage 1 (오해 깨기)
+# ════════════════════════════════════════════════════════════════
+
+elif st.session_state.step == "journey_myth":
+    render_journey_stage(
+        stage_key="myth", stage_emoji="🟨", stage_name="흔한 오해 깨기",
+        prev_step="intro", next_step="journey_horizon",
+        stage_index=1, total_stages=4,
+    )
+
+# ════════════════════════════════════════════════════════════════
+# 3단계 여정 — Stage 2 (시야 확장)
+# ════════════════════════════════════════════════════════════════
+
+elif st.session_state.step == "journey_horizon":
+    render_journey_stage(
+        stage_key="horizon", stage_emoji="🟩", stage_name="시야 확장",
+        prev_step="journey_myth", next_step="journey_reality",
+        stage_index=2, total_stages=4,
+    )
+
+# ════════════════════════════════════════════════════════════════
+# 3단계 여정 — Stage 3 (현실 인식)
+# ════════════════════════════════════════════════════════════════
+
+elif st.session_state.step == "journey_reality":
+    render_journey_stage(
+        stage_key="reality", stage_emoji="🟥", stage_name="현실 인식",
+        prev_step="journey_horizon", next_step="questions",
+        stage_index=3, total_stages=4,
+    )
+
+
+# ════════════════════════════════════════════════════════════════
 # STEP 2-B / 3: 라이프스타일 질문 화면
 # ════════════════════════════════════════════════════════════════
 
 elif st.session_state.step == "questions":
 
+    # 여정에서 들어왔으면 progress bar 표시
+    if st.session_state.journey_answers:
+        st.progress(4 / 4, text="입양 준비 여정 — 🟦 라이프스타일 매칭 (4/4)")
+        st.caption("마지막이에요. 당신의 일상에 맞을 견종을 매칭해드릴게요.")
+        st.markdown("")
+
     col_back, _ = st.columns([1, 5])
-    if col_back.button("← 처음으로"):
-        reset()
+    back_target = "journey_reality" if st.session_state.journey_answers else "intro"
+    if col_back.button("← 이전"):
+        st.session_state.step = back_target
         st.rerun()
 
     # 선택한 견종이 있으면 상단에 안내
@@ -357,6 +636,25 @@ elif st.session_state.step == "results":
             reset()
             st.rerun()
 
+    # ── 여정 답변이 있으면: 인사이트 메시지 카드 표시 ──
+    if st.session_state.journey_answers:
+        insights = collect_insights(st.session_state.journey_answers)
+        opening = get_opening_message(st.session_state.journey_answers)
+
+        st.markdown("")
+        with st.container(border=True):
+            st.markdown(f"### 💌 당신의 마음을 들었어요")
+            st.write(opening)
+
+            if insights:
+                st.markdown("---")
+                st.markdown("#### 알아두시면 좋아요")
+                for ins in insights:
+                    with st.container(border=True):
+                        st.markdown(f"**{ins['tone']}**  \n_<small style='color:gray'>{ins['stage_kr']}</small>_", unsafe_allow_html=True)
+                        st.markdown(ins["text"])
+        st.markdown("")
+
     # ── 마음에 둔 견종이 있으면: 그 견종 매칭도 결과 먼저 보여줌 ──
     if st.session_state.picked_breed_id:
         picked = next(
@@ -426,11 +724,16 @@ elif st.session_state.step == "results":
                 st.rerun()
 
     # 추천 견종 그리드
+    # 여정 답변 기반 알고리즘 가중치
+    journey_modifiers = get_recommendation_modifiers(st.session_state.journey_answers) \
+        if st.session_state.journey_answers else {}
+
     results = recommend(
         breeds=breeds,
         answers=st.session_state.answers,
         appearance=st.session_state.appearance,
         top_n=12,
+        journey_modifiers=journey_modifiers,
     )
     # 마음에 둔 견종은 이미 위에 보여줬으니 그리드에서 제외
     if st.session_state.picked_breed_id:

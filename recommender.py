@@ -198,6 +198,7 @@ def recommend(
     appearance: dict | None = None,
     top_n: int = 12,
     only_korean_popular: bool = True,
+    journey_modifiers: dict | None = None,
 ) -> list[dict]:
     """
     답변 기반 견종 추천.
@@ -206,7 +207,17 @@ def recommend(
     appearance: {size, coat_length} (선택)
     only_korean_popular: True면 한국 인기 50위 내(popular+less_popular)에서만 추천
                         False면 unique까지 포함
+    journey_modifiers: 3단계 여정 답변 기반 가중치 조정 (journey.get_recommendation_modifiers 결과)
+                       {include_unique, korean_only, warn_about_cost, prefer_easy_training}
     """
+    journey_modifiers = journey_modifiers or {}
+
+    # ── journey 답변에 따라 only_korean_popular 자동 조정 ──
+    if journey_modifiers.get("include_unique"):
+        only_korean_popular = False  # unique 견종 풀에 포함
+    elif journey_modifiers.get("korean_only"):
+        only_korean_popular = True
+
     # 1차: 한국 인기 견종 풀로 한정 (입양 희망자 베이스라인)
     if only_korean_popular:
         pool = [b for b in breeds if b.get("kr_popularity_tier") in ("popular", "less_popular")]
@@ -222,10 +233,16 @@ def recommend(
     # 변종 그룹 중복 제거 (Poodle 3종 중 매칭 점수 가장 높은 1개만)
     # → 카드 그리드에 푸들이 3번 나오는 걸 방지
 
-    # 3차: 점수 계산
+    # 3차: 점수 계산 (journey modifier 가중치 반영)
     scored = []
     for b in pool:
         s = compute_match_score(b, answers)
+        # 훈련 한계 답한 사용자에겐 훈련 쉬운 견종에 보너스
+        if journey_modifiers.get("prefer_easy_training"):
+            train = b.get("scores", {}).get("training_difficulty", {}).get("difficulty_score", 5)
+            if train <= 2:
+                s["total"] += 8
+                s["percent"] = round(s["total"] / 100 * 100)
         scored.append({**b, "_match": s})
 
     # 4차: 변종 그룹 dedupe
@@ -246,7 +263,23 @@ def recommend(
 
     # 5차: 점수 내림차순 정렬, 상위 N개
     unique_results.sort(key=lambda b: -b["_match"]["total"])
-    return unique_results[:top_n]
+    final = unique_results[:top_n]
+
+    # 6차: 시야 확장 — Q5 "시야 넓혀보고 싶어요" 답한 경우
+    # 결과 안에 unique tier 견종이 없으면 상위 unique 견종 1~2마리를 강제 포함 (마지막 자리)
+    if journey_modifiers.get("include_unique"):
+        already_has_unique = any(b.get("kr_popularity_tier") == "unique" for b in final)
+        if not already_has_unique:
+            unique_tier_only = [
+                b for b in unique_results
+                if b.get("kr_popularity_tier") == "unique"
+            ][:2]
+            for b in unique_tier_only:
+                b["_horizon_pick"] = True   # UI에서 "시야 확장 추천" 뱃지용
+            # 결과 맨 뒤에 추가 (top_n 내에서)
+            final = final[:top_n - len(unique_tier_only)] + unique_tier_only
+
+    return final
 
 
 def load_breeds(json_path: str | Path) -> list[dict]:
