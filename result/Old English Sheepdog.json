@@ -135,7 +135,7 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "12-15 years",
-                            "related_breeds": "Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie, Portuguese Sheepdog",
+                            "related_breeds": "Portuguese Sheepdog, Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "friendly / watchful / lively"
@@ -197,8 +197,8 @@
                             "temperament": "smart / bouncy / charismatic"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -498,7 +498,7 @@
                 "old-english-sheepdog": {
                     "colors": [
                         {
-                            "color_index": 1747,
+                            "color_index": 1769,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -509,7 +509,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1748,
+                            "color_index": 1770,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -520,7 +520,7 @@
                             "color_short": "FN & WH"
                         },
                         {
-                            "color_index": 1749,
+                            "color_index": 1771,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -531,7 +531,7 @@
                             "color_short": "BR & WH"
                         },
                         {
-                            "color_index": 1750,
+                            "color_index": 1772,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -542,7 +542,7 @@
                             "color_short": "BL MRL"
                         },
                         {
-                            "color_index": 1751,
+                            "color_index": 1773,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -553,7 +553,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1752,
+                            "color_index": 1774,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -564,7 +564,7 @@
                             "color_short": "GRZL"
                         },
                         {
-                            "color_index": 1753,
+                            "color_index": 1775,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -575,7 +575,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1754,
+                            "color_index": 1776,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -586,7 +586,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1755,
+                            "color_index": 1777,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -597,7 +597,7 @@
                             "color_short": "BL GR"
                         },
                         {
-                            "color_index": 1756,
+                            "color_index": 1778,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -608,7 +608,7 @@
                             "color_short": "GRZL & WH"
                         },
                         {
-                            "color_index": 1757,
+                            "color_index": 1779,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -619,7 +619,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 1758,
+                            "color_index": 1780,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -630,7 +630,7 @@
                             "color_short": "BL GR & WH"
                         },
                         {
-                            "color_index": 1759,
+                            "color_index": 1781,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -641,7 +641,7 @@
                             "color_short": "BL MRL & WH"
                         },
                         {
-                            "color_index": 1760,
+                            "color_index": 1782,
                             "breed_name_url": "old-english-sheepdog",
                             "breed_name": "Old English Sheepdog",
                             "akc_code": "820",
@@ -753,7 +753,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781236491",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25181%5D",
@@ -802,8 +802,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1022,7 +1022,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/old-english-sheepdog",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1387,6 +1396,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Old English Sheepdog",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/old-english-sheepdog",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

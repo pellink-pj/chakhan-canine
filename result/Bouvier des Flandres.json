@@ -197,8 +197,8 @@
                             "temperament": "intelligent / lively / athletic"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -499,7 +499,7 @@
                 "bouvier-des-flandres": {
                     "markings": [
                         {
-                            "marking_index": 536,
+                            "marking_index": 553,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -509,7 +509,7 @@
                             "markings_short": "BRDL MKGS"
                         },
                         {
-                            "marking_index": 537,
+                            "marking_index": 554,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -519,7 +519,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 538,
+                            "marking_index": 555,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -535,7 +535,7 @@
                 "bouvier-des-flandres": {
                     "colors": [
                         {
-                            "color_index": 1703,
+                            "color_index": 1725,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -546,7 +546,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1704,
+                            "color_index": 1726,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -557,7 +557,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1705,
+                            "color_index": 1727,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -568,7 +568,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1706,
+                            "color_index": 1728,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -579,7 +579,7 @@
                             "color_short": "GR BRDL"
                         },
                         {
-                            "color_index": 1707,
+                            "color_index": 1729,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -590,7 +590,7 @@
                             "color_short": "PPR & SLT"
                         },
                         {
-                            "color_index": 1708,
+                            "color_index": 1730,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -601,7 +601,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1709,
+                            "color_index": 1731,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -612,7 +612,7 @@
                             "color_short": "BLK & BR"
                         },
                         {
-                            "color_index": 1710,
+                            "color_index": 1732,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -623,7 +623,7 @@
                             "color_short": "BLK & FN"
                         },
                         {
-                            "color_index": 1711,
+                            "color_index": 1733,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -634,7 +634,7 @@
                             "color_short": "BLK & GR"
                         },
                         {
-                            "color_index": 1712,
+                            "color_index": 1734,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -645,7 +645,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1713,
+                            "color_index": 1735,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -656,7 +656,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1714,
+                            "color_index": 1736,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -667,7 +667,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 1715,
+                            "color_index": 1737,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -678,7 +678,7 @@
                             "color_short": "BL & GR"
                         },
                         {
-                            "color_index": 1716,
+                            "color_index": 1738,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -689,7 +689,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1717,
+                            "color_index": 1739,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -700,7 +700,7 @@
                             "color_short": "SLVR & GR"
                         },
                         {
-                            "color_index": 1718,
+                            "color_index": 1740,
                             "breed_name_url": "bouvier-des-flandres",
                             "breed_name": "Bouvier des Flandres",
                             "akc_code": "806",
@@ -812,7 +812,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104021",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23743%5D",
@@ -861,8 +861,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

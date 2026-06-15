@@ -84,8 +84,8 @@
                             "temperament": "reserved / independent / loyal"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -376,7 +376,7 @@
                 "romanian-carpathian-shepherd": {
                     "markings": [
                         {
-                            "marking_index": 518,
+                            "marking_index": 535,
                             "breed_name_url": "romanian-carpathian-shepherd",
                             "breed_name": "Romanian Carpathian Shepherd",
                             "akc_code": "674",
@@ -392,7 +392,7 @@
                 "romanian-carpathian-shepherd": {
                     "colors": [
                         {
-                            "color_index": 1644,
+                            "color_index": 1666,
                             "breed_name_url": "romanian-carpathian-shepherd",
                             "breed_name": "Romanian Carpathian Shepherd",
                             "akc_code": "674",
@@ -403,7 +403,7 @@
                             "color_short": "SBL"
                         },
                         {
-                            "color_index": 1645,
+                            "color_index": 1667,
                             "breed_name_url": "romanian-carpathian-shepherd",
                             "breed_name": "Romanian Carpathian Shepherd",
                             "akc_code": "674",
@@ -505,7 +505,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B141646%5D",
@@ -554,8 +554,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

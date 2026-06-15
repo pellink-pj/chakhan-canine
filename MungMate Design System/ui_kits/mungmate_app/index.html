@@ -1,0 +1,71 @@
+<!-- @dsCard group="MungMate App" viewport="412x720" name="멍메이트 앱 — 입양 준비 흐름" subtitle="Intro → 준비도 진단 → 매칭 → 견종 상세" -->
+<!-- @startingPoint section="MungMate App" subtitle="Korean responsible-adoption app flow" viewport="412x844" -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>멍메이트 · MungMate App</title>
+  <link rel="stylesheet" href="../../styles.css">
+  <style>
+    html, body { margin: 0; height: 100%; }
+    body {
+      font-family: var(--font-sans);
+      background:
+        radial-gradient(1200px 600px at 50% -10%, var(--blue-tint), transparent),
+        var(--mint-200);
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh; padding: 28px; box-sizing: border-box;
+    }
+    button { font-family: var(--font-sans); }
+    *::-webkit-scrollbar { width: 0; height: 0; }
+    @keyframes mmRise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .mm-fade { animation: mmRise 0.35s var(--ease-out) both; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+  <!-- Design system bundle -->
+  <script src="../../_ds_bundle.js"></script>
+  <!-- App data + screens -->
+  <script src="data.js"></script>
+  <script type="text/babel" src="shared.jsx"></script>
+  <script type="text/babel" src="IntroScreen.jsx"></script>
+  <script type="text/babel" src="DiagnosticScreen.jsx"></script>
+  <script type="text/babel" src="ResultScreen.jsx"></script>
+  <script type="text/babel" src="BreedDetailScreen.jsx"></script>
+
+  <script type="text/babel" data-presets="react">
+    function App() {
+      // route: intro | diagnostic | result | detail
+      const [route, setRoute] = React.useState('intro');
+      const [breedId, setBreedId] = React.useState('sheltie');
+
+      let screen;
+      if (route === 'intro') {
+        screen = <IntroScreen onStart={() => setRoute('diagnostic')} />;
+      } else if (route === 'diagnostic') {
+        screen = <DiagnosticScreen onBack={() => setRoute('intro')} onDone={() => setRoute('result')} />;
+      } else if (route === 'result') {
+        screen = <ResultScreen onBack={() => setRoute('diagnostic')} onOpen={(id) => { setBreedId(id); setRoute('detail'); }} />;
+      } else {
+        screen = <BreedDetailScreen breedId={breedId} onBack={() => setRoute('result')} />;
+      }
+
+      return (
+        <PhoneFrame>
+          <div key={route} className="mm-fade" style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
+            {screen}
+          </div>
+        </PhoneFrame>
+      );
+    }
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>

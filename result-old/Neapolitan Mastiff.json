@@ -1,0 +1,1309 @@
+{
+    "settings": {
+        "current_breed": "neapolitan-mastiff",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/24160223/Neapolitan-Mastiff-March-2020.pdf",
+                    "mp_health": "<p>Neapolitan Mastiffs are generally healthy. Like all breeds there may be some health issues, like hip and elbow dysplasia, eye disease, and cardiac disease. One minor problem that often occurs is \u00bfcherry eye.\u00bf Tissue in the corner of the eye becomes red and inflamed. This looks terrible, but is cured with a minor veterinarian procedure. Despite impressive wrinkles and loose skin, they should not have skin problems. Young Mastini grow very rapidly for the first year or so, and they can develop temporary problems related to this rapid growth, such as panosteitis (growing pains). There are health problems that are common in giant dogs and the Mastino is not immune. Bloat is a mysterious problem of all deep-chested breeds.</p>",
+                    "akc_org_health": "<p>Neapolitans are generally hardy dogs. One minor problem that often occurs is \"cherry eye,\" where tissue in the corner of the eye becomes red and inflamed. In the vast majority of cases, there is no permanent damage. Despite the breed's impressive wrinkles and loose skin, most do not have skin problems. There are health problems that are common in giant dogs to which the breed is not immune. Bloat is a sudden, life-threatening condition that can affect all deep-chested dogs. Its causes are not fully understood, but owners should learn the signs that bloat is occurring and know what action to take. As with all breeds, the Mastino can also develop hip dysplasia. It is important to discuss any health concerns with the dog's breeder and veterinarian.</p>",
+                    "akc_org_nutrition": "<p>The Neapolitan Mastiff should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Experienced Neapolitan Mastiff breeders recommend food that is slightly higher in fat and lower in protein, especially when the dog is young, as they grow so fast. Do not supplement with calcium. &nbsp;Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Neapolitan Mastiff is a short-coated breed, so in general a bath now and again is about all you need. The eyes and ears should be checked and gently cleaned whenever necessary with a damp cloth or paper towel. You will find that you will need to keep a towel handy to dry the face and lips (and yourself!), especially after the dog eats or drinks. Nails should be kept short.</p>",
+                    "akc_org_exercise": "<p>Every dog should have the opportunity to run and romp often, but don't emphasize the running and quick turning, as joints can be easily damaged. This is a big, heavily built breed that overheats easily, so be careful in warm weather. The Neo puppy may want to play beyond when he should, so it is up to the owner to stop before the puppy gets too tired. Be careful about letting him go up and down stairs'\u00bfmany an exuberant puppy's knee has been injured by a leap off a porch or a jump down those last few stairs. Breed experts do not recommend lots of tug-of-war games or violent wrestling, since the growing Mastino will quickly learn he is stronger than his smaller human friend and think that he no longer needs to listen.</p>",
+                    "akc_org_training": "<p>While most adults of the breed are calm animals who sleep a lot, Neapolitan puppies are as active, curious, cute, and cuddly as the most winsome toy puppy. And many people find that the adolescent Neapolitan, when awake, is an energetic, powerful animal. It is important to train the Mastino when he is young, so that when dealing with the strong, stubborn teenage personality stage, the appropriate hierarchy is already in place. By the age of 3 or 4, most Neapolitans demonstrate desirable laidback adult-type behavior. Neapolitans do not respond well to harsh training, and need an encouraging and rewarding atmosphere. Be patient and consistent.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Exam",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Exam"
+                }
+            },
+            "basics": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "breed_name_oracle": "Neapolitan Mastiff",
+                    "matches_oracle": "Neapolitan Mastiff",
+                    "akc_code": "642",
+                    "breed_name_plural": "Neapolitan Mastiffs",
+                    "breed_nicknames": "Mastino, Neo",
+                    "origin": "Italy",
+                    "breed_group": "Working Group",
+                    "year_recognized": "2004",
+                    "life_expectancy": "7-9 years",
+                    "related_breeds": "Cane Corso, Mastiff, Rottweiler, Bullmastiff, Dogue de Bordeaux",
+                    "links": [],
+                    "popularity_2025": 119,
+                    "popularity_2024": 128,
+                    "popularity_2023": 118,
+                    "popularity_2022": 119,
+                    "popularity_2021": 106,
+                    "popularity_2020": 100,
+                    "popularity_2019": 102,
+                    "popularity_2018": 102,
+                    "popularity_2017": 107,
+                    "popularity_2016": 99,
+                    "popularity_2015": 106,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "cane-corso",
+                        "mastiff",
+                        "rottweiler",
+                        "bullmastiff",
+                        "dogue-de-bordeaux"
+                    ],
+                    "related_breeds_items": {
+                        "cane-corso": {
+                            "breed_name_url": "cane-corso",
+                            "breed_name": "Cane Corso",
+                            "breed_name_oracle": "Cane Corso",
+                            "matches_oracle": "Cane Corso",
+                            "akc_code": "643",
+                            "breed_name_plural": "Cane Corsi",
+                            "breed_nicknames": "Corso (plural: Cani Corsi)",
+                            "origin": "Italy",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2010",
+                            "life_expectancy": "9-12 years",
+                            "related_breeds": "Presa Canario, Neapolitan Mastiff, Rottweiler, Bullmastiff, Tosa",
+                            "links": [],
+                            "popularity_2025": 11,
+                            "popularity_2024": 14,
+                            "popularity_2023": 16,
+                            "popularity_2022": 18,
+                            "popularity_2021": 21,
+                            "popularity_2020": 25,
+                            "popularity_2019": 30,
+                            "popularity_2018": 32,
+                            "popularity_2017": 37,
+                            "popularity_2016": 40,
+                            "popularity_2015": 35,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "intelligent / affectionate / majestic"
+                        },
+                        "mastiff": {
+                            "breed_name_url": "mastiff",
+                            "breed_name": "Mastiff",
+                            "breed_name_oracle": "Mastiff",
+                            "matches_oracle": "Mastiff",
+                            "akc_code": "618",
+                            "breed_name_plural": "Mastiffs",
+                            "breed_nicknames": "Gentle Giant",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "6-10 years",
+                            "related_breeds": "Neapolitan Mastiff, Bullmastiff, Pyrenean Mastiff, Tibetan Mastiff, Spanish Mastiff",
+                            "links": [],
+                            "popularity_2025": 40,
+                            "popularity_2024": 40,
+                            "popularity_2023": 38,
+                            "popularity_2022": 37,
+                            "popularity_2021": 35,
+                            "popularity_2020": 33,
+                            "popularity_2019": 32,
+                            "popularity_2018": 29,
+                            "popularity_2017": 28,
+                            "popularity_2016": 28,
+                            "popularity_2015": 25,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / good-natured / courageous"
+                        },
+                        "rottweiler": {
+                            "breed_name_url": "rottweiler",
+                            "breed_name": "Rottweiler",
+                            "breed_name_oracle": "Rottweiler",
+                            "matches_oracle": "Rottweiler",
+                            "akc_code": "622",
+                            "breed_name_plural": "Rottweilers",
+                            "breed_nicknames": "Rottie",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1931",
+                            "life_expectancy": "9-10 years",
+                            "related_breeds": "Doberman Pinscher, Staffordshire Bull Terrier, Cane Corso, German Pinscher, German Shepherd Dog",
+                            "links": [],
+                            "popularity_2025": 8,
+                            "popularity_2024": 8,
+                            "popularity_2023": 9,
+                            "popularity_2022": 7,
+                            "popularity_2021": 8,
+                            "popularity_2020": 8,
+                            "popularity_2019": 8,
+                            "popularity_2018": 8,
+                            "popularity_2017": 8,
+                            "popularity_2016": 8,
+                            "popularity_2015": 9,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Best Guard Dogs",
+                            "temperament": "loyal / loving / confident guardian"
+                        },
+                        "bullmastiff": {
+                            "breed_name_url": "bullmastiff",
+                            "breed_name": "Bullmastiff",
+                            "breed_name_oracle": "Bullmastiff",
+                            "matches_oracle": "Bullmastiff",
+                            "akc_code": "609",
+                            "breed_name_plural": "Bullmastiffs",
+                            "breed_nicknames": "gamekeeper night dog",
+                            "origin": "England",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1934",
+                            "life_expectancy": "7-9 years",
+                            "related_breeds": "Mastiff, Neapolitan Mastiff, Rottweiler, Dogue de Bordeaux, Cane Corso",
+                            "links": [],
+                            "popularity_2025": 78,
+                            "popularity_2024": 67,
+                            "popularity_2023": 60,
+                            "popularity_2022": 61,
+                            "popularity_2021": 56,
+                            "popularity_2020": 55,
+                            "popularity_2019": 52,
+                            "popularity_2018": 51,
+                            "popularity_2017": 51,
+                            "popularity_2016": 48,
+                            "popularity_2015": 43,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "loyal / affectionate / brave"
+                        },
+                        "dogue-de-bordeaux": {
+                            "breed_name_url": "dogue-de-bordeaux",
+                            "breed_name": "Dogue de Bordeaux",
+                            "breed_name_oracle": "Dogue de Bordeaux",
+                            "matches_oracle": "Dogue de Bordeaux",
+                            "akc_code": "639",
+                            "breed_name_plural": "Dogues de Bordeaux",
+                            "breed_nicknames": "Dogue, DDB",
+                            "origin": "France",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2008",
+                            "life_expectancy": "5-8 years",
+                            "related_breeds": "Neapolitan Mastiff, Cane Corso, Broholmer, Rottweiler, Bullmastiff",
+                            "links": [],
+                            "popularity_2025": 95,
+                            "popularity_2024": 96,
+                            "popularity_2023": 84,
+                            "popularity_2022": 78,
+                            "popularity_2021": 70,
+                            "popularity_2020": 71,
+                            "popularity_2019": 69,
+                            "popularity_2018": 67,
+                            "popularity_2017": 67,
+                            "popularity_2016": 63,
+                            "popularity_2015": 63,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / courageous / affectionate"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "temperament": "dignified / loyal / watchful",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "akc_org_blurb": "The Neapolitan Mastiff is a huge, powerful guarder whose astounding appearance has intimidated intruders since the days of ancient Rome. Wary with strangers, the profusely wrinkled Mastino is sweet, placid, and steady among loved ones.",
+                    "akc_org_about": "Unless you've been to Jurassic Park, you've never seen anything like a Mastino. These majestic guardians of startling appearance are massive, powerful dogs. The U.S. Neapolitan Mastiff Club describes their dog's head as 'astounding'\u009d'\u00bfand give them credit for hitting upon just the right adjective. The profuse hanging wrinkles and folds, and pendulous lips, make a Mastino look like a marzipan Mastiff that's been out in the sun too long. And yet, the breed's inner dignity and nobility can only be described as beautiful.",
+                    "mp_description": "Once you see a Neapolitan Mastiff you're unlikely to forget it. They're massive dogs, with folds of skin, pendulous dewlaps and a heavily wrinkled face. Bred as a defender and guard dog, he is loyal to his family and a serious deterrent to others. Because of his size and temperament, this may not be the right breed for families with small children or for first-time pet owners. It's important to teach your Neapolitan Mastiff puppy basic obedience early while he's still a manageable 40-60 pounds. He'll grow up quickly and will do best with owners who are mindful of the specific needs of the breed."
+                }
+            },
+            "standards": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "title_1": "General Appearance",
+                    "description_1": "The Neapolitan Mastiff is a heavy-boned, massive, awe inspiring dog bred for use as a guard and defender of owner and property. He is characterized by loose skin, over his entire body, abundant, hanging wrinkles and folds on the head and a voluminous dewlap. The essence of the Neapolitan is his bestial appearance, astounding head and imposing size and attitude. Due to his massive structure, his characteristic movement is rolling and lumbering, not elegant or showy.",
+                    "title_2": "Head",
+                    "description_2": "Large in comparison to the body. Differentiated from that of other mastiff breeds by more extensive wrinkling and pendulous lips which blend into an ample dewlap. Toplines of cranium and the muzzle must be parallel. The face is made up of heavy wrinkles and folds. Required folds are those extending from the outside margin of the eyelids to the dewlap, and from under the lower lids to the outer edges of the lips. Severe Faults - Toplines of the cranium and muzzle not parallel. Disqualifications - Absence of wrinkles and folds. Expression - Wistful at rest, intimidating when alert. Penetrating stare.",
+                    "title_3": "Body",
+                    "description_3": "The length of the dog, measured from the point of the shoulder to the point of buttock is 10 to 15 percent greater than the height of the dog measured from the highest point of the shoulder to the ground. Depth of the ribcage is equal to half the total height of the dog. Ribs are long and well sprung. Chest - Broad and deep, well muscled. Underline and tuckup - The underline of the abdomen is practically horizontal. There is little or no tuckup. Back - Wide and strong. Highest part of shoulder blade barely rising above the strong, level topline of the back. Loin - Well-muscled, and harmoniously joined to the back. Croup - Wide, strong, muscular and slightly sloped. The top of the croup rises slightly and is level with the highest point of the shoulder.",
+                    "title_4": "Forelegs",
+                    "description_4": "Heavily built, muscular, and in balance with the hindquarters. Shoulders - Long, well-muscled, sloping and powerful. Upper arms - Strongly muscled, powerful. In length, almost 1/3 the height of the dog. Elbows - Covered with abundant and loose skin; held parallel to the ribcage, neither tied in nor loose. Forelegs - Thick, straight, heavy bone, well muscled, exemplifying strength. About the same length as the upper arms. Set well apart. Pasterns - Thick and flattened from front to back, moderately sloping forward from the leg. Dewclaws - Front dewclaws are not removed. Feet - Round and noticeably large with arched, strong toes. Nails strong, curved and preferably dark-colored. Slight turn out of the front feet is characteristic.",
+                    "title_5": "Coat",
+                    "description_5": "The coat is short, dense and of uniform length and smoothness all over the body. The hairs are straight and not longer than 1 inch. No fringe anywhere.",
+                    "title_6": "Hindquarters",
+                    "description_6": "As a whole, they must be powerful and strong, in harmony with the forequarters. Thighs - About the same length as the forearms, broad, muscular. Stifles - Moderate angle, strong. Legs - Heavy and thick boned, well-muscled. Slightly shorter than thigh bones. Hocks - Powerful and long. Rear pasterns (metatarsus) - Heavy thick bones. Viewed from the side, they are perpendicular to the ground. Viewed from the rear, parallel to each other. Rear dewclaws - Any dewclaws must be removed. Hind feet - Same as the front feet but slightly smaller.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "24",
+                    "height_max": "31",
+                    "weight_min": "110",
+                    "weight_max": "150",
+                    "size": "XLarge",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/NeapolitanMastiff.pdf",
+                    "height_min_f": "24",
+                    "height_max_f": "31",
+                    "height_min_m": "24",
+                    "height_max_m": "31",
+                    "height_display": "26-31 inches (male), 24-29 inches (female)",
+                    "weight_min_f": "110",
+                    "weight_max_f": "150",
+                    "weight_min_m": "110",
+                    "weight_max_m": "150",
+                    "weight_display": "150 pounds (male), 110 pounds (female)"
+                }
+            },
+            "markings": {
+                "neapolitan-mastiff": {
+                    "markings": [
+                        {
+                            "marking_index": 469,
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "standard_alternate": "S",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "neapolitan-mastiff": {
+                    "colors": [
+                        {
+                            "color_index": 1534,
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1535,
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1536,
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "128",
+                            "color_long": "Mahogany",
+                            "color_short": "MHGY"
+                        },
+                        {
+                            "color_index": 1537,
+                            "breed_name_url": "neapolitan-mastiff",
+                            "breed_name": "Neapolitan Mastiff",
+                            "akc_code": "642",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "198",
+                            "color_long": "Tawny",
+                            "color_short": "TWNY"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "breed_club_name": "United States Neapolitan Mastiff Club",
+                    "breed_club_url": "www.neapolitan.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/NeopolitanMastiff-club-flyer.pdf",
+                    "breed_rescue_url": "https://www.neapolitan.org/rescues",
+                    "national_breed_club": "United States Neapolitan Mastiff Club",
+                    "national_breed_club_url": "www.neapolitan.org",
+                    "breed_referral_contact_name": "Margaret Wolfe",
+                    "breed_referral_contact_phone_number": "",
+                    "breed_referral_contact_email": "margaret.peggy.wolfe@gmail.com",
+                    "breed_referral_contact_address": "1910 HWY 293 N\nPRINCETON, KY 42445",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "https://www.neapolitan.org/rescues",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1580,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 166,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Established in 1991, the United States Neapolitan Mastiff Club is the official AKC Parent Club for the Neapolitan Mastiff."
+                        },
+                        {
+                            "id": 944,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 946,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 943,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 945,
+                            "breed_id": "168",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "neapolitan-mastiff": {
+                    "breed_name_url": "neapolitan-mastiff",
+                    "breed_name": "Neapolitan Mastiff",
+                    "akc_org_history": "<p>If Mastinos look like strange visitors from antiquity, it's because that's exactly what they are. The breed might go back as far as 700 b.c., with artifacts from several ancient civilizations depicting Mastino-like canines. In the Roman Empire, they found employment as war dogs, gladiators, and guardians whose bestial looks and huge frame were calculated to throw the fear of Jove into their adversaries. Today, those attributes are still terrifying enough to send an ill-willed intruder running for the hills.</p>",
+                    "mp_history_job": "<p>If Mastinos look like strange visitors from antiquity, it;s because that's exactly what they are. The breed might go back as far as 700 b.c., with artifacts from several ancient civilizations depicting Mastino-like canines. In the Roman Empire, they found employment as war dogs, gladiators, and guardians whose bestial looks and huge frame were calculated to throw the fear of Jove into their adversaries. Today, those attributes are still terrifying enough to send an ill-willed intruder running for the hills.</p>",
+                    "did_you_know": "The Neapolitan Mastiff is AKC's 152nd breed. | The Neapolitan Mastiff is characterized by massiveness and loose folds of skin. | The Neapolitan Mastiff can weigh over 150 lbs. | The Neapolitan Mastiff is an ancient breed, rediscovered in Italy in the 1940s. | In Italian, the Neapolitan Mastiff is known as the \"mastino napoletano.\" | The Neapolitan Mastiff was originally bred as a guard dog of owner and property."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775365901",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25063%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2009/01/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970.jpg",
+                    "alt": "Neapolitan Mastiff standing in the grass outdoors.",
+                    "caption": "",
+                    "credit": "Okikukai/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiffs-together-outdoors.jpg",
+                    "alt": "Neapolitan Mastiffs together outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Ricant Images - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-laying-down-on-a-stoop.jpg",
+                    "alt": "Neapolitan Mastiff laying down on a stoop.",
+                    "caption": "",
+                    "credit": "Salima Senyavskaya/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-standing-in-the-snow.jpg",
+                    "alt": "Neapolitan Mastiff standing in the snow.",
+                    "caption": "",
+                    "credit": "\u00a9okikukai - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiffs-laying-down-outdoors.jpg",
+                    "alt": "Neapolitan Mastiffs laying down outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Christian M\u00fcller - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-at-the-AKC-National-Championship.jpg",
+                    "alt": "Neapolitan Mastiff at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-standing-outdoors.jpg",
+                    "alt": "Neapolitan Mastiff standing outdoors in profile.",
+                    "caption": "",
+                    "credit": "\u00a9Ricant Images - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-Illo-2.jpg",
+                "alt": "Neapolitan Mastiff illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Neapolitan-Mastiff-puppy-laying-down.jpg",
+                "alt": "Neapolitan Mastiff puppy laying down sleeping."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/neapolitan-mastiff",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Neapolitan Mastiff",
+        "shopCta": false
+    }
+}

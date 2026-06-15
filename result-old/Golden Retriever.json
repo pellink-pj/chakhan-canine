@@ -1,0 +1,1321 @@
+{
+    "settings": {
+        "current_breed": "golden-retriever",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23145918/Golden-Retriever-Health-Statement-March-2020.pdf",
+                    "mp_health": "<p>Golden Retrievers are generally a healthy breed. Like all breeds there may be some health issues, like hip and elbow dysplasia, eye disease and cardiac disease. Some dogs may be faced with these health challenges in their lives, but the majority of Golden Retrievers are healthy dogs.</p>",
+                    "akc_org_health": "<p>Goldens are generally healthy dogs, and responsible breeders will screen their breeding stock for health conditions including elbow and hip dysplasia; eye conditions such as juvenile cataracts, pigmentary uveitis, and progressive retinal atrophy; and certain heart diseases, including subvalvular aortic stenosis. The Golden's ears should be checked weekly for signs of infection, and the teeth should be brushed often.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Some Goldens can become overweight, so watch your dog's calorie consumption and weight level. If you choose to give your dog treats, do so in moderation. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>Goldens heavily shed their thick, water-repellant double coat once or twice a year, and they also shed more moderately on a continuous basis. Most of the time, a good brushing-out with a slicker brush once or twice a week will remove much of the dead hair before it has a chance to fall onto the furniture. During times of heavy shedding, these brushing sessions turn into daily affairs. Baths help to loosen the dead hairs, but the dog must be completely dry before brushing begins. Otherwise, Goldens only need occasional baths to keep them clean. As with all breeds, the Golden's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Like most Sporting breeds, Goldens need plenty of daily exercise. A Golden who doesn't get enough exercise is likely to engage in undesirable behavior. Goldens make great companions on long runs and bike rides, although consultation with a vet is recommended before starting strenuous or high-impact activities that might cause stress to the dog's bones and joints. Many Goldens happily get their exercise on hunting trips or at field trials, as well as by participating in canine sports such as agility, obedience, and tracking.</p>",
+                    "akc_org_training": "<p>As with all breeds, early socialization and puppy training classes are recommended. Gently exposing the puppy to a wide variety of people, places, and situations between the ages of seven weeks and four months will help the Golden develop into a well-adjusted, well-mannered adult. Puppy training classes serve as part of the socialization process and help the owner learn to recognize and correct any bad habits that may be developing. Obedience training strengthens the bond between dog and owner'\u00bfa Golden wants nothing more than to please his human. Golden Retrievers are outgoing, loyal, and eager to do your bidding, which makes them very easy to train.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Neuronal Ceroid Lipofuscinosis 5 (Golden Retriever) (NCL, NCL5) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Neuronal Ceroid Lipofuscinosis 5 (Golden Retriever) (NCL, NCL5) - DNA Test"
+                }
+            },
+            "basics": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "breed_name_oracle": "Golden Retriever",
+                    "matches_oracle": "Golden Retriever",
+                    "akc_code": "107",
+                    "breed_name_plural": "Golden Retrievers",
+                    "breed_nicknames": "Golden",
+                    "origin": "Scotland",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1925",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Labrador Retriever, Flat-Coated Retriever, Chesapeake Bay Retriever, Curly-Coated Retriever, Nova Scotia Duck Tolling Retriever",
+                    "links": {
+                        "mp_url": "marketplace.akc.org/puppies/",
+                        "akc_url": "https://akc.org/dog-breeds/golden-retriever"
+                    },
+                    "popularity_2025": 3,
+                    "popularity_2024": 3,
+                    "popularity_2023": 3,
+                    "popularity_2022": 3,
+                    "popularity_2021": 3,
+                    "popularity_2020": 4,
+                    "popularity_2019": 3,
+                    "popularity_2018": 3,
+                    "popularity_2017": 3,
+                    "popularity_2016": 3,
+                    "popularity_2015": 3,
+                    "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs",
+                    "related_breeds_items_url": [
+                        "labrador-retriever",
+                        "flat-coated-retriever",
+                        "chesapeake-bay-retriever",
+                        "curly-coated-retriever",
+                        "nova-scotia-duck-tolling-retriever"
+                    ],
+                    "related_breeds_items": {
+                        "labrador-retriever": {
+                            "breed_name_url": "labrador-retriever",
+                            "breed_name": "Labrador Retriever",
+                            "breed_name_oracle": "Labrador Retriever",
+                            "matches_oracle": "Labrador Retriever",
+                            "akc_code": "108",
+                            "breed_name_plural": "Labrador Retrievers",
+                            "breed_nicknames": "Lab",
+                            "origin": "Canada",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1917",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Nova Scotia Duck Tolling Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever, Curly-Coated Retriever, Golden Retriever",
+                            "links": [],
+                            "popularity_2025": 2,
+                            "popularity_2024": 2,
+                            "popularity_2023": 2,
+                            "popularity_2022": 2,
+                            "popularity_2021": 1,
+                            "popularity_2020": 1,
+                            "popularity_2019": 1,
+                            "popularity_2018": 1,
+                            "popularity_2017": 1,
+                            "popularity_2016": 1,
+                            "popularity_2015": 1,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs",
+                            "temperament": "active / friendly / outgoing"
+                        },
+                        "flat-coated-retriever": {
+                            "breed_name_url": "flat-coated-retriever",
+                            "breed_name": "Flat-Coated Retriever",
+                            "breed_name_oracle": "Flat-Coated Retriever",
+                            "matches_oracle": "Flat-Coated Retriever",
+                            "akc_code": "106",
+                            "breed_name_plural": "Flat-Coated Retrievers",
+                            "breed_nicknames": "Flat-Coat",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1915",
+                            "life_expectancy": "8-10 years",
+                            "related_breeds": "Golden Retriever, Curly-Coated Retriever, Chesapeake Bay Retriever, Nova Scotia Duck Tolling Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 98,
+                            "popularity_2024": 97,
+                            "popularity_2023": 100,
+                            "popularity_2022": 103,
+                            "popularity_2021": 93,
+                            "popularity_2020": 102,
+                            "popularity_2019": 106,
+                            "popularity_2018": 91,
+                            "popularity_2017": 96,
+                            "popularity_2016": 89,
+                            "popularity_2015": 86,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "cheerful / optimistic / good-humored"
+                        },
+                        "chesapeake-bay-retriever": {
+                            "breed_name_url": "chesapeake-bay-retriever",
+                            "breed_name": "Chesapeake Bay Retriever",
+                            "breed_name_oracle": "Chesapeake Bay Retriever",
+                            "matches_oracle": "Chesapeake Bay Retriever",
+                            "akc_code": "104",
+                            "breed_name_plural": "Chesapeake Bay Retrievers",
+                            "breed_nicknames": "Chessie",
+                            "origin": "United States",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Nova Scotia Duck Tolling Retriever, Curly-Coated Retriever, Flat-Coated Retriever, Golden Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 56,
+                            "popularity_2024": 52,
+                            "popularity_2023": 54,
+                            "popularity_2022": 52,
+                            "popularity_2021": 48,
+                            "popularity_2020": 50,
+                            "popularity_2019": 46,
+                            "popularity_2018": 45,
+                            "popularity_2017": 43,
+                            "popularity_2016": 43,
+                            "popularity_2015": 42,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "bright / affectionate / sensitive"
+                        },
+                        "curly-coated-retriever": {
+                            "breed_name_url": "curly-coated-retriever",
+                            "breed_name": "Curly-Coated Retriever",
+                            "breed_name_oracle": "Curly-Coated Retriever",
+                            "matches_oracle": "Curly-Coated Retriever",
+                            "akc_code": "105",
+                            "breed_name_plural": "Curly-Coated Retrievers",
+                            "breed_nicknames": "Curly",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1924",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Chesapeake Bay Retriever, Flat-Coated Retriever, Labrador Retriever, Golden Retriever, Nova Scotia Duck Tolling Retriever",
+                            "links": [],
+                            "popularity_2025": 168,
+                            "popularity_2024": 163,
+                            "popularity_2023": 167,
+                            "popularity_2022": 156,
+                            "popularity_2021": 167,
+                            "popularity_2020": 159,
+                            "popularity_2019": 165,
+                            "popularity_2018": 162,
+                            "popularity_2017": 171,
+                            "popularity_2016": 164,
+                            "popularity_2015": 151,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "confident / proud / wickedly smart"
+                        },
+                        "nova-scotia-duck-tolling-retriever": {
+                            "breed_name_url": "nova-scotia-duck-tolling-retriever",
+                            "breed_name": "Nova Scotia Duck Tolling Retriever",
+                            "breed_name_oracle": "Nova Scotia Duck Tolling Retriever",
+                            "matches_oracle": "Nova Scotia Duck Tolling Retriever",
+                            "akc_code": "128",
+                            "breed_name_plural": "Nova Scotia Duck Tolling Retrievers",
+                            "breed_nicknames": "Toller, Duck Toller",
+                            "origin": "Canada",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2003",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Nederlandse Kooikerhondje, Curly-Coated Retriever, Flat-Coated Retriever, Golden Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 69,
+                            "popularity_2024": 69,
+                            "popularity_2023": 83,
+                            "popularity_2022": 81,
+                            "popularity_2021": 92,
+                            "popularity_2020": 90,
+                            "popularity_2019": 87,
+                            "popularity_2018": 83,
+                            "popularity_2017": 89,
+                            "popularity_2016": 87,
+                            "popularity_2015": 99,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "intelligent / affectionate / outgoing"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "temperament": "intelligent / friendly / devoted",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "akc_org_blurb": "The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America's most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work.",
+                    "akc_org_about": "The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name. The broad head, with its friendly and intelligent eyes, short ears, and straight muzzle, is a breed hallmark. In motion, Goldens move with a smooth, powerful gait, and the feathery tail is carried, as breed fanciers say, with a 'merry action.'\u009d\n\n\n\n The most complete records of the development of the Golden Retriever are included in the record books that were kept from 1835 until about 1890 by the gamekeepers at the Guisachan (pronounced Gooeesicun) estate of Lord Tweedmouth at Inverness-Shire, Scotland. These records were released to public notice in Country Life in 1952, when Lord Tweedmouth's great-nephew, the sixth Earl of Ilchester, historian and sportsman, published material that had been left by his ancestor. They provided factual confirmation to the stories that had been handed down through generations.\n\n\n\n Goldens are outgoing, trustworthy, and eager-to-please family dogs, and relatively easy to train. They take a joyous and playful approach to life and maintain this puppyish behavior into adulthood. These energetic, powerful gundogs enjoy outdoor play. For a breed built to retrieve waterfowl for hours on end, swimming and fetching are natural pastimes.\n\n\n\n &nbsp;",
+                    "mp_description": "Give your Golden Retriever puppy plenty of mental and physical activity and he'll grow up to be the best friend you ever had. This intelligent breed is beloved for their devotion, working ability and playfulness. The Golden's temperament makes him a great guide dog, search-and-rescue assistant and hunting companion. With lots of exercise and a good brushing a few times a week, your Golden Retriever will be a handsome, loving and joyful addition to the family."
+                }
+            },
+            "standards": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "title_1": "General Appearance",
+                    "description_1": "A symmetrical, powerful, active dog, sound and well put together, not clumsy nor long in the leg, displaying a kindly expression and possessing a personality that is eager, alert and self-confident. Primarily a hunting dog, he should be shown in hard working condition. Overall appearance, balance, gait and purpose to be given more emphasis than any of his component parts. Faults-Any departure from the described ideal shall be considered faulty to the degree to which it interferes with the breed's purpose or is contrary to breed character.",
+                    "title_2": "Head",
+                    "description_2": "Broad in skull, slightly arched laterally and longitudinally without prominence of frontal bones (forehead) or occipital bones. Stop well defined but not abrupt. Foreface deep and wide, nearly as long as skull. Muzzle straight in profile, blending smooth and strongly into skull; when viewed in profile or from above, slightly deeper and wider at stop than at tip. No heaviness in flews. Removal of whiskers is permitted but not preferred. Eyes friendly and intelligent in expression, medium large with dark, close-fitting rims, set well apart and reasonably deep in sockets. Color preferably dark brown; medium brown acceptable.",
+                    "title_3": "Body",
+                    "description_3": "Neck medium long, merging gradually into shoulders, sturdy and muscular. Back strong and level from withers to slightly sloping croup. Body is well-balanced, short coupled, with deep chest and well-developed forechest. Ribs long and wellsprung but not barrel shaped. Loin short, muscular, wide and deep.",
+                    "title_4": "Forequarters",
+                    "description_4": "Muscular, well co-ordinated and capable of free movement. Shoulder blades long and well laid back with upper tips fairly close together. Elbows close to the ribs without looseness. Legs straight, with good bone but not coarse.\nPasterns short and strong, sloping slightly. Dewclaws on forelegs are normally left on. Feet- medium size, round and compact with thick pads.",
+                    "title_5": "Coat",
+                    "description_5": "Dense and water-repellent with good undercoat. Outer coat firm and resilient, lying close to body,may be straight or wavy. Untrimmed natural ruff on neck, moderate feathering on back of forelegs and on underbody; heavier feathering on front of neck, back of thighs and underside of tail. Coat on head, paws, and front of legs is short and even. Color-- rich, lustrous golden of various shades. Feathering may be lighter than rest of coat.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Broad and strongly muscled. Croup slopes only slightly. Stifles well angulated. Good length of thighs, short, strong rear pasterns.. Feet as in front. Tail-- thick and muscular at the base, following the natural line of the croup. Tail\nbones extend to the point of the hock. Carried level in action, or with slight upward curve; never curled over back.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_max": "24",
+                    "weight_max": "75",
+                    "height_min": "21.5",
+                    "weight_min": "55",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GoldenRetriever.pdf",
+                    "height_min_f": "21.5",
+                    "height_max_f": "24",
+                    "height_min_m": "21.5",
+                    "height_max_m": "24",
+                    "height_display": "23-24 inches (male), 21.5-22.5 inches (female)",
+                    "weight_min_f": "55",
+                    "weight_max_f": "75",
+                    "weight_min_m": "55",
+                    "weight_max_m": "75",
+                    "weight_display": "65-75 pounds (male), 55-65 pounds (female)"
+                }
+            },
+            "colors": {
+                "golden-retriever": {
+                    "colors": [
+                        {
+                            "color_index": 32,
+                            "breed_name_url": "golden-retriever",
+                            "breed_name": "Golden Retriever",
+                            "akc_code": "107",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "080",
+                            "color_long": "Dark Golden",
+                            "color_short": "DK GLDN"
+                        },
+                        {
+                            "color_index": 33,
+                            "breed_name_url": "golden-retriever",
+                            "breed_name": "Golden Retriever",
+                            "akc_code": "107",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "093",
+                            "color_long": "Golden",
+                            "color_short": "GLDN"
+                        },
+                        {
+                            "color_index": 34,
+                            "breed_name_url": "golden-retriever",
+                            "breed_name": "Golden Retriever",
+                            "akc_code": "107",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "119",
+                            "color_long": "Light Golden",
+                            "color_short": "LT GLDN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "breed_club_name": "Golden Retriever Club of America",
+                    "breed_club_url": "www.grca.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/01/21100916/GoldenRetriever20200828.pdf",
+                    "breed_rescue_url": "http://www.grca-nrc.org/",
+                    "national_breed_club": "Golden Retriever Club of America",
+                    "national_breed_club_url": "www.grca.org",
+                    "breed_referral_contact_name": "",
+                    "breed_referral_contact_phone_number": "",
+                    "breed_referral_contact_email": "",
+                    "breed_referral_contact_address": "www.grca.org\nnone, MT 00000",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.grca.org/thegrca/member_clubs.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.grca-nrc.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1533,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 119,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Founded in 1938, the Golden Retriever Club of America is the official AKC Parent Club for the Golden."
+                        },
+                        {
+                            "id": 756,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 758,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 755,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 757,
+                            "breed_id": "119",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "golden-retriever": {
+                    "breed_name_url": "golden-retriever",
+                    "breed_name": "Golden Retriever",
+                    "akc_org_history": "<p>The most important name in the early history of the Golden Retriever is Dudley Marjoribanks, the first Lord Tweedmouth, who developed the breed in the Scottish Highlands during the reign of Victoria. For the 50 years between 1840 and 1890, Tweedmouth kept scrupulous records of breedings effected to create an ideal gundog for use at his Guisachan estate in the Highlands, Inverness-shire, Scotland. Tweedmouth wanted a dog suited to the rainy climate and rugged terrain of the area, so he crossed his 'Yellow Retriever'\u009d with a breed that is now extinct, the Tweed Water Spaniel. Irish Setter and Bloodhound were also added to the mix. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Through several generations of clever breeding,'\u009d an admiring historian wrote, 'Tweedmouth created a consistent line of exceptional working retrievers.'\u009d With a little more refinement after Tweedmouth's time, the Golden Retriever came forth as an enduring gift to dogkind from a hunt-happy aristocrat. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Golden was first seen at a British dog show in 1908, and good specimens of the breed began arriving in America, by way of Canada, at about the same time. Sport hunters appreciated the breed's utility, show fanciers were enthralled by their beauty and dash, and all were impressed by the Golden's sweet, sensible temperament. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Golden was popular from the beginning of its American history, but the breed's popularity really took off in the 1970s, the era of President Gerald Ford and his beautiful Golden named Liberty.</p>",
+                    "mp_history_job": "<p>Golden Retrievers were developed in the Scottish Highlands over 100 years ago by a man whose name was Lord Tweedmouth (seriously). Lord Tweedmouth wanted to create a breed that was perfect for the rainy climate and rugged terrain of the area, so he crossed his 'Yellow Retriever' with a breed that is now extinct, the Tweed Water Spaniel. Irish Setter and Bloodhound were also added to the mix. Though they were bred for hunting, they can happily adapt to many different living situations.</p>",
+                    "did_you_know": "The first registration of a Golden Retriever by the American Kennel Club was in November 1925. | Golden Retrievers are used successfully in field trials, hunting, obedience, and as guide dogs for the blind. | Golden Retrievers were first shown in England at the Crystal Palace show in 1908, and were listed as Flat Coats (Golden). | The first three dogs of any breed to achieve the AKC Obedience Champion title, first available in July 1977, were all Golden Retrievers. The first (Ch. Moreland's Golden Tonka) was a bitch, the others were males. | Goldens are among the most popular breeds in America and are familiar faces from numerous media spots, including the movie \"Air Bud\" and the TV Show \"Full House.\""
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24534%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop Golden Retriever Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/golden-retriever?itm=breed-page-banner-shop-cta/golden-retriever/golden-retriever",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-wading-into-a-lake.jpg",
+                    "alt": "Golden Retriever wading into a lake.",
+                    "caption": "",
+                    "credit": "PhilStev/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-standing-outdoors.jpg",
+                    "alt": "Golden Retriever standing outdoors in profile.",
+                    "caption": "",
+                    "credit": "\u00a9pixphoto - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-Slide-11.jpg",
+                    "alt": "Golden Retriever laying down outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Brodetskaya Elena - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-retrieving-a-pheasant-in-a-field.jpg",
+                    "alt": "Golden Retriever retrieving a pheasant in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-swimming-toward-a-decoy.jpg",
+                    "alt": "Golden Retriever swimming toward a decoy.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-leaping-into-water.jpg",
+                    "alt": "Golden Retriever leaping into water.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-sitting-holding-a-duck.jpg",
+                    "alt": "Golden Retriever sitting holding a duck in its mouth.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-at-the-AKC-National-Championship.jpg",
+                    "alt": "Golden Retriever at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/2018-NOC-AR3I6587.jpg",
+                    "alt": "Golden Retriever at the AKC National Obedience Championship",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/2018-NAC-AR3I0198.jpg",
+                    "alt": "Golden Retriever leaping over a jump at the National Agility Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-Illo-2.jpg",
+                "alt": "Golden Retriever illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Golden.puppy_.jpg",
+                "alt": "Golden Retriever puppy playing with a blue ribbon."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "http://marketplace.akc.org/puppies/golden-retriever/",
+                "is_external": true
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Golden Retriever",
+        "shopCta": {
+            "title": "Shop Golden Retriever Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/golden-retriever?itm=breed-page-banner-shop-cta/golden-retriever/golden-retriever",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-Merchandise-Collection.png"
+        }
+    }
+}

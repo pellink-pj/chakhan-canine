@@ -173,8 +173,8 @@
                             "temperament": "good-natured / friendly / lively"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -474,7 +474,7 @@
                 "lapponian-herder": {
                     "markings": [
                         {
-                            "marking_index": 625,
+                            "marking_index": 642,
                             "breed_name_url": "lapponian-herder",
                             "breed_name": "Lapponian Herder",
                             "akc_code": "866",
@@ -490,7 +490,7 @@
                 "lapponian-herder": {
                     "colors": [
                         {
-                            "color_index": 2010,
+                            "color_index": 2032,
                             "breed_name_url": "lapponian-herder",
                             "breed_name": "Lapponian Herder",
                             "akc_code": "866",
@@ -501,7 +501,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 2011,
+                            "color_index": 2033,
                             "breed_name_url": "lapponian-herder",
                             "breed_name": "Lapponian Herder",
                             "akc_code": "866",
@@ -512,7 +512,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 2012,
+                            "color_index": 2034,
                             "breed_name_url": "lapponian-herder",
                             "breed_name": "Lapponian Herder",
                             "akc_code": "866",
@@ -624,7 +624,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104021",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24925%5D",
@@ -673,8 +673,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

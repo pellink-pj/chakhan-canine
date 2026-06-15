@@ -1,0 +1,1317 @@
+{
+    "settings": {
+        "current_breed": "german-shorthaired-pointer",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/04/20100142/German-Shorthaired-Pointer-2022-Health-Statement.pdf",
+                    "mp_health": "<p>Like all breeds there may be some health issues, like hip dysplasia, eye disease and congenital cardiac disease. Some dogs may be faced with these health challenges in their lives, but the majority of German Shorthaired Pointers are healthy dogs. Regular veterinary care and proper feeding are vital to your dog's health. Yearly DHLPP vaccinations, rabies shots, a monthly heart worm preventative regimen, and in many parts of the country a Lyme Disease vaccination, should not be neglected.</p>",
+                    "akc_org_health": "<p>Although German Shorthaired Pointers are generally healthy, there are some conditions the breed may be prone to. Among these are hip dysplasia, eye conditions such as progressive retinal atrophy, and certain heart diseases. A responsible breeder will screen their breeding stock for conditions that affect the breed. GSPs can also be affected by bloat, a life-threatening condition where the stomach suddenly distends and often twists as well. Owners should educate themselves as to what symptoms indicate this is occurring and what to do should it occur.</p>",
+                    "akc_org_nutrition": "<p>Feed a high-quality dog food that is appropriate to the dog's age (puppy, adult, or senior) and activity level. A pup under 6 months old will need to be fed more than twice a day; once the GSP reaches adulthood, a meal morning and evening should be sufficient. Because the breed is subject to bloat, they should not be fed immediately after running or other vigorous exercise, nor should they be allowed to run or exercise for at least an hour after eating and drinking. The ideal evening mealtime would be after physical activities are through for the day.</p>",
+                    "akc_org_grooming": "<p>The GSPs coat is easy to groom most of the year, requiring only a good once-over with a brush or grooming glove every few days. Although the coat is short, it still sheds'\u00bfespecially at certain times of the year, when more frequent brushing will be needed to remove the loose hairs before they end up all over the house. The hairs can become embedded in fabrics and carpet and hard to get out. An occasional bath (using a gentle shampoo) can help. The ears should be regularly inspected and cleaned, and the nails trimmed short.</p>",
+                    "akc_org_exercise": "<p>The GSP does best with plenty of exercise and things to do, such as running, swimming, and dog sports'\u00bfin fact, anything that will burn some of their boundless energy while spending time outdoors with a human buddy. Their routine should ideally include ample physical activity twice a day. This might be in the form of brisk, half-hour walks morning and evening or running and playing in a securely fenced area. GSPs are smart and athletic and excel in a wide range of canine activities that exercise mind and body, from field eventsto agility, obedience, and dock diving.</p>",
+                    "akc_org_training": "<p>Early training is essential for the German Shorthaired Pointer. Socializationand puppy training classes are vital, continuing with practice in basic obedience commands. This is an intelligent breed that learns quickly with consistent training sessions. GSPs need a purpose, and without one they can be destructive if left to their own devices. The breed can be extremely challenging from 6 months to 3 years old. GSPs have a very high energy level and a strong prey drive, and they need an owner with an active lifestyle to guide the dog's exuberance and intensity into positive outlets.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Cone Degeneration (German Shorthaired Pointer) (CD) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Cone Degeneration (German Shorthaired Pointer) (CD) - DNA Test"
+                }
+            },
+            "basics": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "breed_name_oracle": "German Shorthaired Pointer",
+                    "matches_oracle": "German Shorthaired Pointer",
+                    "akc_code": "102",
+                    "breed_name_plural": "German Shorthaired Pointers",
+                    "breed_nicknames": "GSP",
+                    "origin": "Germany",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1930",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "German Wirehaired Pointer, Portuguese Pointer, Slovakian Wirehaired Pointer, German Longhaired Pointer, Pointer",
+                    "links": [],
+                    "popularity_2025": 9,
+                    "popularity_2024": 10,
+                    "popularity_2023": 10,
+                    "popularity_2022": 10,
+                    "popularity_2021": 9,
+                    "popularity_2020": 9,
+                    "popularity_2019": 9,
+                    "popularity_2018": 9,
+                    "popularity_2017": 10,
+                    "popularity_2016": 11,
+                    "popularity_2015": 11,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "german-wirehaired-pointer",
+                        "portuguese-pointer",
+                        "slovakian-wirehaired-pointer",
+                        "german-longhaired-pointer",
+                        "pointer"
+                    ],
+                    "related_breeds_items": {
+                        "german-wirehaired-pointer": {
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "breed_name_oracle": "German Wirehaired Pointer",
+                            "matches_oracle": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "breed_name_plural": "German Wirehaired Pointers",
+                            "breed_nicknames": "GWP, Wirehair",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "German Shorthaired Pointer, Wirehaired Vizsla, Pudelpointer, Slovakian Wirehaired Pointer, Wirehaired Pointing Griffon",
+                            "links": [],
+                            "popularity_2025": 58,
+                            "popularity_2024": 61,
+                            "popularity_2023": 61,
+                            "popularity_2022": 59,
+                            "popularity_2021": 59,
+                            "popularity_2020": 60,
+                            "popularity_2019": 64,
+                            "popularity_2018": 63,
+                            "popularity_2017": 62,
+                            "popularity_2016": 64,
+                            "popularity_2015": 68,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "affectionate / eager / enthusiastic"
+                        },
+                        "portuguese-pointer": {
+                            "breed_name_url": "portuguese-pointer",
+                            "breed_name": "Portuguese Pointer",
+                            "breed_name_oracle": "Portuguese Pointer",
+                            "matches_oracle": "Portuguese Pointer",
+                            "akc_code": "137",
+                            "breed_name_plural": "Portuguese Pointers",
+                            "breed_nicknames": "",
+                            "origin": "Portugal",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "14 years",
+                            "related_breeds": "German Shorthaired Pointer, Pointer, Braque du Bourbonnais, Braque Francais Pyrenean, Pudelpointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "energetic / affectionate / smart"
+                        },
+                        "slovakian-wirehaired-pointer": {
+                            "breed_name_url": "slovakian-wirehaired-pointer",
+                            "breed_name": "Slovakian Wirehaired Pointer",
+                            "breed_name_oracle": "Slovakian Wirehaired Pointer",
+                            "matches_oracle": "Slovakian Wirehaired Pointer",
+                            "akc_code": "149",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Czechoslovakia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Vizsla, Pointer, Czechoslovakian Vlciak, German Wirehaired Pointer, Pudelpointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": ""
+                        },
+                        "german-longhaired-pointer": {
+                            "breed_name_url": "german-longhaired-pointer",
+                            "breed_name": "German Longhaired Pointer",
+                            "breed_name_oracle": "German Longhaired Pointer",
+                            "matches_oracle": "German Longhaired Pointer",
+                            "akc_code": "142",
+                            "breed_name_plural": "German Longhaired Pointers",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "German Wirehaired Pointer, French Spaniel, German Shorthaired Pointer, Stabyhoun",
+                            "links": [],
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "versatile / calm / family-oriented"
+                        },
+                        "pointer": {
+                            "breed_name_url": "pointer",
+                            "breed_name": "Pointer",
+                            "breed_name_oracle": "Pointer",
+                            "matches_oracle": "Pointer",
+                            "akc_code": "101",
+                            "breed_name_plural": "Pointers",
+                            "breed_nicknames": "Pointer",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Portuguese Pointer, German Shorthaired Pointer, Slovakian Wirehaired Pointer, Pudelpointer, Braque du Bourbonnais",
+                            "links": [],
+                            "popularity_2025": 111,
+                            "popularity_2024": 121,
+                            "popularity_2023": 125,
+                            "popularity_2022": 107,
+                            "popularity_2021": 120,
+                            "popularity_2020": 116,
+                            "popularity_2019": 117,
+                            "popularity_2018": 114,
+                            "popularity_2017": 113,
+                            "popularity_2016": 117,
+                            "popularity_2015": 114,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / hardworking / even-tempered"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "temperament": "friendly / smart / willing to please",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "akc_org_blurb": "The versatile, medium-sized German Shorthaired Pointer is an enthusiastic gundog of all trades who thrives on vigorous exercise, positive training, and a lot of love. GSP people call their aristocratic companions the 'perfect pointer.'\u009d",
+                    "akc_org_about": "Male German Shorthaired Pointers stand between 23 and 25 inches at the shoulder and weigh anywhere from 55 to 70 pounds; females run smaller. The coat is solid liver (a reddish brown), or liver and white in distinctive patterns. The dark eyes shine with enthusiasm and friendliness. Built to work long days in the field or at the lake, GSPs are known for power, speed, agility, and endurance. 'Noble'\u009d and 'aristocratic'\u009d are words often used to describe the overall look.\n\n GSPs make happy, trainable pets who bond firmly to their family. They are always up for physical activities like running, swimming, organized dog sports'\u00bfin fact, anything that will burn some of their boundless energy while spending outdoors time with a human buddy.",
+                    "mp_description": "A star among hunting dogs, the German Shorthaired Pointer excels at all kinds of hunting, on land and water. Extremely smart and willing to work, the breed is full of enthusiasm and boundless energy packed into an elegant, agile body. Your German Shorthaired Pointer puppy is easily trainable and forms strong loving bonds to his people, especially kids. He's always up for physical exercise, whether running, dog sports, swimming or any vigorous outdoor activity. He's happiest with lots of play time and loving attention from you."
+                }
+            },
+            "standards": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The German Shorthaired Pointer is a versatile hunter, an all-purpose gun dog capable of high performance in field and water. The judgment of Shorthairs in the show ring reflects this basic characteristic. The overall picture which is created in the observer's eye is that of an aristocratic, well balanced, symmetrical animal with conformation indicating power, endurance and agility and a look of intelligence and animation. The dog is neither unduly small nor conspicuously large. It gives the impression of medium size, but is like the proper hunter, \"with a short back, but standing over plenty of ground.\" Symmetry and field quality are most essential.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>The head is clean-cut, is neither too light nor too heavy, and is in proper proportion to the body. The eyes are of medium size, full of intelligence and expression, good-humored and yet radiating energy, neither protruding nor sunken. The eye is almond shaped, not circular. The preferred color is dark brown. Light yellow eyes are not desirable and are a fault. Closely set eyes are to be faulted. China or wall eyes are to be disqualified. The ears are broad and set fairly high, lie flat and never hang away from the head. Their placement is just above eye level. The ears when laid in front without being pulled, should extend to the corner of the mouth. In the case of heavier dogs, the ears are correspondingly longer. Ears too long or fleshy are to be faulted.</p>",
+                    "title_3": "Body",
+                    "description_3": "<p>The neck is of proper length to permit the jaws reaching game to be retrieved, sloping downwards on beautifully curving lines. The nape is rather muscular, becoming gradually larger toward the shoulders. Moderate throatiness is permitted. The skin is close and tight. The chestin general gives the impression of depth rather than breadth; for all that, it is in correct proportion to the other parts of the body. The chest reaches down to the elbows, the ribs forming the thorax show a rib spring and are not flat or slabsided; they are not perfectly round or barrel-shaped. The back ribs reach well down. The circumference of the thorax immediately behind the elbows is smaller than that of the thorax about a hand's breadth behind elbows, so that the upper arm has room for movement.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>The shoulders are sloping, movable, and well covered with muscle. The shoulder blades lie flat and are well laid back nearing a 45 degree angle. The upper arm (the bones between the shoulder and elbow joint) is as long as possible, standing away somewhat from the trunk so that the straight and closely muscled legs, when viewed from the front, appear to be parallel. Elbows which stand away from the body or are too close result in toes turning inwards or outwards and must be faulted. Pasterns are strong, short and nearly vertical with a slight spring. Loose, short-bladed or straight shoulders must be faulted. Knuckling over is to be faulted. Dewclaws on the forelegs may be removed. The feet are compact, close-knit and round to spoon-shaped. The toes are sufficiently arched and heavily nailed. The pads are strong, hard and thick</p>",
+                    "title_5": "Coat",
+                    "description_5": "<p>The hair is short and thick and feels tough to the hand; it is somewhat longer on the underside of the tail and the back edges of the haunches. The hair is softer, thinner and shorter on the ears and the head. Any dog with long hair in the body coat is to be severely penalized.</p>",
+                    "title_6": "Hindquarters",
+                    "description_6": "<p>Thighs are strong and well muscled. Stifles are well bent. Hock joints are well angulated and strong with straight bone structure from hock to pad. Angulation of both stifle and hock joint is such as to achieve the optimal balance of drive and traction. Hocks turn neither in nor out. Cowhocked legs are a serious fault.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "21",
+                    "height_max": "25",
+                    "weight_min": "45",
+                    "weight_max": "70",
+                    "size": "<p>Medium</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GermanShorthairedPointer.pdf",
+                    "height_min_f": "21",
+                    "height_max_f": "25",
+                    "height_min_m": "21",
+                    "height_max_m": "25",
+                    "height_display": "23-25 inches (male), 21-23 inches (female)",
+                    "weight_min_f": "45",
+                    "weight_max_f": "70",
+                    "weight_min_m": "45",
+                    "weight_max_m": "70",
+                    "weight_display": "55-70 pounds (male), 45-60 pounds (female)"
+                }
+            },
+            "markings": {
+                "german-shorthaired-pointer": {
+                    "markings": [
+                        {
+                            "marking_index": 4,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "cde_markings": "045",
+                            "markings_long": "Patched",
+                            "markings_short": "PTCHD"
+                        },
+                        {
+                            "marking_index": 5,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 6,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "cde_markings": "068",
+                            "markings_long": "Patched & Ticked",
+                            "markings_short": "PTCHD&TKD"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "german-shorthaired-pointer": {
+                    "colors": [
+                        {
+                            "color_index": 9,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 10,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "125",
+                            "color_long": "Liver & White",
+                            "color_short": "LVR & WH"
+                        },
+                        {
+                            "color_index": 11,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "126",
+                            "color_long": "Liver Roan",
+                            "color_short": "LVR RN"
+                        },
+                        {
+                            "color_index": 12,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "212",
+                            "color_long": "White & Liver",
+                            "color_short": "WH & LVR"
+                        },
+                        {
+                            "color_index": 13,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 14,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 15,
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "497",
+                            "color_long": "Black Roan",
+                            "color_short": "BLK RN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "breed_club_name": "German Shorthaired Pointer Club of America",
+                    "breed_club_url": "www.gspca.org",
+                    "breed_club_pdf_url": "https://www.akc.org/wp-content/uploads/2026/01/German-Shorthaired-Pointer-Club-Flyer-20260121.pdf",
+                    "breed_rescue_url": "http://www.gspca.org/Rescue/index.html",
+                    "national_breed_club": "German Shorthaired Pointer Club of America",
+                    "national_breed_club_url": "www.gspca.org",
+                    "breed_referral_contact_name": "Karen Nauer",
+                    "breed_referral_contact_phone_number": "(319) 899-4562",
+                    "breed_referral_contact_email": "voyagergsp@earthlink.net",
+                    "breed_referral_contact_address": "620 STRUTHERS LOOP\nCOLORADO SPRINGS, CO 80921-2429",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.gspca.org/Breed/listings.html",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.gspca.org/General/memberClubs.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.gspca.org/Rescue/index.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1528,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 114,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 736,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 738,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 735,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 737,
+                            "breed_id": "114",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "german-shorthaired-pointer": {
+                    "breed_name_url": "german-shorthaired-pointer",
+                    "breed_name": "German Shorthaired Pointer",
+                    "akc_org_history": "<p>German hunters spent generations crossing various breeds until they perfected this versatile bird dog sometime in the 1800s. They were so successful that, to this day, GSPs are among the top-winning breeds in competitive hunting events.&nbsp;</p>\n<p><br></p>\n<p>The German bird-dog tradition dates to at least the 1700s, with master breeders experimenting with tracking hound-pointing dog crosses in the quest for a quick but powerful hunter possessing plenty of nose and versatility. It comes as no surprise to learn that a key player in the early development of this breed of noble bearing was himself a nobleman, Prince Albrecht zu Solms-Braunfels.&nbsp;</p>\n<p><br></p>\n<p>The prince and his fellow enthusiasts succeeded beyond their wildest imaginings in creating a do-it-all hunting dog. Here, a breed historian ticks off the GSP's credentials: 'a staunchly pointing bird dog; a keen-nosed night trailer; a proven duck dog; a natural retriever on land or water, with pleasing conformation and markings, and great powers of endurance; and an intelligent family watchdog and companion.' &nbsp;&nbsp;&nbsp;</p>\n<p><br></p>\n<p>The GSP has been hunted with success on a variety of quarry: gamebirds, possum, rabbit, raccoon, and even deer. With his webbed feet and sleek but sturdy construction, the GSP burnishes his r\u00e9sum\u00e9 as one of dogdom's finest swimmers. Emblematic of the breed's eager versatility was Marvin, a GSP from North Carolina, who in late 2013 achieved his 75th AKC title.</p>",
+                    "mp_history_job": "<p>German hunters spent generations crossing various breeds until they perfected this versatile gundog sometime in the 1800s. They were so successful that, to this day, GSPs are among the top-winning breeds in competitive hunting events. Famous for their beautiful movement and great scenting ability, GSPs are used to hunt all kinds of game. And with their water-repellent coat, they work as well in water as on land. No wonder GSP lovers call their dog the 'perfect pointer'.</p>",
+                    "did_you_know": "The German Shorthaired Pointer was first admitted into the AKC Stud Book in March 1930. | German Shorthaired Pointers are versatile hunters and all-purpose gun dogs. | Germans in the late 19th and early 20th century selectively bred the GSP for biddability, with steps taken later to improve stance, style, and nose, or order to produce the quintessential field dog. | The first AKC Licensed Specialty Show for the German Shorthaired Pointer was held in Chicago on March 29-30, 1941 at the International Kennel Club Show. | The main source of basic foundation stock for the German Shorthaired Pointer seems to have been the German Bird Dog. | The first AKC-licensed Field Trial for the breed was held by the German Shorthaired Pointer parent club in Anoka, MN, on May 21, 1944."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24471%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Sporting-Group-David-0E9A8081.jpg",
+                    "alt": "Sporting Group Fourth, BBE Sporting Group Second, Best of Breed, and Best Bred By in Breed/Variety: GCHP CH Vjk-Myst Garbonita's California Journey CGC, Pointer (German Shorthaired); Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-on-point-1.jpg",
+                    "alt": "German Shorthaired Pointer on point.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-hunting.jpg",
+                    "alt": "German Shorthaired Pointer leading a hunter through the tall brown grasses of a field in the fall.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-On-White-08.jpg",
+                    "alt": "German Shorthaired Pointer lying in three-quarter view, head turned right",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-on-point.jpg",
+                    "alt": "German Shorthaired Pointer on point in a field.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-Illo-2.jpg",
+                "alt": "German Shorthaired Pointer illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-puppies.jpg",
+                "alt": "German Shorthaired Pointer puppies running outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "http://marketplace.akc.org/puppies/german-shorthaired-pointer",
+                "is_external": true
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "German Shorthaired Pointer",
+        "shopCta": false
+    }
+}

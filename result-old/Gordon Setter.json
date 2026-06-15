@@ -1,0 +1,1291 @@
+{
+    "settings": {
+        "current_breed": "gordon-setter",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23150304/Gordon-Setter-Health-Statement-March-2015.pdf",
+                    "mp_health": "<p>Gordon Setters are generally a healthy breed. Like all breeds there may be some health issues, like hip and elbow dysplasia and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Gordon Setters are healthy dogs.</p>",
+                    "akc_org_health": "<p>Gordons are generally healthy dogs, but there are a few concerns to be aware of bloat, a sudden, life-threatening stomach condition, can occur in the breed. Gordon owners should learn the signs of bloat and what to do should they occur. Cancer is the most common cause of death for elderly dogs'\u00bfin all breeds. There is not one specific type of cancer more prevalent in Gordons; young dogs dying of cancer is unusual. Responsible breeders will test their stock for conditions the breed can be prone to, including screening for elbow and hip dysplasia and eye conditions, and DNA testing for a number of health-related issues.</p>",
+                    "akc_org_nutrition": "<p>Feeding the Gordon Setter a diet high in protein (over 26 percent) is not recommended, as health issues can result by forcing rapid growth. Fiber content of at least four percent is best to ensure firm stool. Feed high-quality dry dog food, wet food, and, if desired, small amounts of healthy additives such as chicken and salmon, fruits, and cooked, fresh vegetables, provided they are listed as safe foods on the AKC website. Sodium can be dangerous'\u00bfalways feed 'no salt.'\u009d Gordons should be lean, not overweight, so that a clearly defined 'waist'\u009d can be seen. Bloat can be a risk in the breed, and owners should never exercise the dog one-half hour before or after feeding.</p>",
+                    "akc_org_grooming": "<p>Brushing at least weekly is essential to prevent matting. Shedding is minimal if the dog is brushed regularly. Monthly grooming recommended for health includes trimming the hair on the feet, trimming the nails, trimming inside and around the ears, trimming around the vent/tail area, and checking the teeth for plaque. Bathing monthly is recommended. Dry skin and dandruff can be prevented with bathing and conditioning.</p>",
+                    "akc_org_exercise": "<p>Gordons were bred to be personal hunting dogs, and they also served as nannies. They live to cuddling by your side or at your feet, as well as running in a field. Their genetic makeup calls for them to have a drive to run, so they do need exercise. They can live in an apartment but if so, they need daily exercise, which can be met by walking, jogging, or biking with the dog. If they have a yard in which to run, they will self-exercise, though a Gordon will always be happiest doing something with their bonded owner. Being with their owner is what they live to do. Caution: To prevent bloat, never exercise the dog one-half hour before or one-half hour after feeding.</p>",
+                    "akc_org_training": "<p>A few, simple lifesaving training commands are mandatory. A puppy or dog must be trained to know the command 'come,'\u009d and to come when called; to know his name and respond; and to obey the word 'no.'\u009d Gordons are stubborn yet very soft and loving, and they live to please their owner. They are very smart and learn quickly. The best training is for them to have a job to do, and the best job they can have is spending time with their owner'\u00bfwhether being trained or having fun. They are closely bonded to their family and live to be with them, but they are fine being alone when family is away. Early socialization and puppy training classes are recommended for Gordon puppies and help to ensure they grow into well-adjusted, well-mannered companions.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "CHIC DNA Repository",
+                    "test_5": "Progressive Retinal Atrophy, Rod-Cone Dysplasia 4 (PRA-rcd4) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | CHIC DNA Repository | Progressive Retinal Atrophy, Rod-Cone Dysplasia 4 (PRA-rcd4) - DNA Test"
+                }
+            },
+            "basics": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "breed_name_oracle": "Gordon Setter",
+                    "matches_oracle": "Gordon Setter",
+                    "akc_code": "110",
+                    "breed_name_plural": "Gordon Setters",
+                    "breed_nicknames": "Gordon",
+                    "origin": "Scotland",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1878",
+                    "life_expectancy": "12-13 years",
+                    "related_breeds": "English Setter, Collie, Irish Red and White Setter, Border Collie, Irish Setter",
+                    "links": {
+                        "mp_url": "marketplace.akc.org/puppies/",
+                        "akc_url": "https://akc.org/dog-breeds/gordon-setter"
+                    },
+                    "popularity_2025": 104,
+                    "popularity_2024": 109,
+                    "popularity_2023": 106,
+                    "popularity_2022": 99,
+                    "popularity_2021": 113,
+                    "popularity_2020": 107,
+                    "popularity_2019": 115,
+                    "popularity_2018": 115,
+                    "popularity_2017": 104,
+                    "popularity_2016": 104,
+                    "popularity_2015": 105,
+                    "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "english-setter",
+                        "collie",
+                        "irish-red-and-white-setter",
+                        "border-collie",
+                        "irish-setter"
+                    ],
+                    "related_breeds_items": {
+                        "english-setter": {
+                            "breed_name_url": "english-setter",
+                            "breed_name": "English Setter",
+                            "breed_name_oracle": "English Setter",
+                            "matches_oracle": "English Setter",
+                            "akc_code": "109",
+                            "breed_name_plural": "English Setters",
+                            "breed_nicknames": "English",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Irish Red and White Setter, Irish Setter, Pudelpointer, German Longhaired Pointer, Gordon Setter",
+                            "links": [],
+                            "popularity_2025": 89,
+                            "popularity_2024": 93,
+                            "popularity_2023": 97,
+                            "popularity_2022": 93,
+                            "popularity_2021": 98,
+                            "popularity_2020": 101,
+                            "popularity_2019": 100,
+                            "popularity_2018": 94,
+                            "popularity_2017": 95,
+                            "popularity_2016": 102,
+                            "popularity_2015": 96,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / mellow / merry"
+                        },
+                        "collie": {
+                            "breed_name_url": "collie",
+                            "breed_name": "Collie",
+                            "breed_name_oracle": "Collie",
+                            "matches_oracle": "Collie",
+                            "akc_code": "810",
+                            "breed_name_plural": "Collies",
+                            "breed_nicknames": "Collie",
+                            "origin": "Scotland and Northern England",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Shetland Sheepdog, Border Collie, Belgian Sheepdog, Dutch Shepherd, Bearded Collie",
+                            "links": [],
+                            "popularity_2025": 39,
+                            "popularity_2024": 39,
+                            "popularity_2023": 40,
+                            "popularity_2022": 39,
+                            "popularity_2021": 38,
+                            "popularity_2020": 40,
+                            "popularity_2019": 38,
+                            "popularity_2018": 38,
+                            "popularity_2017": 40,
+                            "popularity_2016": 37,
+                            "popularity_2015": 36,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Medium Dog Breeds",
+                            "temperament": "devoted / proud / graceful"
+                        },
+                        "irish-red-and-white-setter": {
+                            "breed_name_url": "irish-red-and-white-setter",
+                            "breed_name": "Irish Red and White Setter",
+                            "breed_name_oracle": "Irish Red and White Setter",
+                            "matches_oracle": "Irish Red and White Setter",
+                            "akc_code": "129",
+                            "breed_name_plural": "Irish Red and White Setters",
+                            "breed_nicknames": "Red and White",
+                            "origin": "Ireland",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2009",
+                            "life_expectancy": "11-15 years",
+                            "related_breeds": "English Setter, Irish Setter, English Springer Spaniel, Welsh Springer Spaniel, Gordon Setter",
+                            "links": [],
+                            "popularity_2025": 162,
+                            "popularity_2024": 170,
+                            "popularity_2023": 165,
+                            "popularity_2022": 168,
+                            "popularity_2021": 154,
+                            "popularity_2020": 170,
+                            "popularity_2019": 157,
+                            "popularity_2018": 146,
+                            "popularity_2017": 154,
+                            "popularity_2016": 142,
+                            "popularity_2015": 148,
+                            "related_groups_characteristics": "",
+                            "temperament": "courageous / spirited / determined"
+                        },
+                        "border-collie": {
+                            "breed_name_url": "border-collie",
+                            "breed_name": "Border Collie",
+                            "breed_name_oracle": "Border Collie",
+                            "matches_oracle": "Border Collie",
+                            "akc_code": "835",
+                            "breed_name_plural": "Border Collies",
+                            "breed_nicknames": "BC",
+                            "origin": "England/Scotland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1995",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Australian Shepherd, Collie, Pyrenean Shepherd, Miniature American Shepherd, Icelandic Sheepdog",
+                            "links": [],
+                            "popularity_2025": 26,
+                            "popularity_2024": 30,
+                            "popularity_2023": 31,
+                            "popularity_2022": 30,
+                            "popularity_2021": 31,
+                            "popularity_2020": 32,
+                            "popularity_2019": 33,
+                            "popularity_2018": 35,
+                            "popularity_2017": 38,
+                            "popularity_2016": 38,
+                            "popularity_2015": 38,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs",
+                            "temperament": "energetic / affectionate / smart"
+                        },
+                        "irish-setter": {
+                            "breed_name_url": "irish-setter",
+                            "breed_name": "Irish Setter",
+                            "breed_name_oracle": "Irish Setter",
+                            "matches_oracle": "Irish Setter",
+                            "akc_code": "111",
+                            "breed_name_plural": "Irish Setters",
+                            "breed_nicknames": "The Irishman, Red Setter",
+                            "origin": "Ireland",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "English Setter, Irish Red and White Setter, English Springer Spaniel, Brittany, Gordon Setter",
+                            "links": [],
+                            "popularity_2025": 73,
+                            "popularity_2024": 85,
+                            "popularity_2023": 76,
+                            "popularity_2022": 71,
+                            "popularity_2021": 71,
+                            "popularity_2020": 75,
+                            "popularity_2019": 80,
+                            "popularity_2018": 77,
+                            "popularity_2017": 72,
+                            "popularity_2016": 76,
+                            "popularity_2015": 72,
+                            "related_groups_characteristics": "Best Family Dogs",
+                            "temperament": "active / sweet-natured / outgoing"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "temperament": "confident / affectionate / bold",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "akc_org_blurb": "<p>The Gordon Setter, the black avenger of the Highlands, is a substantial bird dog named for a Scottish aristocrat. Athletic and outdoorsy, Gordons are bold, confident, and resolute in the field, and sweetly affectionate by the fireside.</p>",
+                    "akc_org_about": "<p>Gordons are the largest and most substantial of setters's big male might stand 27 inches at the shoulder and weigh 80 pounds. The stunning coat is a glistening black, with tan markings and long hair on the ears, belly, legs, chest, and tail. Tan spots above the bright brown eyes point up a wise and willing expression. Like other Scots breeds, from the compact Scottish Terrier to the majestic Scottish Deerhound, Gordons were built to withstand their homeland's tough terrain and foul weather.</p>",
+                    "mp_description": "<p>This Scottish breed, the largest of the setters, has been hunting game birds for 200 years. With their shining coats and expressive eyes, Gordon Setters are show ring regulars as well as determined, rugged hunters. They're also sweet and affectionate dogs, devoted to their family and eager to please. Your Gordon Setter puppy is adaptable enough to live anywhere, as long as he gets lots of exercise. LIke most sporting breeds, he's confident and can have a mind of his own, but his loving nature, brains and attachment to his family have won him devoted fans.</p>"
+                }
+            },
+            "standards": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "title_1": "General Appearance",
+                    "description_1": "The Gordon Setter is a good-sized, sturdily built, black and tan dog, well muscled, with plenty of bone and substance, but active, upstanding and stylish, appearing capable of doing a full day's work in the field. He has a strong, rather short back, with well sprung ribs and a short tail. The head is fairly heavy and finely chiseled. His bearing is intelligent, noble, and dignified, showing no signs of shyness or viciousness. Clear colors and straight or slightly waved coat are correct. He suggests strength and stamina rather than extreme speed. Symmetry and quality are most essential. A dog well balanced in all points is preferable to one with outstanding good qualities and defects. A smooth, free movement, with high head carriage, is typical.",
+                    "title_2": "Head",
+                    "description_2": "Head is deep, rather than broad, with plenty of brain room. Eyes of fair size, neither too deep-set nor too bulging, dark brown, bright and wise. The shape is oval rather than round. The lids are tight. Ears set low on the head approximately on line with the eyes, fairly large and thin, well folded and carried close to the head.",
+                    "title_3": "Body",
+                    "description_3": "Neck is long, lean, arched to the head, and without throatiness. Topline moderately sloping. Body short from shoulder to hips. Chest deep and not too broad in front; the ribs well sprung, leaving plenty of lung room. The chest reaches to the elbows. A pronounced forechest is in evidence. Loins short and broad and not arched. Croup nearly flat, with only a slight slope to the tailhead.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders fine at the points, and laying well back. The tops of the shoulder blades are close together. When viewed from behind, the neck appears to fit into the shoulders in smooth, flat lines that gradually widen from neck to shoulder. The angle formed by the shoulder blade and upper arm bone is approximately 90 degrees when the dog is standing so that the foreleg is perpendicular to the ground. Forelegs big-boned, straight and not bowed, with elbows free and not turned in or out. Pasterns are strong, short and nearly vertical with a slight spring. Dewclaws may be removed. Feet catlike in shape, formed by close-knit, well arched toes with plenty of hair between; with full toe pads and deep heel cushions. Feet are not turned in or out.",
+                    "title_5": "Coat",
+                    "description_5": "Soft and shining, straight or slightly waved, but not curly, with long hair on ears, under stomach and on chest, on back of the fore and hind legs, and on the tail. The feather which starts near the root of the tail is slightly waved or straight, having a triangular appearance, growing shorter uniformly toward the end.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The hind legs from hip to hock are long, flat and muscular; from hock to heel, short and strong. The stifle and hock joints are well bent and not turned either in or out. When the dog is standing with the rear pastern perpendicular to the ground, the thighbone hangs downward parallel to an imaginary line drawn upward from the hock. Feet as in front.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23",
+                    "height_max": "27",
+                    "weight_min": "45",
+                    "weight_max": "80",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GordonSetter.pdf",
+                    "height_min_f": "23",
+                    "height_max_f": "27",
+                    "height_min_m": "23",
+                    "height_max_m": "27",
+                    "height_display": "24-27 inches (male), 23-26 inches (female)",
+                    "weight_min_f": "45",
+                    "weight_max_f": "80",
+                    "weight_min_m": "45",
+                    "weight_max_m": "80",
+                    "weight_display": "55-80 pounds (male), 45-70 pounds (female)"
+                }
+            },
+            "colors": {
+                "gordon-setter": {
+                    "colors": [
+                        {
+                            "color_index": 44,
+                            "breed_name_url": "gordon-setter",
+                            "breed_name": "Gordon Setter",
+                            "akc_code": "110",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 45,
+                            "breed_name_url": "gordon-setter",
+                            "breed_name": "Gordon Setter",
+                            "akc_code": "110",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 46,
+                            "breed_name_url": "gordon-setter",
+                            "breed_name": "Gordon Setter",
+                            "akc_code": "110",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "195",
+                            "color_long": "Tan",
+                            "color_short": "TN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "breed_club_name": "Gordon Setter Club of America, Inc.",
+                    "breed_club_url": "www.gsca.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/GordonSetter-club-flyer.pdf",
+                    "breed_rescue_url": "http://www.gsca.org/index.php/rescue-contacts/",
+                    "national_breed_club": "Gordon Setter Club of America, Inc.",
+                    "national_breed_club_url": "www.gsca.org",
+                    "breed_referral_contact_name": "Vickee Jones",
+                    "breed_referral_contact_phone_number": "(505) 828-3902",
+                    "breed_referral_contact_email": "gordongirls@comcast.net",
+                    "breed_referral_contact_address": "7413 GETTYSBURG RD NE\nALBUQUERQUE, NM 87109-5025",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.gsca.org/Clubs/clubs.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.gsca.org/index.php/rescue-contacts/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1534,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 120,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Formed in 1891, the Gordon Setter Club of America is the official AKC Parent Club representing the Gordon Setter in the US."
+                        },
+                        {
+                            "id": 760,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 762,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 759,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 761,
+                            "breed_id": "120",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "gordon-setter": {
+                    "breed_name_url": "gordon-setter",
+                    "breed_name": "Gordon Setter",
+                    "akc_org_history": "Generations of Scots huntsmen bred hounds and 'collys'\u009d into setter lines, thus producing a large, rugged bird-dog suited to working in difficult conditions. Alexander, Fourth Duke of Gordon (d. 1827), the master of Castle Gordon on the craggy Scottish Highlands, maintained a keen interest in these dogs. By the early 1800s the duke's kennel was producing setters recognizable as the breed that today bears his name. Between litters, the duke found time to play a key role in the development of the Scotch whisky industry.",
+                    "mp_history_job": "Generations of Scots huntsmen bred hounds and \u00bfcollys\u00bf into setter lines, thus producing a large, rugged bird-dog suited to working in difficult conditions. Alexander, Fourth Duke of Gordon (d. 1827), the master of Castle Gordon on the craggy Scottish Highlands, maintained a keen interest in these dogs. By the early 1800s the duke\u00bfs kennel was producing setters recognizable as the breed that today bears his name. Between litters, the duke found time to play a key role in the development of the Scotch whisky industry.",
+                    "did_you_know": "The Gordon Setter's ancient lineage dates back to 1620. | Gordon Setters first started to hunt game birds almost 200 years ago. | Gordons are the heaviest of the setters, although the standard permits a considerable size range due to differing preferences between field and bench enthusiasts. | The Gordon Setter Club of America was formed in 1891. | The Gordon is known for his devotion and loyalty. | Contrary to popular belief, the three setters - English, Gordon, and Irish - are not merely representatives of different colors or varieties within one \"setter\" heading but are in fact three separate breeds."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775181365",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24555%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.3.jpg",
+                    "alt": "Gordon Setter standing in the forest in the Fall.",
+                    "caption": "",
+                    "credit": "\u00a9annatronova - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/IMG_9722.jpg",
+                    "alt": "Best of Breed: GCHS CH Hillock Beaconfield Bellagio, Setter (Gordon); Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter-On-White-01.jpg",
+                    "alt": "Gordon Setter standing in three-quarter view.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.6.jpg",
+                    "alt": "Gordon Setter laying in the hay next to a rifle and several caught game.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.4.jpg",
+                    "alt": "Gordon Setter just visible walking through tall brown grasses.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.5.jpg",
+                    "alt": "Gordon Setter standing in the forest in the Fall facing forward, head turned left.",
+                    "caption": "",
+                    "credit": "\u00a9annatronova - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.21.jpg",
+                    "alt": "Gordon Setter running through a green grassy field of wildflowers.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.11.jpg",
+                    "alt": "Gordon Setter running forward in a field.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter-illustration.jpg",
+                "alt": "Gordon Setter illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter-puppy.jpg",
+                "alt": "Gordon Setter puppy laying in the grass in the sunshine."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/gordon-setter",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Gordon Setter",
+        "shopCta": false
+    }
+}

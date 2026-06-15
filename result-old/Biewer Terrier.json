@@ -1,0 +1,1282 @@
+{
+    "settings": {
+        "current_breed": "biewer-terrier",
+        "current_breed_group": {
+            "name": "Toy Group",
+            "url": "https://www.akc.org/dog-breeds/toy/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "parent_club_health_statement_link": "https://www.akc.org/wp-content/uploads/2026/01/Biewer-Terrier-Health-Statement-December-2025-Final.pdf",
+                    "mp_health": "<p></p>",
+                    "akc_org_health": "<p>Like all breeds, there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Biewer Terriers are healthy dogs. Sensitive GI systems are common in the Biewer Terrier, so they may have an occasional soft or discolored stool. Although not life-threatening, if your dog has persistent problems with diarrhea or discolored stools, you should take him/her to the vet immediately. The Biewer Terrier is a relatively healthy dog, with no known excessive issues. That being said, we recommend the following tests for dogs before breeding.</p>",
+                    "akc_org_nutrition": "<p>The Biewer Terrier may have a sensitive GI system and should be fed a low-protein, well-balanced diet. Kibble is recommended as canned food increases plaque build-up. If you notice your dog chewing on his feet and scratching a lot, change his food to a lamb or fish base. For the most part, you can free feed your Biewer, but if you notice weight gain, pick up that food and feed them 2 to 3 times per day. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Biewer Terrier has a long coat that requires daily brushing. There is minimal matting with the silkier coat, but the soft coats may get some mats. If you choose to keep your Biewer in a short coat, minimal grooming is needed. Good-quality products are recommended to keep the coat in its soft, silky condition. &nbsp;&nbsp;&nbsp;&nbsp;Grooming can be a wonderful bonding experience for you and your dog. Beyond regular brushing, the occasional bath will keep them clean and looking their best, again using good quality products. Their nails should be trimmed regularly with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Their ears should be checked regularly to avoid a buildup of wax and debris, which can result in an infection. Teeth should be brushed regularly.</p>",
+                    "akc_org_exercise": "<p>The Biewer Terrier is a rather mellow, easy-going dog. Their playful attitudes provide them with a natural means of self-exercising, along with the time spent playing with their human families. Indoor activities could include hide-and-seek, chasing a ball rolled along the floor, or teaching them new tricks. Biewers are also excellent on walks, quite agile and love to go on outings. If you live in an apartment, even short walks in the hallways can give your dog some exercise, especially during inclement weather.</p>",
+                    "akc_org_training": "<p>The Biewer's dedication and loyalty make them the perfect family pet. Having a fun-loving, childlike attitude makes them a great companion for people of all ages and able to make friends with animals of any origin. Being extremely intelligent, they are easy to train, although potty training may take a little longer.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Eye Examination by a board Certified ACVO Ophthalmologist",
+                    "test_2": "Patellar Luxation",
+                    "test_3": "Primary Lens Luxation (PLL) - DNA Test",
+                    "test_4": "Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Eye Examination by a board Certified ACVO Ophthalmologist | Patellar Luxation | Primary Lens Luxation (PLL) - DNA Test | Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test"
+                }
+            },
+            "basics": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "breed_name_oracle": "Biewer Terrier",
+                    "matches_oracle": "Biewer Terrier",
+                    "akc_code": "548",
+                    "breed_name_plural": "Biewer Terriers",
+                    "breed_nicknames": "",
+                    "origin": "Germany",
+                    "breed_group": "Toy Group",
+                    "year_recognized": "2021",
+                    "life_expectancy": "16 years",
+                    "related_breeds": "Yorkshire Terrier, Silky Terrier, Toy Fox Terrier, West Highland White Terrier, Sealyham Terrier",
+                    "links": [],
+                    "popularity_2025": 74,
+                    "popularity_2024": 70,
+                    "popularity_2023": 78,
+                    "popularity_2022": 77,
+                    "popularity_2021": 82,
+                    "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                    "related_breeds_items_url": [
+                        "yorkshire-terrier",
+                        "silky-terrier",
+                        "toy-fox-terrier",
+                        "west-highland-white-terrier",
+                        "sealyham-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "yorkshire-terrier": {
+                            "breed_name_url": "yorkshire-terrier",
+                            "breed_name": "Yorkshire Terrier",
+                            "breed_name_oracle": "Yorkshire Terrier",
+                            "matches_oracle": "Yorkshire Terrier",
+                            "akc_code": "515",
+                            "breed_name_plural": "Yorkshire Terriers",
+                            "breed_nicknames": "Yorkie",
+                            "origin": "England",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "11-15 years",
+                            "related_breeds": "Silky Terrier, Biewer Terrier, Scottish Terrier, Australian Terrier, Maltese",
+                            "links": [],
+                            "popularity_2025": 13,
+                            "popularity_2024": 11,
+                            "popularity_2023": 13,
+                            "popularity_2022": 13,
+                            "popularity_2021": 13,
+                            "popularity_2020": 13,
+                            "popularity_2019": 12,
+                            "popularity_2018": 10,
+                            "popularity_2017": 9,
+                            "popularity_2016": 9,
+                            "popularity_2015": 7,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "affectionate / sprightly / tomboyish"
+                        },
+                        "silky-terrier": {
+                            "breed_name_url": "silky-terrier",
+                            "breed_name": "Silky Terrier",
+                            "breed_name_oracle": "Silky Terrier",
+                            "matches_oracle": "Silky Terrier",
+                            "akc_code": "514",
+                            "breed_name_plural": "Silky Terriers",
+                            "breed_nicknames": "Silky, Sydney Silky",
+                            "origin": "Australia",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Maltese, Biewer Terrier, Skye Terrier, Australian Terrier, Yorkshire Terrier",
+                            "links": [],
+                            "popularity_2025": 116,
+                            "popularity_2024": 111,
+                            "popularity_2023": 114,
+                            "popularity_2022": 122,
+                            "popularity_2021": 116,
+                            "popularity_2020": 108,
+                            "popularity_2019": 111,
+                            "popularity_2018": 112,
+                            "popularity_2017": 106,
+                            "popularity_2016": 100,
+                            "popularity_2015": 102,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "friendly / quick / keenly alert"
+                        },
+                        "toy-fox-terrier": {
+                            "breed_name_url": "toy-fox-terrier",
+                            "breed_name": "Toy Fox Terrier",
+                            "breed_name_oracle": "Toy Fox Terrier",
+                            "matches_oracle": "Toy Fox Terrier",
+                            "akc_code": "519",
+                            "breed_name_plural": "Toy Fox Terriers",
+                            "breed_nicknames": "Toy Fox, TFT, Amertoy",
+                            "origin": "United States",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "2003",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Smooth Fox Terrier, Chihuahua, Manchester Terrier (Toy), Russian Toy, Miniature Pinscher",
+                            "links": [],
+                            "popularity_2025": 106,
+                            "popularity_2024": 108,
+                            "popularity_2023": 110,
+                            "popularity_2022": 108,
+                            "popularity_2021": 110,
+                            "popularity_2020": 113,
+                            "popularity_2019": 109,
+                            "popularity_2018": 111,
+                            "popularity_2017": 112,
+                            "popularity_2016": 116,
+                            "popularity_2015": 110,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / intelligent / friendly"
+                        },
+                        "west-highland-white-terrier": {
+                            "breed_name_url": "west-highland-white-terrier",
+                            "breed_name": "West Highland White Terrier",
+                            "breed_name_oracle": "West Highland White Terrier",
+                            "matches_oracle": "West Highland White Terrier",
+                            "akc_code": "222",
+                            "breed_name_plural": "West Highland White Terriers",
+                            "breed_nicknames": "Westie",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1908",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Cairn Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Australian Terrier",
+                            "links": [],
+                            "popularity_2025": 45,
+                            "popularity_2024": 41,
+                            "popularity_2023": 43,
+                            "popularity_2022": 45,
+                            "popularity_2021": 46,
+                            "popularity_2020": 44,
+                            "popularity_2019": 44,
+                            "popularity_2018": 42,
+                            "popularity_2017": 42,
+                            "popularity_2016": 41,
+                            "popularity_2015": 41,
+                            "related_groups_characteristics": "",
+                            "temperament": "loyal / happy / entertaining"
+                        },
+                        "sealyham-terrier": {
+                            "breed_name_url": "sealyham-terrier",
+                            "breed_name": "Sealyham Terrier",
+                            "breed_name_oracle": "Sealyham Terrier",
+                            "matches_oracle": "Sealyham Terrier",
+                            "akc_code": "219",
+                            "breed_name_plural": "Sealyham Terriers",
+                            "breed_nicknames": "Sealy",
+                            "origin": "Wales",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1911",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Glen of Imaal Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Dandie Dinmont Terrier",
+                            "links": [],
+                            "popularity_2025": 163,
+                            "popularity_2024": 168,
+                            "popularity_2023": 169,
+                            "popularity_2022": 164,
+                            "popularity_2021": 139,
+                            "popularity_2020": 148,
+                            "popularity_2019": 156,
+                            "popularity_2018": 164,
+                            "popularity_2017": 150,
+                            "popularity_2016": 155,
+                            "popularity_2015": 158,
+                            "related_groups_characteristics": "",
+                            "temperament": "alert / outgoing / sense of humor"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "temperament": "intelligent / devoted / amusing",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Silky"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "akc_org_blurb": "<p>The Biewer Terrier is an elegant, longhaired, tri-colored toy terrier whose only purpose in life is to love and be loved. They maintain a charming, whimsical attitude well into adulthood. Carrying around a toy or two is not surprising.</p>",
+                    "akc_org_about": "<p>The Biewer Terrier is a very dedicated, loyal family member and friendly with strangers. A large percentage of the Biewer Terriers are happy-go-lucky dogs, smiling when asked if they are happy. In spite of its small stature, the Biewer is a very hearty, athletic dog and an excellent hunter of vermin. They are lighthearted, have a childlike attitude and like to carry toys in their mouths. He is quick to alert you to company, but is not a constant barker. How do you pronounce Biewer Terrier? Beaver, exactly like out little dam building friends.</p>\n<p><br></p>\n<p>Pronunciation - Beaver Terrier</p>",
+                    "mp_description": "<p>Enter a Marketplace description</p>"
+                }
+            },
+            "standards": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The Biewer Terrier is an elegant, longhaired, uniquely colored toy terrier with a breed signature ponytail. The coat parts down the middle, hanging straight and evenly on both sides of the body as though a comb has been used to part it. The back is level, with height at shoulders being equal to height at the croup. Although the outline of the dog gives the appearance of a square, the body length is slightly longer than the overall height. The tail is set high and carried well arched over the body, covered with a long luxurious plume. The Biewer Terrier has a lighthearted whimsical, childlike attitude. Although mischievous at times, they are obedient and make a loyal companion. Size, Proportion, Substance: Size- Height at the shoulders is the same as the height at the croup, measuring 7 to 11 inches, with weight being 4 to 8 lbs. Proportion- Length of body from prosternum to ischium is longer than over all height, making the dog off square although square is acceptable. Substance- Body is fine to medium boned with a level top line. Serious Fault- Over 8 lbs.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>Head: Expression- Is more human than that of a dog, being bright and intelligent. Eyes- Are medium sized and may be round or almond shaped with a crisp, clear countenance. Iris- as dark as possible. Ears- Are small, upright, V shaped, moderately wide set and covered with hair except the tips being shaved. They are set to the back of the skull and the base is level with the eyes. Skull- Slightly rounded. Stop- Moderate. Muzzle- One-third the length of the head. Eye rims, Nose, and Lips - Completely black. Bite- Level or scissor bite. Teeth- Straight and even. Serious Fault- Incomplete pigment on the eye rims, nose, and lip; Ears not standing erect. Disqualification- Blue eye(s).</p>",
+                    "title_3": "Body",
+                    "description_3": "<p>Neck, Topline and Body: Neck-Moderate in length, free from throatiness. Topline- Level. Body- length is slightly longer than the overall height, although square is acceptable. Chest- Comes to the elbows with a good width. Ribs- Moderately sprung. Underline- Slightly tucked up. Back- Level topline. Loin- Well developed and strong. Tail- Set high, when in movement carried well arched over the body in a graceful sickle curve, covered with a long luxurious plume. Plume lies to either side of the body. Length of tailbone must go to the stifles or longer. When reposed, the tail may be relaxed. A Kink in the tail is not to be faulted. Serious Faults- Roach or rounded back; high in the front or rear.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>Forequarters: Forelegs should be straight, elbows neither in nor out. Angulation- Moderate. Shoulders are nicely laid back to allow for good reach and freedom of movement. Elbows-set close to the body. Legs- Straight when viewed from the front are muscular and covered with hair. Pasterns- Up and straight. Dewclaws- May be removed but not required. Feet- Round. Toes- Well arched covered with hair which may be trimmed not to impede movement or trimmed to show the shape of the foot. Pads- Black and/or flesh. Nails- Black and/or white.</p>",
+                    "title_5": "Hindquarters",
+                    "description_5": "<p>Hindquarters: In balance with the forequarters. Angulation- Rear to match front. Legs- Hind legs are straight when viewed from behind, muscular and covered with hair. Stifle- Slightly bent when viewed from the side. Hocks- Straight when viewed from behind, pointing neither in nor out. Dewclaws- May be removed but not required. Feet- Round. Toes- Well arched covered with hair which may be trimmed not to impede movement or trimmed to show the shape of the foot. Pads- Black and/or flesh. Nails- Black and/or white.</p>",
+                    "title_6": "Coat",
+                    "description_6": "<p>Coat: Long and flowing with a soft silky texture. Hair is straight without an undercoat, hanging close to the ground if not touching. Coat maybe trimmed to floor length for ease of movement. Head fall is tied up into a single ponytail on top of the head, hanging loose. Puppy ponytails may be placed a little lower on the head as to gather the short hairs. A bow is used for adornment; no topknots or rollovers. Feet are trimmed for a neat, clean appearance. Trim around anus. Head falls that have been altered by teasing, curling, topknots, or roll over's shall be so Severely Penalized as to be eliminated from competition. Color: The Biewer Terrier is a uniquely colored toy terrier. Head Coloring- Blue/Black, Gold/Tan and White in good symmetry. Any combination of the following two colors, (Blue/Black and Gold/ Tan); (Gold/ Tan and White) in good symmetry is acceptable. Body Coloring- Hair on back is blue/black and white. Amounts of each color are of personal preference with no dominating patterns. A small amount of tan hair may be found around the anus. Chest, Stomach, Legs and Tip of the Tail- White. The white from the chest should come up the neck to cover the chin. Legs are to be white from the elbows and stifles to the feet. Serious Fault \u00bf Any other color than those that are listed.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "7",
+                    "height_max": "11",
+                    "weight_min": "4",
+                    "weight_max": "8",
+                    "size": "<p>XSmall</p>",
+                    "breed_standard_PDF": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08080148/Biewer-Terrier.pdf",
+                    "height_min_f": "7",
+                    "height_max_f": "11",
+                    "height_min_m": "7",
+                    "height_max_m": "11",
+                    "height_display": "7-11 inches",
+                    "weight_min_f": "4",
+                    "weight_max_f": "8",
+                    "weight_min_m": "4",
+                    "weight_max_m": "8",
+                    "weight_display": "4-8 pounds"
+                }
+            },
+            "colors": {
+                "biewer-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 1359,
+                            "breed_name_url": "biewer-terrier",
+                            "breed_name": "Biewer Terrier",
+                            "akc_code": "548",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "270",
+                            "color_long": "Chocolate Tan & White",
+                            "color_short": "CHLT TN & WH"
+                        },
+                        {
+                            "color_index": 1360,
+                            "breed_name_url": "biewer-terrier",
+                            "breed_name": "Biewer Terrier",
+                            "akc_code": "548",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "030",
+                            "color_long": "Black Tan & White",
+                            "color_short": "BLK TN & WH"
+                        },
+                        {
+                            "color_index": 1361,
+                            "breed_name_url": "biewer-terrier",
+                            "breed_name": "Biewer Terrier",
+                            "akc_code": "548",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "291",
+                            "color_long": "Blue Tan & White",
+                            "color_short": "BL TN & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "breed_club_name": "Biewer Terrier Club of America",
+                    "breed_club_url": "https://biewerterrierclubofamerica.org/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2025/09/19104610/Biewer-Terrier-Club-Flyer-071525.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Biewer Terrier Club of America",
+                    "national_breed_club_url": "https://biewerterrierclubofamerica.org/",
+                    "breed_referral_contact_name": "Debarah Billings",
+                    "breed_referral_contact_phone_number": "(423) 483-9242",
+                    "breed_referral_contact_email": "debarah@gmail.com",
+                    "breed_referral_contact_address": "212 DECK VALLEY DR\nBLOUNTVILLE, TN 37617-3609",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1452,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 38,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Biewer Terrier Club of America has been designated the AKC Parent Club to represent the Biewer Terrier. Those interested in adoption can connect with the Biewer Terrier Rescue Association."
+                        },
+                        {
+                            "id": 432,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 434,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 431,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 433,
+                            "breed_id": "38",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "biewer-terrier": {
+                    "breed_name_url": "biewer-terrier",
+                    "breed_name": "Biewer Terrier",
+                    "akc_org_history": "<p>The Biewer Terrier originated in Germany, in 1984, when two tricolor puppies were born in the kennel of experienced Yorkshire Terrier breeders Werner and Gertrude Biewer. A veterinarian friend suggested they call the dogs Biewer Yorkshire Terriers. Soon afterward a famous German singer took a liking to the dogs, adding the words \u00bfa la Pom Pon\u00bf to the breed name. In the following years the Biewers continued to work on developing a consistent population of the charming little dogs through selective breedings.</p>\n<p>American dog fanciers began importing the breed from Germany beginning in 2002. The delightful dogs quickly caught on in the U.S., with clubs forming as early as 2006 to protect and promote the new breed. During this period the Biewer Terrier Club of America was formed.</p>\n<p>The BTCA contacted Mars Veterinary in early 2007 to see if the lab could develop a program to confirm whether the Biewer Terrier was in fact a strain of the Yorkshire Terrier, or a separate breed. By September 2007 the lab was ready with DNA testing for this purpose, and BTCA members submitted a number of blood samples to begin the work. The results of these tests showed the samples were separate from the Yorkshire Terrier. These new results prompted the submission of further testing.&nbsp;</p>\n<p>This whimsical little toy breed is <em>wonderbar,</em> as Mrs. Biewer herself said when two BTCA members visited her in Germany in 2007. The BTCA founding members worked long and hard to protect and perfect the breed, now named Biewer Terrier.&nbsp;</p>",
+                    "mp_history_job": "<p>The Biewer Terrier originated in Germany, in 1984, when two tricolor puppies were born in the kennel of experienced Yorkshire Terrier breeders Werner and Gertrude Biewer. A veterinarian friend suggested they call the dogs Biewer Yorkshire Terriers. Soon afterward a famous German singer took a liking to the dogs, adding the words \u00bfa la Pom Pon\u00bf to the breed name. In the following years the Biewers continued to work on developing a consistent population of the charming little dogs through selective breedings.</p>\n<p>American dog fanciers began importing the breed from Germany beginning in 2002. The delightful dogs quickly caught on in the U.S., with clubs forming as early as 2006 to protect and promote the new breed. During this period the Biewer Terrier Club of America was formed.</p>\n<p>The BTCA contacted Mars Veterinary in early 2007 to see if the lab could develop a program to confirm whether the Biewer Terrier was in fact a strain of the Yorkshire Terrier, or a separate breed. By September 2007 the lab was ready with DNA testing for this purpose, and BTCA members submitted a number of blood samples to begin the work. The results of these tests showed the samples were separate from the Yorkshire Terrier. These new results prompted the submission of further testing.</p>\n<p>This whimsical little toy breed is <em>wonderbar,</em> as Mrs. Biewer herself said when two BTCA members visited her in Germany in 2007. The BTCA founding members worked long and hard to protect and perfect the breed, now named Biewer Terrier.&nbsp;</p>",
+                    "did_you_know": "The Biewer Terrier is commonly referred to as a Biewer or BT. | The breed's original name was German Yorkshire Terrier. | The Biewer Terrier was assigned to the Toy Group in April, 2014. | On October 5, 2009, Mars Veterinary created the Biewer Terrier breed signature after conducting an extensive genetic study. |  | Biewer Terriers are born black, white and tan. | The Biewer Terrier moved to full AKC status January 2021"
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775198602",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23608%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-standing-on-a-white-background1.jpg",
+                    "alt": "Biewer Terrier standing in profile on a white background.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terriers-sitting-outdoors-in-the-yard-in-the-fall.jpg",
+                    "alt": "Biewer Terriers sitting in the yard in the fall.",
+                    "caption": "",
+                    "credit": "\u00a9Rose Kitta"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/biewer.9.jpg",
+                    "alt": "Biewer Terrier running through grass outdoors.",
+                    "caption": "",
+                    "credit": "muro / stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer.3.jpg",
+                    "alt": "Biewer Terrier standing on a small log outdoors.",
+                    "caption": "",
+                    "credit": "\u0414\u0430\u0448\u0430 \u0428\u0432\u0435\u0446\u043e\u0432\u0430 / stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-standing-in-the-grass.jpg",
+                    "alt": "Biewer Terrier standing in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9muro - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/biewer.10.jpg",
+                    "alt": "Biewer Terrier sitting in a field of dandelions.",
+                    "caption": "",
+                    "credit": "\u00a9\u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0428\u0438\u0445\u0430\u043b\u0435\u0435\u0432\u0430 - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-running-in-the-grass-with-a-ball.jpg",
+                    "alt": "Biewer Terrier running in the grass with a ball.",
+                    "caption": "",
+                    "credit": "\u00a9muro - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer.7.jpg",
+                    "alt": "Biewer Terrier lying in three-quarter view.",
+                    "caption": "",
+                    "credit": "vivienstock / stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-illustration.jpg",
+                "alt": "Biewer Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-puppy-standing-in-profile-in-the-grass.jpg",
+                "alt": "Biewer Terrier puppy standing in the grass."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/biewer-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Biewer Terrier",
+        "shopCta": false
+    }
+}

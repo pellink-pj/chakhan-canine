@@ -130,7 +130,7 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "12-15 years",
-                            "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                            "related_breeds": "Australian Kelpie, Border Collie, Australian Cattle Dog, Collie, Beauceron",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "alert / intelligent / eager"
@@ -164,8 +164,8 @@
                             "temperament": "independent / smart / poised"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -465,7 +465,7 @@
                 "carolina-dog": {
                     "markings": [
                         {
-                            "marking_index": 340,
+                            "marking_index": 342,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -475,7 +475,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 341,
+                            "marking_index": 343,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -485,7 +485,7 @@
                             "markings_short": "IRSH MRKD"
                         },
                         {
-                            "marking_index": 342,
+                            "marking_index": 344,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -501,7 +501,7 @@
                 "carolina-dog": {
                     "colors": [
                         {
-                            "color_index": 1102,
+                            "color_index": 1103,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -512,7 +512,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1103,
+                            "color_index": 1104,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -523,7 +523,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1104,
+                            "color_index": 1105,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -534,7 +534,7 @@
                             "color_short": "BF"
                         },
                         {
-                            "color_index": 1105,
+                            "color_index": 1106,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -545,7 +545,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1106,
+                            "color_index": 1107,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -556,7 +556,7 @@
                             "color_short": "TWNY"
                         },
                         {
-                            "color_index": 1107,
+                            "color_index": 1108,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -567,7 +567,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1108,
+                            "color_index": 1109,
                             "breed_name_url": "carolina-dog",
                             "breed_name": "Carolina Dog",
                             "akc_code": "454",
@@ -679,7 +679,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781193070",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23944%5D",
@@ -728,8 +728,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

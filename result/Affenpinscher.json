@@ -211,8 +211,8 @@
                             "temperament": "alert / cheerful / busy"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -467,7 +467,7 @@
                     "breed_name_url": "affenpinscher",
                     "breed_name": "Affenpinscher",
                     "akc_org_blurb": "<p>Loyal, curious, and famously amusing, this almost-human toy dog is fearless out of all proportion to his size. As with all great comedians, it's the Affenpinscher's apparent seriousness of purpose that makes his antics all the more amusing.</p>",
-                    "akc_org_about": "<p>The Affen's apish look has been described many ways. They've been called 'monkey dogs' and 'ape terriers.' The French say diablotin moustachu ('mustached little devil'), and Star Wars fans argue whether they look more like Wookies or Ewoks. &nbsp;&nbsp;&nbsp;&nbsp;Standing less than a foot tall, these sturdy terrier-like dogs approach life with great confidence. 'This isn't a breed you train, 'a professional dog handler tells us, 'He's like a human. You befriend him.'\u009d The dense, harsh coat is described as 'neat but shaggy' and comes in several colors; the gait is light and confident. They can be willful and domineering, but mostly Affens are loyal, affectionate, and always entertaining. Affen people say they love being owned by their little monkey dogs.</p>",
+                    "akc_org_about": "<p>The Affen's apish look has been described many ways. They've been called 'monkey dogs' and 'ape terriers.' The French say diablotin moustachu ('mustached little devil'), and Star Wars fans argue whether they look more like Wookies or Ewoks. &nbsp;&nbsp;&nbsp;&nbsp;Standing less than a foot tall, these sturdy terrier-like dogs approach life with great confidence. 'This isn't a breed you train, 'a professional dog handler tells us, 'He's like a human. You befriend him.' The dense, harsh coat is described as 'neat but shaggy' and comes in several colors; the gait is light and confident. They can be willful and domineering, but mostly Affens are loyal, affectionate, and always entertaining. Affen people say they love being owned by their little monkey dogs.</p>",
                     "mp_description": "<p>A big name for a very little dog. Called the 'mustached little devil' in France and the 'monkey-like terrier' in Germany, the breed is full of mischief and fun. They're intelligent dogs who need plenty of playtime and brisk walks. At such a small size, they're happy in any size home, including city apartments. Your Affenpinscher puppy will grow up with confidence and fearlessness that far outweighs his toy size, so diligent, patient training is important. He can be an endlessly entertaining companion and also succeeds in agility, obedience and the show ring.</p>"
                 }
             },
@@ -513,7 +513,7 @@
                 "affenpinscher": {
                     "markings": [
                         {
-                            "marking_index": 345,
+                            "marking_index": 362,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -529,7 +529,7 @@
                 "affenpinscher": {
                     "colors": [
                         {
-                            "color_index": 1123,
+                            "color_index": 1144,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -540,7 +540,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1124,
+                            "color_index": 1145,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -551,7 +551,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1125,
+                            "color_index": 1146,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -562,7 +562,7 @@
                             "color_short": "BLK & SLVR"
                         },
                         {
-                            "color_index": 1126,
+                            "color_index": 1147,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -573,7 +573,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1127,
+                            "color_index": 1148,
                             "breed_name_url": "affenpinscher",
                             "breed_name": "Affenpinscher",
                             "akc_code": "501",
@@ -685,7 +685,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781245390",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23195%5D",
@@ -734,8 +734,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -197,8 +197,8 @@
                             "temperament": "friendly / energetic / watchful"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -498,7 +498,7 @@
                 "finnish-lapphund": {
                     "markings": [
                         {
-                            "marking_index": 599,
+                            "marking_index": 616,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -508,7 +508,7 @@
                             "markings_short": "WH&TN MKGS"
                         },
                         {
-                            "marking_index": 600,
+                            "marking_index": 617,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -518,7 +518,7 @@
                             "markings_short": "DMNO"
                         },
                         {
-                            "marking_index": 601,
+                            "marking_index": 618,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -528,7 +528,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 602,
+                            "marking_index": 619,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -538,7 +538,7 @@
                             "markings_short": "SBL WH MKGS"
                         },
                         {
-                            "marking_index": 603,
+                            "marking_index": 620,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -548,7 +548,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 604,
+                            "marking_index": 621,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -558,7 +558,7 @@
                             "markings_short": "WLF SBL & WH"
                         },
                         {
-                            "marking_index": 605,
+                            "marking_index": 622,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -574,7 +574,7 @@
                 "finnish-lapphund": {
                     "colors": [
                         {
-                            "color_index": 1914,
+                            "color_index": 1936,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -585,7 +585,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1915,
+                            "color_index": 1937,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -596,7 +596,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 1916,
+                            "color_index": 1938,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -607,7 +607,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1917,
+                            "color_index": 1939,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -618,7 +618,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1918,
+                            "color_index": 1940,
                             "breed_name_url": "finnish-lapphund",
                             "breed_name": "Finnish Lapphund",
                             "akc_code": "848",
@@ -730,7 +730,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781199098",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24370%5D",
@@ -779,8 +779,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

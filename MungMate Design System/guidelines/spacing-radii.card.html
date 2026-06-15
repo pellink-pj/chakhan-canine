@@ -1,0 +1,20 @@
+<!-- @dsCard group="Spacing" viewport="700x160" name="Radii" subtitle="Soft is the brand — pills for chips, big radii for cards" -->
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body{margin:0;font-family:var(--font-sans);background:var(--bg-app);padding:20px 24px}
+  .row{display:flex;gap:14px;align-items:center}
+  .col{display:flex;flex-direction:column;align-items:center;gap:7px}
+  .box{width:70px;height:62px;background:#fff;border:1.5px solid var(--coral-300);box-shadow:var(--shadow-sm)}
+  .lab{font-family:var(--font-mono);font-size:10px;color:var(--text-caption);text-align:center}
+</style></head>
+<body>
+  <div class="row">
+    <div class="col"><div class="box" style="border-radius:var(--radius-xs)"></div><div class="lab">xs 6 · chips</div></div>
+    <div class="col"><div class="box" style="border-radius:var(--radius-md)"></div><div class="lab">md 12 · input</div></div>
+    <div class="col"><div class="box" style="border-radius:var(--radius-lg)"></div><div class="lab">lg 16 · button</div></div>
+    <div class="col"><div class="box" style="border-radius:var(--radius-xl)"></div><div class="lab">xl 20 · card</div></div>
+    <div class="col"><div class="box" style="border-radius:var(--radius-2xl)"></div><div class="lab">2xl 24 · hero</div></div>
+    <div class="col"><div class="box" style="width:62px;border-radius:var(--radius-pill)"></div><div class="lab">pill · badge</div></div>
+  </div>
+</body></html>

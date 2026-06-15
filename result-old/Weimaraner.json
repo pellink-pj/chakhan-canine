@@ -1,0 +1,1277 @@
+{
+    "settings": {
+        "current_breed": "weimaraner",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/05/15151954/Weimaraner-Health-Statement-September-2021.pdf",
+                    "mp_health": "<p>Weimaraners are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia. A small percentage of puppies have a genetic predisposition to overreacting to vaccines. The symptoms are fever, joint soreness and swelling. Bloat can occur in adult dogs and is a life-threatening emergency. Symptoms include distended abdomen, unproductive vomiting and distress. Some dogs may be faced with these health challenges in their lives, but the majority of Weimaraners are healthy dogs.</p>",
+                    "akc_org_health": "<p>Being a very active breed, Weimaraners get more than their share of accidental cuts, scrapes, sprains, and pulls. They love to chew, and that makes for mouth and gum injury. Be careful of them ingesting things that should not go down a dog' s throat. The most serious health issue in the breed is gastric torsion. This is a life-threatening condition where the stomach gets overstretched and twists shut. Discuss the symptoms with your vet so you can recognize them, and seek immediate veterinary care should it ever occur.</p>",
+                    "akc_org_nutrition": "<p>Generally, Weimaraners are good eaters. (In fact, they will eat their dinner and then try to eat the bowl.) Owners should feed a highly rated food that has a moderately high protein content. If feeding kibble, some people add water to the dry food. If the dry food is enhanced with canned food or table scraps, be careful not to add too much. Rich food can upset their digestion.</p>",
+                    "akc_org_grooming": "<p>The biggest job in grooming the Weimaraner is keeping the nails short. This is important for the comfort and health of your dog and cannot be overemphasized. When nail length gets out of hand, it's difficult to get it back to a proper length. (If you can hear a tap-tap-tap when they cross a hardwood floor, the nails are too long.) The short coat should be brushed to remove 'dead hair.' Don't forget to clean the ears clean the ears, since having an ear structure that impedes air-flow makes for the potential of infected ears.</p>",
+                    "akc_org_exercise": "<p>Weimaraners have high exercise requirements. They need consistent exercise for their physical and mental well-being. They love a good run. While walking is OK, stretching their legs and getting \"up a full head of steam\" is far better. A tired Weimaraner is a good Weimaraner.</p>",
+                    "akc_org_training": "<p>As one longtime breeder says, 'The good news is that Weimaraners are smart; the bad news is that Weimaraners are smart.' They learn quickly, and that includes both good and bad behaviors. Get to a training class and be consistent with your training methods. Weimaraners operate on the principle of 'What's in it for me?' Be creative in your training by making what you want what they want. Early socialization and puppy training are vital and help to ensure that the Weimaraner grows into a well-adjusted, well-mannered companion.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Thyroid Evaluation",
+                    "test_5": "Spinal Dysraphism (SD) - DNA Test",
+                    "test_6": "Hypomyelination (HYM) - DNA Test",
+                    "test_7": "Hyperuricosuria (HUU) - DNA Test",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Thyroid Evaluation | Spinal Dysraphism (SD) - DNA Test | Hypomyelination (HYM) - DNA Test | Hyperuricosuria (HUU) - DNA Test"
+                }
+            },
+            "basics": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "breed_name_oracle": "Weimaraner",
+                    "matches_oracle": "Weimaraner",
+                    "akc_code": "123",
+                    "breed_name_plural": "Weimaraners",
+                    "breed_nicknames": "The Gray Ghost",
+                    "origin": "Germany",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1943",
+                    "life_expectancy": "10-13 years",
+                    "related_breeds": "Vizsla, Pointer, Dalmatian, Braque Francais Pyrenean, German Shorthaired Pointer",
+                    "links": [],
+                    "popularity_2025": 54,
+                    "popularity_2024": 55,
+                    "popularity_2023": 48,
+                    "popularity_2022": 44,
+                    "popularity_2021": 40,
+                    "popularity_2020": 39,
+                    "popularity_2019": 39,
+                    "popularity_2018": 36,
+                    "popularity_2017": 34,
+                    "popularity_2016": 34,
+                    "popularity_2015": 34,
+                    "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "vizsla",
+                        "pointer",
+                        "dalmatian",
+                        "braque-francais-pyrenean",
+                        "german-shorthaired-pointer"
+                    ],
+                    "related_breeds_items": {
+                        "vizsla": {
+                            "breed_name_url": "vizsla",
+                            "breed_name": "Vizsla",
+                            "breed_name_oracle": "Vizsla",
+                            "matches_oracle": "Vizsla",
+                            "akc_code": "122",
+                            "breed_name_plural": "Vizslas",
+                            "breed_nicknames": "V",
+                            "origin": "Hungary",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1960",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Wirehaired Vizsla, German Shorthaired Pointer, Pointer, Weimaraner",
+                            "links": [],
+                            "popularity_2025": 36,
+                            "popularity_2024": 35,
+                            "popularity_2023": 35,
+                            "popularity_2022": 33,
+                            "popularity_2021": 32,
+                            "popularity_2020": 35,
+                            "popularity_2019": 34,
+                            "popularity_2018": 31,
+                            "popularity_2017": 30,
+                            "popularity_2016": 31,
+                            "popularity_2015": 32,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "energetic / affectionate / gentle"
+                        },
+                        "pointer": {
+                            "breed_name_url": "pointer",
+                            "breed_name": "Pointer",
+                            "breed_name_oracle": "Pointer",
+                            "matches_oracle": "Pointer",
+                            "akc_code": "101",
+                            "breed_name_plural": "Pointers",
+                            "breed_nicknames": "Pointer",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Portuguese Pointer, German Shorthaired Pointer, Slovakian Wirehaired Pointer, Pudelpointer, Braque du Bourbonnais",
+                            "links": [],
+                            "popularity_2025": 111,
+                            "popularity_2024": 121,
+                            "popularity_2023": 125,
+                            "popularity_2022": 107,
+                            "popularity_2021": 120,
+                            "popularity_2020": 116,
+                            "popularity_2019": 117,
+                            "popularity_2018": 114,
+                            "popularity_2017": 113,
+                            "popularity_2016": 117,
+                            "popularity_2015": 114,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / hardworking / even-tempered"
+                        },
+                        "dalmatian": {
+                            "breed_name_url": "dalmatian",
+                            "breed_name": "Dalmatian",
+                            "breed_name_oracle": "Dalmatian",
+                            "matches_oracle": "Dalmatian",
+                            "akc_code": "304",
+                            "breed_name_plural": "Dalmatians",
+                            "breed_nicknames": "Dal, Coach Dog",
+                            "origin": "Dalmatia (today, Croatia)",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "German Shorthaired Pointer, Weimaraner, Pointer, Rhodesian Ridgeback, Vizsla",
+                            "links": [],
+                            "popularity_2025": 50,
+                            "popularity_2024": 48,
+                            "popularity_2023": 47,
+                            "popularity_2022": 49,
+                            "popularity_2021": 49,
+                            "popularity_2020": 51,
+                            "popularity_2019": 60,
+                            "popularity_2018": 56,
+                            "popularity_2017": 63,
+                            "popularity_2016": 62,
+                            "popularity_2015": 62,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "dignified / outgoing / smart"
+                        },
+                        "braque-francais-pyrenean": {
+                            "breed_name_url": "braque-francais-pyrenean",
+                            "breed_name": "Braque Francais Pyrenean",
+                            "breed_name_oracle": "Braque Francais Pyrenean",
+                            "matches_oracle": "Braque Francais Pyrenean",
+                            "akc_code": "148",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "France",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Braque du Bourbonnais, German Shorthaired Pointer, Pointer, Brittany, Portuguese Pointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / willing to please"
+                        },
+                        "german-shorthaired-pointer": {
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "breed_name_oracle": "German Shorthaired Pointer",
+                            "matches_oracle": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "breed_name_plural": "German Shorthaired Pointers",
+                            "breed_nicknames": "GSP",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "German Wirehaired Pointer, Portuguese Pointer, Slovakian Wirehaired Pointer, German Longhaired Pointer, Pointer",
+                            "links": [],
+                            "popularity_2025": 9,
+                            "popularity_2024": 10,
+                            "popularity_2023": 10,
+                            "popularity_2022": 10,
+                            "popularity_2021": 9,
+                            "popularity_2020": 9,
+                            "popularity_2019": 9,
+                            "popularity_2018": 9,
+                            "popularity_2017": 10,
+                            "popularity_2016": 11,
+                            "popularity_2015": 11,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / smart / willing to please"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "temperament": "friendly / fearless / obedient",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "akc_org_blurb": "The Weimaraner, Germany's sleek and swift 'Gray Ghost,'\u009d is beloved by hunters and pet owners alike for their friendliness, obedience, and beauty. They enjoy exercise, and plenty of it, along with lots of quality time with their humans.",
+                    "akc_org_about": "Instantly recognized by a distinctive silvery-gray coat, male Weimaraners stand 25 to 27 inches at the shoulder, and females 23 to 25 inches. A properly bred Weimaraner will be solid colored, with maybe a small white spot on the chest. The face, with its amber or blue-gray eyes framed by long velvety ears, is amiable and intelligent. Overall, the breed presents a picture of streamlined grace and balance. A well-conditioned Weimaraner on point is a breathtaking sight.\n\n\n\n Weimaraners are excellent with kids and yearn to be full-fledged family members. Easy grooming, trainability, a loving nature, and a can-do-attitude make them excellent pets, as long as owners are committed to keeping them physically active and mentally engaged.",
+                    "mp_description": "With his distinctive silvery coat, light eyes and graceful carriage, there's not a more handsome dog than the Weimaraner. And looks aren't everything. Weimaraner puppies grow up to be intelligent, trainable and affectionate. Bred to hunt, they have great speed and endurance and thrive on lots of activity. He'll be your best running partner or teammate in a vigorous game of Frisbee. Next to exercise, the Weimaraner loves his people best and wants nothing more than to be a beloved family member."
+                }
+            },
+            "standards": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "title_1": "General Appearance",
+                    "description_1": "A medium-sized gray dog, with fine aristocratic features. He should present a picture of grace, speed, stamina, alertness and balance. Above all, the dog's conformation must indicate the ability to work with great speed and endurance in the field.",
+                    "title_2": "Head",
+                    "description_2": "Moderately long and aristocratic, with moderate stop and slight median line extending back over the forehead. Rather prominent occipital bone and trumpets well set back, beginning at the back of the eye sockets. Measurement from tip of nose to stop equals that from stop to occipital bone. The flews should be straight, delicate at the nostrils. Skin drawn tightly. Neck clean-cut and moderately long. Expression kind, keen and intelligent. Ears- Long and lobular, slightly folded and set high. The ear when drawn snugly alongside the jaw should end approximately 2 inches from the point of the nose. Eyes- In shades of light amber, gray or blue-gray, set well enough apart to indicate good disposition and intelligence. When dilated under excitement the eyes may appear almost black.",
+                    "title_3": "Body",
+                    "description_3": "The back should be moderate in length, set in a straight line, strong, and should slope slightly from the withers. The chest should be well developed and deep with shoulders well laid back. Ribs well sprung and long. Abdomen firmly held; moderately tucked-up flank. The brisket should extend to the elbow.",
+                    "title_4": "Forelegs",
+                    "description_4": "Straight and strong, with the measurement from the elbow to the ground approximately equaling the distance from the elbow to the top of the withers.",
+                    "title_5": "Coat",
+                    "description_5": "Short, smooth and sleek, solid color, in shades of mouse-gray to silver-gray, usually blending to lighter shades on the head and ears. A small white marking on the chest is permitted, but should be penalized on any other portion of the body. White spots resulting from injury should not be penalized. A distinctly long coat is a disqualification. A distinctly blue or black coat is a disqualification.",
+                    "title_6": "Hindlegs",
+                    "description_6": "Well-angulated stifles and straight hocks. Musculation well developed.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23",
+                    "height_max": "27",
+                    "weight_min": "55",
+                    "weight_max": "90",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Weimaraner.pdf",
+                    "height_min_f": "23",
+                    "height_max_f": "27",
+                    "height_min_m": "23",
+                    "height_max_m": "27",
+                    "height_display": "25-27 inches (male), 23-25 inches (female)",
+                    "weight_min_f": "55",
+                    "weight_max_f": "90",
+                    "weight_min_m": "55",
+                    "weight_max_m": "90",
+                    "weight_display": "70-90 pounds (male), 55-75 pounds (female)"
+                }
+            },
+            "colors": {
+                "weimaraner": {
+                    "colors": [
+                        {
+                            "color_index": 137,
+                            "breed_name_url": "weimaraner",
+                            "breed_name": "Weimaraner",
+                            "akc_code": "123",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 138,
+                            "breed_name_url": "weimaraner",
+                            "breed_name": "Weimaraner",
+                            "akc_code": "123",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "189",
+                            "color_long": "Silver Gray",
+                            "color_short": "SLVR GR"
+                        },
+                        {
+                            "color_index": 139,
+                            "breed_name_url": "weimaraner",
+                            "breed_name": "Weimaraner",
+                            "akc_code": "123",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "564",
+                            "color_long": "Blue*",
+                            "color_short": "BL*"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "breed_club_name": "Weimaraner Club of America",
+                    "breed_club_url": "http://weimaranerclubofamerica.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/13151758/Weimaraner-club-flyer20230209.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Weimaraner Club of America",
+                    "national_breed_club_url": "http://weimaranerclubofamerica.org",
+                    "breed_referral_contact_name": "Billie Thompson",
+                    "breed_referral_contact_phone_number": "(513) 688-0943",
+                    "breed_referral_contact_email": "wcareferral@fuse.net",
+                    "breed_referral_contact_address": "4155 MCLEAN DR\nCINCINNATI, OH 45255-3324",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://weimaranerclubofamerica.org/main/index.php?option=com_content&view=article&catid=7&id=111&lang=en",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1668,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 254,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Weimaraner Club of America was established in 1943 and is the official AKC Parent Club representing the Weimaraner in the U.S."
+                        },
+                        {
+                            "id": 1296,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1298,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1295,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1297,
+                            "breed_id": "259",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "weimaraner": {
+                    "breed_name_url": "weimaraner",
+                    "breed_name": "Weimaraner",
+                    "akc_org_history": "<p>Developed in the early 1800s, the Weimaraner (WY-mah-rah-ner ) is a veritable puppy among dog breeds. The key figure of the Weimaraner's early history was Germany's Grand Duke Karl August, who held court in the town of Weimar. The duke, like so many European nobles of the age, was an avid sportsman. His dream was to develop the perfect hunting dog. In pursuit of this ambition, he is said to have crossed Bloodhounds with various German and French hunting dogs. The result was the Weimar Pointer, or Weimaraner.</p>\n<p><br></p>\n<p>The duke and his fellow noblemen at first used these unique-looking dogs as big-game hunters, in pursuit like bear, mountain lion, and wolves. As Europe's population of these predators decreased, the Weimaraner found new work as an all-purpose hunter who points and retrieves gamebirds.</p>\n<p><br></p>\n<p>The Weimaraner was a jealously guarded secret for many years among the German aristocracy, but good specimens began arriving in America by the late 1920s. The breed's U.S. popularity as a pet and hunting dog took off in the 1950s, with such celebrity owners as President Eisenhower and movie star Grace Kelly. The breed received another boost from photographer and artist William Wegman, who became world famous for his Weimaraner portraits.</p>",
+                    "mp_history_job": "<p>The Weimaraner (WY-mah-rah-ner) was named for the German town of Weimar, where noblemen developed the breed as a hunter of big game, like bears and wolves. As Europe's population of these predators decreased, the Weimaraner found new work as an all-purpose hunter who points and retrieves game birds. Today's Weimaraners retain their ancestors' versatility and eagerness to work. They make excellent teammates in all kinds of dog sports and activities.</p>",
+                    "did_you_know": "The Weimaraner is a fairly young breed, dating back to the early 19th century in Germany. | President Dwight D. Eisenhower had a Weimaraner named Heidi, who lived in the White House with the First Family. | Artist William Wegman is famous for using Weimaraners in his works of art, including video segments which have regularly appeared on the children's TV show Sesame Street since 1989. | The Weimaraner has seen more actual competition of various types in the United States than it did in all its decades in Germany."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25953%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-running-into-water.jpg",
+                    "alt": "Weimaraner running into water.",
+                    "caption": "",
+                    "credit": "\u00a9Christian M\u00fcller - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Sporting-Group-David-0E9A8141.jpg",
+                    "alt": "Best of Breed: GCHP CH Graysong N Silhouette's Heyjude, Weimaraner; Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-head-close-up.jpg",
+                    "alt": "Weimaraner head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9scesareo - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraners-together-in-an-evergreen-forest.jpg",
+                    "alt": "Two Weimaraners together in an evergreen forest.",
+                    "caption": "",
+                    "credit": "\u00a9DragoNika - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-standing-in-the-grass.jpg",
+                    "alt": "Weimaraner standing stacked in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Mikkel Bigandt - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-fetching-a-toy-from-the-water.jpg",
+                    "alt": "Weimaraner running in water with a decoy toy in its mouth.",
+                    "caption": "",
+                    "credit": "\u00a9Christian M\u00fcller - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraners-laying-in-a-row-outdoors.jpg",
+                    "alt": "Three Weimaraners laying in a row in the grass.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-hunting.jpg",
+                    "alt": "Weimaraner running, hunting in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-Illo.jpg",
+                "alt": "Weimaraner illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-Illo.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-MP.jpg",
+                "alt": "Weimaraner puppies"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/weimaraner",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Weimaraner",
+        "shopCta": false
+    }
+}

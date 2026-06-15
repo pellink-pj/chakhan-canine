@@ -96,7 +96,7 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "12-15 years",
-                            "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                            "related_breeds": "Australian Kelpie, Border Collie, Australian Cattle Dog, Collie, Beauceron",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "alert / intelligent / eager"
@@ -174,8 +174,8 @@
                             "temperament": "alert / loyal / intelligent"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -475,7 +475,7 @@
                 "australian-stumpy-tail-cattle-dog": {
                     "markings": [
                         {
-                            "marking_index": 626,
+                            "marking_index": 643,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -485,7 +485,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 627,
+                            "marking_index": 644,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -501,7 +501,7 @@
                 "australian-stumpy-tail-cattle-dog": {
                     "colors": [
                         {
-                            "color_index": 2021,
+                            "color_index": 2043,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -512,7 +512,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 2022,
+                            "color_index": 2044,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -523,7 +523,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 2023,
+                            "color_index": 2045,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -534,7 +534,7 @@
                             "color_short": "BL MOT"
                         },
                         {
-                            "color_index": 2024,
+                            "color_index": 2046,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -545,7 +545,7 @@
                             "color_short": "BL SPKLD"
                         },
                         {
-                            "color_index": 2025,
+                            "color_index": 2047,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -556,7 +556,7 @@
                             "color_short": "RED SPKLD"
                         },
                         {
-                            "color_index": 2026,
+                            "color_index": 2048,
                             "breed_name_url": "australian-stumpy-tail-cattle-dog",
                             "breed_name": "Australian Stumpy Tail Cattle Dog",
                             "akc_code": "869",
@@ -668,7 +668,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B57316%5D",
@@ -717,8 +717,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

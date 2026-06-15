@@ -168,8 +168,8 @@
                             "temperament": "friendly / lively / outgoing"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -469,7 +469,7 @@
                 "pomeranian": {
                     "markings": [
                         {
-                            "marking_index": 379,
+                            "marking_index": 396,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -479,7 +479,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 380,
+                            "marking_index": 397,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -489,7 +489,7 @@
                             "markings_short": "MSK"
                         },
                         {
-                            "marking_index": 381,
+                            "marking_index": 398,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -499,7 +499,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 382,
+                            "marking_index": 399,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -509,7 +509,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 383,
+                            "marking_index": 400,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -519,7 +519,7 @@
                             "markings_short": "BRDL"
                         },
                         {
-                            "marking_index": 384,
+                            "marking_index": 401,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -529,7 +529,7 @@
                             "markings_short": "IRSH MRKD"
                         },
                         {
-                            "marking_index": 385,
+                            "marking_index": 402,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -539,7 +539,7 @@
                             "markings_short": "TRI MKGS"
                         },
                         {
-                            "marking_index": 386,
+                            "marking_index": 403,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -549,7 +549,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 387,
+                            "marking_index": 404,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -565,7 +565,7 @@
                 "pomeranian": {
                     "colors": [
                         {
-                            "color_index": 1240,
+                            "color_index": 1261,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -576,7 +576,7 @@
                             "color_short": "BL MRL"
                         },
                         {
-                            "color_index": 1241,
+                            "color_index": 1262,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -587,7 +587,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 1242,
+                            "color_index": 1263,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -598,7 +598,7 @@
                             "color_short": "CHLT MRL"
                         },
                         {
-                            "color_index": 1243,
+                            "color_index": 1264,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -609,7 +609,7 @@
                             "color_short": "BL SBL"
                         },
                         {
-                            "color_index": 1244,
+                            "color_index": 1265,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -620,7 +620,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1245,
+                            "color_index": 1266,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -631,7 +631,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1246,
+                            "color_index": 1267,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -642,7 +642,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1247,
+                            "color_index": 1268,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -653,7 +653,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 1248,
+                            "color_index": 1269,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -664,7 +664,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1249,
+                            "color_index": 1270,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -675,7 +675,7 @@
                             "color_short": "CHLT & TN"
                         },
                         {
-                            "color_index": 1250,
+                            "color_index": 1271,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -686,7 +686,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1251,
+                            "color_index": 1272,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -697,7 +697,7 @@
                             "color_short": "CR SBL"
                         },
                         {
-                            "color_index": 1252,
+                            "color_index": 1273,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -708,7 +708,7 @@
                             "color_short": "ORG"
                         },
                         {
-                            "color_index": 1253,
+                            "color_index": 1274,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -719,7 +719,7 @@
                             "color_short": "ORG SBL"
                         },
                         {
-                            "color_index": 1254,
+                            "color_index": 1275,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -730,7 +730,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1255,
+                            "color_index": 1276,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -741,7 +741,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 1256,
+                            "color_index": 1277,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -752,7 +752,7 @@
                             "color_short": "BVR"
                         },
                         {
-                            "color_index": 1257,
+                            "color_index": 1278,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -763,7 +763,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1258,
+                            "color_index": 1279,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -774,7 +774,7 @@
                             "color_short": "CHLT SBL"
                         },
                         {
-                            "color_index": 1259,
+                            "color_index": 1280,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -785,7 +785,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1260,
+                            "color_index": 1281,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -796,7 +796,7 @@
                             "color_short": "WLF SBL"
                         },
                         {
-                            "color_index": 1261,
+                            "color_index": 1282,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -807,7 +807,7 @@
                             "color_short": "BSBL"
                         },
                         {
-                            "color_index": 1262,
+                            "color_index": 1283,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -818,7 +818,7 @@
                             "color_short": "TRI"
                         },
                         {
-                            "color_index": 1263,
+                            "color_index": 1284,
                             "breed_name_url": "pomeranian",
                             "breed_name": "Pomeranian",
                             "akc_code": "511",
@@ -842,7 +842,7 @@
                     "national_breed_club": "American Pomeranian Club, Inc.",
                     "national_breed_club_url": "https://ampomclub.org/",
                     "breed_referral_contact_name": "Jane Lehtinen",
-                    "breed_referral_contact_phone_number": "(218) 744-1426",
+                    "breed_referral_contact_phone_number": "(218) 780-4857",
                     "breed_referral_contact_email": "janle@janlepoms.com",
                     "breed_referral_contact_address": "",
                     "breed_referral_directory_title": "website",
@@ -930,7 +930,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781236491",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25321%5D",
@@ -979,8 +979,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

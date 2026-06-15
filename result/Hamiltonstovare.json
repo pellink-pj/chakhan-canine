@@ -45,17 +45,45 @@
                     "breed_group": "Foundation Stock Service",
                     "year_recognized": 0,
                     "life_expectancy": "14-17 years",
-                    "related_breeds": "American Foxhound, Bavarian Mountain Scent Hound, Transylvanian Hound, Harrier, English Foxhound",
+                    "related_breeds": "English Foxhound, American Foxhound, Bavarian Mountain Scent Hound, Transylvanian Hound, Harrier",
                     "links": [],
                     "related_groups_characteristics": "Medium Dog Breeds",
                     "related_breeds_items_url": [
+                        "english-foxhound",
                         "american-foxhound",
                         "bavarian-mountain-scent-hound",
                         "transylvanian-hound",
-                        "harrier",
-                        "english-foxhound"
+                        "harrier"
                     ],
                     "related_breeds_items": {
+                        "english-foxhound": {
+                            "breed_name_url": "english-foxhound",
+                            "breed_name": "English Foxhound",
+                            "breed_name_oracle": "English Foxhound",
+                            "matches_oracle": "English Foxhound",
+                            "akc_code": "410",
+                            "breed_name_plural": "English Foxhounds",
+                            "breed_nicknames": "English hound",
+                            "origin": "England",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1909",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "American Foxhound, Hamiltonstovare, American English Coonhound, Beagle, Harrier",
+                            "links": [],
+                            "popularity_2025": 187,
+                            "popularity_2024": 201,
+                            "popularity_2023": 199,
+                            "popularity_2022": 199,
+                            "popularity_2021": 196,
+                            "popularity_2020": 194,
+                            "popularity_2019": 195,
+                            "popularity_2018": 188,
+                            "popularity_2017": 189,
+                            "popularity_2016": 187,
+                            "popularity_2015": 184,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "sociable / affectionate / gentle"
+                        },
                         "american-foxhound": {
                             "breed_name_url": "american-foxhound",
                             "breed_name": "American Foxhound",
@@ -145,38 +173,10 @@
                             "popularity_2015": 183,
                             "related_groups_characteristics": "",
                             "temperament": "friendly / outgoing / people-oriented"
-                        },
-                        "english-foxhound": {
-                            "breed_name_url": "english-foxhound",
-                            "breed_name": "English Foxhound",
-                            "breed_name_oracle": "English Foxhound",
-                            "matches_oracle": "English Foxhound",
-                            "akc_code": "410",
-                            "breed_name_plural": "English Foxhounds",
-                            "breed_nicknames": "English hound",
-                            "origin": "England",
-                            "breed_group": "Hound Group",
-                            "year_recognized": "1909",
-                            "life_expectancy": "10-13 years",
-                            "related_breeds": "American Foxhound, Hamiltonstovare, American English Coonhound, Beagle, Harrier",
-                            "links": [],
-                            "popularity_2025": 187,
-                            "popularity_2024": 201,
-                            "popularity_2023": 199,
-                            "popularity_2022": 199,
-                            "popularity_2021": 196,
-                            "popularity_2020": 194,
-                            "popularity_2019": 195,
-                            "popularity_2018": 188,
-                            "popularity_2017": 189,
-                            "popularity_2016": 187,
-                            "popularity_2015": 184,
-                            "related_groups_characteristics": "Medium Dog Breeds",
-                            "temperament": "sociable / affectionate / gentle"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -476,7 +476,7 @@
                 "hamiltonstovare": {
                     "colors": [
                         {
-                            "color_index": 1072,
+                            "color_index": 1073,
                             "breed_name_url": "hamiltonstovare",
                             "breed_name": "Hamiltonstovare",
                             "akc_code": "444",
@@ -588,7 +588,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781209992",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24633%5D",
@@ -637,8 +637,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1145,7 +1145,7 @@
                 {
                     "src": "https://www.akc.org/wp-content/uploads/2017/11/Hamiltonstovare-standing-outdoors.jpg",
                     "alt": "Hamiltonstovare standing in three-quarter view in the grass.",
-                    "caption": "",
+                    "caption": "Hamiltonstovare",
                     "credit": ""
                 },
                 {

@@ -178,8 +178,8 @@
                             "temperament": "fearless / bold / kind"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -479,7 +479,7 @@
                 "anatolian-shepherd-dog": {
                     "markings": [
                         {
-                            "marking_index": 452,
+                            "marking_index": 469,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -489,7 +489,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 453,
+                            "marking_index": 470,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -499,7 +499,7 @@
                             "markings_short": "BR MSK"
                         },
                         {
-                            "marking_index": 454,
+                            "marking_index": 471,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -509,7 +509,7 @@
                             "markings_short": "DTCH MKGS"
                         },
                         {
-                            "marking_index": 455,
+                            "marking_index": 472,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -519,7 +519,7 @@
                             "markings_short": "PNTO"
                         },
                         {
-                            "marking_index": 456,
+                            "marking_index": 473,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -529,7 +529,7 @@
                             "markings_short": "PNTO BLK MSK"
                         },
                         {
-                            "marking_index": 457,
+                            "marking_index": 474,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -545,73 +545,7 @@
                 "anatolian-shepherd-dog": {
                     "colors": [
                         {
-                            "color_index": 1496,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "082",
-                            "color_long": "Fawn",
-                            "color_short": "FN"
-                        },
-                        {
-                            "color_index": 1497,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "036",
-                            "color_long": "Blue Fawn",
-                            "color_short": "BL FN"
-                        },
-                        {
-                            "color_index": 1498,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "377",
-                            "color_long": "Gray Fawn",
-                            "color_short": "GR FN"
-                        },
-                        {
-                            "color_index": 1499,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "150",
-                            "color_long": "Red Fawn",
-                            "color_short": "RD FN"
-                        },
-                        {
-                            "color_index": 1500,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "123",
-                            "color_long": "Liver",
-                            "color_short": "LVR"
-                        },
-                        {
-                            "color_index": 1501,
-                            "breed_name_url": "anatolian-shepherd-dog",
-                            "breed_name": "Anatolian Shepherd Dog",
-                            "akc_code": "635",
-                            "standard_alternate": "S",
-                            "conformation_eligible": null,
-                            "cde_color": "199",
-                            "color_long": "White",
-                            "color_short": "WH"
-                        },
-                        {
-                            "color_index": 1502,
+                            "color_index": 1517,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -622,7 +556,7 @@
                             "color_short": "BSCT & WHT"
                         },
                         {
-                            "color_index": 1503,
+                            "color_index": 1518,
                             "breed_name_url": "anatolian-shepherd-dog",
                             "breed_name": "Anatolian Shepherd Dog",
                             "akc_code": "635",
@@ -631,6 +565,72 @@
                             "cde_color": "057",
                             "color_long": "Brindle",
                             "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1519,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1520,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "036",
+                            "color_long": "Blue Fawn",
+                            "color_short": "BL FN"
+                        },
+                        {
+                            "color_index": 1521,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "377",
+                            "color_long": "Gray Fawn",
+                            "color_short": "GR FN"
+                        },
+                        {
+                            "color_index": 1522,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "150",
+                            "color_long": "Red Fawn",
+                            "color_short": "RD FN"
+                        },
+                        {
+                            "color_index": 1523,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 1524,
+                            "breed_name_url": "anatolian-shepherd-dog",
+                            "breed_name": "Anatolian Shepherd Dog",
+                            "akc_code": "635",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
                         }
                     ]
                 }
@@ -734,7 +734,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23354%5D",
@@ -783,8 +783,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1003,7 +1003,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/anatolian-shepherd-dog",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1362,6 +1371,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Anatolian Shepherd Dog",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/anatolian-shepherd-dog",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

@@ -196,8 +196,8 @@
                             "temperament": "reserved / independent / intelligent"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -497,7 +497,7 @@
                 "chinese-shar-pei": {
                     "markings": [
                         {
-                            "marking_index": 172,
+                            "marking_index": 174,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -507,7 +507,7 @@
                             "markings_short": "MSK"
                         },
                         {
-                            "marking_index": 173,
+                            "marking_index": 175,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -517,7 +517,7 @@
                             "markings_short": "BRDL"
                         },
                         {
-                            "marking_index": 174,
+                            "marking_index": 176,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -527,7 +527,7 @@
                             "markings_short": "SPTD ON WH"
                         },
                         {
-                            "marking_index": 175,
+                            "marking_index": 177,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -537,7 +537,7 @@
                             "markings_short": "PTD"
                         },
                         {
-                            "marking_index": 176,
+                            "marking_index": 178,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -547,7 +547,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 177,
+                            "marking_index": 179,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -557,7 +557,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 178,
+                            "marking_index": 180,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -573,7 +573,7 @@
                 "chinese-shar-pei": {
                     "colors": [
                         {
-                            "color_index": 599,
+                            "color_index": 600,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -584,7 +584,7 @@
                             "color_short": "APCT DLUT"
                         },
                         {
-                            "color_index": 600,
+                            "color_index": 601,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -595,7 +595,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 601,
+                            "color_index": 602,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -606,7 +606,7 @@
                             "color_short": "BL DLUT"
                         },
                         {
-                            "color_index": 602,
+                            "color_index": 603,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -617,7 +617,7 @@
                             "color_short": "LI DLUT"
                         },
                         {
-                            "color_index": 603,
+                            "color_index": 604,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -628,7 +628,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 604,
+                            "color_index": 605,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -639,7 +639,7 @@
                             "color_short": "CR DLUT"
                         },
                         {
-                            "color_index": 605,
+                            "color_index": 606,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -650,7 +650,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 606,
+                            "color_index": 607,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -661,7 +661,7 @@
                             "color_short": "CHLT DLUT"
                         },
                         {
-                            "color_index": 607,
+                            "color_index": 608,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -672,7 +672,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 608,
+                            "color_index": 609,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -683,7 +683,7 @@
                             "color_short": "FIVE PT RD DLUT"
                         },
                         {
-                            "color_index": 609,
+                            "color_index": 610,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -694,7 +694,7 @@
                             "color_short": "RD FN"
                         },
                         {
-                            "color_index": 610,
+                            "color_index": 611,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -705,7 +705,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 611,
+                            "color_index": 612,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -716,7 +716,7 @@
                             "color_short": "ISB DLUT"
                         },
                         {
-                            "color_index": 612,
+                            "color_index": 613,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -727,7 +727,7 @@
                             "color_short": "BLK SBL"
                         },
                         {
-                            "color_index": 613,
+                            "color_index": 614,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -738,7 +738,7 @@
                             "color_short": "CR SBL"
                         },
                         {
-                            "color_index": 614,
+                            "color_index": 615,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -749,7 +749,7 @@
                             "color_short": "FN SBL"
                         },
                         {
-                            "color_index": 615,
+                            "color_index": 616,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -760,7 +760,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 616,
+                            "color_index": 617,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -771,7 +771,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 617,
+                            "color_index": 618,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -782,7 +782,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 618,
+                            "color_index": 619,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -793,7 +793,7 @@
                             "color_short": "BL SBL"
                         },
                         {
-                            "color_index": 619,
+                            "color_index": 620,
                             "breed_name_url": "chinese-shar-pei",
                             "breed_name": "Chinese Shar-Pei",
                             "akc_code": "314",
@@ -905,7 +905,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24031%5D",
@@ -954,8 +954,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

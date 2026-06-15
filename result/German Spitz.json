@@ -197,8 +197,8 @@
                             "temperament": "Loyal / Smart / Versatile"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -494,7 +494,7 @@
                 "german-spitz": {
                     "markings": [
                         {
-                            "marking_index": 192,
+                            "marking_index": 194,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -504,7 +504,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 193,
+                            "marking_index": 195,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -514,7 +514,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 194,
+                            "marking_index": 196,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -530,7 +530,7 @@
                 "german-spitz": {
                     "colors": [
                         {
-                            "color_index": 652,
+                            "color_index": 653,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -541,7 +541,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 653,
+                            "color_index": 654,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -552,7 +552,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 654,
+                            "color_index": 655,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -563,7 +563,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 655,
+                            "color_index": 656,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -574,7 +574,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 656,
+                            "color_index": 657,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -585,7 +585,7 @@
                             "color_short": "ORG"
                         },
                         {
-                            "color_index": 657,
+                            "color_index": 658,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -596,7 +596,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 658,
+                            "color_index": 659,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -607,7 +607,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 659,
+                            "color_index": 660,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -618,7 +618,7 @@
                             "color_short": "WLFGR"
                         },
                         {
-                            "color_index": 660,
+                            "color_index": 661,
                             "breed_name_url": "german-spitz",
                             "breed_name": "German Spitz",
                             "akc_code": "319",
@@ -730,7 +730,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24487%5D",
@@ -779,8 +779,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

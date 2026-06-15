@@ -1,0 +1,1369 @@
+{
+    "settings": {
+        "current_breed": "german-spitz",
+        "current_breed_group": {
+            "name": "Miscellaneous Class",
+            "url": "https://www.akc.org/dog-breeds/miscellaneous-class/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage. </p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/10/30083732/German-Spitz-Health-Statement-October-2023.pdf",
+                    "mp_health": "<p>Some cases of PRA (Progressive Retinal Atrophy), RD (Retinal Dysplasia), and Patella Luxation have been seen in the German Spitz, but a majority of this breed are generally healthy. Puppies should be bought only from responsible breeders who eye test their breeding stock. Working with a reputable breeder, prospective owners can gain the education they need to learn about specific health concerns within the breed.</p>",
+                    "akc_org_health": "<p>Some cases of PRA (Progressive Retinal Atrophy), RD (Retinal Dysplasia), and Patella Luxation have been seen in the German Spitz, but a majority of this breed are generally healthy. Puppies should be bought only from responsible breeders who eye test their breeding stock. Working with a reputable breeder, prospective owners can gain the education they need to learn about specific health concerns within the breed.</p>",
+                    "akc_org_nutrition": "<p>You are going to want to feed your German Spitz a formula that will cater to his unique digestive needs throughout the various phases of his life. Many dog food companies have breed-specific formulas for small, medium, large and extra-large breeds. The German Spitz is a small breed. &nbsp;&nbsp;&nbsp;&nbsp;What you feed your dog is an individual choice, but working with your veterinarian and/or breeder will be the best way to determine frequency of meals as a puppy and the best adult diet to increase his longevity. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The German Spitz has a profuse double coat, which sheds twice per year. During those times, the entire undercoat is shed in the span of about 2 to 3 weeks. Daily brushing will be required to remove his old coat and his hair will inevitably be all over your clothes, furniture and floor. The good news is his shedding is quite minimal during the rest of the year. A quick brush every couple days and a thorough grooming once per week will suffice to keep mats and knots from forming. His hair should never be clipped off entirely, as you will remove the insulating properties of his coat. He also does not need to be bathed very often. Mud can be brushed out of his coat if allowed to dry first.</p>",
+                    "akc_org_exercise": "<p>A moderate amount of regular exercise will suffice for the German Spitz. Though longer activity is unnecessary, he will happily keep up on an extended walk. Providing a secure area for exercise is highly recommended as he is a very curious dog and can wiggle through the smallest of gaps in search for other adventures. Ponds are also a hazard to this breed and should be fenced off. Exercise can also come in the form of indoor activities, like hide-and-seek, chasing a ball rolled along the floor, or teaching him new tricks. If you live in an apartment, even short walks in the hallways can give your dog some exercise, especially during inclement weather. &nbsp;&nbsp;&nbsp;&nbsp;Equally important is not to let your German Spitz become too bored. He is a lively and intelligent breed and, if left with nothing to do all day, he may become destructive or excessively bark.</p>",
+                    "akc_org_training": "<p>Highly intelligent, the German Spitz learns quickly and is eager to please with motivational methods. He does not respond well to being made to do things however. One behavioral characteristic you may want to curb with training is his natural reaction to bark at anything new or unusual. Bred to be an alert watchdog, he is naturally very vocal, but this should not be allowed to become a problem. Your neighbors will not thank you for it either. With good training, this breed can excel at mini agility heelwork to music and obedience.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Elbow Evaluation",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Multiplex DNA testing",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | Multiplex DNA testing"
+                }
+            },
+            "basics": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "breed_name_oracle": "German Spitz",
+                    "matches_oracle": "German Spitz",
+                    "akc_code": "319",
+                    "breed_name_plural": "German Spitz",
+                    "breed_nicknames": "",
+                    "origin": "Germany",
+                    "breed_group": "Miscellaneous Class",
+                    "year_recognized": 0,
+                    "life_expectancy": "13-15 years",
+                    "related_breeds": "Pomeranian, Keeshond, Papillon, Chihuahua, American Eskimo Dog",
+                    "links": [],
+                    "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                    "related_breeds_items_url": [
+                        "pomeranian",
+                        "keeshond",
+                        "papillon",
+                        "chihuahua",
+                        "american-eskimo-dog"
+                    ],
+                    "related_breeds_items": {
+                        "pomeranian": {
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "breed_name_oracle": "Pomeranian",
+                            "matches_oracle": "Pomeranian",
+                            "akc_code": "511",
+                            "breed_name_plural": "Pomeranians",
+                            "breed_nicknames": "Pom",
+                            "origin": "Iceland",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "German Spitz, Papillon, Pekingese, Keeshond",
+                            "links": [],
+                            "popularity_2025": 19,
+                            "popularity_2024": 22,
+                            "popularity_2023": 22,
+                            "popularity_2022": 23,
+                            "popularity_2021": 24,
+                            "popularity_2020": 23,
+                            "popularity_2019": 24,
+                            "popularity_2018": 23,
+                            "popularity_2017": 22,
+                            "popularity_2016": 22,
+                            "popularity_2015": 21,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "inquisitive / lively / bold"
+                        },
+                        "keeshond": {
+                            "breed_name_url": "keeshond",
+                            "breed_name": "Keeshond",
+                            "breed_name_oracle": "Keeshond",
+                            "matches_oracle": "Keeshond",
+                            "akc_code": "306",
+                            "breed_name_plural": "Keeshonded",
+                            "breed_nicknames": "Kees, Dutch Barge Dog",
+                            "origin": "The Netherlands",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Icelandic Sheepdog, American Eskimo Dog, Pomeranian, German Spitz, Schipperke",
+                            "links": [],
+                            "popularity_2025": 85,
+                            "popularity_2024": 90,
+                            "popularity_2023": 89,
+                            "popularity_2022": 90,
+                            "popularity_2021": 95,
+                            "popularity_2020": 96,
+                            "popularity_2019": 89,
+                            "popularity_2018": 95,
+                            "popularity_2017": 87,
+                            "popularity_2016": 92,
+                            "popularity_2015": 84,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds, ",
+                            "temperament": "friendly / lively / outgoing"
+                        },
+                        "papillon": {
+                            "breed_name_url": "papillon",
+                            "breed_name": "Papillon",
+                            "breed_name_oracle": "Papillon",
+                            "matches_oracle": "Papillon",
+                            "akc_code": "509",
+                            "breed_name_plural": "Papillons",
+                            "breed_nicknames": "The Butterfly Dog, Pap",
+                            "origin": "France",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1915",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Russian Toy, Toy Fox Terrier, Chihuahua, Japanese Chin",
+                            "links": [],
+                            "popularity_2025": 42,
+                            "popularity_2024": 44,
+                            "popularity_2023": 45,
+                            "popularity_2022": 51,
+                            "popularity_2021": 54,
+                            "popularity_2020": 53,
+                            "popularity_2019": 53,
+                            "popularity_2018": 54,
+                            "popularity_2017": 53,
+                            "popularity_2016": 53,
+                            "popularity_2015": 48,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Smartest Breeds of Dogs",
+                            "temperament": "alert / friendly / happy"
+                        },
+                        "chihuahua": {
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "breed_name_oracle": "Chihuahua",
+                            "matches_oracle": "Chihuahua",
+                            "akc_code": "503",
+                            "breed_name_plural": "Chihuahuas",
+                            "breed_nicknames": "Chi",
+                            "origin": "Mexican State of Chihuahua",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1904",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Toy Fox Terrier, Japanese Chin, Russian Toy, Papillon",
+                            "links": [],
+                            "popularity_2025": 24,
+                            "popularity_2024": 27,
+                            "popularity_2023": 32,
+                            "popularity_2022": 34,
+                            "popularity_2021": 37,
+                            "popularity_2020": 34,
+                            "popularity_2019": 35,
+                            "popularity_2018": 33,
+                            "popularity_2017": 32,
+                            "popularity_2016": 30,
+                            "popularity_2015": 28,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "charming / graceful / sassy"
+                        },
+                        "american-eskimo-dog": {
+                            "breed_name_url": "american-eskimo-dog",
+                            "breed_name": "American Eskimo Dog",
+                            "breed_name_oracle": "American Eskimo Dog",
+                            "matches_oracle": "American Eskimo Dog",
+                            "akc_code": "316",
+                            "breed_name_plural": "American Eskimo Dogs",
+                            "breed_nicknames": "Eskie",
+                            "origin": "United States",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1994",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Samoyed, Icelandic Sheepdog, Keeshond, Yakutian Laika, German Spitz",
+                            "links": [],
+                            "popularity_2025": 124,
+                            "popularity_2024": 116,
+                            "popularity_2023": 129,
+                            "popularity_2022": 123,
+                            "popularity_2021": 122,
+                            "popularity_2020": 119,
+                            "popularity_2019": 122,
+                            "popularity_2018": 122,
+                            "popularity_2017": 118,
+                            "popularity_2016": 122,
+                            "popularity_2015": 118,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "Loyal / Smart / Versatile"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "temperament": "active / devoted / smart",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "akc_org_blurb": "<p>The German Spitz is always attentive, lively and exceptionally devoted to his owner. He is very teachable and easy to train. His distrust towards strangers and lack of hunting instinct make him the ideal watchdog for the home. His indifference to weather, robustness and longevity are his most outstanding attributes.</p>",
+                    "akc_org_about": "<p>Spitz breeds like the German Spitz are captivating on account of their beautiful coats, made to stand off by a plentiful undercoat. Particularly impressive is his strong, mane-like collar around his neck, called a ruff, and the bushy tail carried boldly over his back. His foxy head, alert eyes, and small, pointed, closely-set ears give the German Spitz his unique cheeky appearance. The Large German Spitz comes in white, black or brown. The toy and medium German Spitz come in a variety of colors including white, black, brown, orange, grey-shaded and other colors. Though easily trainable, this lively and intelligent breed can also have an independent streak. If properly trained (so as not to be too noisy) and well socialized, the German Spitz will be happy mingling with other people and dogs.</p>",
+                    "mp_description": "<p>The German Spitz is always attentive, lively and exceptionally devoted to his owner. He is very teachable and easy to train. His distrust towards strangers and lack of hunting instinct make him the ideal watchdog for the home. His indifference to weather, robustness and longevity are his most outstanding attributes. &nbsp;Spitz breeds like the German Spitz are captivating on account of their beautiful coats, made to stand off by a plentiful undercoat. Particularly impressive is his strong, mane-like collar around his neck, called a ruff, and the bushy tail carried boldly over his back. His foxy head, alert eyes, and small, pointed, closely-set ears give the German Spitz his unique cheeky appearance. His coat comes in a variety of colors including white, black, cream, gold, black and tan, sable, and chocolate brown. Though easily trainable, this lively and intelligent breed can also have an independent streak. If properly trained (so as not to be too noisy) and well socialized, the German Spitz will be happy mingling with other people and dogs.</p>\n<p><br>\n&nbsp;</p>\n<p>Name: Patrea Pabst</p>\n<p>Breed club: German Spitz Club of America - <a href=\"http://www.germanspitzclub.org/\">www.GermanSpitzClub.org</a></p>\n<p>Position in Club, if applicable:President</p>\n<p>Email: <a href=\"mailto:GermanSpitzClubAmerica@gmail.com\">GermanSpitzClubAmerica@gmail.com</a></p>\n<p><br></p>"
+                }
+            },
+            "standards": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "title_1": "",
+                    "description_1": "",
+                    "title_2": "",
+                    "description_2": "",
+                    "title_3": "",
+                    "description_3": "",
+                    "title_4": "",
+                    "description_4": "",
+                    "title_5": "",
+                    "description_5": "",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "12",
+                    "height_max": "15",
+                    "weight_min": "24",
+                    "weight_max": "26",
+                    "size": "<p>Small</p>",
+                    "breed_standard_PDF": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26142125/German-Spitz1.pdf",
+                    "height_min_f": "12",
+                    "height_max_f": "15",
+                    "height_min_m": "12",
+                    "height_max_m": "15",
+                    "height_display": "Small 8 - 11, Med 12-15, Large 16 -20",
+                    "weight_min_f": "24",
+                    "weight_max_f": "26",
+                    "weight_min_m": "24",
+                    "weight_max_m": "26",
+                    "weight_display": "Small 10-11 lbs, Med 15 - 25 lbs, Large 30- 50 lbs"
+                }
+            },
+            "markings": {
+                "german-spitz": {
+                    "markings": [
+                        {
+                            "marking_index": 192,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        },
+                        {
+                            "marking_index": 193,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 194,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "cde_markings": "126",
+                            "markings_long": "Sable Parti-Color",
+                            "markings_short": "SBL PRTI"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "german-spitz": {
+                    "colors": [
+                        {
+                            "color_index": 652,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 653,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 654,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 655,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 656,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "133",
+                            "color_long": "Orange",
+                            "color_short": "ORG"
+                        },
+                        {
+                            "color_index": 657,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 658,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 659,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "227",
+                            "color_long": "Wolfgray",
+                            "color_short": "WLFGR"
+                        },
+                        {
+                            "color_index": 660,
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "akc_code": "319",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "breed_club_name": "German Spitz Club of America ",
+                    "breed_club_url": "https://germanspitzclubofamerica.org/",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "German Spitz Club of America ",
+                    "national_breed_club_url": "https://germanspitzclubofamerica.org/",
+                    "breed_referral_contact_name": "Jay Kessel",
+                    "breed_referral_contact_phone_number": "(732) 859-1267",
+                    "breed_referral_contact_email": "kessona@verizon.net",
+                    "breed_referral_contact_address": "PO Box 261\nMarlboro, NJ 07746-0261",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1529,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 115,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 740,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 742,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 739,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 741,
+                            "breed_id": "115",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "german-spitz": {
+                    "breed_name_url": "german-spitz",
+                    "breed_name": "German Spitz",
+                    "akc_org_history": "<p>The Spitz is the oldest breed of dog in Central Europe and served as the progenitor of many European breeds. Well preserved specimens of Stone Age Peat Dogs, known as the Torfhund (<em>Canis familiaris palustris</em> R\u00fcthimeyer) and dating back 6,000 years, have been found in the Netherlands, Germany, Denmark, England and Ireland and closely resemble modern European Spitz dogs. The term Spitz is derived from the Old Dutch language and literally translates as pointed peaks.<br>\n</p>\n<p>The Spitz was common in medieval times, and was valued as a watchdog, for vermin control, and guardian of livestock and vineyards. While the color of the small Spitz (klein, mittel) had no special meaning, the large Spitz (Gross spitz) had different areas of distribution and characteristics depending on the color. The white Gross spitz was mainly in northern and central Germany. He was a typical guardian of the farm and was v used for herding sheep (pommerscher H\u00fctespitz). The white color is of particular importance to a herding dog, because it is so easy to distinguish it from the wolf over long distances and in the dark. &nbsp;The black Gross spitz were especially widespread in the southern German wine-growing regions. During the day, they guarded the yard, and at night, they were sent to the vineyards. &nbsp;The brown Gross spitz was also common in southern Germany. He was considered extinct for a long time. &nbsp;In 2011, the first brown Gross spitz was bred by backcrossing from the black Spitz. White, black, and brown are now bred and shown, although white is most common.</p>\n<p><br></p>\n<p>The Association for German Lace (Spitz) was founded in 1899 for large Spitz (Gro\u00dfspitz or Gross spitz). At the time, only the colors white, black, and wolf-grey were recognized. Although the white Spitz were usually only paired with each other, they were crossed every few generations to a black Spitz to strengthen the pigmentation.<br>\n</p>\n<p>In 1906, all colors were allowed for small Spitz, but not for large Spitz. In 1958, colors for the small Spitz were limited to white, black, brown, orange and other colors including parti-colors. The large Spitz were still only registered as white, black, and brown. Merle is not an acceptable color. In 1959, the sizes were further divided into different sizes: Klein spitz (toy), Mittel spitz (miniature) and Gross spitz (large or giant). In 1969, the size variant of the Mittel spitz was added to the FCI Standard.<br>\n</p>\n<p>Many German Spitz were brought to the US in the late 1800s and early 1900s by German immigrants. Due to the negative perception of immigrants as poor, uneducated people, the breed was denigrated as sneaky, bad tempered, and difficult. It was not until the early 1990s that German Spitz owners sought recognition by the AKC. The AKC accepted the German Spitz for recordation in the Foundation Stock Service in 1996. The AKC does not separate the different sizes and colors, as is done under the FCI and by the European registries, but records all as a single breed. They are also all shown together.</p>",
+                    "mp_history_job": "<p>The Spitz is the oldest breed of dog in Central Europe and served as the progenitor of many European breeds. Well preserved specimens of Stone Age Peat Dogs, known as the Torfhund (<em>Canis familiaris palustris</em> R\u00fcthimeyer) and dating back 6,000 years, have been found in the Netherlands, Germany, Denmark, England and Ireland and closely resemble modern European Spitz dogs. The term Spitz is derived from the Old Dutch language and literally translates as pointed peaks.<br>\n</p>\n<p>The Spitz was common in medieval times, and was valued as a watchdog, for vermin control, and guardian of livestock and vineyards. While the color of the small Spitz (klein, mittel) had no special meaning, the large Spitz (Gross spitz) had different areas of distribution and characteristics depending on the color. The white Gross spitz was mainly in northern and central Germany. He was a typical guardian of the farm and was v used for herding sheep (pommerscher H\u00fctespitz). The white color is of particular importance to a herding dog, because it is so easy to distinguish it from the wolf over long distances and in the dark. &nbsp;The black Gross spitz were especially widespread in the southern German wine-growing regions. During the day, they guarded the yard, and at night, they were sent to the vineyards. &nbsp;The brown Gross spitz was also common in southern Germany. He was considered extinct for a long time. &nbsp;In 2011, the first brown Gross spitz was bred by backcrossing from the black Spitz. White, black, and brown are now bred and shown, although white is most common.</p>\n<p><br></p>\n<p>The Association for German Lace (Spitz) was founded in 1899 for large Spitz (Gro\u00dfspitz or Gross spitz). At the time, only the colors white, black, and wolf-grey were recognized. Although the white Spitz were usually only paired with each other, they were crossed every few generations to a black Spitz to strengthen the pigmentation.<br>\n</p>\n<p>In 1906, all colors were allowed for small Spitz, but not for large Spitz. In 1958, colors for the small Spitz were limited to white, black, brown, orange and other colors including parti-colors. The large Spitz were still only registered as white, black, and brown. Merle is not an acceptable color. In 1959, the sizes were further divided into different sizes: Klein spitz (toy), Mittel spitz (miniature) and Gross spitz (large or giant). In 1969, the size variant of the Mittel spitz was added to the FCI Standard.<br>\n</p>\n<p>Many German Spitz were brought to the US in the late 1800s and early 1900s by German immigrants. Due to the negative perception of immigrants as poor, uneducated people, the breed was denigrated as sneaky, bad tempered, and difficult. It was not until the early 1990s that German Spitz owners sought recognition by the AKC. The AKC accepted the German Spitz for recordation in the Foundation Stock Service in 1996. The AKC does not separate the different sizes and colors, as is done under the FCI and by the European registries, but records all as a single breed. They are also all shown together.</p>",
+                    "did_you_know": "The German Spitz has been assigned the Non-Sporting Group designation. | The German Spitz has been recorded in the Foundation Stock Service since 1996. | The German Spitz has been approved to compete in AKC Companion Events since January 1, 2010. | The FCI Standard for the German Spitz also includes the Pomeranian and Keeshond, highlighting the extremely close link between the three breeds."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24487%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-standing-in-profile-outdoors.jpg",
+                    "alt": "Large German Spitz standing in profile outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Paivi Silventoinen"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz.4.jpg",
+                    "alt": "German Spitz head facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-standing-on-a-log-outdoors.jpg",
+                    "alt": "German Spitz standing on a log outdoors,",
+                    "caption": "",
+                    "credit": "\u00a9Mary Champagne"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-sitting-in-the-snow.jpg",
+                    "alt": "German Spitz sitting in the snow.",
+                    "caption": "",
+                    "credit": "\u00a9Gerd Harcks"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz.3.jpg",
+                    "alt": "German Spitz laying outdoors in the grass.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz.2.jpg",
+                    "alt": "German Spitz standing outdoors under trees.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz.7.jpg",
+                    "alt": "German Spitz walking in a conformation ring outdoors.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "",
+                "alt": ""
+            }
+        },
+        "standard": {
+            "image": null
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-puppy-head-portrait-outdoors.jpg",
+                "alt": "German Spitz puppy head portrait outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/german-spitz",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "German Spitz",
+        "shopCta": false
+    }
+}

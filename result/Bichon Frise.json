@@ -197,8 +197,8 @@
                             "temperament": "charming / bright / happy-go-lucky"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -499,7 +499,7 @@
                 "bichon-frise": {
                     "colors": [
                         {
-                            "color_index": 554,
+                            "color_index": 555,
                             "breed_name_url": "bichon-frise",
                             "breed_name": "Bichon Frise",
                             "akc_code": "310",
@@ -510,7 +510,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 555,
+                            "color_index": 556,
                             "breed_name_url": "bichon-frise",
                             "breed_name": "Bichon Frise",
                             "akc_code": "310",
@@ -521,7 +521,7 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 556,
+                            "color_index": 557,
                             "breed_name_url": "bichon-frise",
                             "breed_name": "Bichon Frise",
                             "akc_code": "310",
@@ -532,7 +532,7 @@
                             "color_short": "WH & BF"
                         },
                         {
-                            "color_index": 557,
+                            "color_index": 558,
                             "breed_name_url": "bichon-frise",
                             "breed_name": "Bichon Frise",
                             "akc_code": "310",
@@ -555,10 +555,10 @@
                     "breed_rescue_url": "https://bichonrescue.org",
                     "national_breed_club": "Bichon Frise Club of America, Inc.",
                     "national_breed_club_url": "www.bichon.org",
-                    "breed_referral_contact_name": "Nancy Noonan",
-                    "breed_referral_contact_phone_number": "(860) 598-9938",
-                    "breed_referral_contact_email": "galwaybichons@comcast.net",
-                    "breed_referral_contact_address": "15 RYE FIELD RD APT C\nOLD LYME, CT 06371-4307",
+                    "breed_referral_contact_name": "Elaine Cristina Arrastia",
+                    "breed_referral_contact_phone_number": "(239) 810-4379",
+                    "breed_referral_contact_email": "arralaine@yahoo.com",
+                    "breed_referral_contact_address": "1215 SE 25TH TER\nCAPE CORAL, FL 33904-5723",
                     "breed_referral_directory_title": "website",
                     "breed_referral_directory_url": "http://bichon.org/breeders/",
                     "breed_referral_regional_club_title": "",
@@ -644,7 +644,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23597%5D",
@@ -693,8 +693,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

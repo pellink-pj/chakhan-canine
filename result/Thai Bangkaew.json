@@ -70,8 +70,8 @@
                             "temperament": "dignified / alert / aloof"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -362,7 +362,7 @@
                 "thai-bangkaew": {
                     "colors": [
                         {
-                            "color_index": 707,
+                            "color_index": 708,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -373,7 +373,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 708,
+                            "color_index": 709,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -384,7 +384,7 @@
                             "color_short": "WH & GR"
                         },
                         {
-                            "color_index": 709,
+                            "color_index": 710,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -395,7 +395,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 710,
+                            "color_index": 711,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -406,7 +406,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 711,
+                            "color_index": 712,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -417,7 +417,7 @@
                             "color_short": "WH & TN"
                         },
                         {
-                            "color_index": 712,
+                            "color_index": 713,
                             "breed_name_url": "thai-bangkaew",
                             "breed_name": "Thai Bangkaew",
                             "akc_code": "356",
@@ -468,7 +468,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104021",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B175445%5D",
@@ -517,8 +517,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -1,0 +1,1509 @@
+{
+    "settings": {
+        "current_breed": "french-bulldog",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "parent_club_health_statement_link": "http://images.akc.org/pdf/breeds/French-Bulldog.pdf",
+                    "mp_health": "<p>Provide your Frenchie with regular checkups, routine vaccinations, tests for intestinal parasites, heartworm prevention, and flea and tick control. Your vet should do regular dental checkups and care, and you should clean your dog\u00bfs teeth regularly at home as well. As a short-faced, brachycephalic, dwarf breed, French Bulldogs may have some health concerns that you should be aware of. The short face can make their breathing less efficient than that of long-nosed breeds, so Frenchies have less tolerance of heat, exercise, and stress, all of which increase their need to breathe. If your dog seems to overheat or become stressed too easily, with noisy breathing and sometimes spitting up foam, consult the vet and have its airway evaluated for pinched nostrils or an elongated soft palate. Anesthesia is also more risky in short-faced dogs, so be sure your vet is experienced with such breeds should your Frenchie need to be anesthetized. Like other dwarf breeds, the stocky French Bulldog may also have abnormal vertebrae and/or premature degeneration of the intervertebral discs. While the spine is supported by good musculature, herniation of degenerated discs can cause major problems, and most symptomatic back problems are due to disc disease rather than to abnormal vertebrae.</p>",
+                    "akc_org_health": "<p>Because of their front-heavy structure, Frenchies cannot swim and should never be left unattended near a tub, pool, or body of water. Like all flat-faced breeds, Frenchies are prone to breathing problems and do poorly in hot or humid weather. Flat-faced breeds are also more sensitive to anesthesia. Frenchies occasionally have eye conditions such as cherry eye, juvenile cataracts, or entropion, and skin allergies and autoimmune skin disorders also are known to occur. A responsible breeder will take advantage of available tests to screen breeding stock for conditions that can affect the breed.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Frenchies are prone to obesity, which can damage their physical structure and puts them at higher risk for some of the breed's health issues, so it is vital to watch their calorie intake and weight. If you choose to give your dog treats, do so in moderation. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods high in fat. Learn about which human foods are safe for dogs and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The Frenchie's short coat sheds minimally. Weekly brushing with a medium-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove shed hair and keep him looking his best. Brushing promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. A Frenchie's facial folds should be kept clean and dry. The Frenchie's nailsshould be trimmed regularly, as overly long nails can cause him pain.</p>",
+                    "akc_org_exercise": "<p>A short walk or outdoor play session with their owner each day should provide enough exercise to keep the French Bulldog in shape. Frenchies enjoy participating in canine sports such as obedience, agility, and rally. As a flat-faced breed, however, they are prone to breathing difficulties and should never be allowed to exert themselves in hot or humid weather.</p>",
+                    "akc_org_training": "<p>Early socialization and puppy training classes are recommended. Exposing the puppy to a wide variety of people, places, and situations will help him develop into a well-adjusted adult. Puppy training classes serve as part of the socialization process, promote good behavior, and help the owner learn to recognize and correct bad habits. Frenchies have big personalities and can need a fair amount of training to make them civilized companions. They can be stubborn, but at heart they're people pleasers and therefore easy to train. The proper motivation (such as food) and making a game of the process will ensure their cooperation.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "breed_name_oracle": "French Bulldog",
+                    "matches_oracle": "French Bulldog",
+                    "akc_code": "305",
+                    "breed_name_plural": "French Bulldogs",
+                    "breed_nicknames": "Frenchie",
+                    "origin": "England",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1898",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Boston Terrier, Bulldog, Bull Terrier, Miniature Bull Terrier, Pug",
+                    "links": [],
+                    "popularity_2025": 1,
+                    "popularity_2024": 1,
+                    "popularity_2023": 1,
+                    "popularity_2022": 1,
+                    "popularity_2021": 2,
+                    "popularity_2020": 2,
+                    "popularity_2019": 4,
+                    "popularity_2018": 4,
+                    "popularity_2017": 4,
+                    "popularity_2016": 6,
+                    "popularity_2015": 6,
+                    "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers",
+                    "related_breeds_items_url": [
+                        "boston-terrier",
+                        "bulldog",
+                        "bull-terrier",
+                        "miniature-bull-terrier",
+                        "pug"
+                    ],
+                    "related_breeds_items": {
+                        "boston-terrier": {
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "breed_name_oracle": "Boston Terrier",
+                            "matches_oracle": "Boston Terrier",
+                            "akc_code": "301",
+                            "breed_name_plural": "Boston Terriers",
+                            "breed_nicknames": "Boston, The American Gentleman",
+                            "origin": "United States",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1893",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "French Bulldog, Affenpinscher, Pug, Rat Terrier",
+                            "links": [],
+                            "popularity_2025": 23,
+                            "popularity_2024": 23,
+                            "popularity_2023": 23,
+                            "popularity_2022": 24,
+                            "popularity_2021": 23,
+                            "popularity_2020": 21,
+                            "popularity_2019": 21,
+                            "popularity_2018": 21,
+                            "popularity_2017": 21,
+                            "popularity_2016": 21,
+                            "popularity_2015": 22,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "friendly / bright / amusing"
+                        },
+                        "bulldog": {
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "breed_name_oracle": "Bulldog",
+                            "matches_oracle": "Bulldog",
+                            "akc_code": "302",
+                            "breed_name_plural": "Bulldogs",
+                            "breed_nicknames": "Sourmug",
+                            "origin": "England",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "8-10 years",
+                            "related_breeds": "Bull Terrier, French Bulldog, Bullmastiff, American Staffordshire Terrier, Staffordshire Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 10,
+                            "popularity_2024": 9,
+                            "popularity_2023": 7,
+                            "popularity_2022": 6,
+                            "popularity_2021": 6,
+                            "popularity_2020": 5,
+                            "popularity_2019": 5,
+                            "popularity_2018": 5,
+                            "popularity_2017": 5,
+                            "popularity_2016": 4,
+                            "popularity_2015": 4,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                            "temperament": "friendly / courageous / calm"
+                        },
+                        "bull-terrier": {
+                            "breed_name_url": "bull-terrier",
+                            "breed_name": "Bull Terrier",
+                            "breed_name_oracle": "Bull Terrier",
+                            "matches_oracle": "Bull Terrier",
+                            "akc_code": "206",
+                            "breed_name_plural": "Bull Terriers",
+                            "breed_nicknames": "BT, Bully, White Cavalier",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Miniature Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, Bulldog",
+                            "links": [],
+                            "popularity_2025": 86,
+                            "popularity_2024": 72,
+                            "popularity_2023": 65,
+                            "popularity_2022": 64,
+                            "popularity_2021": 61,
+                            "popularity_2020": 64,
+                            "popularity_2019": 62,
+                            "popularity_2018": 62,
+                            "popularity_2017": 60,
+                            "popularity_2016": 57,
+                            "popularity_2015": 55,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Medium Dog Breeds",
+                            "temperament": "playful / charming / mischievous"
+                        },
+                        "miniature-bull-terrier": {
+                            "breed_name_url": "miniature-bull-terrier",
+                            "breed_name": "Miniature Bull Terrier",
+                            "breed_name_oracle": "Miniature Bull Terrier",
+                            "matches_oracle": "Miniature Bull Terrier",
+                            "akc_code": "227",
+                            "breed_name_plural": "Miniature Bull Terriers",
+                            "breed_nicknames": "Mini Bull, MBT",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1991",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Bulldog, Staffordshire Bull Terrier, French Bulldog, American Staffordshire Terrier, Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 105,
+                            "popularity_2024": 105,
+                            "popularity_2023": 107,
+                            "popularity_2022": 110,
+                            "popularity_2021": 107,
+                            "popularity_2020": 105,
+                            "popularity_2019": 114,
+                            "popularity_2018": 110,
+                            "popularity_2017": 115,
+                            "popularity_2016": 120,
+                            "popularity_2015": 121,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "upbeat / mischievous / comical"
+                        },
+                        "pug": {
+                            "breed_name_url": "pug",
+                            "breed_name": "Pug",
+                            "breed_name_oracle": "Pug",
+                            "matches_oracle": "Pug",
+                            "akc_code": "512",
+                            "breed_name_plural": "Pugs",
+                            "breed_nicknames": "Multum in Parvo",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Pekingese, Japanese Chin, French Bulldog, Boston Terrier, Shih Tzu",
+                            "links": [],
+                            "popularity_2024": 38,
+                            "popularity_2023": 36,
+                            "popularity_2022": 35,
+                            "popularity_2021": 33,
+                            "popularity_2020": 29,
+                            "popularity_2019": 31,
+                            "popularity_2018": 28,
+                            "popularity_2017": 31,
+                            "popularity_2016": 32,
+                            "popularity_2015": 33,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "charming / loving / mischievous"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "temperament": "playful / smart / adaptable",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "akc_org_blurb": "<p>The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible.</p>",
+                    "akc_org_about": "<p>The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much, but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.</p>",
+                    "mp_description": "<p>You'll not find a more amusing companion than a French Bulldog puppy: he'll be alert, affectionate and irresistible. His favorite perch is your lap, although he's up for a brisk walk twice a day. French Bulldogs prefer to be indoors during hot weather where it is cool, preferably air-conditioned place. Training will rein in your puppy's natural stubbornness and you'll be rewarded with an intelligent, lovable and entertaining pal.</p>"
+                }
+            },
+            "standards": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "title_1": "General Appearance",
+                    "description_1": "The French Bulldog has the appearance of an active, intelligent, muscular dog of heavy bone, smooth coat, compactly built, and of medium or small structure. Expression alert, curious, and interested. Any alteration other than removal of dewclaws is considered mutilation and is a disqualification. Proportion and Symmetry - All points are well distributed and bear good relation one to the other; no feature being in such prominence from either excess or lack of quality that the animal appears poorly proportioned.",
+                    "title_2": "Head",
+                    "description_2": "Head large and square. Eyes dark in color, wide apart, set low down in the skull, as far from the ears as possible, round in form, of moderate size, neither sunken nor bulging. In lighter colored dogs, lighter colored eyes are acceptable. No haw and no white of the eye showing when looking forward. Ears Known as the bat ear, broad at the base, elongated, with round top, set high on the head but not too close together, and carried erect with the orifice to the front. The leather of the ear fine and soft. Other than bat ears is a disqualification. The top of the skull flat between the ears; the forehead is not flat but slightly rounded.",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "The neck is thick and well arched with loose skin at the throat. The back is a roach back with a slight fall close behind the shoulders; strong and short, broad at the shoulders and narrowing at the loins. The body is short and well rounded. The chest is broad, deep, and full; well ribbed with the belly tucked up. The tail is either straight or screwed (but not curly), short, hung low, thick root and fine tip; carried low in repose.",
+                    "title_4": "Forequarters",
+                    "description_4": "Forelegs are short, stout, straight, muscular and set wide apart. Dewclaws may be removed. Feet are moderate in size, compact and firmly set. Toes compact, well split up, with high knuckles and short stubby nails.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Hind legs are strong and muscular, longer than the forelegs, so as to elevate the loins above the shoulders. Hocks well let down. Feet are moderate in size, compact and firmly set. Toes compact, well split up, with high knuckles and short stubby nails; hind feet slightly longer than forefeet.",
+                    "title_6": "Coat",
+                    "description_6": "Coat is moderately fine, brilliant, short and smooth. Skin is soft and loose, especially at the head and shoulders, forming wrinkles.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "11",
+                    "height_max": "13",
+                    "weight_min": "28",
+                    "weight_max": "28",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/French_Bulldog-6-18.pdf",
+                    "height_min_f": "11",
+                    "height_max_f": "13",
+                    "height_min_m": "11",
+                    "height_max_m": "13",
+                    "height_display": "11-13 inches",
+                    "weight_min_f": "28",
+                    "weight_max_f": "28",
+                    "weight_min_m": "28",
+                    "weight_max_m": "28",
+                    "weight_display": "under 28 pounds"
+                }
+            },
+            "markings": {
+                "french-bulldog": {
+                    "markings": [
+                        {
+                            "marking_index": 149,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 150,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 151,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 152,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        },
+                        {
+                            "marking_index": 153,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        },
+                        {
+                            "marking_index": 154,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "cde_markings": "453",
+                            "markings_long": "Tan Points*",
+                            "markings_short": "TN PTS*"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "french-bulldog": {
+                    "colors": [
+                        {
+                            "color_index": 506,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 507,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 508,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 509,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 510,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 511,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "088",
+                            "color_long": "Fawn Brindle",
+                            "color_short": "FN BRDL"
+                        },
+                        {
+                            "color_index": 512,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 513,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "203",
+                            "color_long": "White & Brindle",
+                            "color_short": "WH & BRDL"
+                        },
+                        {
+                            "color_index": 514,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "089",
+                            "color_long": "Fawn Brindle & White",
+                            "color_short": "FN BRDL & WH"
+                        },
+                        {
+                            "color_index": 515,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "207",
+                            "color_long": "White & Fawn",
+                            "color_short": "WH & FN"
+                        },
+                        {
+                            "color_index": 516,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "565",
+                            "color_long": "Black*",
+                            "color_short": "BLK*"
+                        },
+                        {
+                            "color_index": 517,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "566",
+                            "color_long": "Black & Fawn*",
+                            "color_short": "BLK & FWN*"
+                        },
+                        {
+                            "color_index": 518,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "567",
+                            "color_long": "Blue Fawn*",
+                            "color_short": "BL FWN*"
+                        },
+                        {
+                            "color_index": 519,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "568",
+                            "color_long": "Chocolate*",
+                            "color_short": "CHLT*"
+                        },
+                        {
+                            "color_index": 520,
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "akc_code": "305",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "564",
+                            "color_long": "Blue*",
+                            "color_short": "BL*"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "breed_club_name": "French Bulldog Club of America",
+                    "breed_club_url": "https://frenchbulldogclub.org/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/12/06110026/FrenchBulldog20210317.pdf",
+                    "breed_rescue_url": "http://www.frenchbulldogrescue.org/",
+                    "national_breed_club": "French Bulldog Club of America",
+                    "national_breed_club_url": "https://frenchbulldogclub.org/",
+                    "breed_referral_contact_name": "Robin Krieger",
+                    "breed_referral_contact_phone_number": "(810) 333-5091",
+                    "breed_referral_contact_email": "robinadvm@yahoo.com",
+                    "breed_referral_contact_address": "9155 Davisburg Rd\nClarkston, MI 48348",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://frenchbulldogclub.org/about-frenchies/breeder-directory",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://frenchbulldogclub.org/about/regional-clubs",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.frenchbulldogrescue.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1523,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 109,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. The first specialty club to represent this breed was the French Bull Dog Club of America."
+                        },
+                        {
+                            "id": 716,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 718,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 715,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 717,
+                            "breed_id": "109",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "french-bulldog": {
+                    "breed_name_url": "french-bulldog",
+                    "breed_name": "French Bulldog",
+                    "akc_org_history": "<p>In the mid-1800s, a toy-size Bulldog found favor in some English cities, including Nottingham, then a center for lace making. The toy Bulldog became something of a mascot for Nottingham's lace makers. This was the height of the Industrial Revolution in England, and such 'cottage industries' as lace making were increasingly threatened. Many in the lace trade relocated to northern France, and of course, they brought their toy Bulldogs with them.&nbsp;</p>\n<p><br></p>\n<p>The little dogs became popular in the French countryside where lace makers settled. Over a span of decades, the toy Bulldogs were crossed with other breeds, perhaps terriers and &nbsp;Pugs, and, along the way, developed their now-famous bat ears. They were given the name Bouledogue Fran\u00e7ais.</p>\n<p><br></p>\n<p>Paris eventually discovered the delightful new breed, and thus began the Frenchie's reputation as city dog par excellence. The breed came to be associated with Paris caf\u00e9 life, and with the bon vivants and fancy ladies who sought nocturnal pleasures in Parisian dancehalls. Edgar Degas and Toulouse-Lautrec depicted the Frenchie in paintings of the Paris demimonde.</p>\n<p><br></p>\n<p>By the end of the 19th century, the Frenchie's popularity had spread across Europe and to America. The breed was tougher sell in England. The Bulldog was a national symbol, and it rankled many Englishmen that their age-old rivals, the French, would dare adapt it to their purposes.&nbsp;</p>\n<p><br></p>\n<p>American devotees of the early 1900s contributed to the breed by insisting that the bat ear, as opposed to the 'rose ear,' was the correct Frenchie type. It is by this distinctive feature that the Frenchie is instantly recognizable the world over.</p>",
+                    "mp_history_job": "<p>French Bulldogs are from ... France, right? Gotcha! That was a trick question. Frenchies originally come from Robin Hood\u00bfs stomping ground, Nottingham, England. There, in the 19th century, lacemakers bred the Bulldog down to a smaller size to keep as lapdogs. When the Industrial Revolution sent the lacemakers to France, they took the dogs with them, where they became popular and later attracted the attention of wealthy Americans.</p>",
+                    "did_you_know": "It is fairly well established that one of the ancestors of the French Bulldog is, not surprisingly, the English Bulldog (most likely one of the toy variety). | Originally called the Boule-Dog Francais, though the english later scoffed at the idea of calling an English dog by a French name. | Two distinctive features of the French Bulldog are its bat ears and half-flat, half-domed skull. | Had it not been for the objections of American fanciers, the bat ear of the French Bulldog would have been bred out of the breed and replaced with a rose ear, resulting in a miniaturized version of the English Bulldog. | While bred primarily as pets and companions, Frenchies are remarkably intelligent and serve as good watchdogs."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775369483",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24410%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop French Bulldog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/french-bulldog?itm=breed-page-banner-shop-cta/french-bulldog/french-bulldog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-outdoors.jpg",
+                    "alt": "French Bulldog standing outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Dyrefotografi.dk - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-in-profile-outdoors-in-the-fall.jpg",
+                    "alt": "French Bulldog standing in profile outdoors in the fall.",
+                    "caption": "",
+                    "credit": "\u00a9Willee Cole - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Non_Sporting-Group-David-0E9A7826.jpg",
+                    "alt": "Non-Sporting Group Third and Best of Breed: GCHS CH Le Petit Prince De La Bete, French Bulldog; Non-Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-face-close-up.jpg",
+                    "alt": "French Bulldog face close up.",
+                    "caption": "",
+                    "credit": "\u00a9CySa  - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-laying-down-in-the-grass.jpg",
+                    "alt": "French Bulldog laying down in the grass.",
+                    "caption": "",
+                    "credit": "Elisabeth Hammerschmid/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-fetching-a-stick-on-the-beach.jpg",
+                    "alt": "French Bulldog fetching a stick on the beach.",
+                    "caption": "",
+                    "credit": "\u00a9homydesign - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldogs-standing-side-by-side-in-the-park.jpg",
+                    "alt": "French Bulldogs standing side by side in the park.",
+                    "caption": "",
+                    "credit": "SubertT/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-laying-down-in-the-garden.jpg",
+                    "alt": "French Bulldog laying down in the garden.",
+                    "caption": "",
+                    "credit": "\u00a9kathomenden - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-in-the-grass.jpg",
+                    "alt": "French Bulldog standing in the grass.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-Illo-2.jpg",
+                "alt": "French Bulldog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-puppy-standing-in-the-grass-holding-a-ball-in-its-mouth.jpg",
+                "alt": "French Bulldog puppy standing in the grass holding a ball in its mouth."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "http://marketplace.akc.org/puppies/french-bulldog/",
+                "is_external": true
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "French Bulldog",
+        "shopCta": {
+            "title": "Shop French Bulldog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/french-bulldog?itm=breed-page-banner-shop-cta/french-bulldog/french-bulldog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-Merchandise-Collection.png"
+        }
+    }
+}

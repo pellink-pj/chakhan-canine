@@ -202,8 +202,8 @@
                             "temperament": "affectionate / sprightly / tomboyish"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -503,7 +503,7 @@
                 "silky-terrier": {
                     "colors": [
                         {
-                            "color_index": 1285,
+                            "color_index": 1306,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -514,7 +514,7 @@
                             "color_short": "BL SLVR & TN"
                         },
                         {
-                            "color_index": 1286,
+                            "color_index": 1307,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -525,7 +525,7 @@
                             "color_short": "GR & TN"
                         },
                         {
-                            "color_index": 1287,
+                            "color_index": 1308,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -536,7 +536,7 @@
                             "color_short": "SLVR & TN"
                         },
                         {
-                            "color_index": 1288,
+                            "color_index": 1309,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -547,7 +547,7 @@
                             "color_short": "SLVR BLK & TN"
                         },
                         {
-                            "color_index": 1289,
+                            "color_index": 1310,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -558,7 +558,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 1290,
+                            "color_index": 1311,
                             "breed_name_url": "silky-terrier",
                             "breed_name": "Silky Terrier",
                             "akc_code": "514",
@@ -662,15 +662,15 @@
                 "silky-terrier": {
                     "breed_name_url": "silky-terrier",
                     "breed_name": "Silky Terrier",
-                    "akc_org_history": "The casual observer can be forgiven for mistaking a Silky for a Yorkshire or Australian terrier at first glance. After all, Yorkies and Aussies were the main components utilized by Australian breeders when creating the Silky in the early 20th century. Other breeds that might factor in the Silky's development (depending on who's telling the story) include Cairn, Dandie Dinmont, and Skye terriers, three of several British terriers brought to Australia by English settlers. For the record, Silkys are larger than Yorkies and smaller than Aussies.",
-                    "mp_history_job": "The casual observer can be forgiven for mistaking a Silky for a Yorkshire or Australian terrier at first glance. After all, Yorkies and Aussies were the main components utilized by Australian breeders when creating the Silky in the early 20th century. Other breeds that might factor in the Silky\u00bfs development (depending on who\u00bfs telling the story) include Cairn, Dandie Dinmont, and Skye terriers, three of several British terriers brought to Australia by English settlers. For the record, Silkys are larger than Yorkies and smaller than Aussies.",
+                    "akc_org_history": "<p>The casual observer can be forgiven for mistaking a Silky for a Yorkshire or Australian terrier at first glance. After all, Yorkies and Aussies were the main components utilized by Australian breeders when creating the Silky in the early 20th century. Other breeds that might factor in the Silky's development (depending on who's telling the story) include Cairn, Dandie Dinmont, and Skye terriers, three of several British terriers brought to Australia by English settlers. For the record, Silkys are larger than Yorkies and smaller than Aussies.</p>",
+                    "mp_history_job": "<p>The casual observer can be forgiven for mistaking a Silky for a Yorkshire or Australian terrier at first glance. After all, Yorkies and Aussies were the main components utilized by Australian breeders when creating the Silky in the early 20th century. Other breeds that might factor in the Silky's development (depending on who's telling the story) include Cairn, Dandie Dinmont, and Skye terriers, three of several British terriers brought to Australia by English settlers. For the record, Silkys are larger than Yorkies and smaller than Aussies.</p>",
                     "did_you_know": "The Silky emerged from crossings of native Australian Terriers and imported Yorkshire Terriers. | Conflicting standards for the Silky were drawn up separately in Sydney and Victoria between 1906 and 1909, but they were eventually condensed into one standard in 1926. | Originally known as the Sydney Silky Terrier, changed in Australia to the Australian Silky Terrier in 1955. | One of the first acts of the Australian National Kennel Club was to recommend a national standard for the breed to the AKC (considering registration of the Silky) so as to avoid any further discrepancies between the past standards."
                 }
             }
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781236491",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25707%5D",
@@ -719,8 +719,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

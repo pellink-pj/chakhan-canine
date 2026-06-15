@@ -1,0 +1,1275 @@
+{
+    "settings": {
+        "current_breed": "curly-coated-retriever",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23120557/Curly-Coated-Retriever-Health-Statement-March-2019.pdf",
+                    "mp_health": "<p>Curly-Coated Retrievers are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, cardiac and eye disease. Some dogs may be faced with these health challenges in their lives, but the majority of Curly-Coated Retrievers are healthy dogs.</p>",
+                    "akc_org_health": "<p>The majority of Curlies are a healthy breed. Breeders have been very diligent about screening hips, eyes, and the heart. There are some cancer concerns. The breed is also susceptible to gastric dilatation volvulus (GDV), a life-threatening stomach condition also known as bloat. Owners must be aware of the symptoms and take quick action if it occurs.</p>",
+                    "akc_org_nutrition": "<p>The majority of Curly-Coated Retrievers do well on a diet of good-quality dry dog food. Some owners like to add some meat or canned food, and a few others feed the raw diet. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>Curlies do not have an undercoat, and the females will usually shed a fair amount of coat approximately every six months. Females may look relatively bare when not in coat. During shedding season a rake-type grooming tool with metal prongs is good at removing the dead hair, then the coat can be scissored down. The majority of owners never brush a Curly-Coated Retriever, as then the coat frizzes. A wet-down and air-dry is easy to do and often will enhance the curls. The breed does not need to be bathed frequently. As with all breeds, the nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Curlies do need a fair amount of exercise but are also wonderful about settling down and relaxing at home. Their home does not need to be a large one as long as they are with their owner and have adequate exercise. The breed is very easy to live with as long as they have been shown their \"good manners\" with basic training. They love to be outside, yet they are very happy to spend time indoors at home with their people. They are not a breed who is good at being left alone for long periods of time.</p>",
+                    "akc_org_training": "<p>The owner of a Curly-Coated Retriever needs to be firm but kind in training of the dog. Too rough, and they will turn tail; too soft or unclear, and they will not pay attention. They are an intelligent breed and smart enough to need an owner who is smarter than they are. Two things are helpful to remember regarding training a Curly: First, avoid too much repetition, as the dog may become bored and lose interest. Also, it is important for an owner to try to make the learning situation as much fun as possible. The goal is to make it so that the Curly enjoys what is being taught. Some Curlies do very well in the obedience ring, but for some the repetition of some of the exercises can cause disinterest. Training for fieldwork takes a knowledgeable approach and should not be rough. When new to the breed and interested in starting field training, find a training group in your area with whom you can train, and observe their methods before deciding to join.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Progressive Retinal Atrophy, Cone-Rod Dystrophy 4 (crd4/cord1) (PRA-crd4/cord1) - DNA Test",
+                    "test_5": "Exercise-Induced Collapse (EIC) - DNA Test",
+                    "test_6": "Glycogen Storage Disease IIIa (GSDIIIa) - DNA Test",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Progressive Retinal Atrophy, Cone-Rod Dystrophy 4 (crd4/cord1) (PRA-crd4/cord1) - DNA Test | Exercise-Induced Collapse (EIC) - DNA Test | Glycogen Storage Disease IIIa (GSDIIIa) - DNA Test"
+                }
+            },
+            "basics": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "breed_name_oracle": "Curly-Coated Retriever",
+                    "matches_oracle": "Curly-Coated Retriever",
+                    "akc_code": "105",
+                    "breed_name_plural": "Curly-Coated Retrievers",
+                    "breed_nicknames": "Curly",
+                    "origin": "England",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1924",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Chesapeake Bay Retriever, Flat-Coated Retriever, Labrador Retriever, Golden Retriever, Nova Scotia Duck Tolling Retriever",
+                    "links": [],
+                    "popularity_2025": 168,
+                    "popularity_2024": 163,
+                    "popularity_2023": 167,
+                    "popularity_2022": 156,
+                    "popularity_2021": 167,
+                    "popularity_2020": 159,
+                    "popularity_2019": 165,
+                    "popularity_2018": 162,
+                    "popularity_2017": 171,
+                    "popularity_2016": 164,
+                    "popularity_2015": 151,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "chesapeake-bay-retriever",
+                        "flat-coated-retriever",
+                        "labrador-retriever",
+                        "golden-retriever",
+                        "nova-scotia-duck-tolling-retriever"
+                    ],
+                    "related_breeds_items": {
+                        "chesapeake-bay-retriever": {
+                            "breed_name_url": "chesapeake-bay-retriever",
+                            "breed_name": "Chesapeake Bay Retriever",
+                            "breed_name_oracle": "Chesapeake Bay Retriever",
+                            "matches_oracle": "Chesapeake Bay Retriever",
+                            "akc_code": "104",
+                            "breed_name_plural": "Chesapeake Bay Retrievers",
+                            "breed_nicknames": "Chessie",
+                            "origin": "United States",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Nova Scotia Duck Tolling Retriever, Curly-Coated Retriever, Flat-Coated Retriever, Golden Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 56,
+                            "popularity_2024": 52,
+                            "popularity_2023": 54,
+                            "popularity_2022": 52,
+                            "popularity_2021": 48,
+                            "popularity_2020": 50,
+                            "popularity_2019": 46,
+                            "popularity_2018": 45,
+                            "popularity_2017": 43,
+                            "popularity_2016": 43,
+                            "popularity_2015": 42,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "bright / affectionate / sensitive"
+                        },
+                        "flat-coated-retriever": {
+                            "breed_name_url": "flat-coated-retriever",
+                            "breed_name": "Flat-Coated Retriever",
+                            "breed_name_oracle": "Flat-Coated Retriever",
+                            "matches_oracle": "Flat-Coated Retriever",
+                            "akc_code": "106",
+                            "breed_name_plural": "Flat-Coated Retrievers",
+                            "breed_nicknames": "Flat-Coat",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1915",
+                            "life_expectancy": "8-10 years",
+                            "related_breeds": "Golden Retriever, Curly-Coated Retriever, Chesapeake Bay Retriever, Nova Scotia Duck Tolling Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 98,
+                            "popularity_2024": 97,
+                            "popularity_2023": 100,
+                            "popularity_2022": 103,
+                            "popularity_2021": 93,
+                            "popularity_2020": 102,
+                            "popularity_2019": 106,
+                            "popularity_2018": 91,
+                            "popularity_2017": 96,
+                            "popularity_2016": 89,
+                            "popularity_2015": 86,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "cheerful / optimistic / good-humored"
+                        },
+                        "labrador-retriever": {
+                            "breed_name_url": "labrador-retriever",
+                            "breed_name": "Labrador Retriever",
+                            "breed_name_oracle": "Labrador Retriever",
+                            "matches_oracle": "Labrador Retriever",
+                            "akc_code": "108",
+                            "breed_name_plural": "Labrador Retrievers",
+                            "breed_nicknames": "Lab",
+                            "origin": "Canada",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1917",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Nova Scotia Duck Tolling Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever, Curly-Coated Retriever, Golden Retriever",
+                            "links": [],
+                            "popularity_2025": 2,
+                            "popularity_2024": 2,
+                            "popularity_2023": 2,
+                            "popularity_2022": 2,
+                            "popularity_2021": 1,
+                            "popularity_2020": 1,
+                            "popularity_2019": 1,
+                            "popularity_2018": 1,
+                            "popularity_2017": 1,
+                            "popularity_2016": 1,
+                            "popularity_2015": 1,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs",
+                            "temperament": "active / friendly / outgoing"
+                        },
+                        "golden-retriever": {
+                            "breed_name_url": "golden-retriever",
+                            "breed_name": "Golden Retriever",
+                            "breed_name_oracle": "Golden Retriever",
+                            "matches_oracle": "Golden Retriever",
+                            "akc_code": "107",
+                            "breed_name_plural": "Golden Retrievers",
+                            "breed_nicknames": "Golden",
+                            "origin": "Scotland",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1925",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Labrador Retriever, Flat-Coated Retriever, Chesapeake Bay Retriever, Curly-Coated Retriever, Nova Scotia Duck Tolling Retriever",
+                            "links": {
+                                "mp_url": "marketplace.akc.org/puppies/",
+                                "akc_url": "https://akc.org/dog-breeds/golden-retriever"
+                            },
+                            "popularity_2025": 3,
+                            "popularity_2024": 3,
+                            "popularity_2023": 3,
+                            "popularity_2022": 3,
+                            "popularity_2021": 3,
+                            "popularity_2020": 4,
+                            "popularity_2019": 3,
+                            "popularity_2018": 3,
+                            "popularity_2017": 3,
+                            "popularity_2016": 3,
+                            "popularity_2015": 3,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs",
+                            "temperament": "intelligent / friendly / devoted"
+                        },
+                        "nova-scotia-duck-tolling-retriever": {
+                            "breed_name_url": "nova-scotia-duck-tolling-retriever",
+                            "breed_name": "Nova Scotia Duck Tolling Retriever",
+                            "breed_name_oracle": "Nova Scotia Duck Tolling Retriever",
+                            "matches_oracle": "Nova Scotia Duck Tolling Retriever",
+                            "akc_code": "128",
+                            "breed_name_plural": "Nova Scotia Duck Tolling Retrievers",
+                            "breed_nicknames": "Toller, Duck Toller",
+                            "origin": "Canada",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2003",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Nederlandse Kooikerhondje, Curly-Coated Retriever, Flat-Coated Retriever, Golden Retriever, Labrador Retriever",
+                            "links": [],
+                            "popularity_2025": 69,
+                            "popularity_2024": 69,
+                            "popularity_2023": 83,
+                            "popularity_2022": 81,
+                            "popularity_2021": 92,
+                            "popularity_2020": 90,
+                            "popularity_2019": 87,
+                            "popularity_2018": 83,
+                            "popularity_2017": 89,
+                            "popularity_2016": 87,
+                            "popularity_2015": 99,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "intelligent / affectionate / outgoing"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "temperament": "confident / proud / wickedly smart",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Curly",
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "akc_org_blurb": "The Curly-Coated Retriever, among the oldest of the retriever breeds, is a famously versatile gundog and peerless swimmer. Poised, proud, and wickedly smart, the Curly is a thinking person's retriever who will never quit before you do.",
+                    "akc_org_about": "The Curly-Coated Retriever's tight, crisp curls of either black or liver serve as waterproof and thorn-resistant all-weather gear for work in thick bramble and icy lakes. The Curly is a big, durable gun dog, but more elegant and graceful than other retrievers. Another trait that sets Curlies apart from the usual retriever is a tapered, wedge-shaped head.\n\n\n\n Like Labradors and Goldens, Curlies are affectionate and gentle, but they are a bit more independent and less needy. Playful and mischievous with loved ones, Curlies can be aloof with strangers. This wariness makes them more discerning watchdogs than other, more gregarious retrievers. These tireless dogs need lots of outdoor exercise. Bored, underemployed Curlies are a handful.",
+                    "mp_description": "A bit more independent-minded than other retrievers, the Curly-Coated Retriever is still an affectionate, people-oriented dog. He's energetic, extremely smart and hard-working--a good match for an active, outdoorsy family. Curly-Coated Retriever puppies need early socialization and training. Unlike other more gregarious retrievers, they may be reserved with strangers and should be taught good manners. They love human interaction and will be thrilled to join you on runs, swims and challenging play times. With plenty of exercise, they are gentle, charming companions."
+                }
+            },
+            "standards": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "title_1": "General Appearance",
+                    "description_1": "This smartly upstanding, multi-purpose hunting retriever is recognized by most canine historians as one of the oldest of the retrieving breeds. Developed in England, the Curly was long a favorite of English gamekeepers. Prized for innate field ability, courage and indomitable perseverance, a correctly built and tempered Curly will work as long as there is work to be done, retrieving both fur and feather in the heaviest of cover and the iciest of waters. To work all day a Curly must be balanced and sound, strong and robust, and quick and agile.",
+                    "title_2": "Head",
+                    "description_2": "The head is a longer-than-wide wedge, readily distinguishable from that of all other retriever breeds, and of a size in balance with the body. Length of foreface is equal, or nearly equal, to length of backskull and, when viewed in profile, the planes are parallel. The stop is shallow and sloping. At the point of joining, the width of foreface may be slightly less than the width of the backskull but blending of the two should be smooth. The head has a nearly straight, continuous taper to the nose and is clean cut, not coarse, blocky or cheeky.",
+                    "title_3": "Body",
+                    "description_3": "Neck-Strong and slightly arched, of medium length, free from throatiness and flowing freely into moderately laid-back shoulders. Backline-The back, that portion of the body from the rear point of the withers to the beginning of the loin, is strong and level. The loin, that part of the body extending from the end of the rib cage to the start of the pelvis, is short and muscular. The croup, that portion of the body from the start of the pelvis to the tail set-on, is only slightly sloping. Body- Chest is decidedly deep and not too wide, oval in cross-section, with brisket reaching elbow. While the impression of the chest should be of depth not width, the chest is not pinched or narrow. The ribs are well-sprung, neither barrel-shaped nor slab-sided, and extend well back into a deep, powerful loin with a moderate tuck-up of flank",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulder blades are very long, well covered with muscle, and are moderately laid back at about a 55 degree angle. The width between shoulder blades is adequate to allow enough flexibility to easily retrieve game. Upper arm bones are about equal in length with shoulder blades and laid back at approximately the same angle as the blades, meaning the forelegs are set under the withers. The equal length of shoulder blade and upper arm bone and the balanced angulation between the two allows for good extension of the front legs. The forelegs are straight with strong, true pasterns.",
+                    "title_5": "Coat",
+                    "description_5": "The coat is a distinguishing characteristic and quite different from that of any other breed. The body coat is a thick mass of small, tight, crisp curls, lying close to the skin, resilient, water resistant, and of sufficient density to provide protection against weather, water and punishing cover. Curls also extend up the entire neck to the occiput, down the thigh and back leg to at least the hock, and over the entire tail. Elsewhere, the coat is short, smooth and straight, including on the forehead, face, front of forelegs, and feet. A patch of uncurled hair behind the withers or bald patches anywhere on the body, including bald strips down the back of the legs or a triangular bald patch on the throat, should be severely penalized. A looser, more open curl is acceptable on the ears.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Strong and in balance with front angulation. Thighs are powerful with muscling carrying well down into the second thigh. Stifle is of moderate bend. The hocks are strong and true, turning neither in nor out, with hock joint well let down.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23",
+                    "height_max": "27",
+                    "weight_min": "60",
+                    "weight_max": "95",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/CurlyCoatedRetriever.pdf",
+                    "height_min_f": "23",
+                    "height_max_f": "27",
+                    "height_min_m": "23",
+                    "height_max_m": "27",
+                    "height_display": "25-27 inches (male), 23-25 inches (female)",
+                    "weight_min_f": "60",
+                    "weight_max_f": "95",
+                    "weight_min_m": "60",
+                    "weight_max_m": "95",
+                    "weight_display": "60-95 pounds"
+                }
+            },
+            "colors": {
+                "curly-coated-retriever": {
+                    "colors": [
+                        {
+                            "color_index": 27,
+                            "breed_name_url": "curly-coated-retriever",
+                            "breed_name": "Curly-Coated Retriever",
+                            "akc_code": "105",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 28,
+                            "breed_name_url": "curly-coated-retriever",
+                            "breed_name": "Curly-Coated Retriever",
+                            "akc_code": "105",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "breed_club_name": "Curly-Coated Retriever Club of America",
+                    "breed_club_url": "www.ccrca.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/CurlyCoatedRetriever-club-flier.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Curly-Coated Retriever Club of America",
+                    "national_breed_club_url": "www.ccrca.org",
+                    "breed_referral_contact_name": "Leslie Puppo-Rogers",
+                    "breed_referral_contact_phone_number": "(707) 245-7537",
+                    "breed_referral_contact_email": "avanticcr@yahoo.com",
+                    "breed_referral_contact_address": "6220 SHERRILLS FORD RD\nSALISBURY, NC 28147-7558",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1498,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 84,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 616,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 618,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 615,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 617,
+                            "breed_id": "84",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "curly-coated-retriever": {
+                    "breed_name_url": "curly-coated-retriever",
+                    "breed_name": "Curly-Coated Retriever",
+                    "akc_org_history": "<p>Curlies are thought to be among the oldest of the retriever breeds. In contrast to spaniels and setters, though, retrievers are newbies on the sporting scene. They arrived only in the late 1700s, after wing shooting with rifles became practical.</p>\n<p><br></p>\n<p>The genetic jigsaw puzzle that is the Curly-Coated Retriever was pieced together in England during the 1800s. No written records of the breed's earliest history exist, but we can make some educated assumptions. The Curly is popularly believed to be descended from two breeds now extinct, the English Water Spaniel and the Retrieving Setter. It is assumed that Irish Water Spaniel blood is also among the Curly's ancestor breeds, as was the St. John's Dog, a smallish type of Newfoundland. By 1860, their unique look and proud bearing made Curlies popular attractions at England's first dog shows.</p>\n<p><br></p>\n<p>In the early 1880s, the Curly was said to have been crossed to the Poodle to tighten the Curly's distinctive, low-shedding curls. Poodle blood might have also contributed to the Curly's elegant carriage and complex character.</p>\n<p><br></p>\n<p>By the late 19th century the Curly had taken his place as a cherished companion of British sportsmen. In this period the Curly was exported as far afield as Australia and New Zealand, where it remains popular among hunters as an all-purpose retriever admired for a steady disposition and tender mouth.&nbsp;</p>\n<p><br></p>\n<p>The spectacular rise of Labs and Goldens has long since eclipsed the Curly's prominence among the retriever breeds, but they retain a small but ardent following around the world. The Curly entered the AKC Stud Book in 1924.</p>",
+                    "mp_history_job": "<p>Developed during the 1800s by judicious crosses of older water-dog breeds\u00bfIrish Water Spaniels and Poodles are possible components\u00bfCurlies are thought to be among the oldest retrievers. (Compared with spaniels and setters, retrievers are newbies on the sporting scene. They arrived only after wing shooting with rifles became practical, sometime in the late 1700s.) By 1860, their unique look and proud bearing made Curlies popular attractions at England's first dog shows. Since then, they\u00bfve won a small but ardent following around the world.</p>",
+                    "did_you_know": "The Curly-Coated Retriever is one of the oldest breeds classified as retrievers. | The first breed club for the Curly-Coated Retriever was formed in England in 1896. | The Curly-Coated Retriever was first introduced to the US in 1907; first AKC registration in 1924. | The Curly-Coated Retriever is believed to have been descended from the 16th century English Water Spaniel, Retrieving Setter and possibly the Irish Water Spaniel. | The Curly-Coated Retriever was first exhibited in 1860 at England's Birmingham show. | The Curly-Coated Retriever developed serious popularity in New Zealand and Australia after breed specimens were exported there from England in 1889."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24146%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-standing-stacked-in-a-field-at-sunset.20200418030641387.jpg",
+                    "alt": "Curly Coated Retriever standing stacked in a field at sunset.",
+                    "caption": "",
+                    "credit": "onetouchspark/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Sporting-Group-David-0E9A8241.jpg",
+                    "alt": "Best of Breed: GCH CH Pizzazz Ticket To Ride BN RN, Retriever (Curly-Coated); Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-laying-down-in-a-field.jpg",
+                    "alt": "Curly-Coated Retriever laying down in a field.",
+                    "caption": "",
+                    "credit": "Aly Tyler/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-on-White-04.jpg",
+                    "alt": "Wet Curly-Coated Retriever standing in tall grasses next to body of water",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-head-profile-outdoors.20200418030717529.jpg",
+                    "alt": "Curly Coated Retriever head profile outdoors.",
+                    "caption": "",
+                    "credit": "onetouchspark/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-On-White-03.jpg",
+                    "alt": "Curly-Coated Retriever lying in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-head-portrait-outdoors.20200418030235344.jpg",
+                    "alt": "Curly Coated Retriever head portrait outdoors.",
+                    "caption": "",
+                    "credit": "onetouchspark/Getty Images Plus via Getty Images"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-illustration.jpg",
+                "alt": "Curly-Coated Retriever illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Curly-Coated-Retriever-puppies-laying-on-a-white-background.jpg",
+                "alt": "Two Curly Coated Retriever puppies laying on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/curly-coated-retriever",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Curly Coated Retriever",
+        "shopCta": false
+    }
+}

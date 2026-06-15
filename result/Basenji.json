@@ -204,8 +204,8 @@
                             "temperament": "independent / loyal / deeply affectionate"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -505,7 +505,7 @@
                 "basenji": {
                     "markings": [
                         {
-                            "marking_index": 212,
+                            "marking_index": 214,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -515,7 +515,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 213,
+                            "marking_index": 215,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -525,7 +525,7 @@
                             "markings_short": "BLK SDL"
                         },
                         {
-                            "marking_index": 214,
+                            "marking_index": 216,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -535,7 +535,7 @@
                             "markings_short": "W/CP"
                         },
                         {
-                            "marking_index": 215,
+                            "marking_index": 217,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -551,7 +551,7 @@
                 "basenji": {
                     "colors": [
                         {
-                            "color_index": 722,
+                            "color_index": 723,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -562,7 +562,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 723,
+                            "color_index": 724,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -573,7 +573,7 @@
                             "color_short": "BLK TN & WH"
                         },
                         {
-                            "color_index": 724,
+                            "color_index": 725,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -584,7 +584,7 @@
                             "color_short": "BRDL & WH"
                         },
                         {
-                            "color_index": 725,
+                            "color_index": 726,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -595,7 +595,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 726,
+                            "color_index": 727,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -606,7 +606,7 @@
                             "color_short": "BLK BRDL & WH"
                         },
                         {
-                            "color_index": 727,
+                            "color_index": 728,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -617,7 +617,7 @@
                             "color_short": "BL CR & WH"
                         },
                         {
-                            "color_index": 728,
+                            "color_index": 729,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -628,7 +628,7 @@
                             "color_short": "CR & WH"
                         },
                         {
-                            "color_index": 729,
+                            "color_index": 730,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -639,7 +639,7 @@
                             "color_short": "MHGY TN & WH"
                         },
                         {
-                            "color_index": 730,
+                            "color_index": 731,
                             "breed_name_url": "basenji",
                             "breed_name": "Basenji",
                             "akc_code": "402",
@@ -751,7 +751,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775351598",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781199098",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23420%5D",
@@ -800,8 +800,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

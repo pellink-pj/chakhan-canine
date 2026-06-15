@@ -1,0 +1,1335 @@
+{
+    "settings": {
+        "current_breed": "canaan-dog",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Canaan-Dog.pdf",
+                    "mp_health": "<p>Canaan Dogs are generally a healthy breed. Like all breeds there may be some health issues, like hip or elbow dysplasia and patellar luxation. Some dogs may be faced with these health challenges in their lives, but the majority of Canaan Dogs are healthy dogs.</p>",
+                    "akc_org_health": "<p>The Canaan Dog is generally healthy and has a small group of dedicated breeders who communicate with each other regularly and work together for the betterment of the breed. As with all breeds, a Canaan Dog's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs.</p>",
+                    "akc_org_nutrition": "<p>The Canaan Dog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Canaans tend to stay clean and normally require less frequent baths than other moderately active breeds. They have a double coat, consisting of a harsh, flat outer coat and a softer undercoat. They will have a shedding season at least once a year'\u00bffrequent brushing during this time will help to remove loose hair and keep the dog looking his best. The nails should be trimmed regularly if they don't wear down naturally, as overly long nails can cause discomfort and structural issues.</p>",
+                    "akc_org_exercise": "<p>Canaans require a moderate amount of exercise and can adapt well various living situations when given daily outings. Training for dog sports provides an ideal outlet for their energy. The breed exercises mind and body by participating in obedience, tracking, herding, agility, nose work, carting, coursing ability tests, and other activities that dog and owner can enjoy together.</p>",
+                    "akc_org_training": "<p>Wonderfully sensitive, affectionate, and responsive, Canaan Dogs make devoted family companions. They are highly intelligent and readily trained. Although the dogs are adaptable to most climates and living situations, their natural drive for self-preservation and a well-developed sense of territory make them mistrustful of strange people, strange dogs, and new environments; early socialization and puppy training classes are a must. This is a process that should begin with the breeder and continue with the new owner and helps to ensure a well-mannered and well-adjusted dog both at home and in public. Training sessions should always be positive; harsh training methods will have a negative effect on the Canaan's sensitive nature.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Elbow Evaluation",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Thyroid Evaluation",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "breed_name_oracle": "Canaan Dog",
+                    "matches_oracle": "Canaan Dog",
+                    "akc_code": "840",
+                    "breed_name_plural": "Canaan Dogs",
+                    "breed_nicknames": "Canaan, Canaani (plural)",
+                    "origin": "Israel",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1997",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Basenji, Carolina Dog, Working Kelpie, Taiwan Dog, Portuguese Podengo",
+                    "links": [],
+                    "popularity_2025": 193,
+                    "popularity_2024": 195,
+                    "popularity_2023": 191,
+                    "popularity_2022": 187,
+                    "popularity_2021": 187,
+                    "popularity_2020": 184,
+                    "popularity_2019": 181,
+                    "popularity_2018": 179,
+                    "popularity_2017": 175,
+                    "popularity_2016": 181,
+                    "popularity_2015": 170,
+                    "related_groups_characteristics": "Medium Dog Breeds, Best Guard Dogs, ",
+                    "related_breeds_items_url": [
+                        "basenji",
+                        "carolina-dog",
+                        "working-kelpie",
+                        "taiwan-dog",
+                        "portuguese-podengo"
+                    ],
+                    "related_breeds_items": {
+                        "basenji": {
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "breed_name_oracle": "Basenji",
+                            "matches_oracle": "Basenji",
+                            "akc_code": "402",
+                            "breed_name_plural": "Basenjis",
+                            "breed_nicknames": "The Barkless Dog",
+                            "origin": "Central Africa",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1944",
+                            "life_expectancy": "13-14 years",
+                            "related_breeds": "Ibizan Hound, Pharaoh Hound, Boerboel, Rhodesian Ridgeback, Azawakh",
+                            "links": [],
+                            "popularity_2025": 92,
+                            "popularity_2024": 80,
+                            "popularity_2023": 81,
+                            "popularity_2022": 91,
+                            "popularity_2021": 87,
+                            "popularity_2020": 86,
+                            "popularity_2019": 88,
+                            "popularity_2018": 87,
+                            "popularity_2017": 84,
+                            "popularity_2016": 88,
+                            "popularity_2015": 87,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "independent / smart / poised"
+                        },
+                        "carolina-dog": {
+                            "breed_name_url": "carolina-dog",
+                            "breed_name": "Carolina Dog",
+                            "breed_name_oracle": "Carolina Dog",
+                            "matches_oracle": "Carolina Dog",
+                            "akc_code": "454",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "United States",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Canaan Dog, Mountain Cur, Czechoslovakian Vlciak, Working Kelpie, Basenji",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "independent / loyal / reserved with strangers"
+                        },
+                        "working-kelpie": {
+                            "breed_name_url": "working-kelpie",
+                            "breed_name": "Working Kelpie",
+                            "breed_name_oracle": "Working Kelpie",
+                            "matches_oracle": "Working Kelpie",
+                            "akc_code": "865",
+                            "breed_name_plural": "Working Kelplies",
+                            "breed_nicknames": "",
+                            "origin": "Australia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / intelligent / eager"
+                        },
+                        "taiwan-dog": {
+                            "breed_name_url": "taiwan-dog",
+                            "breed_name": "Taiwan Dog",
+                            "breed_name_oracle": "Taiwan Dog",
+                            "matches_oracle": "Taiwan Dog",
+                            "akc_code": "355",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Taiwan",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "9-13 years",
+                            "related_breeds": "Kai Ken, Carolina Dog, Korean Jindo Dog, Canaan Dog, Kishu Ken",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "loyal / intelligent / versatile"
+                        },
+                        "portuguese-podengo": {
+                            "breed_name_url": "portuguese-podengo",
+                            "breed_name": "Portuguese Podengo",
+                            "breed_name_oracle": "Portuguese Podengo",
+                            "matches_oracle": "Portuguese Podengo",
+                            "akc_code": "438",
+                            "breed_name_plural": "Portuguese Podengos",
+                            "breed_nicknames": "",
+                            "origin": "Portugal",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Portuguese Podengo Pequeno, Portuguese Sheepdog, Portuguese Pointer, Pharaoh Hound, Ibizan Hound",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / independent / intelligent"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "temperament": "alert / vigilant / confident",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "akc_org_blurb": "One of the AKC's oldest breeds, the Canaan Dog is the national dog of Israel. This quick, medium-sized pasture dog is docile with family, aloof with strangers. The ever-alert Canaan is a vocal and persistent guardian of flock and home.",
+                    "akc_org_about": "Canaan Dogs are lean, bushy-tailed dogs standing 19 to 24 inches at the shoulder. The coat is straight and harsh, and comes in various colors and patterns. Erect, expressive ears and dark almond eyes convey an inquisitive expression. Canaans move at a brisk, natural trot. They are rugged, agile, and apparently tireless, making them a nice fit for hikers and runners.\n\n\n\n Canaans are clever, confident, and territorial. They will end up \"owning\" passive owners who haven't establish themselves as top dog in the family pack. Early training and socialization are key. When positive methods are applied, these ancient wonder-dogs train beautifully. Agility, obedience, herding trials, and sentry duty are a few outlets for their work ethic.",
+                    "mp_description": "This ancient breed, now the national dog of Israel, is alert, active and vigilant. Canaan Dogs are devoted to their families, but territorial and reserved with strangers. Your Canaan Dog puppy needs early socialization, training and lots of physical and mental stimulation. They're smart and take well to positive training, excelling at dog sports like herding, flyball and agility. If he's well-trained and gets regular exercise to harness that energy, he's a docile and loving family companion."
+                }
+            },
+            "standards": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "title_1": "General Appearance",
+                    "description_1": "The Canaan Dog is a pariah dog type that is naturally alert, inquisitive and watchful. He is mistrustful of strangers and unfamiliar environments, yet loyal and loving with his family. A square dog of medium size, moderate and balanced without extremes, showing a clean outline. The moderately angulated Canaan Dog moves with athletic agility and grace in an efficient, ground-covering endurance trot. He has a wedge-shaped head with low-set erect ears, a high set brush tail that curls over the back when confident, and a straight, harsh, flat-lying double coat. There is a marked distinction between the sexes.",
+                    "title_2": "Head",
+                    "description_2": "Elongated, the length exceeding the breadth and depth considerably. Wedge-shaped, when viewed from above. Slightly arched when viewed from the side, tapering to stop. The region of the forehead is of medium width, but appearing broader through ears set low to complete an alert expression, with a slight furrow between the eyes. Muzzle-Tapering to complete the wedge shape of the head. Length equal to or slightly longer than the length of the skull from the occiput to stop. Whisker trimming optional. Nose - Darkly pigmented or varying shades of liver, harmonizing with coat color. Lips - Tight with good pigmentation. Bite - Scissors.",
+                    "title_3": "Body",
+                    "description_3": "Neck - well arched. Balance to body and head and free from throatiness. Topline - Level with slight arch over the loins. Body - Strong, displaying athletic agility and trimness. Chest - Moderately broad and deep, extending to the elbows, with well-sprung ribs. Loin - Well-tucked up. Short, muscled flanks.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders moderately angulated. Legs straight. Pasterns flexible with very slight slope when viewed from the side. Dewclaws may be removed. Feet - Catlike, pads hard, pigmentation harmonizing with nose and eye rims. Nails strong, hard, pigmentation harmonizing with either nose and eye rims or coat.",
+                    "title_5": "Tail",
+                    "description_5": "Set high. When confident tail will be carried curled over the back, either in a curl or sickle, with one full curl being the ideal. When extended, the bone shall reach to the hocks.",
+                    "title_6": "Coat",
+                    "description_6": "Double coat. Outer coat-straight, harsh, flat-lying. Outer coat of medium length on body, shorter on front part of the legs and head; longer on ruff, tail, top of withers and back of thigh. Ruff more pronounced on males. Thick brush tail tapering to a pointed tip. Undercoat - soft and short with density varying with climate. Excessively long outer coat that masks the clean outline of the dog is undesirable as is any trimming that alters the natural appearance of the dog.",
+                    "title_7": "Expression Eyes And Ears",
+                    "description_7": "Expression- Alert, watchful and inquisitive. Dignified. Eyes-Dark, almond-shaped, slightly slanted. Varying shades of hazel with liver-pointed dogs. Eye rims darkly pigmented or of varying shades of liver harmonizing with coat color. Fault - Unpigmented eye rims. Ears- Erect, medium to large, set moderately low, broad at the base, tapering to a very slightly rounded tip. Ears angled very slightly forward when excited. A straight line from the inner corner of the ear to the tip of the nose should just touch the inner corner of the eye and a line drawn from the tip of the ear to the tip of the nose should just touch the outer corner of the eye. Ear motion contributes to expression and clearly defines the mood of the dog. Major Fault - In the adult dog, other than erect ears. Stop - Slightly accentuated.",
+                    "title_8": "Hindquarters",
+                    "description_8": "Moderately angulated. In balance with forequarters. Straight when viewed from the rear. Thigh musculature well-developed, moderately broad. Hocks well-let-down. Dewclaws must be removed. Feet and nails as in fore-quarters.",
+                    "height_min": "19",
+                    "height_max": "24",
+                    "weight_min": "35",
+                    "weight_max": "55",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Canaan_Dog.pdf",
+                    "height_min_f": "19",
+                    "height_max_f": "24",
+                    "height_min_m": "19",
+                    "height_max_m": "24",
+                    "height_display": "20-24 inches (male), 19-23 inches (female)",
+                    "weight_min_f": "35",
+                    "weight_max_f": "55",
+                    "weight_min_m": "35",
+                    "weight_max_m": "55",
+                    "weight_display": "45-55 pounds (male), 35-45 pounds (female)"
+                }
+            },
+            "markings": {
+                "canaan-dog": {
+                    "markings": [
+                        {
+                            "marking_index": 579,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 580,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "010",
+                            "markings_long": "Liver Markings",
+                            "markings_short": "LVR MKGS"
+                        },
+                        {
+                            "marking_index": 581,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        },
+                        {
+                            "marking_index": 582,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "023",
+                            "markings_long": "Red Markings",
+                            "markings_short": "RD MKGS"
+                        },
+                        {
+                            "marking_index": 583,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "044",
+                            "markings_long": "Cream Markings",
+                            "markings_short": "CR MKGS"
+                        },
+                        {
+                            "marking_index": 584,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "097",
+                            "markings_long": "Gold Markings",
+                            "markings_short": "GLD MKGS"
+                        },
+                        {
+                            "marking_index": 585,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "cde_markings": "101",
+                            "markings_long": "White Trim",
+                            "markings_short": "WH TRM"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "canaan-dog": {
+                    "colors": [
+                        {
+                            "color_index": 1867,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1868,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 1869,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "093",
+                            "color_long": "Golden",
+                            "color_short": "GLDN"
+                        },
+                        {
+                            "color_index": 1870,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 1871,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1872,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "195",
+                            "color_long": "Tan",
+                            "color_short": "TN"
+                        },
+                        {
+                            "color_index": 1873,
+                            "breed_name_url": "canaan-dog",
+                            "breed_name": "Canaan Dog",
+                            "akc_code": "840",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "breed_club_name": "Canaan Dog Club of America",
+                    "breed_club_url": "www.cdca.org",
+                    "breed_club_pdf_url": "http://www.canaandogrescue.com/",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "Canaan Dog Club of America",
+                    "national_breed_club_url": "www.cdca.org",
+                    "breed_referral_contact_name": "Sally Armstrong",
+                    "breed_referral_contact_phone_number": "(702) 475-2615",
+                    "breed_referral_contact_email": "candocanaans@yahoo.com",
+                    "breed_referral_contact_address": "2300 CROSSOVER RD\nRENO, NV 89510-9354",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://cdca.org/links.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1477,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 63,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 532,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 534,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 531,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 533,
+                            "breed_id": "63",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "canaan-dog": {
+                    "breed_name_url": "canaan-dog",
+                    "breed_name": "Canaan Dog",
+                    "akc_org_history": "<p>Canaan Dogs are named for the territory that is today Israel, Lebanon, and parts of bordering countries. For Israelites of biblical times, herds and flocks were at the heart of daily existence. Livestock was kept for food, leather, and wool, but also for use in the ritual sacrifices that were solemn custom for centuries. The many references to sheep and shepherds in Christian, Hebrew, and Muslim scripture attest to the centrality of pastoral life to ancient Semitic cultures. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artifacts going back some 4,000 years bear inscriptions of dogs that look much like Canaans, but exactly when the breed was developed is one of those canine milestones that has vanished in the rearview mirror of history. We can assume that for thousands of years these dogs were shepherd's assistants whose tasks included herding, droving, and guarding.&nbsp;</p>\n<p><br></p>\n<p>The turning point of the breed's known history occurred in the year 70. It was then that the Romans, after decades of their uneasy occupation of Judea, destroyed Jerusalem and dispersed the Israelites across the Middle East and Mediterranean basin. With their owners gone and their flocks scattered, Canaan Dogs sought refuge in the Negev Desert, where they survived and, for the most part, lived undomesticated until the 20th century.</p>\n<p><br></p>\n<p>&nbsp;During the years leading to the foundation of the State of Israel, sentry dogs were needed to patrol isolated Jewish settlements and to train as K-9s for the fledgling Israeli army. Dr. Rudolphina Menzel, an Austrian cynologist living in Palestine, proposed the semi-wild dogs of the desert, on the assumption that only the fittest could survive such a hardscrabble existence. So began the redomestication of the Canaan Dog.&nbsp;</p>\n<p><br></p>\n<p>The desert dogs proved bright and highly trainable, and they were soon earning their feed as sentries, messengers, service dogs, and landmine detectors. After World War II, Menzel began the peacetime pursuit of breeding and training Canaans as guide dogs for the blind.</p>\n<p><br></p>\n<p>A breed that fended for itself for nearly 2,000 years, Canaan Dogs still retain the rugged self-reliance of desert dogs untouched by changing fashion since Abraham first led his flock into the land of Canaan.</p>",
+                    "mp_history_job": "<p>Shepherding was an important job for ancient Israelites: Sheep were kept not only for sustenance and wool, but also for use in ritual sacrifice. When the Romans drove the Israelites out of the Holy Land in a.d. 70, the Israelites' herding dogs sought refuge in the Negev Desert, where they survived and, for the most part, lived undomesticated until the 20th century. A breed that fended for itself for nearly 2,000 years, Canaan Dogs still retain some qualities of self-reliant desert dwellers.</p>",
+                    "did_you_know": "The Canaan Dog began competing in conformation in 1997 after a brief stay in the Miscellaneous class during the '90s. | Drawings on the tombs at Beni-Hassan, dating from 2200-2000 BC, depict dogs that remarkably resemble the Canaan Dogs of today. | The Canaan Dog is AKC's 141st breed."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23905%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Canaan-Dog-On-White-01.jpg",
+                    "alt": "Canaan Dog standing sideways facing left, head turned right",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_0085.jpg",
+                    "alt": "Best of Breed: GCHB CH Caliente Dangerous Gale Force Winds, Canaan Dog; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Canaan-Dog-On-White-031.jpg",
+                    "alt": "Canaan Dog lying down facing left",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Caanan-Dog-Illo.jpg",
+                "alt": "Canaan Dog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Caanan-Dog-Illo.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Canaan_Dog3.jpg",
+                "alt": ""
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/canaan-dog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Canaan Dog",
+        "shopCta": false
+    }
+}

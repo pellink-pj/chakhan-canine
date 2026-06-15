@@ -1,0 +1,33 @@
+<!-- @dsCard group="Components" viewport="700x300" name="Forms — ChoiceCard" subtitle="Big tap-target answers for the readiness diagnostic" -->
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../../styles.css">
+<style>
+  body{margin:0;font-family:var(--font-sans);background:var(--bg-app);padding:22px}
+  .q{font-size:19px;font-weight:800;color:var(--ink-900);margin:0 0 14px;letter-spacing:-.02em}
+  .stack{display:flex;flex-direction:column;gap:11px;max-width:560px}
+</style></head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+  <script src="../../_ds_bundle.js"></script>
+  <script type="text/babel">
+    const { ChoiceCard } = window.MungMateDesignSystem_181714;
+    function Demo() {
+      const [a, setA] = React.useState('no');
+      return (
+        <div>
+          <p className="q">마음에 둔 강아지가 있으세요?</p>
+          <div className="stack">
+            <ChoiceCard label="네, 있어요" sub="이 견종이 나랑 맞는지 확인하고 싶어요"
+              selected={a==='yes'} onClick={()=>setA('yes')} />
+            <ChoiceCard label="잘 모르겠어요" sub="라이프스타일에 맞는 견종을 추천받고 싶어요"
+              selected={a==='no'} onClick={()=>setA('no')} />
+          </div>
+        </div>
+      );
+    }
+    ReactDOM.createRoot(document.getElementById('root')).render(<Demo/>);
+  </script>
+</body></html>

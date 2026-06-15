@@ -1,0 +1,1325 @@
+{
+    "settings": {
+        "current_breed": "german-wirehaired-pointer",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/German-Wirehaired-Pointer.pdf",
+                    "mp_health": "<p>German Wirehaired Pointers are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, thyroid, elbow dysplasia, cardiac disease and Von Willebrand\u00bfs Disease. Some dogs may be faced with these health challenges in their lives, but the majority of German Wirehaired Pointers are healthy dogs.</p>",
+                    "akc_org_health": "<p>While German Wirehaired Pointers are generally healthy dogs, there are several health and genetic screening considerations specific to the breed. Responsible breeders test their stock for conditions the breed can be prone to and communicate with other dedicated breeders regularly, working together for breed health and preservation of the breed's qualities. A German Wirehair's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs. Regular visits to the vet for checkups and parasite control help to ensure the dog a long, healthy life.</p>",
+                    "akc_org_nutrition": "<p>The German Wirehaired Pointer should be fed a high-quality dog foodappropriate to the dog's age (puppy, adult, or senior) and activity level. Learn about which human foods are safe for dogs, and which are not. Check with your vet or the dog's breeder if you have any questions or concerns about your dog's weight or diet. Clean, fresh water should always be available.</p>",
+                    "akc_org_grooming": "<p>The German Wirehaired Pointer's harsh, wiry coat requires minimal maintenance. A weekly grooming with a comb and soft slicker brush will help to remove dirt and loose hair and keep the dog looking his best. The earsshould be regularly inspected and cleaned if needed with soft gauze and an ear-cleaning solution'\u00bfthe dog's veterinarian can recommend a good brand to use. The nails should be trimmed often, as overly long nails can cause the dog discomfort and problems walking and running.</p>",
+                    "akc_org_exercise": "<p>German Wirehaired Pointers are high-energy sporting dogs who enjoy outdoor activities with human partners and make great companions on long walks or hikes. Regular daily exercise such as long walks and play sessions with their owner will help keep them healthy and happy. The breed also exercises mind and body by participating in hunting, obedience, tracking, agility, rally, and other activities that can be enjoyed by dog and owner.</p>",
+                    "akc_org_training": "<p>German Wirehaired Pointers are very intelligent, responsive, and eager to please, so they are generally easy to train. Early socialization and puppy training classes are recommended and help to ensure that the dog grows into a well-adjusted, well-mannered companion. The breed is smart, talented, versatile, and athletic and excels in a wide range of canine sports and activities. German Wirehairs crave human companionship, and undesirable behaviors can result if they are regularly left alone for long periods of time.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Thyroid Evaluation",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Thyroid Evaluation"
+                }
+            },
+            "basics": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "breed_name_oracle": "German Wirehaired Pointer",
+                    "matches_oracle": "German Wirehaired Pointer",
+                    "akc_code": "103",
+                    "breed_name_plural": "German Wirehaired Pointers",
+                    "breed_nicknames": "GWP, Wirehair",
+                    "origin": "Germany",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1959",
+                    "life_expectancy": "14-16 years",
+                    "related_breeds": "German Shorthaired Pointer, Wirehaired Vizsla, Pudelpointer, Slovakian Wirehaired Pointer, Wirehaired Pointing Griffon",
+                    "links": [],
+                    "popularity_2025": 58,
+                    "popularity_2024": 61,
+                    "popularity_2023": 61,
+                    "popularity_2022": 59,
+                    "popularity_2021": 59,
+                    "popularity_2020": 60,
+                    "popularity_2019": 64,
+                    "popularity_2018": 63,
+                    "popularity_2017": 62,
+                    "popularity_2016": 64,
+                    "popularity_2015": 68,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "german-shorthaired-pointer",
+                        "wirehaired-vizsla",
+                        "pudelpointer",
+                        "slovakian-wirehaired-pointer",
+                        "wirehaired-pointing-griffon"
+                    ],
+                    "related_breeds_items": {
+                        "german-shorthaired-pointer": {
+                            "breed_name_url": "german-shorthaired-pointer",
+                            "breed_name": "German Shorthaired Pointer",
+                            "breed_name_oracle": "German Shorthaired Pointer",
+                            "matches_oracle": "German Shorthaired Pointer",
+                            "akc_code": "102",
+                            "breed_name_plural": "German Shorthaired Pointers",
+                            "breed_nicknames": "GSP",
+                            "origin": "Germany",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "German Wirehaired Pointer, Portuguese Pointer, Slovakian Wirehaired Pointer, German Longhaired Pointer, Pointer",
+                            "links": [],
+                            "popularity_2025": 9,
+                            "popularity_2024": 10,
+                            "popularity_2023": 10,
+                            "popularity_2022": 10,
+                            "popularity_2021": 9,
+                            "popularity_2020": 9,
+                            "popularity_2019": 9,
+                            "popularity_2018": 9,
+                            "popularity_2017": 10,
+                            "popularity_2016": 11,
+                            "popularity_2015": 11,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / smart / willing to please"
+                        },
+                        "wirehaired-vizsla": {
+                            "breed_name_url": "wirehaired-vizsla",
+                            "breed_name": "Wirehaired Vizsla",
+                            "breed_name_oracle": "Wirehaired Vizsla",
+                            "matches_oracle": "Wirehaired Vizsla",
+                            "akc_code": "141",
+                            "breed_name_plural": "Wirehaired Vizslas",
+                            "breed_nicknames": "WV",
+                            "origin": "Hungary",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "2014",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Wirehaired Pointing Griffon, Vizsla, Pudelpointer, Slovakian Wirehaired Pointer, German Wirehaired Pointer",
+                            "links": [],
+                            "popularity_2025": 130,
+                            "popularity_2024": 159,
+                            "popularity_2023": 142,
+                            "popularity_2022": 142,
+                            "popularity_2021": 144,
+                            "popularity_2020": 155,
+                            "popularity_2019": 147,
+                            "popularity_2018": 167,
+                            "popularity_2017": 155,
+                            "popularity_2016": 157,
+                            "popularity_2015": 156,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "loyal / gentle / trainable"
+                        },
+                        "pudelpointer": {
+                            "breed_name_url": "pudelpointer",
+                            "breed_name": "Pudelpointer",
+                            "breed_name_oracle": "Pudelpointer",
+                            "matches_oracle": "Pudelpointer",
+                            "akc_code": "147",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "14 years",
+                            "related_breeds": "German Wirehaired Pointer, Wirehaired Pointing Griffon, Wirehaired Vizsla, Slovakian Wirehaired Pointer, German Longhaired Pointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / willing to please"
+                        },
+                        "slovakian-wirehaired-pointer": {
+                            "breed_name_url": "slovakian-wirehaired-pointer",
+                            "breed_name": "Slovakian Wirehaired Pointer",
+                            "breed_name_oracle": "Slovakian Wirehaired Pointer",
+                            "matches_oracle": "Slovakian Wirehaired Pointer",
+                            "akc_code": "149",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Czechoslovakia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Vizsla, Pointer, Czechoslovakian Vlciak, German Wirehaired Pointer, Pudelpointer",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": ""
+                        },
+                        "wirehaired-pointing-griffon": {
+                            "breed_name_url": "wirehaired-pointing-griffon",
+                            "breed_name": "Wirehaired Pointing Griffon",
+                            "breed_name_oracle": "Wirehaired Pointing Griffon",
+                            "matches_oracle": "Wirehaired Pointing Griffon",
+                            "akc_code": "124",
+                            "breed_name_plural": "Wirehaired Pointing Griffons",
+                            "breed_nicknames": "Supreme Gundog",
+                            "origin": "Continental Europe",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Spinone Italiano, German Wirehaired Pointer, Pudelpointer, Slovakian Wirehaired Pointer, Wirehaired Vizsla",
+                            "links": [],
+                            "popularity_2025": 51,
+                            "popularity_2024": 51,
+                            "popularity_2023": 57,
+                            "popularity_2022": 57,
+                            "popularity_2021": 60,
+                            "popularity_2020": 63,
+                            "popularity_2019": 63,
+                            "popularity_2018": 65,
+                            "popularity_2017": 65,
+                            "popularity_2016": 66,
+                            "popularity_2015": 66,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / devoted / trainable"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "temperament": "affectionate / eager / enthusiastic",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "akc_org_blurb": "With his sporty weatherproof coat and can-do attitude, the noble German Wirehaired Pointer is a versatile, sturdy gundog who thrives on outdoor activity. Around the house, the GWP is an eager, affectionate, and amusing family companion.",
+                    "akc_org_about": "Standing as high as 26 inches at the shoulder, GWPs are a bit taller and heavier than their close relative, the German Shorthaired Pointer. GWPs are balanced, well muscled, resilient, agile, and generally built to beat the bushes all day long without tiring. The harsh wire coat protects against thorny underbrush and foul weather, and the shaggy beard and eyebrows complete an intelligent, worldly expression.\n\n\n\n 'The need for running in the great outdoors is a must!'\u009d says one veteran owner. 'This breed will not be happy to be on the couch all day.'\u009d GWPs are bright and eager, but their independent, inquisitive nature might frustrate novice owners. A good fit for those looking for a loving companion who enjoys sports and togetherness.",
+                    "mp_description": "When the Germans set out to breed the perfect hunting and retrieving dog, the result was the German Wirehaired Pointer. With agility, stamina and a rough coat that resists brambles, this is a dog for the active, outdoorsy family. Eager, with an independent streak, your German Wirehaired Pointer puppy, with his intelligence and a touch of the comedian, will thrive on having jobs to do and close contact with his people. He's not the couch potato type and may find ways to amuse himself (or get into mischief) without lots of exercise and human contact. Make a place in your active family life for him and you'll have a playful, devoted and enthusiastic companion."
+                }
+            },
+            "standards": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "title_1": "General Appearance",
+                    "description_1": "The German Wirehaired Pointer is a well muscled, medium sized dog of distinctive appearance. Balanced in size and sturdily built, the breed's most distinguishing characteristics are its weather resistant, wire-like coat and its facial furnishings. Typically Pointer in character and style, the German Wirehaired Pointer is an intelligent, energetic and determined hunter.",
+                    "title_2": "Head",
+                    "description_2": "The head is moderately long. Eyes are brown, medium in size, oval in contour, bright and clear and overhung with medium length eyebrows. Yellow eyes are not desirable. The ears are rounded but not too broad and hang close to the head. The skull broad and the occipital bone not too prominent. The stop is medium. The muzzle is fairly long with nasal bone straight, broad and parallel to the top of the skull. The nose is dark brown with nostrils wide open. A spotted or flesh colored nose is to be penalized. The lips are a trifle pendulous but close to the jaw and bearded. The jaws are strong with a full complement of evenly set and properly intermeshing teeth. The incisors meet in a true scissors bite.",
+                    "title_3": "Body",
+                    "description_3": "The neck is of medium length, slightly arched and devoid of dewlap. The entire back line showing a perceptible slope down from withers to croup. The skin throughout is notably tight to the body. The chest is deep and capacious with ribs well sprung. The tuck-up apparent. The back is short, straight and strong. Loins are taut and slender. Hips are broad with the croup nicely rounded. The tail is set high, carried at or above the horizontal when the dog is alert. The tail is docked to approximately two-fifths of its original length.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulders are well laid back. The forelegs are straight with elbows close. Leg bones are flat rather than round, and strong, but not so heavy or coarse as to militate against the dog's natural agility. Dewclaws are generally removed. Round in outline the feet are webbed, high arched with toes close, pads thick and hard, and nails strong and quite heavy.",
+                    "title_5": "Coat",
+                    "description_5": "The functional wiry coat is the breed's most distinctive feature. A dog must have a correct coat to be of correct type. The coat is weather resistant and, to some extent, water-repellent. The undercoat is dense enough in winter to insulate against the cold but is so thin in summer as to be almost invisible. The distinctive outer coat is straight, harsh, wiry and flat lying, and is from one to two inches in length. The outer coat is long enough to protect against the punishment of rough cover, but not so long as to hide the outline of the dog. On the lower legs the coat is shorter and between the toes it is of softer texture. On the skull the coat is naturally short and close fitting. Over the shoulders and around the tail it is very dense and heavy. The tail is nicely coated, particularly on the underside, but devoid of feather. Eyebrows are of strong, straight hair. Beard and whiskers are medium length.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The angles of the hindquarters balances that of the forequarters. A straight line drawn vertically from the buttock (ischium) to the ground should land just in front of the rear foot. The thighs are strong and muscular. The hind legs are parallel when viewed from the rear. The hocks (metatarsus) are short, straight and parallel turning neither in nor out. Dewclaws are generally removed. Feet as in forequarters.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "26",
+                    "weight_min": "50",
+                    "weight_max": "70",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/GermanWirehairedPointer.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "26",
+                    "height_min_m": "22",
+                    "height_max_m": "26",
+                    "height_display": "24-26 inches (male), minimum 22 inches (female)",
+                    "weight_min_f": "50",
+                    "weight_max_f": "70",
+                    "weight_min_m": "50",
+                    "weight_max_m": "70",
+                    "weight_display": "50-70 pounds"
+                }
+            },
+            "markings": {
+                "german-wirehaired-pointer": {
+                    "markings": [
+                        {
+                            "marking_index": 7,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 8,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "cde_markings": "021",
+                            "markings_long": "Spotted",
+                            "markings_short": "SPTD"
+                        },
+                        {
+                            "marking_index": 9,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "cde_markings": "036",
+                            "markings_long": "Roan",
+                            "markings_short": "RN"
+                        },
+                        {
+                            "marking_index": 10,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "cde_markings": "109",
+                            "markings_long": "Roan & Ticked",
+                            "markings_short": "RN & TKD"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "german-wirehaired-pointer": {
+                    "colors": [
+                        {
+                            "color_index": 16,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 17,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "125",
+                            "color_long": "Liver & White",
+                            "color_short": "LVR & WH"
+                        },
+                        {
+                            "color_index": 18,
+                            "breed_name_url": "german-wirehaired-pointer",
+                            "breed_name": "German Wirehaired Pointer",
+                            "akc_code": "103",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "breed_club_name": "German Wirehaired Pointer Club of America, Inc.",
+                    "breed_club_url": "www.gwpca.com",
+                    "breed_club_pdf_url": "http://cdn.akc.org/GermanWirehairedPointer-club-flier.pdf",
+                    "breed_rescue_url": "http://www.nationalgwprescue.com/",
+                    "national_breed_club": "German Wirehaired Pointer Club of America, Inc.",
+                    "national_breed_club_url": "www.gwpca.com",
+                    "breed_referral_contact_name": "Joan Payton",
+                    "breed_referral_contact_phone_number": "(661) 706-2223",
+                    "breed_referral_contact_email": "paytonpack@att.net",
+                    "breed_referral_contact_address": "2901 RAMADA ST\nBAKERSFIELD, CA 93312",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.gwpca.com/Breeder.html",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.gwpca.com/Local.html",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.nationalgwprescue.com/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1530,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 116,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Established in 1959, the German Wirehaired Pointer Club of America is the official AKC Parent Club for the Wirehair."
+                        },
+                        {
+                            "id": 744,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 746,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 743,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 745,
+                            "breed_id": "116",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "german-wirehaired-pointer": {
+                    "breed_name_url": "german-wirehaired-pointer",
+                    "breed_name": "German Wirehaired Pointer",
+                    "akc_org_history": "<p>British sportsmen bred specialized hunting dogs for various types of birds and different kinds of terrain, to work on either land or lake, and with disparate hunting techniques' hence the profusion of British setters, spaniels, and retrievers. The hunters of Continental Europe took a different approach: They created bird dogs capable of doing it all. Italy's Spinone, Hungary's Vizsla, and Germany's GWP are examples of these famously versatile hunting companions, sometimes called the 'European utility breeds'.&nbsp;</p>\n<p><br></p>\n<p>The name German Wirehaired Pointer is the English translation of the German breed name, Deutsch-Drahthaar. The breeding of wire-coated pointing dogs was something of a mania among German sportsmen of the early 1800s. During the second half of the century, dog people in Britain and on the Continent became passionate about classifying dogs by breed rather than merely type. Thus, such harsh-coated gundogs as the GWP, Pudelpointer, and German Broken-coated Pointer, among others, were officially established as separate breeds.&nbsp;</p>\n<p><br></p>\n<p>From the breed's very beginning, fanciers have considered the GWP's coat to be of the utmost importance. Understandable, considering breeders conceived the GWP as an all-terrain, all-weather hunter, proficient in tall grass, deep woods, or water. The wiry coat serves as a waterproof suit of armor, and the shaggy brows and beard protect the eyes and face from the lacerations of thorny brush and brier.</p>\n<p><br></p>\n<p>North American sportsmen began importing GWPs in the 1920s, and the AKC admitted the breed to its studbook in 1959.</p>",
+                    "mp_history_job": "<p>British sportsmen bred specialized hunting dogs for various types of birds and different kinds of terrain, to work on either land or lake, and with disparate hunting techniques hence the profusion of British setters, spaniels, and retrievers. The hunters of Continental Europe took a different approach: They created bird dogs capable of doing it all. Italy's Spinone, Hungary's Vizsla, and Germany's GWP are examples of these famously versatile gundogs, sometimes called the 'European utility breeds'. GWPs were first imported to North America in the 1920s.</p>",
+                    "did_you_know": "The coat of the German Wirehaired Pointer is weather-resistant in every sense of the term, and it is to large extent water-repellent. It is straight, harsh, wiry, and quite flat-lying. One and one half to two inches in length, it is long enough to shield the body from rough cover, yet not so long as to hide the outline. | Most of the early wirehaired Pointers represented a combination of Griffon, Stichelhaar, Pudelpointer, and German Shorthair. The Pudelpointer was a cross between a Poodle dog and an English Pointer bitch, while the Griffon and the Stichelhaar were composed of Pointer, Foxhound, Pudelpointer, and a Polish Water dog. | The German Wirehaired Pointer works equally well in land and water, in part due to the unique coat. | The German Wirehaired Pointer was imported into the United States in the 1920's and admitted into AKC's stud book in 1959. | The German Wirehaired Pointer was first bred as a result of increased popularity in hunting in order to accommodate demand for new breeds. | The coat of the German Wirehaired Pointer, the breed's most distinctive feature, is dense enough in the water to protect against harsh cold, but it sheds in the summer to the point of veritable invisibility."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24489%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-standing-in-a-green-grassy-field.jpg",
+                    "alt": "German Wirehaired Pointer standing in a green grassy field.",
+                    "caption": "",
+                    "credit": "\u00a9Courtney Bastian"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-running-in-a-field-at-the-viewer.jpg",
+                    "alt": "German Wirehaired Pointer running in a field at the viewer.",
+                    "caption": "",
+                    "credit": "Bigandt_Photography via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-laying-down-outdoors.jpg",
+                    "alt": "German Wirehaired Pointer laying down outdoors.",
+                    "caption": "",
+                    "credit": "PavelRodimov/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-retrieving-a-duck-in-a-field.jpg",
+                    "alt": "German Wirehaired Pointer retrieving a duck in a field.",
+                    "caption": "",
+                    "credit": "lvaloueva/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-On-White-03.jpg",
+                    "alt": "German Wirehaired Pointer laying down in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2020/05/German-Wirehaired-Pointer-standing-in-a-field.jpg",
+                    "alt": "German Wirehaired Pointer standing in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Courtney Bastian"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-in-a-field.jpg",
+                    "alt": "German Wirehaired Pointer in a field.",
+                    "caption": "",
+                    "credit": "JMichl/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-hunting-in-a-field.jpg",
+                    "alt": "German Wirehaired Pointer hunting in a field",
+                    "caption": "",
+                    "credit": "Steve Oehlenschlager/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-sitting-outdoors.jpg",
+                    "alt": "German Wirehaired Pointer sitting outdoors.",
+                    "caption": "",
+                    "credit": "PavelRodimov/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-at-the-AKC-National-Championship.jpg",
+                    "alt": "German Wirehaired Pointer at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-Illo-2.jpg",
+                "alt": "German Wirehaired Pointer illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-puppy.jpg",
+                "alt": "German Wirehaired Pointer puppy sitting."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/german-wirehaired-pointer",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "German Wirehaired Pointer",
+        "shopCta": false
+    }
+}

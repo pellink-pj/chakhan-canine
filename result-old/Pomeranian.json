@@ -1,0 +1,1545 @@
+{
+    "settings": {
+        "current_breed": "pomeranian",
+        "current_breed_group": {
+            "name": "Toy Group",
+            "url": "https://www.akc.org/dog-breeds/toy/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Pomeranian.pdf",
+                    "mp_health": "Pomeranians are generally a healthy breed. Like all breeds there may be some health issues. As with other toy dogs, Pomeranians can be prone to trouble with the knees in their hind legs (patella luxation). Try to avoid this and possible broken legs by discouraging their jumping from extraordinary heights. For Poms, this can mean jumping off the couch. Understanding the toy dog physical limitations and psychology will be essential to your successful house training. This breed is also noted to have alopecia (abnormal hair loss) with unknown cause. Some dogs may be faced with these health challenges in their lives, but the majority of Pomeranians are healthy dogs.",
+                    "akc_org_health": "Pomeranians are generally healthy little dogs, and responsible breeders screen their stock for health conditions such as luxating patellas (kneecaps that slip out of place), hypothyroidism, collapsing tracheas, congestive heart failure, seizures, and alopecia X (black skin disease). The Orthopedic Foundation for Animals (OFA) is a registry that keeps health-screening information in a public database. Be sure to request to see copies of OFA results of the litter's parents from the breeder when considering a puppy.",
+                    "akc_org_nutrition": "The Pomeranian should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.",
+                    "akc_org_grooming": "The Pomeranian's profuse double coat is one of his most distinguishing features. Frequent brushing is necessary to maintain the beautiful coat that we admire. Brush through the dog with a pin brush and a slicker brush down to the skin once a week to keep the hair from matting. Pomeranians are active dogs, so it is important that their nails are kept short. It is highly recommended that you find a groomer to do a full groom'\u00bfincluding bath, brushing, ears, nails, and anal glands'\u00bfevery four to six weeks, if you are not comfortable with doing this at home. You should also pay close attention to the Pom's teeth. It is a good idea to brush the teeth during their weekly grooming session.",
+                    "akc_org_exercise": "As much as Pomeranians enjoy being lapdogs and family companions, they do benefit from some exercise and enjoy the chance to run, play, and go for walks. Be sure to keep a close eye on your Pom when he or she is outside. They are notorious for escaping through small crevices or gaps in fencing, or climbing over short fencing. Small breeds like Pomeranians can be mistaken for rabbits or squirrels by large, predatory birds such as hawks and owls, so it is vital to keep a Pom under cover or stay with them at all times. When taking your Pom for a walk, be cautious of your surroundings. Other dogs who are not controlled can easily hurt your Pom.",
+                    "akc_org_training": "The Pom should be trained to walk on a leash early on and taught to come when called. Housebreaking can be a challenge, so consistency and patience are key. It is important to keep your Pom from jumping on and off couches or beds, as they can injure joints or even break a bone. Poms are alert and highly intelligent, and they enjoy and can excel in canine activities like agility, rally, and obedience, or working as therapy dogs.",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "breed_name_oracle": "Pomeranian",
+                    "matches_oracle": "Pomeranian",
+                    "akc_code": "511",
+                    "breed_name_plural": "Pomeranians",
+                    "breed_nicknames": "Pom",
+                    "origin": "Iceland",
+                    "breed_group": "Toy Group",
+                    "year_recognized": "1888",
+                    "life_expectancy": "12-16 years",
+                    "related_breeds": "German Spitz, Papillon, Pekingese, Keeshond",
+                    "links": [],
+                    "popularity_2025": 19,
+                    "popularity_2024": 22,
+                    "popularity_2023": 22,
+                    "popularity_2022": 23,
+                    "popularity_2021": 24,
+                    "popularity_2020": 23,
+                    "popularity_2019": 24,
+                    "popularity_2018": 23,
+                    "popularity_2017": 22,
+                    "popularity_2016": 22,
+                    "popularity_2015": 21,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "german-spitz",
+                        "papillon",
+                        "pekingese",
+                        "keeshond"
+                    ],
+                    "related_breeds_items": {
+                        "german-spitz": {
+                            "breed_name_url": "german-spitz",
+                            "breed_name": "German Spitz",
+                            "breed_name_oracle": "German Spitz",
+                            "matches_oracle": "German Spitz",
+                            "akc_code": "319",
+                            "breed_name_plural": "German Spitz",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Pomeranian, Keeshond, Papillon, Chihuahua, American Eskimo Dog",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "active / devoted / smart"
+                        },
+                        "papillon": {
+                            "breed_name_url": "papillon",
+                            "breed_name": "Papillon",
+                            "breed_name_oracle": "Papillon",
+                            "matches_oracle": "Papillon",
+                            "akc_code": "509",
+                            "breed_name_plural": "Papillons",
+                            "breed_nicknames": "The Butterfly Dog, Pap",
+                            "origin": "France",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1915",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Russian Toy, Toy Fox Terrier, Chihuahua, Japanese Chin",
+                            "links": [],
+                            "popularity_2025": 42,
+                            "popularity_2024": 44,
+                            "popularity_2023": 45,
+                            "popularity_2022": 51,
+                            "popularity_2021": 54,
+                            "popularity_2020": 53,
+                            "popularity_2019": 53,
+                            "popularity_2018": 54,
+                            "popularity_2017": 53,
+                            "popularity_2016": 53,
+                            "popularity_2015": 48,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Smartest Breeds of Dogs",
+                            "temperament": "alert / friendly / happy"
+                        },
+                        "pekingese": {
+                            "breed_name_url": "pekingese",
+                            "breed_name": "Pekingese",
+                            "breed_name_oracle": "Pekingese",
+                            "matches_oracle": "Pekingese",
+                            "akc_code": "510",
+                            "breed_name_plural": "Pekingese",
+                            "breed_nicknames": "Peke",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Shih Tzu, Chinese Crested, English Toy Spaniel, Tibetan Spaniel, Japanese Chin",
+                            "links": [],
+                            "popularity_2025": 90,
+                            "popularity_2024": 87,
+                            "popularity_2023": 91,
+                            "popularity_2022": 96,
+                            "popularity_2021": 94,
+                            "popularity_2020": 95,
+                            "popularity_2019": 84,
+                            "popularity_2018": 92,
+                            "popularity_2017": 88,
+                            "popularity_2016": 93,
+                            "popularity_2015": 80,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "loyal / affectionate / regal in manner"
+                        },
+                        "keeshond": {
+                            "breed_name_url": "keeshond",
+                            "breed_name": "Keeshond",
+                            "breed_name_oracle": "Keeshond",
+                            "matches_oracle": "Keeshond",
+                            "akc_code": "306",
+                            "breed_name_plural": "Keeshonded",
+                            "breed_nicknames": "Kees, Dutch Barge Dog",
+                            "origin": "The Netherlands",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Icelandic Sheepdog, American Eskimo Dog, Pomeranian, German Spitz, Schipperke",
+                            "links": [],
+                            "popularity_2025": 85,
+                            "popularity_2024": 90,
+                            "popularity_2023": 89,
+                            "popularity_2022": 90,
+                            "popularity_2021": 95,
+                            "popularity_2020": 96,
+                            "popularity_2019": 89,
+                            "popularity_2018": 95,
+                            "popularity_2017": 87,
+                            "popularity_2016": 92,
+                            "popularity_2015": 84,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds, ",
+                            "temperament": "friendly / lively / outgoing"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "temperament": "inquisitive / lively / bold",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "akc_org_blurb": "The tiny Pomeranian, long a favorite of royals and commoners alike, has been called the ideal companion. The glorious coat, smiling, foxy face, and vivacious personality have helped make the Pom one of the world's most popular toy breeds.",
+                    "akc_org_about": "\u00bfThe Pomeranian combines a tiny body (no more than seven pounds) and a commanding big-dog demeanor. The abundant double coat, with its frill extending over the chest and shoulders, comes in almost two dozen colors, and various patterns and markings, but is most commonly seen in orange or red.\n\n\n\n Alert and intelligent, Pomeranians are easily trained and make fine watchdogs and perky pets for families with children old enough to know the difference between a toy dog and a toy. Poms are active but can be exercised with indoor play and short walks, so they are content in both the city and suburbs. They will master tricks and games with ease, though their favorite activity is providing laughs and companionship to their special human.",
+                    "mp_description": "Your Pomeranian puppy packs a lot of personality into that tiny body. Intelligent, outgoing, loyal and lively, he's a great playmate as well as a popular show dog. Bold and inquisitive by nature, with an alert foxlike face, he has the confidence of the larger herding dogs who were his ancestors. While he won't expect vigorous long walks, he'll be happiest with lots of active playtime and attention from his people."
+                }
+            },
+            "standards": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "title_1": "General Appearance",
+                    "description_1": "The Pomeranian is a compact, short-backed, active toy dog of Nordic descent. The double coat consists of a short dense undercoat with a profuse harsh-textured longer outer coat. The heavily plumed tail is one of the characteristics of the breed. It is set high and lies flat on the back. He is alert in character, exhibits intelligence in expression, is buoyant in deportment, and is inquisitive by nature. The Pomeranian is cocky, commanding, and animated as he gaits. He is sound in composition and action.",
+                    "title_2": "Head",
+                    "description_2": "Head is in balance with the body, when viewed from above, broad at the back tapering to the nose to form a wedge.\nExpression - may be referred to as fox-like, denoting his alert and intelligent nature. Eyes -dark, bright, medium sized, and almond shaped; set well into the skull with the width between the eyes balancing the other facial features. Eye rims are black, except self-colored in chocolate, beaver and blue.",
+                    "title_3": "Body",
+                    "description_3": "Neck is set well into the shoulders with sufficient length to allow the head to be carried proud and high. Topline is level from withers to croup. Body is compact and well-ribbed. Chest - oval tapered extending to the point of elbows with a pronounced prosternum. Back - short-coupled, straight and strong. Loin - short with slight tuck-up. Croup is flat.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders - well laid back. Shoulder blade and upper arm length are equal. Elbows - held close to the body and turn neither in nor out. Legs when viewed from the front are moderately spaced, straight and parallel to each other, set well behind the forechest. Height from withers to elbows approximately equals height from ground to elbow. Shoulders and legs are moderately muscled. Pasterns straight and strong. Feet- round, tight, appearing cat-like, well-arched, compact, and turn neither in nor out, standing well up on toes.",
+                    "title_5": "Coat",
+                    "description_5": "The Pomeranian is a double-coated breed. The body should be well covered with a short, dense undercoat with long harsh-textured guard hair growing through, forming the longer abundant outer coat which stands off from the body. The coat should form a ruff around the neck, framing the head, extending over the shoulders and chest.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Angulation balances that of the forequarters. Buttocks are well behind the set of the tail. Thighs - moderately muscled. Upper thigh and lower leg length are equal. Stifles - strong, moderately bent and clearly defined. Legs - when viewed from the rear straight and parallel to each other. Hocks when viewed from the side are perpendicular to the ground and strong. Feet same as forequarters.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "6",
+                    "height_max": "7",
+                    "weight_min": "3",
+                    "weight_max": "7",
+                    "size": "XSmall",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Pomeranian.pdf",
+                    "height_min_f": "6",
+                    "height_max_f": "7",
+                    "height_min_m": "6",
+                    "height_max_m": "7",
+                    "height_display": "6-7 inches",
+                    "weight_min_f": "3",
+                    "weight_max_f": "7",
+                    "weight_min_m": "3",
+                    "weight_max_m": "7",
+                    "weight_display": "3-7 pounds"
+                }
+            },
+            "markings": {
+                "pomeranian": {
+                    "markings": [
+                        {
+                            "marking_index": 379,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        },
+                        {
+                            "marking_index": 380,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "128",
+                            "markings_long": "Mask",
+                            "markings_short": "MSK"
+                        },
+                        {
+                            "marking_index": 381,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 382,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        },
+                        {
+                            "marking_index": 383,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        },
+                        {
+                            "marking_index": 384,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "115",
+                            "markings_long": "Irish Marked",
+                            "markings_short": "IRSH MRKD"
+                        },
+                        {
+                            "marking_index": 385,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "024",
+                            "markings_long": "Tri Color Markings",
+                            "markings_short": "TRI MKGS"
+                        },
+                        {
+                            "marking_index": 386,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 387,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "cde_markings": "035",
+                            "markings_long": "Merle Markings",
+                            "markings_short": "MRL MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "pomeranian": {
+                    "colors": [
+                        {
+                            "color_index": 1240,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "050",
+                            "color_long": "Blue Merle",
+                            "color_short": "BL MRL"
+                        },
+                        {
+                            "color_index": 1241,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "056",
+                            "color_long": "Blue Brindle",
+                            "color_short": "BL BRDL"
+                        },
+                        {
+                            "color_index": 1242,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "496",
+                            "color_long": "Chocolate Merle",
+                            "color_short": "CHLT MRL"
+                        },
+                        {
+                            "color_index": 1243,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "481",
+                            "color_long": "Blue Sable",
+                            "color_short": "BL SBL"
+                        },
+                        {
+                            "color_index": 1244,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1245,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1246,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1247,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "044",
+                            "color_long": "Blue & Tan",
+                            "color_short": "BL & TN"
+                        },
+                        {
+                            "color_index": 1248,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "071",
+                            "color_long": "Chocolate",
+                            "color_short": "CHLT"
+                        },
+                        {
+                            "color_index": 1249,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "072",
+                            "color_long": "Chocolate & Tan",
+                            "color_short": "CHLT & TN"
+                        },
+                        {
+                            "color_index": 1250,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 1251,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "348",
+                            "color_long": "Cream Sable",
+                            "color_short": "CR SBL"
+                        },
+                        {
+                            "color_index": 1252,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "133",
+                            "color_long": "Orange",
+                            "color_short": "ORG"
+                        },
+                        {
+                            "color_index": 1253,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "137",
+                            "color_long": "Orange Sable",
+                            "color_short": "ORG SBL"
+                        },
+                        {
+                            "color_index": 1254,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1255,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "155",
+                            "color_long": "Red Sable",
+                            "color_short": "RD SBL"
+                        },
+                        {
+                            "color_index": 1256,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "349",
+                            "color_long": "Beaver",
+                            "color_short": "BVR"
+                        },
+                        {
+                            "color_index": 1257,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1258,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "350",
+                            "color_long": "Chocolate Sable",
+                            "color_short": "CHLT SBL"
+                        },
+                        {
+                            "color_index": 1259,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1260,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "230",
+                            "color_long": "Wolf Sable",
+                            "color_short": "WLF SBL"
+                        },
+                        {
+                            "color_index": 1261,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "519",
+                            "color_long": "Beaver Sable",
+                            "color_short": "BSBL"
+                        },
+                        {
+                            "color_index": 1262,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "380",
+                            "color_long": "Tri-Colored",
+                            "color_short": "TRI"
+                        },
+                        {
+                            "color_index": 1263,
+                            "breed_name_url": "pomeranian",
+                            "breed_name": "Pomeranian",
+                            "akc_code": "511",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "008",
+                            "color_long": "Black & Brindle",
+                            "color_short": "BLK & BRDL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "breed_club_name": "American Pomeranian Club, Inc.",
+                    "breed_club_url": "https://ampomclub.org/",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Pomeranian-club-flier.pdf",
+                    "breed_rescue_url": "https://ampomclub.org/rescue-pomeranians/",
+                    "national_breed_club": "American Pomeranian Club, Inc.",
+                    "national_breed_club_url": "https://ampomclub.org/",
+                    "breed_referral_contact_name": "Jane Lehtinen",
+                    "breed_referral_contact_phone_number": "(218) 744-1426",
+                    "breed_referral_contact_email": "janle@janlepoms.com",
+                    "breed_referral_contact_address": "",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.americanpomeranianclub.org/member_roster.htm",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.americanpomeranianclub.org/regional_clubs.htm",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "https://ampomclub.org/rescue-pomeranians/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1602,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 188,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 1032,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1034,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1031,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1033,
+                            "breed_id": "191",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "pomeranian": {
+                    "breed_name_url": "pomeranian",
+                    "breed_name": "Pomeranian",
+                    "akc_org_history": "<p>The Pomeranian is a miniaturized relation of the powerful spitz-type sled dogs of the Arctic. The breed is named for Pomerania, the area of northeastern Europe that is now part of Poland and western Germany. It was there, hundreds of years ago, that the Pom's ancestors were bred down from their much bigger, burlier cousins. &nbsp;</p>\n<p><br></p>\n<p>The Pom, also known as the Zwergspitz in some countries, is the smallest of the spitz breeds. With their elegant appearance and regal bearing, you might say Poms are 'fit for a queen' and you'd be right. The Pom's popularity is largely due to Queen Victoria, who became smitten with the breed while visiting Florence, Italy. When the dog-happy Dowager Queen returned to Britain with Poms in tow, the breed's fame was assured.</p>\n<p><br></p>\n<p>Victoria became a serious breeder and exhibitor of Poms. At the 1891 Crufts dog show, Victoria showed six of her breeding. One of her favorites, Windsor Marco, won first place in the breed. (A British historian wrote, \"It would have been a brave judge to have placed her second.\") Victoria is credited for reducing the Pom's size from about 30 pounds to their current toy stature. It was reported that as the aged queen lay dying in 1901, her favorite Pom, Turi, kept vigil at the foot of her bed.&nbsp;</p>\n<p><br></p>\n<p>Other historical figures of refined sensibilities who were Pom owners include Marie Antoinette, Emile Zola, and Wolfgang Amadeus Mozart.</p>",
+                    "mp_history_job": "<p>With an elegant appearance and a regal expression, you might say these dogs are 'fit for a queen' and you'd be right. The Pom\u00bfs popularity is largely due to Queen Victoria, who in the 1800s took a fondness to the breed, owning several and breeding them. Victoria is credited for reducing their size from about 30 pounds to their current toy stature. The queen loved her little dogs so much that she insisted her favorite remain in bed with her as she lay dying in 1901.</p>",
+                    "did_you_know": "The Pomeranian is a member of the family of dogs known unofficially as the \"Spitz Group.\" | The name, naturally, traces to Pomerania, not as a point of origin, but possibly because the breed may have been in process of downsizing there. | Specimens of the Pomeranian were shown in the US as far back as 1892, but they were not officially classified until 1900. | The Pomeranian is a descendent of sled dogs of Iceland and Lapland. | Not well known until 1870, when the Kennel Club (England) recognized the so-called Spitzdog. | In 1911, the American Pomeranian Club held its first specialty show."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25321%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg",
+                    "alt": "Pomeranian standing in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/IMG_8708.jpg",
+                    "alt": "Toy Group Second and Best of Breed: GCHB CH Starfire's Firecracker, Pomeranian; Toy Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-03.jpg",
+                    "alt": "Pomeranian lying down facing left, head turned forward",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-Illo-2.jpg",
+                "alt": "Pomeranian illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-puppies-sitting-on-a-white-background.jpg",
+                "alt": "Pomeranian puppies sitting on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/pomeranian",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Pomeranian",
+        "shopCta": false
+    }
+}

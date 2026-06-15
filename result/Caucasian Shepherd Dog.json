@@ -167,8 +167,8 @@
                             "temperament": "intelligent / friendly / courageous"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -468,7 +468,7 @@
                 "caucasian-shepherd-dog": {
                     "markings": [
                         {
-                            "marking_index": 472,
+                            "marking_index": 489,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -478,7 +478,7 @@
                             "markings_short": "BRDL MKGS"
                         },
                         {
-                            "marking_index": 473,
+                            "marking_index": 490,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -488,7 +488,7 @@
                             "markings_short": "PBLD"
                         },
                         {
-                            "marking_index": 474,
+                            "marking_index": 491,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -504,7 +504,7 @@
                 "caucasian-shepherd-dog": {
                     "colors": [
                         {
-                            "color_index": 1545,
+                            "color_index": 1566,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -515,7 +515,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1546,
+                            "color_index": 1567,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -526,7 +526,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1547,
+                            "color_index": 1568,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -537,7 +537,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1548,
+                            "color_index": 1569,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -548,7 +548,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1549,
+                            "color_index": 1570,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -559,7 +559,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1550,
+                            "color_index": 1571,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -570,7 +570,7 @@
                             "color_short": "RST"
                         },
                         {
-                            "color_index": 1551,
+                            "color_index": 1572,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -581,7 +581,7 @@
                             "color_short": "BLK & GR"
                         },
                         {
-                            "color_index": 1552,
+                            "color_index": 1573,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -592,7 +592,7 @@
                             "color_short": "AGT & WH"
                         },
                         {
-                            "color_index": 1553,
+                            "color_index": 1574,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -603,7 +603,7 @@
                             "color_short": "GRZL"
                         },
                         {
-                            "color_index": 1554,
+                            "color_index": 1575,
                             "breed_name_url": "caucasian-shepherd-dog",
                             "breed_name": "Caucasian Shepherd Dog",
                             "akc_code": "644",
@@ -715,7 +715,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23949%5D",
@@ -764,8 +764,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

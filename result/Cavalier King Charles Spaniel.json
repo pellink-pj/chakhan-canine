@@ -207,8 +207,8 @@
                             "temperament": "intelligent / playful / gentle"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -509,7 +509,7 @@
                 "cavalier-king-charles-spaniel": {
                     "markings": [
                         {
-                            "marking_index": 395,
+                            "marking_index": 412,
                             "breed_name_url": "cavalier-king-charles-spaniel",
                             "breed_name": "Cavalier King Charles Spaniel",
                             "akc_code": "517",
@@ -525,7 +525,7 @@
                 "cavalier-king-charles-spaniel": {
                     "colors": [
                         {
-                            "color_index": 1315,
+                            "color_index": 1336,
                             "breed_name_url": "cavalier-king-charles-spaniel",
                             "breed_name": "Cavalier King Charles Spaniel",
                             "akc_code": "517",
@@ -536,7 +536,7 @@
                             "color_short": "BHEIM"
                         },
                         {
-                            "color_index": 1316,
+                            "color_index": 1337,
                             "breed_name_url": "cavalier-king-charles-spaniel",
                             "breed_name": "Cavalier King Charles Spaniel",
                             "akc_code": "517",
@@ -547,7 +547,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1317,
+                            "color_index": 1338,
                             "breed_name_url": "cavalier-king-charles-spaniel",
                             "breed_name": "Cavalier King Charles Spaniel",
                             "akc_code": "517",
@@ -558,7 +558,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1318,
+                            "color_index": 1339,
                             "breed_name_url": "cavalier-king-charles-spaniel",
                             "breed_name": "Cavalier King Charles Spaniel",
                             "akc_code": "517",
@@ -582,8 +582,8 @@
                     "national_breed_club": "American Cavalier King Charles Spaniel Club, Inc.",
                     "national_breed_club_url": "www.ackcsc.org",
                     "breed_referral_contact_name": "Carol Johnson",
-                    "breed_referral_contact_phone_number": "(616) 490-5249",
-                    "breed_referral_contact_email": "BellaFleurCavaliers@outlook.com",
+                    "breed_referral_contact_phone_number": "(616) 490-5227",
+                    "breed_referral_contact_email": "forsythelabs@hotmail.com",
                     "breed_referral_contact_address": "PO BOX 73\nALTO, MI 49302-0073",
                     "breed_referral_directory_title": "See Parent Club website - Breeder Referral List",
                     "breed_referral_directory_url": "",
@@ -670,7 +670,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23951%5D",
@@ -719,8 +719,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -175,8 +175,8 @@
                             "temperament": "alert / courageous / faithful"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -476,7 +476,7 @@
                 "great-pyrenees": {
                     "markings": [
                         {
-                            "marking_index": 433,
+                            "marking_index": 450,
                             "breed_name_url": "great-pyrenees",
                             "breed_name": "Great Pyrenees",
                             "akc_code": "615",
@@ -486,7 +486,7 @@
                             "markings_short": "BDGR MKGS"
                         },
                         {
-                            "marking_index": 434,
+                            "marking_index": 451,
                             "breed_name_url": "great-pyrenees",
                             "breed_name": "Great Pyrenees",
                             "akc_code": "615",
@@ -496,7 +496,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 435,
+                            "marking_index": 452,
                             "breed_name_url": "great-pyrenees",
                             "breed_name": "Great Pyrenees",
                             "akc_code": "615",
@@ -506,7 +506,7 @@
                             "markings_short": "GR MKGS"
                         },
                         {
-                            "marking_index": 436,
+                            "marking_index": 453,
                             "breed_name_url": "great-pyrenees",
                             "breed_name": "Great Pyrenees",
                             "akc_code": "615",
@@ -522,7 +522,7 @@
                 "great-pyrenees": {
                     "colors": [
                         {
-                            "color_index": 1430,
+                            "color_index": 1451,
                             "breed_name_url": "great-pyrenees",
                             "breed_name": "Great Pyrenees",
                             "akc_code": "615",
@@ -545,10 +545,10 @@
                     "breed_rescue_url": "http://gpcaonline.org/rescue.htm",
                     "national_breed_club": "Great Pyrenees Club of America, Inc.",
                     "national_breed_club_url": "https://greatpyrenees.club/",
-                    "breed_referral_contact_name": "Karen Justin",
-                    "breed_referral_contact_phone_number": "(845) 282-4785",
-                    "breed_referral_contact_email": "impyrial@aol.com",
-                    "breed_referral_contact_address": "1893 County Route 1\nWesttown, NY 10998-3904",
+                    "breed_referral_contact_name": "Michael Falatach",
+                    "breed_referral_contact_phone_number": "(216) 789-6102",
+                    "breed_referral_contact_email": "MFALATACH@HOTMAIL.COM",
+                    "breed_referral_contact_address": "517 Bassett Rd\nBay Village, OH 44140-1869",
                     "breed_referral_directory_title": "",
                     "breed_referral_directory_url": "",
                     "breed_referral_regional_club_title": "website",
@@ -634,7 +634,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781209992",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24593%5D",
@@ -683,8 +683,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

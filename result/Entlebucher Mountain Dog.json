@@ -186,8 +186,8 @@
                             "temperament": "faithful / family-oriented / dependable"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -487,7 +487,7 @@
                 "entlebucher-mountain-dog": {
                     "markings": [
                         {
-                            "marking_index": 616,
+                            "marking_index": 633,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -497,7 +497,7 @@
                             "markings_short": "YLW MKGS"
                         },
                         {
-                            "marking_index": 617,
+                            "marking_index": 634,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -507,7 +507,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 618,
+                            "marking_index": 635,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -523,7 +523,7 @@
                 "entlebucher-mountain-dog": {
                     "colors": [
                         {
-                            "color_index": 1974,
+                            "color_index": 1996,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -534,7 +534,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1975,
+                            "color_index": 1997,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -545,7 +545,7 @@
                             "color_short": "BLK WH & TN"
                         },
                         {
-                            "color_index": 1976,
+                            "color_index": 1998,
                             "breed_name_url": "entlebucher-mountain-dog",
                             "breed_name": "Entlebucher Mountain Dog",
                             "akc_code": "859",
@@ -657,7 +657,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24336%5D",
@@ -706,8 +706,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -926,7 +926,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/entlebucher-mountain-dog",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1297,6 +1306,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Entlebucher Mountain Dog",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/entlebucher-mountain-dog",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

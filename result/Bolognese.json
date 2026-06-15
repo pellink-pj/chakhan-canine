@@ -16,7 +16,7 @@
                     "mp_health": "<p>The majority of Bolognese are healthy dogs, and a responsible breeder will screen breeding stock for health conditions such as luxating patellas (compared to \"trick knee\" in humans) and eye anomalies. Good breeders utilize health screening and genetic testing to reduce the likelihood of disease in their puppies.</p>",
                     "akc_org_health": "<p>The majority of Bolognese are healthy dogs, and a responsible breeder will screen breeding stock for health conditions such as luxating patellas (compared to \"trick knee\" in humans) and eye anomalies. Good breeders utilize health screening and genetic testing to reduce the likelihood of disease in their puppies.</p>",
                     "akc_org_nutrition": "<p>The Bolognese should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
-                    "akc_org_grooming": "<p>The Bolognese has an all-white coat that is soft and fluffy like the texture of cotton. He is also 'non-shedding,'\u009d so low to mild allergy sufferers should not be greatly affected. Bolognese coats are unshaped and untrimmed except for around their eyes for sanitary reasons. Regular grooming is needed if the Bolognese is kept in its full coat. For easier maintenance, many people are satisfied with keeping their Bolo in a shorter coat of about one inch, leaving the untrimmed 'mop head'\u009d around the face. &nbsp;&nbsp;&nbsp;&nbsp;Beyond regular grooming, the occasional bath will keep your Bolognese clean and looking his best. Nails should be trimmed occasionally with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Ears should be checked regularly to avoid a buildup of wax and debris, which can result in an infection. Teeth should be brushed regularly.</p>",
+                    "akc_org_grooming": "<p>The Bolognese has an all-white coat that is soft and fluffy like the texture of cotton. He is also 'non-shedding,' so low to mild allergy sufferers should not be greatly affected. Bolognese coats are unshaped and untrimmed except for around their eyes for sanitary reasons. Regular grooming is needed if the Bolognese is kept in its full coat. For easier maintenance, many people are satisfied with keeping their Bolo in a shorter coat of about one inch, leaving the untrimmed 'mop head' &nbsp;around the face. &nbsp;&nbsp;&nbsp;&nbsp;Beyond regular grooming, the occasional bath will keep your Bolognese clean and looking his best. Nails should be trimmed occasionally with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Ears should be checked regularly to avoid a buildup of wax and debris, which can result in an infection. Teeth should be brushed regularly.</p>",
                     "akc_org_exercise": "<p>Bolos would make great apartment dogs, provided they would still have a moderate exercise schedule. As a calm, easygoing dog, they would do well as companions for retirees and seniors. Options for exercise could include play time in the backyard, preferably fenced, or taken for walks. Indoor entertainment, like hide-and-seek, chasing a ball rolled along the floor, or teaching them new tricks are excellent low-key activities for the low-energy, but playful, Bolognese.</p>",
                     "akc_org_training": "<p>Small dog breeds, such as the Bolognese, can be prone to \"small dog syndrome.\" This is a human-induced behavior where the dog thinks he is the \"pack leader\" to humans and can lead to separation anxiety and timidity. Those wishing to own a Bolognese can gain the knowledge they need to know to prevent or correct this behavior.</p>",
                     "text_yumove_link": null,
@@ -197,8 +197,8 @@
                             "temperament": "intelligent / outgoing / funny"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -223,7 +223,7 @@
                         "affectionate_with_family": {
                             "selected": [],
                             "choices": false,
-                            "score": 3,
+                            "score": 5,
                             "traits_url": "affectionate_with_family",
                             "traits": "Affectionate With Family",
                             "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
@@ -262,7 +262,7 @@
                         "good_with_young_children": {
                             "selected": [],
                             "choices": false,
-                            "score": 3,
+                            "score": 5,
                             "traits_url": "good_with_young_children",
                             "traits": "Good With Young Children",
                             "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
@@ -345,7 +345,7 @@
                         "good_with_other_dogs": {
                             "selected": [],
                             "choices": false,
-                            "score": 3,
+                            "score": 5,
                             "traits_url": "good_with_other_dogs",
                             "traits": "Good With Other Dogs",
                             "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
@@ -498,7 +498,7 @@
                 "bolognese": {
                     "colors": [
                         {
-                            "color_index": 1349,
+                            "color_index": 1370,
                             "breed_name_url": "bolognese",
                             "breed_name": "Bolognese",
                             "akc_code": "521",
@@ -610,7 +610,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23681%5D",
@@ -659,8 +659,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -879,7 +879,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/bolognese",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1223,8 +1232,8 @@
         },
         "puppies": {
             "image": {
-                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bolognese-puppy-sitting-in-the-grass.jpg",
-                "alt": "Bolognese puppy sitting in the grass."
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Bolognese-litter-indoors.jpg",
+                "alt": "Bolognese puppies laying down together indoors."
             },
             "title": "Find Puppies",
             "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
@@ -1256,6 +1265,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Bolognese",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/bolognese",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

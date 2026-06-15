@@ -186,8 +186,8 @@
                             "temperament": "Loyal / Outgoing / mischievous"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -488,7 +488,7 @@
                 "alaskan-klee-kai": {
                     "colors": [
                         {
-                            "color_index": 681,
+                            "color_index": 682,
                             "breed_name_url": "alaskan-klee-kai",
                             "breed_name": "Alaskan Klee Kai",
                             "akc_code": "322",
@@ -499,7 +499,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 682,
+                            "color_index": 683,
                             "breed_name_url": "alaskan-klee-kai",
                             "breed_name": "Alaskan Klee Kai",
                             "akc_code": "322",
@@ -510,7 +510,7 @@
                             "color_short": "GR & WH"
                         },
                         {
-                            "color_index": 683,
+                            "color_index": 684,
                             "breed_name_url": "alaskan-klee-kai",
                             "breed_name": "Alaskan Klee Kai",
                             "akc_code": "322",
@@ -533,10 +533,10 @@
                     "breed_rescue_url": null,
                     "national_breed_club": "Alaskan Klee Kai Club of America",
                     "national_breed_club_url": "https://www.akkcoa.org/",
-                    "breed_referral_contact_name": "Korine Falk",
-                    "breed_referral_contact_phone_number": "(732) 882-6634",
-                    "breed_referral_contact_email": "korinefalk@gmail.com",
-                    "breed_referral_contact_address": "686 BURKE RD\nJACKSON, NJ 08527-4823",
+                    "breed_referral_contact_name": "Lizabeth Nickless",
+                    "breed_referral_contact_phone_number": "(616) 828-6718",
+                    "breed_referral_contact_email": "BellatorPups@gmail.com",
+                    "breed_referral_contact_address": "948 MIDLINE RD\nAMSTERDAM, NY 12010-6256",
                     "breed_referral_directory_title": "",
                     "breed_referral_directory_url": "",
                     "breed_referral_regional_club_title": "",
@@ -622,7 +622,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781199098",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B121466%5D",
@@ -671,8 +671,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -133,7 +133,7 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "13-14 years",
-                            "related_breeds": "Pumi, Dutch Shepherd, Romanian Mioritic Shepherd Dog, Mudi, Puli",
+                            "related_breeds": "Puli, Pumi, Dutch Shepherd, Romanian Mioritic Shepherd Dog, Mudi",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "loyal / active / alert and intelligent"
@@ -166,8 +166,8 @@
                             "temperament": "intelligent / good-natured / devoted"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -467,7 +467,7 @@
                 "australian-shepherd": {
                     "markings": [
                         {
-                            "marking_index": 560,
+                            "marking_index": 577,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -477,7 +477,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 561,
+                            "marking_index": 578,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -487,7 +487,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 562,
+                            "marking_index": 579,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -503,7 +503,7 @@
                 "australian-shepherd": {
                     "colors": [
                         {
-                            "color_index": 1806,
+                            "color_index": 1828,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -514,7 +514,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1807,
+                            "color_index": 1829,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -525,7 +525,7 @@
                             "color_short": "BL MRL"
                         },
                         {
-                            "color_index": 1808,
+                            "color_index": 1830,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -536,7 +536,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1809,
+                            "color_index": 1831,
                             "breed_name_url": "australian-shepherd",
                             "breed_name": "Australian Shepherd",
                             "akc_code": "834",
@@ -648,7 +648,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23378%5D",
@@ -697,8 +697,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -918,7 +918,7 @@
             }
         ],
         "shop_cta_block": {
-            "title": "Shop American Shepherd Collection",
+            "title": "Shop Australian Shepherd Collection",
             "text": "Show your love with jewelry, home, accessories & more!",
             "button": {
                 "text": "Shop Now",
@@ -1286,7 +1286,7 @@
         },
         "breed_name_formatted": "Australian Shepherd",
         "shopCta": {
-            "title": "Shop American Shepherd Collection",
+            "title": "Shop Australian Shepherd Collection",
             "text": "Show your love with jewelry, home, accessories & more!",
             "button": {
                 "text": "Shop Now",

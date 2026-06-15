@@ -1,0 +1,1392 @@
+{
+    "settings": {
+        "current_breed": "old-english-sheepdog",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Old-English-Sheepdog.pdf",
+                    "mp_health": "<p>Old English Sheepdogs are generally a healthy breed. Like all breeds there may be some health issues, like eye disease, auto-immune thyroiditis and hip dysplasia. Some dogs may be faced with these health challenges in their lives, but the majority of Old English Sheepdogs are healthy dogs.</p>",
+                    "akc_org_health": "<p>Responsible breeders screen their stock for health conditions such as hip dysplasia, eye conditions (PRA and hereditary cataracts), autoimmune thyroiditis, cardiac anomalies, and hereditary deafness. Fortunately, DNA tests now exist for cerebellar ataxia and primary ciliary dyskinesia, two deadly diseases that breeders can avoid producing simply by identifying carriers and not breeding them to other carriers. DNA tests are also available for drug sensitivity and exercise-induced collapse.</p>",
+                    "akc_org_nutrition": "<p>The Old English Sheepdog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The coat is what attracts most people to the Old English Sheepdog. The breed is double-coated and requires a thorough grooming down to the skin, over the entire dog, at least weekly to maintain their full coats. \"Puppy trims\" are good options for pet dogs, but they also require regular brushing between baths and haircuts. Keeping the feet clipped ('Poodle feet'\u009d) will minimize problems and cleanup. Potential owners need to be prepared to spend the time required to do this, or pay a professional groomer, for several sessions each month for the life of the dog. As with all breeds, the nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>This is a breed that requires some physical activity. There is a wide variance in the activity levels, but all require some regular exercise. Fortunately, they do have an \"off switch'\u009d when they come indoors.</p>",
+                    "akc_org_training": "<p>One longtime breeder advises, \"Never allow your puppy to do something that you would not want a large, shaggy, wet, possibly muddy dog doing in your house.\" All OES puppies are adorable, and all grow up to be large, shaggy dogs. Most Old English Sheepdogs are quite intelligent and have a biddable nature. After they learn something, they do not forget it. They do get bored with repetitive, robotic training exercises. If you want to participate in some of those activities, you need to change things up and make it new and fun. As with all dogs, early socialization in puppyhood is vital.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Thyroid Evaluation",
+                    "test_4": "Exercise-Induced Collapse (EIC) - DNA Test",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Thyroid Evaluation | Exercise-Induced Collapse (EIC) - DNA Test"
+                }
+            },
+            "basics": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "breed_name_oracle": "Old English Sheepdog",
+                    "matches_oracle": "Old English Sheepdog",
+                    "akc_code": "820",
+                    "breed_name_plural": "Old English Sheepdogs",
+                    "breed_nicknames": "OES, Bobtail",
+                    "origin": "England",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1888",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Briard, Polish Lowland Sheepdog, Schapendoes, Bergamasco Sheepdog, Bearded Collie",
+                    "links": [],
+                    "popularity_2025": 87,
+                    "popularity_2024": 89,
+                    "popularity_2023": 77,
+                    "popularity_2022": 74,
+                    "popularity_2021": 69,
+                    "popularity_2020": 68,
+                    "popularity_2019": 71,
+                    "popularity_2018": 72,
+                    "popularity_2017": 70,
+                    "popularity_2016": 75,
+                    "popularity_2015": 74,
+                    "related_groups_characteristics": "Largest Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "briard",
+                        "polish-lowland-sheepdog",
+                        "schapendoes",
+                        "bergamasco-sheepdog",
+                        "bearded-collie"
+                    ],
+                    "related_breeds_items": {
+                        "briard": {
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "breed_name_oracle": "Briard",
+                            "matches_oracle": "Briard",
+                            "akc_code": "808",
+                            "breed_name_plural": "Briards",
+                            "breed_nicknames": "Berger de Brie (France)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1928",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Schapendoes, Beauceron, Polish Lowland Sheepdog, Berger Picard, Pyrenean Shepherd",
+                            "links": [],
+                            "popularity_2025": 172,
+                            "popularity_2024": 145,
+                            "popularity_2023": 150,
+                            "popularity_2022": 151,
+                            "popularity_2021": 150,
+                            "popularity_2020": 150,
+                            "popularity_2019": 137,
+                            "popularity_2018": 132,
+                            "popularity_2017": 127,
+                            "popularity_2016": 132,
+                            "popularity_2015": 130,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "confident / smart / faithful"
+                        },
+                        "polish-lowland-sheepdog": {
+                            "breed_name_url": "polish-lowland-sheepdog",
+                            "breed_name": "Polish Lowland Sheepdog",
+                            "breed_name_oracle": "Polish Lowland Sheepdog",
+                            "matches_oracle": "Polish Lowland Sheepdog",
+                            "akc_code": "836",
+                            "breed_name_plural": "Polish Lowland Sheepdog",
+                            "breed_nicknames": "PON",
+                            "origin": "Poland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2001",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Bearded Collie, Schapendoes, Portuguese Sheepdog, Romanian Mioritic Shepherd Dog, Old English Sheepdog",
+                            "links": [],
+                            "popularity_2025": 192,
+                            "popularity_2024": 181,
+                            "popularity_2023": 193,
+                            "popularity_2022": 181,
+                            "popularity_2021": 180,
+                            "popularity_2020": 175,
+                            "popularity_2019": 175,
+                            "popularity_2018": 170,
+                            "popularity_2017": 176,
+                            "popularity_2016": 169,
+                            "popularity_2015": 164,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "confident / lively / clever"
+                        },
+                        "schapendoes": {
+                            "breed_name_url": "schapendoes",
+                            "breed_name": "Schapendoes",
+                            "breed_name_oracle": "Schapendoes",
+                            "matches_oracle": "Schapendoes",
+                            "akc_code": "855",
+                            "breed_name_plural": "Schapendoes",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie, Portuguese Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / watchful / lively"
+                        },
+                        "bergamasco-sheepdog": {
+                            "breed_name_url": "bergamasco-sheepdog",
+                            "breed_name": "Bergamasco Sheepdog",
+                            "breed_name_oracle": "Bergamasco Sheepdog",
+                            "matches_oracle": "Bergamasco Sheepdog",
+                            "akc_code": "841",
+                            "breed_name_plural": "Bergamascos",
+                            "breed_nicknames": "Bergermaschi",
+                            "origin": "Italy",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2015",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Komondor, Polish Lowland Sheepdog, Schapendoes, Old English Sheepdog, Portuguese Sheepdog",
+                            "links": [],
+                            "popularity_2025": 183,
+                            "popularity_2024": 200,
+                            "popularity_2023": 188,
+                            "popularity_2022": 179,
+                            "popularity_2021": 179,
+                            "popularity_2020": 173,
+                            "popularity_2019": 182,
+                            "popularity_2018": 187,
+                            "popularity_2017": 181,
+                            "popularity_2016": 184,
+                            "popularity_2015": 174,
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds, Best Guard Dogs",
+                            "temperament": "independent / intelligent / sociable"
+                        },
+                        "bearded-collie": {
+                            "breed_name_url": "bearded-collie",
+                            "breed_name": "Bearded Collie",
+                            "breed_name_oracle": "Bearded Collie",
+                            "matches_oracle": "Bearded Collie",
+                            "akc_code": "831",
+                            "breed_name_plural": "Bearded Collies",
+                            "breed_nicknames": "Beardie",
+                            "origin": "Scotland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1976",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Collie, Portuguese Sheepdog, Pyrenean Shepherd, Schapendoes, Bergamasco Sheepdog",
+                            "links": [],
+                            "popularity_2025": 140,
+                            "popularity_2024": 140,
+                            "popularity_2023": 154,
+                            "popularity_2022": 124,
+                            "popularity_2021": 143,
+                            "popularity_2020": 125,
+                            "popularity_2019": 138,
+                            "popularity_2018": 127,
+                            "popularity_2017": 125,
+                            "popularity_2016": 126,
+                            "popularity_2015": 119,
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds",
+                            "temperament": "smart / bouncy / charismatic"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "temperament": "smart / gentle / adaptable",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "akc_org_blurb": "<p>The Old English Sheepdog is the archetypical shaggy dog, famous for his profuse coat and peak-a-boo hairdo, a distinctive bear-like gait, and a mellow, agreeable nature. The OES is a big, agile dog who enjoys exploring and a good romp.</p>",
+                    "akc_org_about": "<p>Beneath the Old English Sheepdog's profuse double coat is a muscular and compact drover, with plenty of bone and a big rump, standing 21 or 22 inches at the shoulder. Their eyes (when you can see them) are dark brown, or blue, or one of each. The OES breed standard says the skull is 'capacious and rather squarely formed, giving plenty of room for brain power.' OES move with a bear-like shuffle but are famous for their nimbleness afoot. Regular exercise is required for these strong, able-bodied workers. Equally famed are their many fine housedog qualities: watchfulness, courage, kindliness, and intelligence. Great with children, OES make patient, protective playmates. They are sensible watchdogs known for a loud, ringing bark.</p>",
+                    "mp_description": "<p>The Old English Sheepdog derives from several non-English breeds, isn't a particularly old breed, and is a cattle drover, not a sheep herder, so it's unclear where the name came from. However, with his 'shaggy' profuse coat, he's one of the most recognizable of dogs. These are strong athletes who thrive on exercise and a job to do. They do well in obedience, agility and herding activities and love a good romp. Their herding instinct is strong and they may try to herd kids, family and friends. With plenty of exercise, both mental and physical, your Old English Sheepdog puppy will grow up to be an affectionate, playful family companion: sweet, smart, protective and patient.</p>"
+                }
+            },
+            "standards": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "title_1": "General Appearance",
+                    "description_1": "A strong, compact, square, balanced dog. Taking him all around, he is profusely, but not excessively coated, thickset, muscular and able-bodied. These qualities, combined with his agility, fit him for the demanding tasks required of a shepherd's or drover's dog. Therefore, soundness is of the greatest importance. His bark is loud with a distinctive \"pot-casse\" ring in it.",
+                    "title_2": "Head",
+                    "description_2": "A most intelligent expression. Eyes - Brown, blue or one of each. If brown, very dark is preferred. If blue, a pearl, china or wall-eye is considered typical. An amber or yellow eye is most objectionable. Ears\u00bf- Medium sized and carried flat to the side of the head. Skull - Capacious and rather squarely formed giving plenty of room for brain power. The parts over the eyes (supra-orbital ridges) are well arched. The whole well covered with hair. Stop - Well defined. Jaw - Fairly long, strong, square and truncated. Attention is particularly called to the above properties as a long, narrow head or snipy muzzle is a deformity. Nose - Always black, large and capacious. Teeth - Strong, large and evenly placed. The bite is level or tight scissors.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Fairly long and arched gracefully. Topline - Stands lower at the withers than at the loin with no indication of softness or weakness. Attention is particularly called to this topline as it is a distinguishing characteristic of the breed. Body\u00bf- Rather short and very compact, broader at the rump than at the shoulders, ribs well sprung and brisket deep and capacious. Neither slab-sided nor barrel-chested. The loin is very stout and gently arched.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders well laid back and narrow at the points. The forelegs dead straight with plenty of bone. The measurements from the withers to the elbow and from the elbow to the ground are practically the same.",
+                    "title_5": "Coat",
+                    "description_5": "Profuse, but not so excessive as to give the impression of the dog being overly fat, and of a good hard texture; not straight, but shaggy and free from curl. Quality and texture of coat to be considered above mere profuseness. Softness or flatness of coat to be considered a fault. The undercoat is a waterproof pile when not removed by grooming or season. Ears coated moderately. The whole skull well covered with hair. The neck well coated with hair. The forelegs well coated all around. The hams densely coated with a thick, long jacket in excess of any other part. Neither the natural outline nor the natural texture of the coat may be changed by any artificial means except that the feet and rear may be trimmed for cleanliness.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Round and muscular with well let down hocks. When standing, the metatarsus are perpendicular to the ground when viewed from any angle.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "21",
+                    "height_max": "22",
+                    "weight_min": "60",
+                    "weight_max": "100",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/OldEnglishSheepdog.pdf",
+                    "height_min_f": "21",
+                    "height_max_f": "22",
+                    "height_min_m": "21",
+                    "height_max_m": "22",
+                    "height_display": "22 inches & up (male), 21 inches & up (female)",
+                    "weight_min_f": "60",
+                    "weight_max_f": "100",
+                    "weight_min_m": "60",
+                    "weight_max_m": "100",
+                    "weight_display": "60-100 pounds"
+                }
+            },
+            "colors": {
+                "old-english-sheepdog": {
+                    "colors": [
+                        {
+                            "color_index": 1747,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1748,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 1749,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "063",
+                            "color_long": "Brown & White",
+                            "color_short": "BR & WH"
+                        },
+                        {
+                            "color_index": 1750,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "050",
+                            "color_long": "Blue Merle",
+                            "color_short": "BL MRL"
+                        },
+                        {
+                            "color_index": 1751,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1752,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "109",
+                            "color_long": "Grizzle",
+                            "color_short": "GRZL"
+                        },
+                        {
+                            "color_index": 1753,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1754,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1755,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "300",
+                            "color_long": "Blue Gray",
+                            "color_short": "BL GR"
+                        },
+                        {
+                            "color_index": 1756,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "111",
+                            "color_long": "Grizzle & White",
+                            "color_short": "GRZL & WH"
+                        },
+                        {
+                            "color_index": 1757,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 1758,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "049",
+                            "color_long": "Blue Gray & White",
+                            "color_short": "BL GR & WH"
+                        },
+                        {
+                            "color_index": 1759,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "051",
+                            "color_long": "Blue Merle & White",
+                            "color_short": "BL MRL & WH"
+                        },
+                        {
+                            "color_index": 1760,
+                            "breed_name_url": "old-english-sheepdog",
+                            "breed_name": "Old English Sheepdog",
+                            "akc_code": "820",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "105",
+                            "color_long": "Gray & White",
+                            "color_short": "GR & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "breed_club_name": "Old English Sheepdog Club of America, Inc.",
+                    "breed_club_url": "www.oldenglishsheepdogclubofamerica.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/OldEnglishSheepdog-club-flier.pdf",
+                    "breed_rescue_url": "https://oldenglishsheepdogclubofamerica.org/owning-an-oes/rescue/",
+                    "national_breed_club": "Old English Sheepdog Club of America, Inc.",
+                    "national_breed_club_url": "www.oldenglishsheepdogclubofamerica.org",
+                    "breed_referral_contact_name": "Carol Cooke",
+                    "breed_referral_contact_phone_number": "(757) 421-2656",
+                    "breed_referral_contact_email": "oes.lady@cox.net",
+                    "breed_referral_contact_address": "1344 OAK RIDGE DR\nCHESAPEAKE, VA 23322-2712",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "https://oldenglishsheepdogclubofamerica.org/owning-an-oes/rescue/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1590,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 176,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 984,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 986,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 983,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 985,
+                            "breed_id": "178",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "old-english-sheepdog": {
+                    "breed_name_url": "old-english-sheepdog",
+                    "breed_name": "Old English Sheepdog",
+                    "akc_org_history": "The Old English Sheepdog, like the Bulldog and Collie, stands among the truly iconic dogs of the British Isles. The \"Bobtail,\" as the breed is often known, was most likely developed in the west of England, in the counties of Devon and Somerset and the Duchy of Cornwall.\n \n \n \n The name Old English Sheepdog is something of a misnomer. As a creature of the late 1700s, the OES is not particularly old by canine standards. By blood, they aren't fully English; possible OES component breeds include dogs of Scotch, European, and Russian ancestry. And, technically, they aren't even sheepdogs: OES were employed primarily as drovers who moved cattle over dusty country roads, from the pasture to town markets. In Germany, around the same time, the Rottweiler was building a similar reputation as a \"butcher's dog.\" In some pastures, shepherds would shear the OES blue-gray and white coat once a year and use the clippings to make yarn for clothing.\n \n \n \n With their full coat, free and powerful gait, and warm personality, OES show well in the ring. They were present at the sport's very beginnings. Stockmen have been exhibiting their OES in England since 1865. The AKC registered its first OES in 1888, and in 1914 the breed made its debut appearance in the winner's circle at Westminster Kennel Club.\n \n \n \n Their looks and intelligence make OES natural actors, seen to good effect in Disney's \"The Shaggy Dog\" and \"The Shaggy D.A.\" Among the most famous real-life OES was Paul McCartney's Martha, who inspired the Beatles song \"Martha My Dear.\"",
+                    "mp_history_job": "An authority notes that Old English Sheepdogs, creatures of the late 1700s, aren\u00bft particularly old by canine standards. And they aren\u00bft fully English; OES component breeds include dogs of European and Russian ancestry. And they aren\u00bft even sheepdogs: They were bred as cattle drovers who helped move stock from pasture to market. A more accurate breed name might be the Relatively New Somewhat English Cow-Moving Dog. But who\u00bfd want a pet with an awful name like that?",
+                    "did_you_know": "The Old English Sheepdog Club of America was founded in 1904, and the breed received AKC recognition the following year. | In all probability, the Old English Sheepdog was developed in the west of England, in the counties of Devon and Somerset and the Duchy of Cornwall. | The Old English Sheepdog first emerged at the beginning of the 18th century as a \"drover's dog,\" used largely for driving sheep and cattle into the markets of the metropolis. | The profuse coat of the Old English is never excessive, and contrary to popular belief, it is no harder to care for such a coat than it is to care for any other long coat. | The Old English Sheepdog is featured in Disney's The Little Mermaid, as Prince Eric's faithful companion. | A marked characteristic of the Old English Sheepdog is its gait, which is quite like the shuffle of a bear."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25181%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdogs-on-white-02.jpg",
+                    "alt": "Old English Sheepdog standing in three-quarter view facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9Eric Issel\u00e9e - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-head-portrait-outdoors-1.jpg",
+                    "alt": "Old English Sheepdog head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9raywoo - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdogs-on-white-01.jpg",
+                    "alt": "Old English Sheepdog sitting in three-quarter view facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9Eric Issel\u00e9e - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-head-portrait-outdoors.jpg",
+                    "alt": "Old English Sheepdog head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9everydoghasastory - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-laying-down-in-profile-on-a-white-background.jpg",
+                    "alt": "Old English Sheepdog laying down in profile on a white background.",
+                    "caption": "",
+                    "credit": "Djomas/Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-at-the-AKC-National-Championship.jpg",
+                    "alt": "Old English Sheepdog at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Jessica Ramdass \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-standing-in-profile-on-a-white-background.jpg",
+                    "alt": "Old English Sheepdog standing in profile on a white background.",
+                    "caption": "",
+                    "credit": "Eric Isselee/Shutterstock"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-Illo-2.jpg",
+                "alt": "Old English Sheepdog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdog-puppy-laying-down-on-a-white-background.jpg",
+                "alt": "Old English Sheepdog puppy laying down on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/old-english-sheepdog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Old English Sheepdog",
+        "shopCta": false
+    }
+}

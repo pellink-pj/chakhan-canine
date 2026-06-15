@@ -198,8 +198,8 @@
                             "temperament": "intelligent / agile / spirited"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -499,7 +499,7 @@
                 "poodle-toy": {
                     "markings": [
                         {
-                            "marking_index": 641,
+                            "marking_index": 654,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -509,7 +509,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 642,
+                            "marking_index": 655,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -519,7 +519,7 @@
                             "markings_short": "BLK PTS"
                         },
                         {
-                            "marking_index": 643,
+                            "marking_index": 656,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -529,7 +529,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 644,
+                            "marking_index": 657,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -545,7 +545,7 @@
                 "poodle-toy": {
                     "colors": [
                         {
-                            "color_index": 2089,
+                            "color_index": 2084,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -556,7 +556,7 @@
                             "color_short": "APCT"
                         },
                         {
-                            "color_index": 2090,
+                            "color_index": 2085,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -567,7 +567,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 2091,
+                            "color_index": 2086,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -578,7 +578,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 2092,
+                            "color_index": 2087,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -589,7 +589,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 2093,
+                            "color_index": 2088,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -600,7 +600,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 2094,
+                            "color_index": 2089,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -611,7 +611,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 2095,
+                            "color_index": 2090,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -622,7 +622,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 2096,
+                            "color_index": 2091,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -633,7 +633,7 @@
                             "color_short": "SLVR BG"
                         },
                         {
-                            "color_index": 2097,
+                            "color_index": 2092,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -644,7 +644,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 2098,
+                            "color_index": 2093,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -655,7 +655,7 @@
                             "color_short": "CAFE"
                         },
                         {
-                            "color_index": 2099,
+                            "color_index": 2094,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -666,7 +666,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 2100,
+                            "color_index": 2095,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -677,7 +677,7 @@
                             "color_short": "BLK & CR"
                         },
                         {
-                            "color_index": 2101,
+                            "color_index": 2096,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -688,7 +688,7 @@
                             "color_short": "BLK & GR"
                         },
                         {
-                            "color_index": 2102,
+                            "color_index": 2097,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -699,7 +699,7 @@
                             "color_short": "BLK & SLVR"
                         },
                         {
-                            "color_index": 2103,
+                            "color_index": 2098,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -710,7 +710,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 2104,
+                            "color_index": 2099,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -721,7 +721,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 2105,
+                            "color_index": 2100,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -732,7 +732,7 @@
                             "color_short": "BR & APCT"
                         },
                         {
-                            "color_index": 2106,
+                            "color_index": 2101,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -743,7 +743,7 @@
                             "color_short": "BR & WH"
                         },
                         {
-                            "color_index": 2107,
+                            "color_index": 2102,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -754,7 +754,7 @@
                             "color_short": "BLK & APCT"
                         },
                         {
-                            "color_index": 2108,
+                            "color_index": 2103,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -765,7 +765,7 @@
                             "color_short": "CR & WH"
                         },
                         {
-                            "color_index": 2109,
+                            "color_index": 2104,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -776,7 +776,7 @@
                             "color_short": "BLK & BR"
                         },
                         {
-                            "color_index": 2110,
+                            "color_index": 2105,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -787,7 +787,7 @@
                             "color_short": "GR & WH"
                         },
                         {
-                            "color_index": 2111,
+                            "color_index": 2106,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -798,7 +798,7 @@
                             "color_short": "RD & APCT"
                         },
                         {
-                            "color_index": 2112,
+                            "color_index": 2107,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -809,7 +809,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 2113,
+                            "color_index": 2108,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -820,7 +820,7 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 2114,
+                            "color_index": 2109,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -831,7 +831,7 @@
                             "color_short": "WH & SLVR"
                         },
                         {
-                            "color_index": 2115,
+                            "color_index": 2110,
                             "breed_name_url": "poodle-toy",
                             "breed_name": "Poodle (Toy)",
                             "akc_code": null,
@@ -943,7 +943,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104019",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B49148%5D",
@@ -992,8 +992,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

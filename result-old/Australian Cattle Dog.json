@@ -1,0 +1,1325 @@
+{
+    "settings": {
+        "current_breed": "australian-cattle-dog",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/06/03150351/Australian-Cattle-Dog-Health-Statement.pdf",
+                    "mp_health": "<p>There are some health concerns that owners and breeders should be aware of. Breeding stock should have their hips and elbows x-rayed to rule out dysplasia. Blindness can be a problem in ACDs. A DNA test can detect progressive retinal atrophy (prcd-PRA) before dogs are bred so that no affected puppies need be produced. A veterinary ophthalmologist exam can also detect other inherited eye diseases. There is also a genetic deafness in the breed. Puppies and adults can be tested (BAER) to determine whether they can hear in each ear.</p>",
+                    "akc_org_health": "<p>A responsible breeder will screen breeding stock for health conditions such as deafness; progressive retinal atrophy, or PRA, which causes vision loss; and hip dysplasia. An ACD's ears should be checked regularly to remove foreign matter and avoid a buildup of wax, and his teeth should be brushed regularly.</p>",
+                    "akc_org_nutrition": "<p>The Australian Cattle Dog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Australian Cattle Dogs are very athletic, active canines, so be mindful that your dog is getting good nutrition to meet his needs. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Australian Cattle Dog was bred to work outdoors and has a smooth, double-layer coat that protects him from the elements. This coat has no odor or oily residue, so an Australian Cattle Dog generally needs just a quick brushing once a week and an occasional bath. Keep in mind, though, that the ACD sheds his undercoat twice a year. During shedding season, every few days he will need a thorough brushing-out to remove the dead hair, using a short-bristle brush and possibly a comb as well. As with all breeds, the Australian Cattle Dog'\u00bfs nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>A very active, high-energy dog, the Australian Cattle Dog needs more than just a quick walk and playtime in the yard. ACDs really need a job in order to remain happy and healthy. On a working farm, this may not be an issue, especially if there are animals to herd. In other living situations, going with his owner on runs every day, or nearly every day, is a good outlet for his energy. An ideal choice is participation in dog sports, where the Australian Cattle Dog and owner take part in canine activities such as obedience or agility that channel the breed's drive and abundant energy in a fun way.</p>",
+                    "akc_org_training": "<p>Early socialization and obedience training are a must for the Australian Cattle Dog. The ACD is a highly intelligent, energetic breed that is only really happy when on the job. Therefore, continuing training and participation in activities such as obedience, herding, or agility is highly recommended. This can represent a large time commitment on the part of the owner, but participation together fosters a bond between you and your dog, and it's fun for both of you. Remember, an intelligent, energetic dog who is not kept occupied will become bored, and a bored, energetic dog can be destructive.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "BAER Testing",
+                    "test_5": "Primary Lens Luxation (PLL) - DNA Test",
+                    "test_6": "Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation | BAER Testing | Primary Lens Luxation (PLL) - DNA Test | Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test"
+                }
+            },
+            "basics": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "breed_name_oracle": "Australian Cattle Dog",
+                    "matches_oracle": "Australian Cattle Dog",
+                    "akc_code": "832",
+                    "breed_name_plural": "Australian Cattle Dogs",
+                    "breed_nicknames": "ACD",
+                    "origin": "Australia",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1980",
+                    "life_expectancy": "12-16 years",
+                    "related_breeds": "Australian Shepherd, Australian Kelpie, Australian Terrier, Australian Stumpy Tail Cattle Dog, Working Kelpie",
+                    "links": [],
+                    "popularity_2025": 47,
+                    "popularity_2024": 49,
+                    "popularity_2023": 52,
+                    "popularity_2022": 48,
+                    "popularity_2021": 51,
+                    "popularity_2020": 54,
+                    "popularity_2019": 55,
+                    "popularity_2018": 55,
+                    "popularity_2017": 56,
+                    "popularity_2016": 54,
+                    "popularity_2015": 56,
+                    "related_groups_characteristics": "Smartest Breeds of Dogs, Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "australian-shepherd",
+                        "australian-kelpie",
+                        "australian-terrier",
+                        "australian-stumpy-tail-cattle-dog",
+                        "working-kelpie"
+                    ],
+                    "related_breeds_items": {
+                        "australian-shepherd": {
+                            "breed_name_url": "australian-shepherd",
+                            "breed_name": "Australian Shepherd",
+                            "breed_name_oracle": "Australian Shepherd",
+                            "matches_oracle": "Australian Shepherd",
+                            "akc_code": "834",
+                            "breed_name_plural": "Australian Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "Australia",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1991",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Collie, Pyrenean Shepherd, Croatian Sheepdog, Miniature American Shepherd",
+                            "links": [],
+                            "popularity_2024": 12,
+                            "popularity_2023": 12,
+                            "popularity_2022": 12,
+                            "popularity_2021": 12,
+                            "popularity_2020": 12,
+                            "popularity_2019": 13,
+                            "popularity_2018": 15,
+                            "popularity_2017": 17,
+                            "popularity_2016": 16,
+                            "popularity_2015": 17,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Medium Dog Breeds, Best Guard Dogs",
+                            "temperament": "smart / work-oriented / exuberant"
+                        },
+                        "australian-kelpie": {
+                            "breed_name_url": "australian-kelpie",
+                            "breed_name": "Australian Kelpie",
+                            "breed_name_oracle": "Australian Kelpie",
+                            "matches_oracle": "Australian Kelpie",
+                            "akc_code": "867",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "Aussie",
+                            "origin": "United States",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Australian Cattle Dog, Working Kelpie, Australian Stumpy Tail Cattle Dog, Australian Terrier, Australian Shepherd",
+                            "links": [],
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Medium Dog Breeds",
+                            "temperament": "alert / loyal / intelligent"
+                        },
+                        "australian-terrier": {
+                            "breed_name_url": "australian-terrier",
+                            "breed_name": "Australian Terrier",
+                            "breed_name_oracle": "Australian Terrier",
+                            "matches_oracle": "Australian Terrier",
+                            "akc_code": "203",
+                            "breed_name_plural": "Australian Terriers",
+                            "breed_nicknames": "Australian Terrier",
+                            "origin": "Australia",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1960",
+                            "life_expectancy": "11-15 years",
+                            "related_breeds": "Norwich Terrier, Dandie Dinmont Terrier, Yorkshire Terrier, Cairn Terrier, Silky Terrier",
+                            "links": [],
+                            "popularity_2025": 150,
+                            "popularity_2024": 158,
+                            "popularity_2023": 156,
+                            "popularity_2022": 136,
+                            "popularity_2021": 152,
+                            "popularity_2020": 134,
+                            "popularity_2019": 144,
+                            "popularity_2018": 139,
+                            "popularity_2017": 137,
+                            "popularity_2016": 136,
+                            "popularity_2015": 125,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers",
+                            "temperament": "courageous / affectionate / spirited"
+                        },
+                        "australian-stumpy-tail-cattle-dog": {
+                            "breed_name_url": "australian-stumpy-tail-cattle-dog",
+                            "breed_name": "Australian Stumpy Tail Cattle Dog",
+                            "breed_name_oracle": "Australian Stumpy Tail Cattle Dog",
+                            "matches_oracle": "Australian Stumpy Tail Cattle Dog",
+                            "akc_code": "869",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "Stumpy",
+                            "origin": "Australia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Australian Cattle Dog, Working Kelpie, Australian Shepherd, Australian Terrier, Australian Kelpie",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / active / bidable"
+                        },
+                        "working-kelpie": {
+                            "breed_name_url": "working-kelpie",
+                            "breed_name": "Working Kelpie",
+                            "breed_name_oracle": "Working Kelpie",
+                            "matches_oracle": "Working Kelpie",
+                            "akc_code": "865",
+                            "breed_name_plural": "Working Kelplies",
+                            "breed_nicknames": "",
+                            "origin": "Australia",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "alert / intelligent / eager"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "temperament": "Loyal / Intelligent / Tenacious",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "akc_org_blurb": "<p>The compact but muscular Australian Cattle Dog, also called Blue or Red Heeler or Queensland Heeler, is related to Australia's famous wild dog, the Dingo. These resilient herders are intelligent enough to routinely outsmart their owners. Standing between 17 to 20 inches at the shoulder, the Australian Cattle Dog is a sturdy, hard-muscled herder of strength and agility. The ACD is born with a white coat that turns either blue-gray or red. Both coat colors may feature distinctive mottling or speckling patterns. ACDs have immense work drive and excel at controlling and, of course, moving livestock. Their boundless energy and supple gait make them excellent running partners. ACDs are true-blue loyal, famously smart, tenacious, ever alert, and may be wary of strangers. If an ACD isn't challenged, it easily becomes bored and may get into mischief. It is recommended that ACD owners participate with these versatile dogs in some work, sport, or regular exercise to keep them mentally and physically fit.</p>",
+                    "akc_org_about": "<p>Standing between 17 to 20 inches at the shoulder, the Australian Cattle Dog is a sturdy, hard-muscled herder of strength and agility. The ACD is born with a white coat that turns blue-gray or red. Both coat varieties feature distinctive mottling or specking patterns. ACDs have immense work drive and excel at hunting, chasing, and, of course, moving livestock. Their boundless energy and supple gait make them excellent running partners. &nbsp;&nbsp;ACDs are true-blue loyal, famously smart, ever alert, and wary of strangers. If an ACD isn't challenged, he easily becomes bored and gets into mischief. It is recommended that ACD owners participate with their dog in some work, sport, or regular exercise to keep him mentally and physically fit.</p>",
+                    "mp_description": "<p>With a lot of Dingo, some Collie and Dalmatian mixed in, the Australian Cattle Dog is the ideal herding dog. His endurance, agility, strength and intelligence have been a huge boon to the Australian cattle industry. Nurture those traits in your Australian Cattle Dog puppies with lots of exercise, a job to do or by participating in dog sports, like agility or herding. These sturdy dogs, with their unusual markings, thrive on mental and physical stimulation. Although naturally independent, with you as the 'pack leader,' he'll bond with the family and be a faithful, true-blue work partner and companion.</p>"
+                }
+            },
+            "standards": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "title_1": "General Appearance",
+                    "description_1": "The general appearance is that of a strong compact, symmetrically built working dog, with the ability and willingness to carry out his allotted task however arduous. Its combination of substance, power, balance and hard muscular condition must convey the impression of great agility, strength and endurance. Any tendency to grossness or weediness is a serious fault.",
+                    "title_2": "Head",
+                    "description_2": "The head is strong and must be in balance with other proportions of the dog and in keeping with its general conformation. The broad skull is slightly curved between the ears, flattening to a slight but definite stop. The cheeks muscular, neither coarse nor prominent with the underjaw strong, deep and well developed. The foreface is broad and well filled in under the eyes, tapering gradually to form a medium length, deep, powerful muzzle with the skull and muzzle on parallel planes. The lips are tight and clean. Nose black.",
+                    "title_3": "Body",
+                    "description_3": "The length of the body from the point of the breast bone, in a straight line to the buttocks, is greater than the height at the withers, as 10 is to 9. The topline is level, back strong with ribs well sprung and carried well back not barrel ribbed. The chest is deep, muscular and moderately broad with the loins broad, strong and muscular and the flanks deep. The dog is strongly coupled.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulders are strong, sloping, muscular and well angulated to the upper arm and should not be too closely set at the point of the withers. The forelegs have strong, round bone, extending to the feet and should be straight and parallel when viewed from the front, but the pasterns should show flexibility with a slight angle to the forearm when viewed from the side. Although the shoulders are muscular and the bone is strong, loaded shoulders and heavy fronts will hamper correct movement and limit working ability.",
+                    "title_5": "Coat",
+                    "description_5": "The coat is smooth, a double coat with a short dense undercoat. The outer-coat is close, each hair straight, hard, and lying flat, so that it is rain-resisting. Under the body, to behind the legs, the coat is longer and forms near the thigh a mild form of breeching. On the head (including the inside of the ears), to the front of the legs and feet, the hair is short. Along the neck it is longer and thicker. A coat either too long or too short is a fault. As an average, the hairs on the body should be from 2_ to 4 centimeters (approximately 1 to 1_ inches) in length.",
+                    "title_6": "Facial Features",
+                    "description_6": "Eyes - The eyes should be of oval shape and medium size, neither prominent nor sunken and must express alertness and intelligence. A warning or suspicious glint is characteristic when approached by strangers. Eye color, dark brown. Ears - The ears should be of moderate size, preferably small rather than large, broad at the base, muscular, pricked and moderately pointed neither spoon nor bat eared. The ears are set wide apart on the skull, inclining outwards, sensitive in their use and pricked when alert, the leather should be thick in texture and the inside of the ear fairly well furnished with hair. Mouth - The teeth, sound, strong and evenly spaced, gripping with a scissor-bite, the lower incisors close behind and just touching the upper. As the dog is required to move difficult cattle by heeling or biting, teeth which are sound and strong are very important.",
+                    "title_7": "Hindquarters",
+                    "description_7": "The hindquarters are broad, strong and muscular. The croup is rather long and sloping, thighs long, broad and well developed, the stifles well turned and the hocks strong and well let down. When viewed from behind, the hind legs, from the hocks to the feet, are straight and placed parallel, neither close nor too wide apart.",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "17",
+                    "height_max": "20",
+                    "weight_min": "35",
+                    "weight_max": "50",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AustralianCattleDog.pdf",
+                    "height_min_f": "17",
+                    "height_max_f": "20",
+                    "height_min_m": "17",
+                    "height_max_m": "20",
+                    "height_display": "18-20 inches (male), 17-19 inches (female)",
+                    "weight_min_f": "35",
+                    "weight_max_f": "50",
+                    "weight_min_m": "35",
+                    "weight_max_m": "50",
+                    "weight_display": "35-50 pounds"
+                }
+            },
+            "markings": {
+                "australian-cattle-dog": {
+                    "markings": [
+                        {
+                            "marking_index": 557,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        },
+                        {
+                            "marking_index": 558,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "cde_markings": "023",
+                            "markings_long": "Red Markings",
+                            "markings_short": "RD MKGS"
+                        },
+                        {
+                            "marking_index": 559,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "cde_markings": "039",
+                            "markings_long": "Black & Tan Markings",
+                            "markings_short": "BLK&TN MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "australian-cattle-dog": {
+                    "colors": [
+                        {
+                            "color_index": 1801,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1802,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "438",
+                            "color_long": "Blue Mottled",
+                            "color_short": "BL MOT"
+                        },
+                        {
+                            "color_index": 1803,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "439",
+                            "color_long": "Blue Speckled",
+                            "color_short": "BL SPKLD"
+                        },
+                        {
+                            "color_index": 1804,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "440",
+                            "color_long": "Red Speckled",
+                            "color_short": "RED SPKLD"
+                        },
+                        {
+                            "color_index": 1805,
+                            "breed_name_url": "australian-cattle-dog",
+                            "breed_name": "Australian Cattle Dog",
+                            "akc_code": "832",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "455",
+                            "color_long": "Red Mottled",
+                            "color_short": "RED MOT"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "breed_club_name": "Australian Cattle Dog Club of America",
+                    "breed_club_url": "www.acdca.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/02/08141836/Australian-Cattle-Dog-Club-Flyer-20240201.pdf",
+                    "breed_rescue_url": "http://www.acdrescueinc.com/",
+                    "national_breed_club": "Australian Cattle Dog Club of America",
+                    "national_breed_club_url": "www.acdca.org",
+                    "breed_referral_contact_name": "Jolyn Owen",
+                    "breed_referral_contact_phone_number": "(602) 276-5110",
+                    "breed_referral_contact_email": "referral@acdca.org",
+                    "breed_referral_contact_address": "5624 S 27TH PL\nPHOENIX, AZ 85040-3610",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.acdca.org/index.php/2012-05-26-13-33-49/acd-regional-clubs",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.acdrescueinc.com/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1429,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 15,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 340,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 342,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 339,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 341,
+                            "breed_id": "15",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "australian-cattle-dog": {
+                    "breed_name_url": "australian-cattle-dog",
+                    "breed_name": "Australian Cattle Dog",
+                    "akc_org_history": "<p>The Australian Cattle Dog made vital contributions to the growth of the continent's beef industry, and important component of the Australian economy.</p>\n<p><br></p>\n<p>The long, complex, and sometimes troubling history of Britain's settlement of the Australian continent is beyond the scope of our story. We can pick it up in the early 1800s, when Anglo-Australians began their migrations from the original coastal settlements to the vast grasslands of the western inland. This was prime territory for the raising of beef cattle. In re-creating these wild areas as cattle ranches, good herding dogs were essential.</p>\n<p><br></p>\n<p>Australia's first cattle dogs were British imports of a breed known as the Smithfield, unsuited to the high temperature, rough terrain, and vast distances to market of their new home. Thus, stockmen began a long process of trial and to breed a herding dog that could meet the challenges of the Australian interior. Smithfields were crossed with Dingoes (a feral breed brought to the continent by its earliest human inhabitants) and such other breeds as the Scottish Highland Collie, as breeders worked toward the hardworking and durable herders they desired.&nbsp;</p>\n<p><br></p>\n<p>A key contributor to the effort was George Elliot, of Queensland, who bred Dingoes with Collies and sold the puppies to farmers. The result was a dog who was close to being the quintessential Aussie herder. True perfection came later when two brothers, Jack and Harry Bagust, bred Dalmatians with some of Elliott's ACDs. The Dalmatian's faithfulness, protectiveness, and ease with horses, mixed with the original breed's working ability (which was also reinforced by the addition of a sheepdog known as the Black and Tan Kelpie into the line) was just the right combination to produce the ACD we know today.</p>\n<p><br></p>\n<p>The Australian Cattle Dog was admitted to the AKC in 1980 and became a charter member of the AKC Herding Group upon the founding of the group in 1983.</p>",
+                    "mp_history_job": "<p>This breed can thank its sturdy build and strong work ethic to one George Elliot, who in the 1800s bred Dingoes with Collies and sold the puppies to farmers. The result was a dog that was so, so close to being the quintessential herding dog. True perfection came later when two brothers, Jack and Harry Bagust, bred Dalmatians with some of Elliott's ACDs. The Dalmatian's faithfulness and love of horses mixed with the original breed's working ability (which was also reinforced by the addition of a sheepdog into the line) was just the right combination to produce the loyal, committed ACD we know today.</p>",
+                    "did_you_know": "The Australian Cattle Dog has been a huge help to the beef industry of Australia. | The Australian Cattle Dog was first known as the Australian Heeler, although it is still called the Blue or Queensland Heeler today. | Despite what some people may believe, there is no difference in temperament between blue and red Australian Cattle Dogs. | The Australian Cattle Dog has a natural affinity for obedience work and enjoys agility in particular. | The Australian Cattle Dog was accepted by the AKC in 1980 and was shown in the Working Group after a brief period in the Miscellaneous class"
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23364%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop Australian Cattle Dog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/australian-cattle-dog?itm=breed-page-banner-shop-cta/australian-cattle-dog/australian-cattle-dog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-laying-down-in-the-grass.jpg",
+                    "alt": "Australian Cattle Dog laying down in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Nancy Spelke"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Herding-Group-Jess-P1340704.jpg",
+                    "alt": "Best of Breed: GCHS CH Littleflock The Peacemaker RN, Australian Cattle Dog; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Jessica Ramdass \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-On-White-03.jpg",
+                    "alt": "Australian Cattle Dog sitting facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-head-portrait.jpg",
+                    "alt": "Red Australian Cattle Dog head portrait.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/day_3_dec_15_043.jpg",
+                    "alt": "Australian Cattle Dog laying down facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-face-closeup.jpg",
+                    "alt": "Australian Cattle Dog face close-up outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Nancy Spelke"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-sitting-in-a-meadow.jpg",
+                    "alt": "Australian Cattle Dog sitting in a meadow.",
+                    "caption": "",
+                    "credit": "\u00a9Iryna Dobrovyns'ka - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-Illo-2.jpg",
+                "alt": "Australian Cattle Dog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle_Dog-MP.jpg",
+                "alt": "Australian Cattle Dog"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/australian-cattle-dog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Australian Cattle Dog",
+        "shopCta": {
+            "title": "Shop Australian Cattle Dog Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/australian-cattle-dog?itm=breed-page-banner-shop-cta/australian-cattle-dog/australian-cattle-dog",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-Merchandise-Collection.png"
+        }
+    }
+}

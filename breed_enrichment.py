@@ -160,16 +160,15 @@ def compute_scores(traits: dict) -> dict:
             "daily_walk_minutes": walk_min,
         }
 
-    # 훈련 강도 = trainability + mental_stimulation_needs 조합
-    # trainability 높으면 잘 따라옴 (쉬움), mental 높으면 훈련 안 시키면 문제 행동 (어려움)
+    # 훈련 강도 = trainability 그대로 역수 매핑
+    # trainability 점수만 기반 — 학습 자체 난이도
+    # mental_stimulation은 별도 차원 (정신 자극 필요량)으로 메시지에서 따로 다룸
     train = _get_trait(traits, "trainability_level")
     if train is not None:
-        # 어려움 점수 = (6 - trainability) + mental * 0.5
-        # 1점(매우 쉬움) ~ 5점(매우 어려움)
-        difficulty_raw = (6 - train)
-        if mental is not None:
-            difficulty_raw = (difficulty_raw + mental) / 2
-        difficulty = max(1, min(5, round(difficulty_raw)))
+        # 어려움 점수 = (6 - trainability)
+        # trainability 5점(매우 똑똑) → difficulty 1점(매우 쉬움)
+        # trainability 1점(고집) → difficulty 5점(매우 어려움)
+        difficulty = max(1, min(5, 6 - train))
         out["training_difficulty"] = {
             "raw_trainability": train,
             "raw_mental_stimulation": mental,

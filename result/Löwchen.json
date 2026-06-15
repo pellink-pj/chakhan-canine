@@ -202,8 +202,8 @@
                             "temperament": "loyal / affectionate / sensitive"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -503,7 +503,7 @@
                 "lowchen": {
                     "markings": [
                         {
-                            "marking_index": 180,
+                            "marking_index": 182,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -513,7 +513,7 @@
                             "markings_short": "SLVR MKGS"
                         },
                         {
-                            "marking_index": 181,
+                            "marking_index": 183,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -523,7 +523,7 @@
                             "markings_short": "IRSH PIED"
                         },
                         {
-                            "marking_index": 182,
+                            "marking_index": 184,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -533,7 +533,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 183,
+                            "marking_index": 185,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -543,7 +543,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 184,
+                            "marking_index": 186,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -553,7 +553,7 @@
                             "markings_short": "CR MKGS"
                         },
                         {
-                            "marking_index": 185,
+                            "marking_index": 187,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -563,7 +563,7 @@
                             "markings_short": "SLVR PNTS"
                         },
                         {
-                            "marking_index": 186,
+                            "marking_index": 188,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -573,7 +573,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 187,
+                            "marking_index": 189,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -589,7 +589,7 @@
                 "lowchen": {
                     "colors": [
                         {
-                            "color_index": 626,
+                            "color_index": 627,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -600,7 +600,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 627,
+                            "color_index": 628,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -611,7 +611,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 628,
+                            "color_index": 629,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -622,7 +622,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 629,
+                            "color_index": 630,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -633,7 +633,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 630,
+                            "color_index": 631,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -644,7 +644,7 @@
                             "color_short": "BLK & SLVR"
                         },
                         {
-                            "color_index": 631,
+                            "color_index": 632,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -655,7 +655,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 632,
+                            "color_index": 633,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -666,7 +666,7 @@
                             "color_short": "BLK BRDL"
                         },
                         {
-                            "color_index": 633,
+                            "color_index": 634,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -677,7 +677,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 634,
+                            "color_index": 635,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -688,7 +688,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 635,
+                            "color_index": 636,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -699,7 +699,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 636,
+                            "color_index": 637,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -710,7 +710,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 637,
+                            "color_index": 638,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -721,7 +721,7 @@
                             "color_short": "GLD"
                         },
                         {
-                            "color_index": 638,
+                            "color_index": 639,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -732,7 +732,7 @@
                             "color_short": "GLD BRDL"
                         },
                         {
-                            "color_index": 639,
+                            "color_index": 640,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -743,7 +743,7 @@
                             "color_short": "GLD SBL"
                         },
                         {
-                            "color_index": 640,
+                            "color_index": 641,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -754,7 +754,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 641,
+                            "color_index": 642,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -765,7 +765,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 642,
+                            "color_index": 643,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -776,7 +776,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 643,
+                            "color_index": 644,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -787,7 +787,7 @@
                             "color_short": "SLVR BRDL"
                         },
                         {
-                            "color_index": 644,
+                            "color_index": 645,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -798,7 +798,7 @@
                             "color_short": "BLK & TN BRDL"
                         },
                         {
-                            "color_index": 645,
+                            "color_index": 646,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -809,7 +809,7 @@
                             "color_short": "CHLT SBL"
                         },
                         {
-                            "color_index": 646,
+                            "color_index": 647,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -820,7 +820,7 @@
                             "color_short": "CHLT BRDL"
                         },
                         {
-                            "color_index": 647,
+                            "color_index": 648,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -831,7 +831,7 @@
                             "color_short": "FN BRDL"
                         },
                         {
-                            "color_index": 648,
+                            "color_index": 649,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -842,7 +842,7 @@
                             "color_short": "FN SBL"
                         },
                         {
-                            "color_index": 649,
+                            "color_index": 650,
                             "breed_name_url": "lowchen",
                             "breed_name": "L\u00f6wchen",
                             "akc_code": "317",
@@ -954,7 +954,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775365901",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229310",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24956%5D",
@@ -1003,8 +1003,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

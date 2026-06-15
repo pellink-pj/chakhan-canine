@@ -1,0 +1,1397 @@
+{
+    "settings": {
+        "current_breed": "cardigan-welsh-corgi",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23104249/Cardigan-Welsh-Corgi-Health-Statement.pdf",
+                    "mp_health": "<p>The Cardigan Welsh Corgi is overall a very healthy breed. The few diseases that might be present in Cardigans are also common problems affecting both purebred and crossbred dogs. These include hip dysplasia, a malformation of the hip joints that causes arthritis and pain; progressive retinal atrophy (PRA), which causes blindness; and rarely, degenerative myelopathy (DM), a disease that causes progressive paralysis and seems to only affect very old Cardigans.</p>",
+                    "akc_org_health": "<p>The Cardigan is in general a very healthy breed, and responsible breeders &nbsp;will screen their stock for health conditions such as hip dysplasia, progressive retinal atrophy (PRA), and degenerative myelopathy. And as with any 'long and low' canine, one must be cognizant of potential back issues. Avoid letting the Cardigan jump down off the bed or couch, and stairs can also be a hazard. At the first sign of any distress or discomfort, see the vet right away. The sooner a problem is caught, the quicker the recovery.</p>",
+                    "akc_org_nutrition": "<p>Cardigans are known to become overweight very easily. Careful monitoring of their weight is essential. It is vital that one feeds a high-quality dog food based on the Cardigan's activity level and nutritional needs. Two smaller meals a day rather than one large one will make for a better digestive process. In addition, don't overdo giving treats. Yes, Cardigans can hear a cheese wrapper from 50 yards'\u00bfbut that doesn't mean you give them an entire piece. Feel the ribs, and if you can't feel them easily with your fingertips, then your dog in most likely overweight.</p>",
+                    "akc_org_grooming": "<p>A good brushing at least once a week should keep the Cardigan's coat healthy and looking its best. Keeping the hair trimmed on the bottom of the feet helps to reduce the amount of dirt that an animal can bring into the house every day. The nails should be kept trimmed as well. Some pet owners mistakenly feel they should have their dog trimmed short for the summer. When the coat of the Cardigan is correct for the breed, this isn't necessary. The correct coat has the essential characteristics to maintain proper body temperature, as long as conditions are normal. It should be noted, however, that a black dog will absorb more heat on a sunny day, and care should be taken to avoid overexposure during hot weather.</p>",
+                    "akc_org_exercise": "<p>The Cardigan is noted for being a very adaptable dog. If you want to hike and go on adventures, they are all for that. Or if you want to watch TV and eat popcorn, no problem'\u00bfthe Cardigan is there for you. Cardigans thrive on regular socialization, so going for walks in the neighborhood is important for many reasons. It provides fun for both you and the dog, as well as much-needed exercise. When your Cardigan unexpectedly starts to do 'power runs'\u009d through the house and over the couch, it is his way of saying, \"Hey, mom, I really need to burn off some fun'\u00bflet's go play ball!\" And, yes, most Cardigans are 'ball-o-holics.'\u009d Use that to your advantage. Remember to avoid jumping and stairs, which can cause back injury.</p>",
+                    "akc_org_training": "<p>It cannot be stressed enough that early and regular socialization is of the utmost importance in the developing a happy, healthy Cardigan. Gently expose the pup to a wide range of people, places, and situations. This process goes on for a lifetime, but the rewards of a well-socialized dog are wonderful. Go to training classes, and let all members of the family participate. Don't tolerate inappropriate behavior, and don't hesitate to seek the help of a qualified trainer or behaviorist if there's a problem you can't correct. A little effort early on will reward you with a dog whom you and all who meet him will love.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Degenerative Myelopathy (Common Variant) (DM) - DNA Test",
+                    "test_3": "Progressive Retinal Atrophy, Rod-Cone Dysplasia 3 (PRA-rcd3) - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Degenerative Myelopathy (Common Variant) (DM) - DNA Test | Progressive Retinal Atrophy, Rod-Cone Dysplasia 3 (PRA-rcd3) - DNA Test"
+                }
+            },
+            "basics": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "breed_name_oracle": "Cardigan Welsh Corgi",
+                    "matches_oracle": "Cardigan Welsh Corgi",
+                    "akc_code": "828",
+                    "breed_name_plural": "Cardigan Welsh Corgis",
+                    "breed_nicknames": "Cardigan, Cardi",
+                    "origin": "Wales",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1935",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Pembroke Welsh Corgi, Lancashire Heeler, Teddy Roosevelt Terrier, Drever, Dachshund",
+                    "links": [],
+                    "popularity_2025": 65,
+                    "popularity_2024": 60,
+                    "popularity_2023": 63,
+                    "popularity_2022": 62,
+                    "popularity_2021": 67,
+                    "popularity_2020": 66,
+                    "popularity_2019": 67,
+                    "popularity_2018": 68,
+                    "popularity_2017": 68,
+                    "popularity_2016": 69,
+                    "popularity_2015": 76,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "pembroke-welsh-corgi",
+                        "lancashire-heeler",
+                        "teddy-roosevelt-terrier",
+                        "drever",
+                        "dachshund"
+                    ],
+                    "related_breeds_items": {
+                        "pembroke-welsh-corgi": {
+                            "breed_name_url": "pembroke-welsh-corgi",
+                            "breed_name": "Pembroke Welsh Corgi",
+                            "breed_name_oracle": "Pembroke Welsh Corgi",
+                            "matches_oracle": "Pembroke Welsh Corgi",
+                            "akc_code": "829",
+                            "breed_name_plural": "Pembroke Welsh Corgi",
+                            "breed_nicknames": "Pembroke, Pem, or Pembi (U.K.)",
+                            "origin": "Wales",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1934",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Cardigan Welsh Corgi, Drever, Teddy Roosevelt Terrier, Swedish Vallhund, Dachshund",
+                            "links": [],
+                            "popularity_2025": 16,
+                            "popularity_2024": 15,
+                            "popularity_2023": 11,
+                            "popularity_2022": 11,
+                            "popularity_2021": 11,
+                            "popularity_2020": 11,
+                            "popularity_2019": 10,
+                            "popularity_2018": 13,
+                            "popularity_2017": 15,
+                            "popularity_2016": 18,
+                            "popularity_2015": 20,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / affectionate / smart"
+                        },
+                        "lancashire-heeler": {
+                            "breed_name_url": "lancashire-heeler",
+                            "breed_name": "Lancashire Heeler",
+                            "breed_name_oracle": "Lancashire Heeler",
+                            "matches_oracle": "Lancashire Heeler",
+                            "akc_code": "849",
+                            "breed_name_plural": "Lancashire Heelers",
+                            "breed_nicknames": "",
+                            "origin": "Unknown",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2024",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Pembroke Welsh Corgi, Teddy Roosevelt Terrier, Cardigan Welsh Corgi",
+                            "links": [],
+                            "popularity_2025": 190,
+                            "popularity_2024": 189,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "intelligent / versatile / affectionate"
+                        },
+                        "teddy-roosevelt-terrier": {
+                            "breed_name_url": "teddy-roosevelt-terrier",
+                            "breed_name": "Teddy Roosevelt Terrier",
+                            "breed_name_oracle": "Teddy Roosevelt Terrier",
+                            "matches_oracle": "Teddy Roosevelt Terrier",
+                            "akc_code": "250",
+                            "breed_name_plural": "Teddy Roosevelt Terriers",
+                            "breed_nicknames": "Teddy",
+                            "origin": "United States",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": 0,
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Smooth Fox Terrier, Rat Terrier, Miniature Bull Terrier, Dachshund, Manchester Terrier (Standard)",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers",
+                            "temperament": "intelligent / playful / versatile"
+                        },
+                        "drever": {
+                            "breed_name_url": "drever",
+                            "breed_name": "Drever",
+                            "breed_name_oracle": "Drever",
+                            "matches_oracle": "Drever",
+                            "akc_code": "448",
+                            "breed_name_plural": "Drevers",
+                            "breed_nicknames": "",
+                            "origin": "Sweden",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "15 years",
+                            "related_breeds": "Swedish Vallhund, Cardigan Welsh Corgi, Dachshund, Teddy Roosevelt Terrier, Pembroke Welsh Corgi",
+                            "links": [],
+                            "related_groups_characteristics": "Best Family Dogs, Medium Dog Breeds",
+                            "temperament": "loyal / determined / even-tempered"
+                        },
+                        "dachshund": {
+                            "breed_name_url": "dachshund",
+                            "breed_name": "Dachshund",
+                            "breed_name_oracle": "Dachshund",
+                            "matches_oracle": "Dachshund",
+                            "akc_code": "408",
+                            "breed_name_plural": "Dachshunds",
+                            "breed_nicknames": "Dachsie",
+                            "origin": "Germany",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Basset Hound, Drever, Swedish Vallhund, Teddy Roosevelt Terrier, Pembroke Welsh Corgi",
+                            "links": [],
+                            "popularity_2025": 5,
+                            "popularity_2024": 6,
+                            "popularity_2023": 6,
+                            "popularity_2022": 9,
+                            "popularity_2021": 10,
+                            "popularity_2020": 10,
+                            "popularity_2019": 11,
+                            "popularity_2018": 12,
+                            "popularity_2017": 13,
+                            "popularity_2016": 13,
+                            "popularity_2015": 13,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "curious / friendly / spunky"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "temperament": "loyal / affectionate / smart",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "akc_org_blurb": "The Cardigan Welsh Corgi is a masterpiece of the breeder's art: Every aspect of its makeup is perfectly suited to moving cattle, and yet it is so congenial and sweet-faced that it would be a cherished companion even if it never did a day's work.",
+                    "akc_org_about": "Long, low-set dogs with sturdy bone, short legs, and a deep chest, Cardigans are powerful workers of deceptive speed and grace. Cardis can weigh anywhere from 25 to 34 pounds, with females at the lower end of the scale. They come in several coat colors, from red to the popular blue-merle pattern. The quickest way to distinguish Cardis from their cousins, Pembroke Welsh Corgis, is to check out the hindquarters: Cardigans have tails; Pembrokes do not.\n\n\n\n Cardis are trainable, faithful, and vigilant guardians with a 'big dog'\u009d bark. Well-socialized Cardis are especially fond of kids and agreeable with other pets. These athletic, rugged herders have a love for the outdoors, and they thrive on mental stimulation and physical activity.",
+                    "mp_description": "To see the difference between a Pembroke Welsh Corgi and a Cardigan Welsh Corgi, look for a tail. If there is one, it's a Cardigan. Like his cousin, the Cardigan Welsh Corgi is a great companion dog, affectionate, loyal and sweet. Bred for herding, they are hard-working, intelligent and trainable, and often excel at agility, tracking, obedience trials and, naturally, herding. Combine that with an even temper and his deep attachment to his people and he's an all-around winner. Your Cardigan Welsh Corgi puppy can adapt to almost any living environment as long as he gets plenty of exercise and playtime. He also loves having jobs to do to keep him mentally stimulated. He'll be happy to tag along with you and 'help' around the house and yard."
+                }
+            },
+            "standards": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "title_1": "General Appearance",
+                    "description_1": "Low set with moderately heavy bone and deep chest. Overall silhouette long in proportion to height, culminating in a low tail set and fox-like brush. General Impression--A handsome, powerful, small dog, capable of both speed and endurance, intelligent, sturdily built but not coarse.",
+                    "title_2": "Head",
+                    "description_2": "The head should be refined in accordance with the sex and substance of the dog. It should never appear so large and heavy nor so small and fine as to be out of balance with the rest of the dog. Expression alert and gentle, watchful, yet friendly. Eyes medium to large, not bulging, with dark rims and distinct corners. Widely set. Clear and dark in harmony with coat color. Blue eyes (including partially blue eyes), or one dark and one blue eye permissible in blue merles, and in any other coat color than blue merle are a disqualification.",
+                    "title_3": "Body",
+                    "description_3": "Neck moderately long and muscular without throatiness. Well developed, especially in males, and in proportion to the dog's build. Neck well set on; fits into strong, well shaped shoulders. Topline level. Body long and strong.Chest moderately broad with prominent breastbone. Deep brisket, with well sprung ribs to allow for good lungs. Ribs extending well back. Loin- short, strong, moderately tucked up. Waist well defined. Croup-Slight downward slope to the tail set.",
+                    "title_4": "Coat",
+                    "description_4": "Medium length but dense as it is double. Outer hairs slightly harsh in texture; never wiry, curly or silky. Lies relatively smooth and is weather resistant. The insulating undercoat is short, soft and thick. A correct coat has short hair on ears, head, the legs; medium hair on body; and slightly longer, thicker hair in ruff, on the backs of the thighs to form \"pants,\" and on the underside of the tail. The coat should not be so exaggerated as to appear fluffy. This breed has a shedding coat, and seasonal lack of undercoat should not be too severely penalized, providing the hair is healthy. Trimming is not allowed except to tidy feet and, if desired, remove whiskers. Soft guard hairs, uniform length, wiry, curly, silky, overly short and/or flat coats are not desired. A distinctly long or fluffy coat is an extremely serious fault.",
+                    "title_5": "Ears",
+                    "description_5": "Large and prominent in proportion to size of dog. Slightly rounded at the tip, and of good strong leather. Moderately wide at the base, carried erect and sloping slightly forward when alert. When erect, tips are slightly wide of a straight line drawn from the tip of the nose through the center of the eye. Small and/or pointed ears are serious faults. Drop ears are a disqualification.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Well muscled and strong, but slightly less wide than shoulders. Hipbone (pelvis) slopes downward with the croup, forming a right angle with the femur at the hip socket. There should be moderate angulation at stifle and hock. Hocks well let down. Metatarsi perpendicular to the ground and parallel to each other. Dewclaws removed.Feet point straight ahead and are slightly smaller and more oval than front. Toes arched. Pads well filled.",
+                    "title_7": "Forequarters",
+                    "description_7": "The moderately broad chest tapers to a deep brisket, well let down between the forelegs. Shoulders slope downward and outward from the withers sufficiently to accommodate desired rib-spring. Shoulder blade (scapula) long and well laid back, meeting upper arm (humerus) at close to a right angle. Humerus nearly as long as scapula. Elbows should fit close, being neither loose nor tied. The forearms (ulna and radius) should be curved to fit spring of ribs. The curve in the forearm makes the wrists (carpal joints) somewhat closer together than the elbows. The pasterns are strong and flexible. Dewclaws removed.",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "10.5",
+                    "height_max": "12.5",
+                    "weight_min": "25",
+                    "weight_max": "38",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Cardigan_Welsh_Corgi.pdf",
+                    "height_min_f": "10.5",
+                    "height_max_f": "12.5",
+                    "height_min_m": "10.5",
+                    "height_max_m": "12.5",
+                    "height_display": "10.5-12.5 inches",
+                    "weight_min_f": "25",
+                    "weight_max_f": "38",
+                    "weight_min_m": "25",
+                    "weight_max_m": "38",
+                    "weight_display": "30-38 pounds (male), 25-34 pounds (female)"
+                }
+            },
+            "markings": {
+                "cardigan-welsh-corgi": {
+                    "markings": [
+                        {
+                            "marking_index": 547,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 548,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "047",
+                            "markings_long": "Black Mask & Ticked",
+                            "markings_short": "BLK MASK&TKD"
+                        },
+                        {
+                            "marking_index": 549,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "046",
+                            "markings_long": "Brindle Points",
+                            "markings_short": "BRDL PTS"
+                        },
+                        {
+                            "marking_index": 550,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "048",
+                            "markings_long": "Brindle Points & Ticked",
+                            "markings_short": "BRDL PTS&TKD"
+                        },
+                        {
+                            "marking_index": 551,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "029",
+                            "markings_long": "Tan Points",
+                            "markings_short": "TN PTS"
+                        },
+                        {
+                            "marking_index": 552,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "049",
+                            "markings_long": "Tan Points & Ticked",
+                            "markings_short": "TN PTS&TKD"
+                        },
+                        {
+                            "marking_index": 553,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "cardigan-welsh-corgi": {
+                    "colors": [
+                        {
+                            "color_index": 1782,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1783,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "051",
+                            "color_long": "Blue Merle & White",
+                            "color_short": "BL MRL & WH"
+                        },
+                        {
+                            "color_index": 1784,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 1785,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 1786,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        },
+                        {
+                            "color_index": 1787,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "329",
+                            "color_long": "Brindle Merle & White",
+                            "color_short": "BRDL MRL & WH"
+                        },
+                        {
+                            "color_index": 1788,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "105",
+                            "color_long": "Gray & White",
+                            "color_short": "GR & WH"
+                        },
+                        {
+                            "color_index": 1789,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "125",
+                            "color_long": "Liver & White",
+                            "color_short": "LVR & WH"
+                        },
+                        {
+                            "color_index": 1790,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "330",
+                            "color_long": "Red Merle & White",
+                            "color_short": "RD MRL & WH"
+                        },
+                        {
+                            "color_index": 1791,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "277",
+                            "color_long": "Sable Merle & White",
+                            "color_short": "SBL MRL & WH"
+                        },
+                        {
+                            "color_index": 1792,
+                            "breed_name_url": "cardigan-welsh-corgi",
+                            "breed_name": "Cardigan Welsh Corgi",
+                            "akc_code": "828",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "311",
+                            "color_long": "White Merle",
+                            "color_short": "WH MRL"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "breed_club_name": "Cardigan Welsh Corgi Club of America, Inc.",
+                    "breed_club_url": "www.cardigancorgis.com",
+                    "breed_club_pdf_url": "http://cdn.akc.org/CardiganWelshCorgi-club-flier.pdf",
+                    "breed_rescue_url": "http://cardiganrescue.org/",
+                    "national_breed_club": "Cardigan Welsh Corgi Club of America, Inc.",
+                    "national_breed_club_url": "www.cardigancorgis.com",
+                    "breed_referral_contact_name": "David McDonald",
+                    "breed_referral_contact_phone_number": "(319) 389-4437",
+                    "breed_referral_contact_email": "clydesiowa@yahoo.com",
+                    "breed_referral_contact_address": "3846 Lillie Rd\nCentral City, IA 52214-9684",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://cardigancorgis.com/RegionalClubs.asp",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://cardiganrescue.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1479,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 65,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Cardigan Welsh Corgi Club of America is the official AKC Parent Club for the Cardigan Welsh Corgi."
+                        },
+                        {
+                            "id": 540,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 542,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 539,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 541,
+                            "breed_id": "65",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "cardigan-welsh-corgi": {
+                    "breed_name_url": "cardigan-welsh-corgi",
+                    "breed_name": "Cardigan Welsh Corgi",
+                    "akc_org_history": "<p>The handsome but hard-as-nails Cardigan Welsh Corgi was named for the medieval kingdom of Cardiganshire, Wales, and is the older of the AKC's two corgi breeds. In fact, they're among the oldest of all British breeds. The word 'corgi,' originally 'kergie,' is ancient Celtic for 'dog,' and historians surmise that ancient corgis were brought from Central Europe to Wales by the Celts during their mass migrations to Britain some 3,000 years ago. We can say with some certainty, however, that corgis were driving Welsh herds 1,000 years ago.&nbsp;</p>\n<p><br>\n</p>\n<p>Cardigans are built low to the ground to best nip at the heels of cattle and avoid being kicked. (Dogs who drive herds to pasture or market in this heel-nipping style are called heelers.) The adaptable Cardigan did double duty on long cattle drives, moving the herd by day and serving as a flock guardian at night. During the breed's long history, Cardigans have at various times worked as an all-around farm dog, hunting partner, family protector, and athlete. Cardigans were long associated with Britain's crofters (tenant farmers) who depended on their dogs to help scratch a meager living out of the pasture land permitted them by the crown.</p>\n<p><br>\n</p>\n<p>Cardigans and Pembrokes were at one time freely interbred, and until as late as 1934 they were considered a single breed in the United Kingdom. The first pair of breeding Cardigans arrived in the United States in June 1931. The AKC granted full recognition to the breed four years later.</p>",
+                    "mp_history_job": "<p>Cardigans are the older of the two corgi breeds. In fact, they're among the oldest of all British breeds. Some say they were brought to Wales by the Celts some 3,000 years ago. The adaptable Cardigan has played many roles in its day' farm dog, hunting partner, flock guardian and family protector, adored pet, athlete\u00bfbut is most famous as a hardworking heeler of livestock. (A heeler moves cows by nipping at their heels.) The two corgis were considered a single breed in Britain until 1934.</p>",
+                    "did_you_know": "The Cardigan Welsh Corgi, unlike the Pembroke, possesses a tail. | The Cardigan Welsh Corgi, as its name implies, originated in the British Isles. | The Cardigan springs from the same line of dogs as the Dachshund. | The Cardigan Welsh Corgi is the older of the two Corgi breeds and is a separate and distinct breed from the Pembroke. | The Cardigan first came to the Cardiganshire (its place of origin) with the Celts, migrating to Wales in 1200 BC, meaning that the Corgi has been known in its namesake land for more than 3000 years | The purpose of the Corgi was to nip the heels of cattle and drive them, clearing his owner's ground of neighboring cattle, before fences were used."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23929%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi-on-White-111.jpg",
+                    "alt": "Cardigan Welsh Corgi sitting in three-quarter view looking up.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_0465.jpg",
+                    "alt": "Best of Breed: GCHP CH Aubrey's Tails Of Mystery, Cardigan Welsh Corgi; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi-on-White-10.jpg",
+                    "alt": "Cardigan Welsh Corgi standing facing left.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi1.jpg",
+                    "alt": "Cardigan Welsh Corgi herding a flock of sheep in a field.",
+                    "caption": "",
+                    "credit": "Antanina Gabrus/Shutterstock"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2019/03/Cardigan-Welsh-Corgi-Illo-2.jpg",
+                "alt": "Cardigan Welsh Corgi illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2019/03/Cardigan-Welsh-Corgi-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi-puppy.jpg",
+                "alt": ""
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/cardigan-welsh-corgi",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Cardigan Welsh Corgi",
+        "shopCta": false
+    }
+}

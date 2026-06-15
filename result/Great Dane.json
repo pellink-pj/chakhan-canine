@@ -211,8 +211,8 @@
                             "temperament": "alert / loyal / fearless"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -512,7 +512,7 @@
                 "great-dane": {
                     "markings": [
                         {
-                            "marking_index": 423,
+                            "marking_index": 440,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -522,7 +522,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 424,
+                            "marking_index": 441,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -532,7 +532,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 425,
+                            "marking_index": 442,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -542,7 +542,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 426,
+                            "marking_index": 443,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -552,7 +552,7 @@
                             "markings_short": "BL MSK"
                         },
                         {
-                            "marking_index": 427,
+                            "marking_index": 444,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -562,7 +562,7 @@
                             "markings_short": "CHLT MKGS"
                         },
                         {
-                            "marking_index": 428,
+                            "marking_index": 445,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -572,7 +572,7 @@
                             "markings_short": "CHLT MSK"
                         },
                         {
-                            "marking_index": 429,
+                            "marking_index": 446,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -582,7 +582,7 @@
                             "markings_short": "FN MKGS"
                         },
                         {
-                            "marking_index": 430,
+                            "marking_index": 447,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -592,7 +592,7 @@
                             "markings_short": "MRL MKGS"
                         },
                         {
-                            "marking_index": 431,
+                            "marking_index": 448,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -602,7 +602,7 @@
                             "markings_short": "BRDL MKGS"
                         },
                         {
-                            "marking_index": 432,
+                            "marking_index": 449,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -618,7 +618,7 @@
                 "great-dane": {
                     "colors": [
                         {
-                            "color_index": 1413,
+                            "color_index": 1434,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -629,7 +629,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1414,
+                            "color_index": 1435,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -640,7 +640,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1415,
+                            "color_index": 1436,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -651,7 +651,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1416,
+                            "color_index": 1437,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -662,7 +662,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1417,
+                            "color_index": 1438,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -673,7 +673,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1418,
+                            "color_index": 1439,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -684,7 +684,7 @@
                             "color_short": "HLQN"
                         },
                         {
-                            "color_index": 1419,
+                            "color_index": 1440,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -695,7 +695,7 @@
                             "color_short": "MNTL"
                         },
                         {
-                            "color_index": 1420,
+                            "color_index": 1441,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -706,7 +706,7 @@
                             "color_short": "MRL"
                         },
                         {
-                            "color_index": 1421,
+                            "color_index": 1442,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -717,7 +717,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1422,
+                            "color_index": 1443,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -728,7 +728,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 1423,
+                            "color_index": 1444,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -739,7 +739,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 1424,
+                            "color_index": 1445,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -750,7 +750,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1425,
+                            "color_index": 1446,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -761,7 +761,7 @@
                             "color_short": "CHLT & WH"
                         },
                         {
-                            "color_index": 1426,
+                            "color_index": 1447,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -772,7 +772,7 @@
                             "color_short": "CHLT BRDL"
                         },
                         {
-                            "color_index": 1427,
+                            "color_index": 1448,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -783,7 +783,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 1428,
+                            "color_index": 1449,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -794,7 +794,7 @@
                             "color_short": "MNTL MRL"
                         },
                         {
-                            "color_index": 1429,
+                            "color_index": 1450,
                             "breed_name_url": "great-dane",
                             "breed_name": "Great Dane",
                             "akc_code": "614",
@@ -906,7 +906,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24572%5D",
@@ -955,8 +955,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

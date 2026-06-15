@@ -45,17 +45,34 @@
                     "breed_group": "Foundation Stock Service",
                     "year_recognized": 0,
                     "life_expectancy": "12-15 years",
-                    "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                    "related_breeds": "Australian Kelpie, Border Collie, Australian Cattle Dog, Collie, Beauceron",
                     "links": [],
                     "related_groups_characteristics": "Medium Dog Breeds",
                     "related_breeds_items_url": [
+                        "australian-kelpie",
                         "border-collie",
                         "australian-cattle-dog",
                         "collie",
-                        "beauceron",
-                        "australian-kelpie"
+                        "beauceron"
                     ],
                     "related_breeds_items": {
+                        "australian-kelpie": {
+                            "breed_name_url": "australian-kelpie",
+                            "breed_name": "Australian Kelpie",
+                            "breed_name_oracle": "Australian Kelpie",
+                            "matches_oracle": "Australian Kelpie",
+                            "akc_code": "867",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "Aussie",
+                            "origin": "United States",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Australian Cattle Dog, Working Kelpie, Australian Stumpy Tail Cattle Dog, Australian Terrier, Australian Shepherd",
+                            "links": [],
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Medium Dog Breeds",
+                            "temperament": "alert / loyal / intelligent"
+                        },
                         "border-collie": {
                             "breed_name_url": "border-collie",
                             "breed_name": "Border Collie",
@@ -167,27 +184,10 @@
                             "popularity_2015": 142,
                             "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds, Best Guard Dogs",
                             "temperament": "faithful / gentle / obedient"
-                        },
-                        "australian-kelpie": {
-                            "breed_name_url": "australian-kelpie",
-                            "breed_name": "Australian Kelpie",
-                            "breed_name_oracle": "Australian Kelpie",
-                            "matches_oracle": "Australian Kelpie",
-                            "akc_code": "867",
-                            "breed_name_plural": null,
-                            "breed_nicknames": "Aussie",
-                            "origin": "United States",
-                            "breed_group": "Foundation Stock Service",
-                            "year_recognized": 0,
-                            "life_expectancy": "10-13 years",
-                            "related_breeds": "Australian Cattle Dog, Working Kelpie, Australian Stumpy Tail Cattle Dog, Australian Terrier, Australian Shepherd",
-                            "links": [],
-                            "related_groups_characteristics": "Smartest Breeds of Dogs, Medium Dog Breeds",
-                            "temperament": "alert / loyal / intelligent"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -487,7 +487,7 @@
                 "working-kelpie": {
                     "markings": [
                         {
-                            "marking_index": 624,
+                            "marking_index": 641,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -503,7 +503,7 @@
                 "working-kelpie": {
                     "colors": [
                         {
-                            "color_index": 2005,
+                            "color_index": 2027,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -514,7 +514,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 2006,
+                            "color_index": 2028,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -525,7 +525,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 2007,
+                            "color_index": 2029,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -536,7 +536,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 2008,
+                            "color_index": 2030,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -547,7 +547,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 2009,
+                            "color_index": 2031,
                             "breed_name_url": "working-kelpie",
                             "breed_name": "Working Kelpie",
                             "akc_code": "865",
@@ -659,7 +659,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775198602",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229310",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B26073%5D",
@@ -708,8 +708,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

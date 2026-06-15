@@ -1,0 +1,1663 @@
+{
+    "settings": {
+        "current_breed": "chihuahua",
+        "current_breed_group": {
+            "name": "Toy Group",
+            "url": "https://www.akc.org/dog-breeds/toy/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Chihuahua.pdf",
+                    "mp_health": "<p>Chihuahuas are generally a healthy breed. But like all breeds there may be some health issues, like patellar luxation, cardiac and eye disease.</p>",
+                    "akc_org_health": "<p>The majority of Chihuahuas are healthy little dogs, but there are some genetic issues that can affect the breed. You should choose your dog from a breeder who routinely does genetic health screenings on all breeding stock to ensure that the puppies they produce are as genetically sound as possible. Some of the issues that can possibly affect the Chihuahua include potential heart problems (patent ductus arteriosus, mitral valve disease), eye disease, and patellar luxation (loose kneecaps). Idiopathic epilepsy is also known to occur in the breed.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Some Chihuahuas are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>The two coat varieties of the Chihuahua have slightly different grooming needs. The smooth-coat Chihuahua will need only occasional brushing and regular baths to look dapper, while the longhaired variety should have his coat brushed at least once a week to avoid any tangles or mats. Both varieties should have their nails trimmed regularly. Good dental care is necessary and should include brushing your dog's teeth, and the vet might also recommend treats designed as part of a tooth-care program. Check the Chihuahua's ears regularly, and remove any excess wax or debris to avoid ear infections.</p>",
+                    "akc_org_exercise": "<p>The Chihuahua loves to run and play and can usually get enough exercise in a very small space. Simply trotting around following their people is usually enough exercise for this happy breed. Short, slow walks will keep your dog in good weight and condition. Avoid overexerting the Chihuahua. If your dog is panting and working hard to keep up, it's time to pick him up and carry him home.</p>",
+                    "akc_org_training": "<p>The Chihuahua is a very alert little dog of high intelligence. He is eager to please his humans and responds well to positive training practices. Chihuahuas seem well aware of how cute they are and learn how to get their way. From the very beginning you must enforce the fact that you are in charge. Never allow your Chihuahua puppy to do anything that will be unacceptable in an adult. They can have a bit of a 'terrier'\u009d temperament, so a firm but gentle hand is necessary when training. They can excel in obedience training and other canine sports.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "breed_name_oracle": "Chihuahua",
+                    "matches_oracle": "Chihuahua",
+                    "akc_code": "503",
+                    "breed_name_plural": "Chihuahuas",
+                    "breed_nicknames": "Chi",
+                    "origin": "Mexican State of Chihuahua",
+                    "breed_group": "Toy Group",
+                    "year_recognized": "1904",
+                    "life_expectancy": "14-16 years",
+                    "related_breeds": "Toy Fox Terrier, Japanese Chin, Russian Toy, Papillon",
+                    "links": [],
+                    "popularity_2025": 24,
+                    "popularity_2024": 27,
+                    "popularity_2023": 32,
+                    "popularity_2022": 34,
+                    "popularity_2021": 37,
+                    "popularity_2020": 34,
+                    "popularity_2019": 35,
+                    "popularity_2018": 33,
+                    "popularity_2017": 32,
+                    "popularity_2016": 30,
+                    "popularity_2015": 28,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "toy-fox-terrier",
+                        "japanese-chin",
+                        "russian-toy",
+                        "papillon"
+                    ],
+                    "related_breeds_items": {
+                        "toy-fox-terrier": {
+                            "breed_name_url": "toy-fox-terrier",
+                            "breed_name": "Toy Fox Terrier",
+                            "breed_name_oracle": "Toy Fox Terrier",
+                            "matches_oracle": "Toy Fox Terrier",
+                            "akc_code": "519",
+                            "breed_name_plural": "Toy Fox Terriers",
+                            "breed_nicknames": "Toy Fox, TFT, Amertoy",
+                            "origin": "United States",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "2003",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Smooth Fox Terrier, Chihuahua, Manchester Terrier (Toy), Russian Toy, Miniature Pinscher",
+                            "links": [],
+                            "popularity_2025": 106,
+                            "popularity_2024": 108,
+                            "popularity_2023": 110,
+                            "popularity_2022": 108,
+                            "popularity_2021": 110,
+                            "popularity_2020": 113,
+                            "popularity_2019": 109,
+                            "popularity_2018": 111,
+                            "popularity_2017": 112,
+                            "popularity_2016": 116,
+                            "popularity_2015": 110,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / intelligent / friendly"
+                        },
+                        "japanese-chin": {
+                            "breed_name_url": "japanese-chin",
+                            "breed_name": "Japanese Chin",
+                            "breed_name_oracle": "Japanese Chin",
+                            "matches_oracle": "Japanese Chin",
+                            "akc_code": "506",
+                            "breed_name_plural": "Japanese Chins",
+                            "breed_nicknames": "Chin (plural and singular)",
+                            "origin": "Japan",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1888",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Pekingese, Shih Tzu, Chihuahua, Tibetan Spaniel, English Toy Spaniel",
+                            "links": [],
+                            "popularity_2025": 103,
+                            "popularity_2024": 103,
+                            "popularity_2023": 103,
+                            "popularity_2022": 105,
+                            "popularity_2021": 105,
+                            "popularity_2020": 111,
+                            "popularity_2019": 110,
+                            "popularity_2018": 104,
+                            "popularity_2017": 108,
+                            "popularity_2016": 108,
+                            "popularity_2015": 97,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "charming / loving / noble"
+                        },
+                        "russian-toy": {
+                            "breed_name_url": "russian-toy",
+                            "breed_name": "Russian Toy",
+                            "breed_name_oracle": "Russian Toy",
+                            "matches_oracle": "Russian Toy",
+                            "akc_code": "547",
+                            "breed_name_plural": "Russian Toys",
+                            "breed_nicknames": "",
+                            "origin": "Russia",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "2022",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Papillon, Chinese Crested, Manchester Terrier (Toy), Miniature Pinscher, Toy Fox Terrier",
+                            "links": [],
+                            "popularity_2025": 145,
+                            "popularity_2024": 150,
+                            "popularity_2023": 141,
+                            "popularity_2022": 144,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "loyal / charming / smart"
+                        },
+                        "papillon": {
+                            "breed_name_url": "papillon",
+                            "breed_name": "Papillon",
+                            "breed_name_oracle": "Papillon",
+                            "matches_oracle": "Papillon",
+                            "akc_code": "509",
+                            "breed_name_plural": "Papillons",
+                            "breed_nicknames": "The Butterfly Dog, Pap",
+                            "origin": "France",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1915",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Russian Toy, Toy Fox Terrier, Chihuahua, Japanese Chin",
+                            "links": [],
+                            "popularity_2025": 42,
+                            "popularity_2024": 44,
+                            "popularity_2023": 45,
+                            "popularity_2022": 51,
+                            "popularity_2021": 54,
+                            "popularity_2020": 53,
+                            "popularity_2019": 53,
+                            "popularity_2018": 54,
+                            "popularity_2017": 53,
+                            "popularity_2016": 53,
+                            "popularity_2015": 48,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Smartest Breeds of Dogs",
+                            "temperament": "alert / friendly / happy"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "temperament": "charming / graceful / sassy",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short",
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "akc_org_blurb": "The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing \"purse dogs\" stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times.",
+                    "akc_org_about": "The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds. The rounded \"apple\" head is a breed hallmark. The erect ears and full, luminous eyes are acutely expressive. Coats come in many colors and patterns, and can be long or short. The varieties are identical except for coat.\n\n\n\n Chihuahuas possess loyalty, charm, and big-dog attitude. Even tiny dogs require training, and without it this clever scamp will rule your household like a little Napoleon. Compact and confident, Chihuahuas are ideal city pets. They are too small for roughhousing with kids, and special care must be taken in cold weather, but Chihuahuas are adaptable'\u00bfas long as they get lots of quality time in their preferred lap.",
+                    "mp_description": "Your tiny Chihuahua puppy will grow up to be 5-6 pounds of sassy, outsize personality. Chihuahuas are primarily indoor dogs, well-suited to small living spaces. There's an alert intelligence behind those shining eyes and your Chihuahua is a quick and enthusiastic learner. He could happily spend hours on your lap or snuggled under the blankets, where it's warm and cozy. He's a delicate little guy who will return kindness and care with love and loyalty."
+                }
+            },
+            "standards": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "title_1": "General Appearance",
+                    "description_1": "A graceful, alert, swift-moving compact little dog with saucy expression, and with terrier-like qualities of temperament.",
+                    "title_2": "Head",
+                    "description_2": "A well rounded \"apple dome\" skull, with or without molera. Expression - Saucy. Eyes - Full, round, but not protruding, balanced, set well apart-luminous dark or luminous ruby. Light eyes in blond or white-colored dogs permissible. Blue eyes or a difference in the color of the iris in the two eyes, or two different colors within one iris should be considered a serious fault. Ears - Large, erect type ears, held more upright when alert, but flaring to the sides at a 45 degree angle when in repose, giving breadth between the ears. Stop - Well defined. When viewed in profile, it forms a near 90 degree angle where muzzle joins skull.",
+                    "title_3": "Body",
+                    "description_3": "Neck, Topline, Body: Neck - Slightly arched, gracefully sloping into lean shoulders. Topline- Level. Body -Ribs rounded and well sprung (but not too much \"barrel-shaped\"). Tail - Moderately long, carried sickle either up or out, or in a loop over the back with tip just touching the back. (Never tucked between legs.) Disqualifications - Docked tail, bobtail.",
+                    "title_4": "Forequarters",
+                    "description_4": "Forequarters: Shoulders - Lean, sloping into a slightly broadening support above straight forelegs that set well under, giving free movement at the elbows. Shoulders should be well up, giving balance and soundness, sloping into a level back (never down or low). This gives a well developed chest and strength of forequarters. Feet - A small, dainty foot with toes well split up but not spread, pads cushioned. (Neither the hare nor the cat foot.) Dewclaws may be removed. Pasterns - Strong.",
+                    "title_5": "Coat",
+                    "description_5": "In the Smooth Coats, the coat should be of soft texture, close and glossy. (Heavier coats with undercoats permissible.) Coat placed well over body with ruff on neck preferred, and more scanty on head and ears. Hair on tail preferred furry. In Long Coats, the coat should be of a soft texture, either flat or slightly wavy, with undercoat preferred. Ears - Fringed. Tail - Full and long (as a plume). Feathering on feet and legs, pants on hind legs and large ruff on the neck desired and preferred. (The Chihuahua should be groomed only to create a neat appearance.) Disqualification - In Long Coats, too thin coat that resembles bareness.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Muscular, with hocks well apart, neither out nor in, well let down, firm and sturdy. Angulation - Should equal that of forequarters. The feet are as in front. Dewclaws may be removed.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "5",
+                    "height_max": "8",
+                    "weight_min": "6",
+                    "weight_max": "6",
+                    "size": "XSmall",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Chihuahua.pdf",
+                    "height_min_f": "5",
+                    "height_max_f": "8",
+                    "height_min_m": "5",
+                    "height_max_m": "8",
+                    "height_display": "5-8 inches",
+                    "weight_min_f": "6",
+                    "weight_max_f": "6",
+                    "weight_min_m": "6",
+                    "weight_max_m": "6",
+                    "weight_display": "not exceeding 6 pounds"
+                }
+            },
+            "markings": {
+                "chihuahua": {
+                    "markings": [
+                        {
+                            "marking_index": 346,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "073",
+                            "markings_long": "Black Brindling",
+                            "markings_short": "BLK BRDLG"
+                        },
+                        {
+                            "marking_index": 347,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 348,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "072",
+                            "markings_long": "Black Sabling",
+                            "markings_short": "BLK SBLG"
+                        },
+                        {
+                            "marking_index": 349,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "071",
+                            "markings_long": "Spotted On White",
+                            "markings_short": "SPTD ON WH"
+                        },
+                        {
+                            "marking_index": 350,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 351,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "cde_markings": "005",
+                            "markings_long": "Black Mask, White Markings",
+                            "markings_short": "BLK MSK WH MKGS"
+                        },
+                        {
+                            "marking_index": 352,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "cde_markings": "006",
+                            "markings_long": "Blue Mask",
+                            "markings_short": "BL MSK"
+                        },
+                        {
+                            "marking_index": 353,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "cde_markings": "044",
+                            "markings_long": "Cream Markings",
+                            "markings_short": "CR MKGS"
+                        },
+                        {
+                            "marking_index": 354,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "cde_markings": "008",
+                            "markings_long": "Fawn Markings",
+                            "markings_short": "FN MKGS"
+                        },
+                        {
+                            "marking_index": 355,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "cde_markings": "023",
+                            "markings_long": "Red Markings",
+                            "markings_short": "RD MKGS"
+                        },
+                        {
+                            "marking_index": 356,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "cde_markings": "035",
+                            "markings_long": "Merle Markings",
+                            "markings_short": "MRL MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "chihuahua": {
+                    "colors": [
+                        {
+                            "color_index": 1136,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1137,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1138,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "044",
+                            "color_long": "Blue & Tan",
+                            "color_short": "BL & TN"
+                        },
+                        {
+                            "color_index": 1139,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "071",
+                            "color_long": "Chocolate",
+                            "color_short": "CHLT"
+                        },
+                        {
+                            "color_index": 1140,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "072",
+                            "color_long": "Chocolate & Tan",
+                            "color_short": "CHLT & TN"
+                        },
+                        {
+                            "color_index": 1141,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 1142,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1143,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 1144,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1145,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1146,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "354",
+                            "color_long": "Black Sabled Fawn",
+                            "color_short": "BLK SBL FN"
+                        },
+                        {
+                            "color_index": 1147,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "353",
+                            "color_long": "Black Sabled Silver",
+                            "color_short": "BLK SBL SLVR"
+                        },
+                        {
+                            "color_index": 1148,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1149,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 1150,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "356",
+                            "color_long": "Blue Brindled Fawn",
+                            "color_short": "BL BRDLD FN"
+                        },
+                        {
+                            "color_index": 1151,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "271",
+                            "color_long": "Chocolate & White",
+                            "color_short": "CHLT & WH"
+                        },
+                        {
+                            "color_index": 1152,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "359",
+                            "color_long": "Chocolate Blue",
+                            "color_short": "CHLT BL"
+                        },
+                        {
+                            "color_index": 1153,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "355",
+                            "color_long": "Chocolate Brindled Fawn",
+                            "color_short": "CHLT BRDLD FN"
+                        },
+                        {
+                            "color_index": 1154,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "358",
+                            "color_long": "Chocolate Sabled Fawn",
+                            "color_short": "CHLT SBLD FN"
+                        },
+                        {
+                            "color_index": 1155,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "077",
+                            "color_long": "Cream & White",
+                            "color_short": "CR & WH"
+                        },
+                        {
+                            "color_index": 1156,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "357",
+                            "color_long": "Fawn Brindled Black",
+                            "color_short": "FN BRDLD BLK"
+                        },
+                        {
+                            "color_index": 1157,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "091",
+                            "color_long": "Gold",
+                            "color_short": "GLD"
+                        },
+                        {
+                            "color_index": 1158,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "092",
+                            "color_long": "Gold & White",
+                            "color_short": "GLD & WH"
+                        },
+                        {
+                            "color_index": 1159,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 1160,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 1161,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "182",
+                            "color_long": "Silver & White",
+                            "color_short": "SLVR & WH"
+                        },
+                        {
+                            "color_index": 1162,
+                            "breed_name_url": "chihuahua",
+                            "breed_name": "Chihuahua",
+                            "akc_code": "503",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "breed_club_name": "Chihuahua Club of America, Inc.",
+                    "breed_club_url": "www.chihuahuaclubofamerica.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/12/06105707/Chihuahua20200722.pdf",
+                    "breed_rescue_url": "http://www.chihuahuaclubofamerica.org/breed-rescue/",
+                    "national_breed_club": "Chihuahua Club of America, Inc.",
+                    "national_breed_club_url": "www.chihuahuaclubofamerica.org",
+                    "breed_referral_contact_name": "Tracy Potts",
+                    "breed_referral_contact_phone_number": "(210) 365-3248",
+                    "breed_referral_contact_email": "tracypotts1@aol.com",
+                    "breed_referral_contact_address": "16619 FORT OSWEGO ST\nSAN ANTONIO, TX 78247-1033",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.chihuahuaclubofamerica.org/breed-rescue/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1487,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 73,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Founded in 1923, the Chihuahua Club of America is the official AKC Parent Club for the Chihuahua."
+                        },
+                        {
+                            "id": 572,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 574,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 571,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 573,
+                            "breed_id": "73",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "chihuahua": {
+                    "breed_name_url": "chihuahua",
+                    "breed_name": "Chihuahua",
+                    "akc_org_history": "<p>Likenesses of Chihuahua-like dogs decorate the artifacts of lost civilizations around the world. Trading among ancient cultures was more widespread than commonly assumed, so it is no surprise that similar dog types took root in far-flung places. How the Chihuahua type first came to the peoples of Mexico, however, is a secret of prehistory. We do know that when the Toltecs held sway in Mexico about a thousand years ago, their breed of choice was the Techichi, a larger, heavier ancestor of today's Chi.</p>\n<p><br></p>\n<p>The Aztecs conquered the Toltecs in the 12th century. Historians credit the Aztecs with refining the Techichi into a smaller, lighter dog. By the time Spanish conquistadors toppled Aztec civilization in the 1500s, the Techichi was so integral to Aztec culture it was considered one of Montezuma's fabled treasures, once presumed lost forever after the conquest of Cortez.</p>\n<p><br></p>\n<p>But the hardy little dogs lived on in remote villages and, in the mid-1800s, when Americans began to take an interest in the breed, they found many specimens in the State of Chihuahua. So it was that this survivor of two lost civilizations gained worldwide fame as the Chihuahua. The first AKC-registered Chihuahua, a little guy named Beppie, was recorded in 1908.&nbsp;</p>\n<p><br></p>\n<p>The famous bandleader Xavier Cugat did much to popularize Chihuahuas in the 1940s and 50s. More recently, these natural performers stole the show in \"Beverly Hills Chihuahua,\" \"Legally Blonde,\" and \"Sex and the City.\" The minor-league baseball team of El Paso, Texas, is named the Chihuahuas.</p>",
+                    "mp_history_job": "<p>The origin of the Chihuahua is somewhat of a mystery (complete with mummies). Some people think he might have come from the Fennec Fox, which is small and has big eyes and ears\u00bfjust like the Chichi. It's most likely related to the beloved dogs of Central American Indians, the Techichis, and the Mexican hairless dog. Chihuahuas have been loved throughout the ages, they appear in ancient stone carvings and mummies of them have been found buried with their masters. It just goes to show that nobody wants to go anywhere without their cherished Chichi!</p>",
+                    "did_you_know": "The Chihuahua comes in two varieties: long and smooth coat. | The breed derives its name from the Mexican State of Chihuahua, where the earliest specimens of the breed were found. | Pictures of dogs resembling the modern Chihuahua appear in ancient paintings in Mexico. | The Toltecs, who existed in what is now Mexico as early as the 9th century AD, possessed a breed of dog called the Techichi. This breed, regarded as indigenous to Central America, is the progenitor of the Chihuahua that exists today. | The Chihuahua is clannish, preferring companions of his own breed. | It is assumed that the small size of the modern Chihuahua results from a cross of the Techichi with the small hairless dog brought from Asia to Alaska over the land bridge that is now the Bering Strait."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775351598",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24001%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": {
+            "title": "Shop Chihuahua Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/chihuahua?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Chihuahua/chihuahua",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-Merchandise-Collection.png"
+        },
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-standing-in-three-quarter-view.jpg",
+                    "alt": "Chihuahua standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9cynoclub - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-at-the-AKC-National-Championship.jpg",
+                    "alt": "Longhaired Chihuahua at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-at-the-2016-AKC-National-Championship.jpg",
+                    "alt": "Smooth coated Chihuahua at the 2016 AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Chihuahua-walking-in-the-grass.jpg",
+                    "alt": "Longhaired Chihuahua walking in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9Mikkel Bigandt - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-On-White-03.jpg",
+                    "alt": "Chihuahua standing in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-longhaired-sitting-its-head-tilted.jpg",
+                    "alt": "Chihuahua longhaired sitting, its head tilted.",
+                    "caption": "",
+                    "credit": "\u00a9niknikp - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Chihuahua-running-in-the-grass.jpg",
+                    "alt": "Longhaired Chihuahua running in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9cynoclub - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-leaping-over-an-agility-jump.jpg",
+                    "alt": "Chihuahua leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Chihuahuas-sitting-side-by-side.jpg",
+                    "alt": "Longhaired Chihuahuas sitting side by side.",
+                    "caption": "",
+                    "credit": "\u00a9Dixi_ - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-sitting-in-dramatic-lighting.jpg",
+                    "alt": "Chihuahua sitting in dramatic lighting.",
+                    "caption": "",
+                    "credit": "\u00a9Neil Vannoy"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-Illo-2.jpg",
+                "alt": "Chihuahua illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-laying-down-with-her-puppies.jpg",
+                "alt": "Chihuahua laying down with her puppies."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/chihuahua",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Chihuahua",
+        "shopCta": {
+            "title": "Shop Chihuahua Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/chihuahua?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Chihuahua/chihuahua",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-Merchandise-Collection.png"
+        }
+    }
+}

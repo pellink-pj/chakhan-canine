@@ -1,0 +1,41 @@
+/* ──────────────────────────────────────────────────────────────
+   MungMate · Typography tokens
+   One family does all the work: NanumSquareRound. Headlines run
+   heavy (800/900) with tight tracking; body stays readable at 400.
+   Korean text leads, so generous line-height keeps Hangul airy.
+   ────────────────────────────────────────────────────────────── */
+:root {
+  --font-sans: 'NanumSquareRound', 'Apple SD Gothic Neo', 'Pretendard',
+               system-ui, -apple-system, sans-serif;
+  --font-display: var(--font-sans);
+  /* Numerals & code (cost figures look crisp in a mono) — system mono stack */
+  --font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+
+  /* ── Weights ──────────────────────────────── */
+  --fw-regular: 400; /* @kind font */
+  --fw-bold: 700;    /* @kind font */
+  --fw-extra: 800;   /* @kind font */
+  --fw-heavy: 900;   /* @kind font */
+
+  /* ── Type scale (fluid-friendly fixed steps) ── */
+  --text-hero: 64px;     /* shock-card big stat */
+  --text-display: 44px;  /* page hero */
+  --text-h1: 32px;
+  --text-h2: 24px;
+  --text-h3: 19px;
+  --text-lg: 17px;
+  --text-base: 15px;     /* body default */
+  --text-sm: 13.5px;     /* trait cards, captions-large */
+  --text-xs: 12px;       /* badges, tiny captions */
+
+  /* ── Line heights ────────────────────────── */
+  --lh-tight: 1.15;   /* @kind font */
+  --lh-snug: 1.35;    /* @kind font */
+  --lh-body: 1.7;     /* @kind font */
+  --lh-relaxed: 1.8;  /* @kind font */
+
+  /* ── Letter spacing ──────────────────────── */
+  --tracking-tight: -0.03em;  /* @kind font */
+  --tracking-snug: -0.02em;   /* @kind font */
+  --tracking-normal: 0;       /* @kind font */
+}

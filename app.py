@@ -193,12 +193,21 @@ def render_breed_card(breed: dict, show_match: bool = True):
                         background: {bg_color};
                         border-left: 3px solid {border_color};
                         border-radius: 6px;
-                        padding: 8px 12px;
+                        padding: 10px 12px;
                         margin: 4px 0;
                         font-size: 13.5px;
                         line-height: 1.5;
                     '>
-                        <b>{m['icon']} {m['title']}</b>
+                        <span style='
+                            display: inline-block;
+                            font-size: 11px;
+                            color: #888;
+                            background: rgba(0,0,0,0.04);
+                            padding: 1px 8px;
+                            border-radius: 4px;
+                            margin-bottom: 4px;
+                        '>{m['category']}</span>
+                        <div><b>{m['title']}</b></div>
                     </div>""",
                     unsafe_allow_html=True,
                 )
@@ -228,7 +237,7 @@ def render_breed_card(breed: dict, show_match: bool = True):
             if trait_msgs:
                 st.markdown("**🎯 이 견종과 함께 살려면**")
                 for m in trait_msgs:
-                    st.markdown(f"- {m['icon']} **{m['title']}**")
+                    st.markdown(f"- `{m['category']}` **{m['title']}**")
                     st.caption(m["text"])
                 st.markdown("---")
             chunks = breed.get("rag_chunks", [])

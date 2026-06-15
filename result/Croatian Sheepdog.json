@@ -45,17 +45,45 @@
                     "breed_group": "Foundation Stock Service",
                     "year_recognized": 0,
                     "life_expectancy": "13-14 years",
-                    "related_breeds": "Pumi, Dutch Shepherd, Romanian Mioritic Shepherd Dog, Mudi, Puli",
+                    "related_breeds": "Puli, Pumi, Dutch Shepherd, Romanian Mioritic Shepherd Dog, Mudi",
                     "links": [],
                     "related_groups_characteristics": "Medium Dog Breeds",
                     "related_breeds_items_url": [
+                        "puli",
                         "pumi",
                         "dutch-shepherd",
                         "romanian-mioritic-shepherd-dog",
-                        "mudi",
-                        "puli"
+                        "mudi"
                     ],
                     "related_breeds_items": {
+                        "puli": {
+                            "breed_name_url": "puli",
+                            "breed_name": "Puli",
+                            "breed_name_oracle": "Puli",
+                            "matches_oracle": "Puli",
+                            "akc_code": "821",
+                            "breed_name_plural": "Pulik",
+                            "breed_nicknames": "Puli",
+                            "origin": "Hungary",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Komondor, Pumi, Croatian Sheepdog, Bergamasco Sheepdog, Polish Lowland Sheepdog",
+                            "links": [],
+                            "popularity_2025": 177,
+                            "popularity_2024": 172,
+                            "popularity_2023": 164,
+                            "popularity_2022": 161,
+                            "popularity_2021": 164,
+                            "popularity_2020": 143,
+                            "popularity_2019": 162,
+                            "popularity_2018": 160,
+                            "popularity_2017": 142,
+                            "popularity_2016": 159,
+                            "popularity_2015": 154,
+                            "related_groups_characteristics": "Best Guard Dogs",
+                            "temperament": "loyal / smart / home-loving"
+                        },
                         "pumi": {
                             "breed_name_url": "pumi",
                             "breed_name": "Pumi",
@@ -135,38 +163,10 @@
                             "popularity_2022": 150,
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "loyal / intelligent / active"
-                        },
-                        "puli": {
-                            "breed_name_url": "puli",
-                            "breed_name": "Puli",
-                            "breed_name_oracle": "Puli",
-                            "matches_oracle": "Puli",
-                            "akc_code": "821",
-                            "breed_name_plural": "Pulik",
-                            "breed_nicknames": "Puli",
-                            "origin": "Hungary",
-                            "breed_group": "Herding Group",
-                            "year_recognized": "1936",
-                            "life_expectancy": "10-15 years",
-                            "related_breeds": "Komondor, Pumi, Croatian Sheepdog, Bergamasco Sheepdog, Polish Lowland Sheepdog",
-                            "links": [],
-                            "popularity_2025": 177,
-                            "popularity_2024": 172,
-                            "popularity_2023": 164,
-                            "popularity_2022": 161,
-                            "popularity_2021": 164,
-                            "popularity_2020": 143,
-                            "popularity_2019": 162,
-                            "popularity_2018": 160,
-                            "popularity_2017": 142,
-                            "popularity_2016": 159,
-                            "popularity_2015": 154,
-                            "related_groups_characteristics": "Best Guard Dogs",
-                            "temperament": "loyal / smart / home-loving"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -467,7 +467,7 @@
                 "croatian-sheepdog": {
                     "colors": [
                         {
-                            "color_index": 2020,
+                            "color_index": 2042,
                             "breed_name_url": "croatian-sheepdog",
                             "breed_name": "Croatian Sheepdog",
                             "akc_code": "868",
@@ -579,7 +579,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781199098",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B48326%5D",
@@ -628,8 +628,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

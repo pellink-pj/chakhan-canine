@@ -1,0 +1,1400 @@
+{
+    "settings": {
+        "current_breed": "belgian-sheepdog",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21162912/Belgian-Sheepdog-Health-Statement-2015.pdf",
+                    "mp_health": "<p>Like all living things, Belgian Sheepdogs can be susceptible to disease and affected by hereditary issues. In this breed, some problems that are seen are cancer, epilepsy, hip and elbow dysplasia, PRA and cataracts. Hypothyroidism and retained testicles issues are seen as well. Each of these health issues are commonly found across all pedigree lines. Most of these health issues are polygenetic and come from more than one gene pair. These traits are more complex than the typical dominant or recessive genetic trait and therefore, much more difficult to identify in breeding stock unless the dog is symptomatically affected. Another point to consider is that the health concerns highlighted here are very rarely unmanageable\u00bfor result in the death of a pet. Many times, the health concerns referenced are much more of an inconvenience to the owners than they are to the dogs\u00bfwhich learn to compensate quickly.</p>",
+                    "akc_org_health": "<p>The Belgian Sheepdog is a robust, healthy breed. Responsible breeders will screen their breeding stock for health conditions such as epilepsy, elbow and hip dysplasia, eye issues such as progressive retinal atrophy and cataracts, and certain cancers. Should the need for surgery arise, note that Belgians are particularly sensitive to anesthesia. As with all breeds, a Belgian's ears should be checked regularly for signs of infection, and the teeth should be brushed regularly.</p>",
+                    "akc_org_nutrition": "<p>The Belgian Sheepdog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Belgian Sheepdog's double-layer coat, consisting of a dense undercoat and a harder outer coat, is quite easy to take care of '\u00bf as long as it's not shedding season. For most of the year, all a Belgian requires is a weekly brushing. Baths can be infrequent unless the dog gets into something messy. At least once a year, though, Belgians shed heavily. When this happens, a thorough brushing every day is required to remove the surprisingly large amount of dead hair. As with all breeds, the Belgian's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Like so many of the Herding breeds, Belgian Sheepdogs require a good amount of exercise every day. And because the Belgian is a sensitive soul who craves human companionship, just letting him out in the backyard for a couple of hours is not enough. Owners should expect to participate in daily exercise sessions with their Belgians. This might mean playing with a ball or going for a long run, or it could also mean training for and participating in obedience, agility, tracking, or herding competitions, or canine sports such as flyball.</p>",
+                    "akc_org_training": "<p>Socialization and puppy-training classes are especially important. They promote good behavior, nip bad habits in the bud, and strengthen the bond between puppy and owner. Fortunately, Belgian Sheepdogs are very intelligent and want nothing more than to make their owners happy, so they take to training quickly.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "breed_name_oracle": "Belgian Sheepdog",
+                    "matches_oracle": "Belgian Sheepdog",
+                    "akc_code": "803",
+                    "breed_name_plural": "Belgian Sheepdogs",
+                    "breed_nicknames": "Belgian, aka Groenendael (Europe)",
+                    "origin": "Belgium",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1912",
+                    "life_expectancy": "12-14 years",
+                    "related_breeds": "Belgian Laekenois, Belgian Tervuren, Bouvier des Flandres, Dutch Shepherd, Belgian Malinois",
+                    "links": [],
+                    "popularity_2025": 120,
+                    "popularity_2024": 131,
+                    "popularity_2023": 124,
+                    "popularity_2022": 125,
+                    "popularity_2021": 129,
+                    "popularity_2020": 117,
+                    "popularity_2019": 128,
+                    "popularity_2018": 125,
+                    "popularity_2017": 120,
+                    "popularity_2016": 129,
+                    "popularity_2015": 120,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "belgian-laekenois",
+                        "belgian-tervuren",
+                        "bouvier-des-flandres",
+                        "dutch-shepherd",
+                        "belgian-malinois"
+                    ],
+                    "related_breeds_items": {
+                        "belgian-laekenois": {
+                            "breed_name_url": "belgian-laekenois",
+                            "breed_name": "Belgian Laekenois",
+                            "breed_name_oracle": "Belgian Laekenois",
+                            "matches_oracle": "Belgian Laekenois",
+                            "akc_code": "843",
+                            "breed_name_plural": "Belgian Laekenois",
+                            "breed_nicknames": "Laekenois",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2020",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Belgian Malinois, Belgian Sheepdog, Schipperke, Dutch Shepherd, Belgian Tervuren",
+                            "links": [],
+                            "popularity_2025": 196,
+                            "popularity_2024": 190,
+                            "popularity_2023": 195,
+                            "popularity_2022": 195,
+                            "popularity_2021": 194,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "alert / intelligent / affectionate"
+                        },
+                        "belgian-tervuren": {
+                            "breed_name_url": "belgian-tervuren",
+                            "breed_name": "Belgian Tervuren",
+                            "breed_name_oracle": "Belgian Tervuren",
+                            "matches_oracle": "Belgian Tervuren",
+                            "akc_code": "804",
+                            "breed_name_plural": "Belgian Tervuren",
+                            "breed_nicknames": "Terv",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Belgian Sheepdog, Beauceron, Dutch Shepherd, Belgian Laekenois, Belgian Malinois",
+                            "links": [],
+                            "popularity_2025": 115,
+                            "popularity_2024": 107,
+                            "popularity_2023": 102,
+                            "popularity_2022": 104,
+                            "popularity_2021": 103,
+                            "popularity_2020": 106,
+                            "popularity_2019": 105,
+                            "popularity_2018": 106,
+                            "popularity_2017": 103,
+                            "popularity_2016": 107,
+                            "popularity_2015": 98,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "alert / intelligent / courageous"
+                        },
+                        "bouvier-des-flandres": {
+                            "breed_name_url": "bouvier-des-flandres",
+                            "breed_name": "Bouvier des Flandres",
+                            "breed_name_oracle": "Bouvier des Flandres",
+                            "matches_oracle": "Bouvier des Flandres",
+                            "akc_code": "806",
+                            "breed_name_plural": "Bouvier des Flandres",
+                            "breed_nicknames": "Bouvier, the Franco-Belgian Dog",
+                            "origin": "Flanders (France, Belgium, Netherlands)",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1931",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Belgian Tervuren, Briard, Black Russian Terrier, Giant Schnauzer, Dutch Shepherd",
+                            "links": [],
+                            "popularity_2025": 100,
+                            "popularity_2024": 101,
+                            "popularity_2023": 99,
+                            "popularity_2022": 98,
+                            "popularity_2021": 101,
+                            "popularity_2020": 94,
+                            "popularity_2019": 93,
+                            "popularity_2018": 84,
+                            "popularity_2017": 85,
+                            "popularity_2016": 83,
+                            "popularity_2015": 83,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "strong-willed / courageous / affectionate"
+                        },
+                        "dutch-shepherd": {
+                            "breed_name_url": "dutch-shepherd",
+                            "breed_name": "Dutch Shepherd",
+                            "breed_name_oracle": "Dutch Shepherd",
+                            "matches_oracle": "Dutch Shepherd",
+                            "akc_code": "863",
+                            "breed_name_plural": "Dutch Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Belgian Malinois, Belgian Tervuren, Belgian Sheepdog, Belgian Laekenois, Croatian Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / lively / athletic"
+                        },
+                        "belgian-malinois": {
+                            "breed_name_url": "belgian-malinois",
+                            "breed_name": "Belgian Malinois",
+                            "breed_name_oracle": "Belgian Malinois",
+                            "matches_oracle": "Belgian Malinois",
+                            "akc_code": "802",
+                            "breed_name_plural": "Belgian Malinois",
+                            "breed_nicknames": "",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Belgian Sheepdog, Belgian Tervuren, Dutch Shepherd, Schipperke, Belgian Laekenois",
+                            "links": [],
+                            "popularity_2025": 32,
+                            "popularity_2024": 33,
+                            "popularity_2023": 33,
+                            "popularity_2022": 32,
+                            "popularity_2021": 36,
+                            "popularity_2020": 37,
+                            "popularity_2019": 41,
+                            "popularity_2018": 43,
+                            "popularity_2017": 44,
+                            "popularity_2016": 47,
+                            "popularity_2015": 51,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "confident / smart / hardworking"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "temperament": "bright / watchful / serious-minded",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "akc_org_blurb": "The Belgian Sheepdog is a highly trainable herder whose versatility and intelligence is the stuff of canine legend. This is a breed built for hard work, and plenty of it. These sensitive souls crave human companionship and abhor neglect.",
+                    "akc_org_about": "The stirring silhouette of a Belgian Sheepdog conveys both elegance and muscular determination. A handsome feature of the breed is the exceedingly proud carriage of the head and neck. A male might stand 26 inches at the shoulder; females are smaller. The dark eyes sparkle with a questioning intelligence, and the black coat is abundant, from the neck's 'collarette'\u009d to the 'breeches'\u009d of the hindquarters. In all ways, Belgian Sheepdogs are bright-eyed and bushy-tailed.\n\n\n\n In any sport or activity, a Belgian will always give 100 percent. In turn, owners tend to form a special bond with their eager workaholics. As one devotee puts it, Belgians 'inspire such intense loyalty because they themselves live and love with such great passion.'\u009d",
+                    "mp_description": "This strong, agile member of the Herding Group is born to work. Belgian Sheepdogs are so smart and trainable that they excel at everything from dog sports like agility to roles as watchdogs, search and rescue dogs, service dogs and military K-9s. Lively and alert, Belgian Sheepdog puppies thrive on physical and mental exercise and human companionship. An owner who appreciates this elegant, active workaholic and gives him plenty to do will inspire undying loyalty and affection."
+                }
+            },
+            "standards": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "title_1": "Hindquarters",
+                    "description_1": "Legs - Length and substance well proportioned to the size of the dog. Bone oval rather than round. Legs are parallel to each other. Thighs broad and heavily muscled. The upper and lower thigh bones approximately parallel the shoulder blade and upper arm respectively, forming a relatively sharp angle at stifle joint. The angle at the hock is relatively sharp, although the Belgian Sheepdog does not have extreme angulation. Metatarsus medium length, strong and slightly sloped. Dewclaws, if any, should be removed. Feet slightly elongated. Toes curved close together, well padded. Nails strong and black, except that they may be white to match white toe tips.",
+                    "title_2": "General Appearance",
+                    "description_2": "The first impression of the Belgian Sheepdog is that of a well balanced, square dog, elegant in appearance, with an exceedingly proud carriage of the head and neck. He is a strong, agile, well-muscled animal, alert and full of life. His whole conformation gives the impression of depth and solidity without bulkiness. The male dog is usually somewhat more impressive and grand than his female counterpart. The bitch should have a distinctly feminine look.",
+                    "title_3": "Head",
+                    "description_3": "Clean-cut and strong, overall size should be in proportion to the body. Expression indicates alertness, attention, readiness for activity. Gaze should be intelligent and questioning. Eyes brown, preferably dark brown. Medium size, slightly almond shaped, not protruding. Ears triangular in shape, stiff, erect, and in proportion to the head in size. Base of the ear should not come below the center of the eye. Ears hanging (as on a hound) shall disqualify. Skull - Top flattened rather than rounded. The width approximately the same, but not wider than the length. Stop moderate. Muzzle moderately pointed, avoiding any tendency to snipiness, and approximately equal in length to that of the topskull. The jaws should be strong and powerful. Nose black without spots or discolored areas. The lips should be tight and black, with no pink showing on the outside. Teeth - A full complement of strong, white teeth, evenly set. Should not be overshot or undershot. Should have either an even bite or a scissors bite.",
+                    "title_4": "Body",
+                    "description_4": "Neck round and rather outstretched, tapered from head to body, well muscled, with tight skin. Topline - The withers are slightly higher and slope into the back, which must be level, straight, and firm from withers to hip joints. Chest not broad, but deep. The lowest point should reach the elbow, forming a smooth ascendant curve to the abdomen. Abdomen - Moderate development. Neither tucked up nor paunchy. The loin section, viewed from above, is relatively short, broad and strong, but blending smoothly into the back. The croup is medium long, sloping gradually. Tail strong at the base, bone to reach hock. At rest the dog holds it low, the tip bent back level with the hock. When in action he raises it and gives it a curl, which is strongest toward the tip, without forming a hook. Cropped or stump tail shall disqualify.",
+                    "title_5": "Forequarters",
+                    "description_5": "Shoulder long and oblique, laid flat against the body, forming a sharp angle (approximately 90 degrees) with the upper arm. Legs straight, strong and parallel to each other. Bone oval rather than round. Development (length and substance) should be well proportioned to the size of the dog. Pastern medium length, strong, and very slightly sloped. Feet round (cat footed), toes curved close together, well padded. Nails strong and black, except that they may be white to match white toe tips.",
+                    "title_6": "Coat",
+                    "description_6": "The guard hairs of the coat must be long, well fitting, straight and abundant. They should not be silky or wiry. The texture should be a medium harshness. The undercoat should be extremely dense, commensurate, however, with climatic conditions. The Belgian Sheepdog is particularly adaptable to extremes of temperature or climate. The hair is shorter on the head, outside of the ears, and lower part of the legs. The opening of the ear is protected by tufts of hair.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "26",
+                    "weight_min": "45",
+                    "weight_max": "75",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BelgianSheepdog.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "26",
+                    "height_min_m": "22",
+                    "height_max_m": "26",
+                    "height_display": "24-26 inches (male), 22-24 inches (female)",
+                    "weight_min_f": "45",
+                    "weight_max_f": "75",
+                    "weight_min_m": "45",
+                    "weight_max_m": "75",
+                    "weight_display": "55-75 pounds (male), 45-60 pounds (female)"
+                }
+            },
+            "markings": {
+                "belgian-sheepdog": {
+                    "markings": [
+                        {
+                            "marking_index": 529,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "cde_markings": "021",
+                            "markings_long": "Spotted",
+                            "markings_short": "SPTD"
+                        },
+                        {
+                            "marking_index": 530,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 531,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "belgian-sheepdog": {
+                    "colors": [
+                        {
+                            "color_index": 1682,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1683,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1684,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 1685,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "083",
+                            "color_long": "Fawn & Black",
+                            "color_short": "FN & BLK"
+                        },
+                        {
+                            "color_index": 1686,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "164",
+                            "color_long": "Sable",
+                            "color_short": "SBL"
+                        },
+                        {
+                            "color_index": 1687,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 1688,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "177",
+                            "color_long": "Silver & Black",
+                            "color_short": "SLVR & BLK"
+                        },
+                        {
+                            "color_index": 1689,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "228",
+                            "color_long": "Wolfgray & Black",
+                            "color_short": "WLFGR & BLK"
+                        },
+                        {
+                            "color_index": 1690,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "010",
+                            "color_long": "Black & Cream",
+                            "color_short": "BLK & CR"
+                        },
+                        {
+                            "color_index": 1691,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "101",
+                            "color_long": "Gray & Black",
+                            "color_short": "GR & BLK"
+                        },
+                        {
+                            "color_index": 1692,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1693,
+                            "breed_name_url": "belgian-sheepdog",
+                            "breed_name": "Belgian Sheepdog",
+                            "akc_code": "803",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "breed_club_name": "Belgian Sheepdog Club of America, Inc.",
+                    "breed_club_url": "www.BSCA.INFO",
+                    "breed_club_pdf_url": "http://cdn.akc.org/BelgianSheepdog-club-flier.pdf",
+                    "breed_rescue_url": "http://www.bscarescue.com/",
+                    "national_breed_club": "Belgian Sheepdog Club of America, Inc.",
+                    "national_breed_club_url": "www.BSCA.INFO",
+                    "breed_referral_contact_name": "Lisa Leffingwell",
+                    "breed_referral_contact_phone_number": "(214) 207-3247",
+                    "breed_referral_contact_email": "liswynbelgians@yahoo.com",
+                    "breed_referral_contact_address": "9406 ALTA MIRA DR\nDALLAS, TX 75218-3503",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.bsca.info/breedersDirectory.html",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.bscarescue.com/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1446,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 32,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 408,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 410,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 407,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 409,
+                            "breed_id": "32",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "belgian-sheepdog": {
+                    "breed_name_url": "belgian-sheepdog",
+                    "breed_name": "Belgian Sheepdog",
+                    "akc_org_history": "Belgium's climate and terrain are highly favorable for livestock and dairy farming, and the small but industrious country has always been self-sufficient in these commodities. Belgium has long been the world's leading exporter of milk chocolate, a key component to the national economy. It should, then, come as no surprise that old-time Belgian farmers were preoccupied with cattle herding.\n \n \n \n This preoccupation included the breeding of herding dogs. In fact, there were once eight types of shepherd dogs unique to Belgium. By the 1890s, when they were officially classified for the first time, there remained the four we know today: The Belgian Sheepdog (aka Groenendael or Chien de Berger Belge), Malinois, Tervuren and Laekenois. They were anatomically identical but varied in coat textures, colors, and length. The name Groenendael was given to the longhaired black variety, today's Belgian Sheepdog, thanks to Nicolas Rose, an important breeder of the 1890s who operated a restaurant near Brussels called the Chateau Groenendael.\n \n \n \n By the turn of the 20th century, the versatility and work drive of Belgian Sheepdogs were becoming known beyond the pastures of Belgium. Paris and New York used Belgian Sheepdogs as police dogs in this era. Customs agent employed them on border patrols, rooting out smugglers. During World War I, they distinguished themselves as messengers, ambulance dogs, and freighters of heavy gunnery. Belgian Sheepdogs reprised their role as war dogs during the second world war.\n \n \n \n The Belgian Sheepdog Club of America was formed in 1949, and since then this noble breed has done it all: show dog, athlete, police officer, soldier, service dog, searcher and rescuer, watchdog, and tireless backyard tennis-ball fetcher.",
+                    "mp_history_job": "Belgium\u00bfs climate and terrain are highly favorable for livestock and dairy farming, and the small but industrious country has always been self-sufficient in these commodities. It should, then, come as no surprise that old-time Belgian farmers were preoccupied with herding. There were once eight types of Belgian shepherd dogs. By the 1890s, when they were officially classified for the first time, there remained the four we know today: The Belgian Sheepdog, Malinois, Tervuren, and Laekenois.",
+                    "did_you_know": "The Belgian Sheepdog has its origin in the late 1800's when it was listed as the Chien de Berger de Races Continentales (Continental Shepherds), a group that includes GSD's, Hollander Herders, Beauceron, Bouviers, and Briards. | In the late 1800's, efforts were made to propagate a \"Belgian\" for nationalistic purposes, resulting in the Club du Chien de Berger Belge (Belgian Shepherd Club), a group that eventually fostered the rise of the Belgian Sheepdog. | The longhaired black Belgian Shepherds primarily owe their existence to Nicolas Rose, who purchased what are considered to be the foundation couple of the Belgian Sheepdog."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23537%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-standing-in-a-field.jpg",
+                    "alt": "Belgian Sheepdog standing in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Herding-Group-David-0E9A2038.jpg",
+                    "alt": "Herding Group Third and Best of Breed: GCHB CH Sumerwynd's Amadeus Of Inchallah, Belgian Sheepdog; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-On-White-01.jpg",
+                    "alt": "Belgian Sheepdog standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-head-portrait-outdoors.jpg",
+                    "alt": "Belgian Sheepdog head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Rolf Klebsattel - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-running-down-a-path.jpg",
+                    "alt": "Belgian Sheepdog running down a path.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-running-in-a-field.jpg",
+                    "alt": "Belgian Sheepdog running in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-running-through-water.jpg",
+                    "alt": "Belgian Sheepdog running through water.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-Illo-2.jpg",
+                "alt": "Belgian Sheepdog illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-with-puppy-laying-down.jpg",
+                "alt": "Belgian Sheepdog with her puppy laying down in a field."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/belgian-sheepdog",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Belgian Sheepdog",
+        "shopCta": false
+    }
+}

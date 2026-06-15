@@ -191,8 +191,8 @@
                             "temperament": "alert / intelligent / courageous"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -493,7 +493,7 @@
                 "belgian-laekenois": {
                     "markings": [
                         {
-                            "marking_index": 596,
+                            "marking_index": 613,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -509,7 +509,7 @@
                 "belgian-laekenois": {
                     "colors": [
                         {
-                            "color_index": 1896,
+                            "color_index": 1918,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -520,7 +520,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1897,
+                            "color_index": 1919,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -531,7 +531,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1898,
+                            "color_index": 1920,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -542,7 +542,7 @@
                             "color_short": "MHGY"
                         },
                         {
-                            "color_index": 1899,
+                            "color_index": 1921,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -553,7 +553,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 1900,
+                            "color_index": 1922,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -564,7 +564,7 @@
                             "color_short": "CR SBL"
                         },
                         {
-                            "color_index": 1901,
+                            "color_index": 1923,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -575,7 +575,7 @@
                             "color_short": "FN SBL"
                         },
                         {
-                            "color_index": 1902,
+                            "color_index": 1924,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -586,7 +586,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1903,
+                            "color_index": 1925,
                             "breed_name_url": "belgian-laekenois",
                             "breed_name": "Belgian Laekenois",
                             "akc_code": "843",
@@ -698,7 +698,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23519%5D",
@@ -747,8 +747,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -149,8 +149,8 @@
                             "temperament": "friendly / inquisitive / lovable"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -450,7 +450,7 @@
                 "boston-terrier": {
                     "colors": [
                         {
-                            "color_index": 479,
+                            "color_index": 480,
                             "breed_name_url": "boston-terrier",
                             "breed_name": "Boston Terrier",
                             "akc_code": "301",
@@ -461,7 +461,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 480,
+                            "color_index": 481,
                             "breed_name_url": "boston-terrier",
                             "breed_name": "Boston Terrier",
                             "akc_code": "301",
@@ -472,7 +472,7 @@
                             "color_short": "BLK BRDL & WH"
                         },
                         {
-                            "color_index": 481,
+                            "color_index": 482,
                             "breed_name_url": "boston-terrier",
                             "breed_name": "Boston Terrier",
                             "akc_code": "301",
@@ -483,7 +483,7 @@
                             "color_short": "BRDL & WH"
                         },
                         {
-                            "color_index": 482,
+                            "color_index": 483,
                             "breed_name_url": "boston-terrier",
                             "breed_name": "Boston Terrier",
                             "akc_code": "301",
@@ -494,7 +494,7 @@
                             "color_short": "SL & WH"
                         },
                         {
-                            "color_index": 483,
+                            "color_index": 484,
                             "breed_name_url": "boston-terrier",
                             "breed_name": "Boston Terrier",
                             "akc_code": "301",
@@ -606,7 +606,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104021",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23729%5D",
@@ -655,8 +655,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

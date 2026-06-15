@@ -1,0 +1,1446 @@
+{
+    "settings": {
+        "current_breed": "lhasa-apso",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Lhasa-Apso.pdf",
+                    "mp_health": "Lhasa Apsos are generally a healthy breed. Like all breeds there may be some health issues, like KCS (Keratoconjunctivitis Sicca or \u00bfdry eye\u00bf), cherry eye, luxating patellas, renal dysplasia, and allergies. Some dogs may be faced with these health challenges in their lives, but the majority of Lhasa Apsos are healthy dogs.",
+                    "akc_org_health": "The Lhasa Apso is generally a robust, healthy dog. The most serious health problem in the breed is hereditary kidney dysfunction, which can be present in mild to severe form. There is no reliable test to detect carriers. Prospective owners should seek out experienced, conscientious breeders who are aware of the condition and remove affected individuals from their breeding programs. Breeders have made great progress toward eliminating this problem, and the risk of acquiring an afflicted puppy from a knowledgeable breeder is slim. Other conditions to inquire about are dry eye, progressive retinal atrophy (PRA), slipping stifles, hip dysplasia, and cherry eye.",
+                    "akc_org_nutrition": "Lhasa Apsos thrive on high-quality food. Since they usually have thick skin to support their heavy hair coat, Lhasas need a diet with good protein and fat levels. Breeders recommend a food with fat level above 14 percent. The protein source (meat, fish, game, etc.) depends on the individual dog's tolerance and taste. Most Lhasas tend to utilize their food very well, and even slight overfeeding can lead to unpleasant digestive outcomes. Food can be fed dry, or slightly moistened with a little flavor enhancement such as cooked meat or a grain-free canned food. Whether to feed once or twice a day is a personal choice for owners, but dogs thrive on consistency, so it is recommended to keep the frequency and time of day constant.",
+                    "akc_org_grooming": "Long hair or puppy cut? Both require regular maintenance, and this is a choice for the owner to make. Lhasas in a puppy cut or other clip still should be brushed regularly and bathed between visits to the groomer. Long hair requires regular brushing, using the right tools and techniques. Expect to bathe a long coat at least every two weeks, and brush at least once between baths. Thorough rinsing is essential, as shampoo residue irritates the skin. Conditioners and finishing sprays make grooming easier. Freshly bathed long or clipped hair should be thoroughly dried and brushed, as damp hair, even when clean, will mat.",
+                    "akc_org_exercise": "The Lhasa is generally not a couch potato and is adept at self-exercise. They will race around an apartment to run off energy, entertain themselves in a fenced yard, or take their owners on a brisk walk. Mental stimulation is as important as physical exercise. They excel at agility, can do scent work, and have been known to retrieve and herd. There are talented Lhasas certified as therapy dogs working in hospitals, nursing homes, colleges, and prisons.",
+                    "akc_org_training": "Lhasa Apsos will please you if it pleases them to please you. They are highly intelligent, sometimes compared to a willful toddler. They can learn just about anything that a trainer makes interesting enough to master'\u00bfon their terms. They do not appreciate repetitive drill and can become uncommonly stubborn if bullied or badgered. Most cases of unacceptable Lhasa behavior involve situations with inconsistent, improper, or nonexistent human leadership. This is a breed for creative, motivated people who enjoy a canine companion of like mind.",
+                    "text_yumove_link": null,
+                    "test_1": "No recommended health tests",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "No recommended health tests"
+                }
+            },
+            "basics": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "breed_name_oracle": "Lhasa Apso",
+                    "matches_oracle": "Lhasa Apso",
+                    "akc_code": "307",
+                    "breed_name_plural": "Lhasa Apsos",
+                    "breed_nicknames": "Lhasa, Lion Dog",
+                    "origin": "Tibet",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1935",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Shih Tzu, Havanese, Russian Tsvetnaya Bolonka, Bolognese, Coton de Tulear",
+                    "links": [],
+                    "popularity_2025": 83,
+                    "popularity_2024": 94,
+                    "popularity_2023": 85,
+                    "popularity_2022": 86,
+                    "popularity_2021": 84,
+                    "popularity_2020": 78,
+                    "popularity_2019": 79,
+                    "popularity_2018": 71,
+                    "popularity_2017": 77,
+                    "popularity_2016": 71,
+                    "popularity_2015": 65,
+                    "related_groups_characteristics": "Smallest Dog Breeds, ",
+                    "related_breeds_items_url": [
+                        "shih-tzu",
+                        "havanese",
+                        "russian-tsvetnaya-bolonka",
+                        "bolognese",
+                        "coton-de-tulear"
+                    ],
+                    "related_breeds_items": {
+                        "shih-tzu": {
+                            "breed_name_url": "shih-tzu",
+                            "breed_name": "Shih Tzu",
+                            "breed_name_oracle": "Shih Tzu",
+                            "matches_oracle": "Shih Tzu",
+                            "akc_code": "513",
+                            "breed_name_plural": "Shih Tzu",
+                            "breed_nicknames": "",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1969",
+                            "life_expectancy": "10-18 years",
+                            "related_breeds": "Tibetan Spaniel, Tibetan Terrier, Russian Tsvetnaya Bolonka, Lhasa Apso, Havanese",
+                            "links": [],
+                            "popularity_2025": 21,
+                            "popularity_2024": 20,
+                            "popularity_2023": 20,
+                            "popularity_2022": 20,
+                            "popularity_2021": 22,
+                            "popularity_2020": 20,
+                            "popularity_2019": 20,
+                            "popularity_2018": 20,
+                            "popularity_2017": 20,
+                            "popularity_2016": 20,
+                            "popularity_2015": 19,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / affectionate / outgoing"
+                        },
+                        "havanese": {
+                            "breed_name_url": "havanese",
+                            "breed_name": "Havanese",
+                            "breed_name_oracle": "Havanese",
+                            "matches_oracle": "Havanese",
+                            "akc_code": "518",
+                            "breed_name_plural": "Havanese",
+                            "breed_nicknames": "Havana Silk Dog",
+                            "origin": "Cuba",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1996",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Lhasa Apso, Bolognese, Coton de Tulear, Russian Tsvetnaya Bolonka, Silky Terrier",
+                            "links": [],
+                            "popularity_2025": 25,
+                            "popularity_2024": 25,
+                            "popularity_2023": 25,
+                            "popularity_2022": 25,
+                            "popularity_2021": 25,
+                            "popularity_2020": 24,
+                            "popularity_2019": 22,
+                            "popularity_2018": 24,
+                            "popularity_2017": 23,
+                            "popularity_2016": 23,
+                            "popularity_2015": 24,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                            "temperament": "intelligent / outgoing / funny"
+                        },
+                        "russian-tsvetnaya-bolonka": {
+                            "breed_name_url": "russian-tsvetnaya-bolonka",
+                            "breed_name": "Russian Tsvetnaya Bolonka",
+                            "breed_name_oracle": "Russian Tsvetnaya Bolonka",
+                            "matches_oracle": "Russian Tsvetnaya Bolonka",
+                            "akc_code": "549",
+                            "breed_name_plural": "Russian Tysvetnaya Bolonki",
+                            "breed_nicknames": "Bolonka",
+                            "origin": "Russia",
+                            "breed_group": "Toy Group",
+                            "year_recognized": 0,
+                            "life_expectancy": "14-20 years",
+                            "related_breeds": "Bolognese, Lhasa Apso, Havanese, Coton de Tulear, Shih Tzu",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / charming / inquisitive"
+                        },
+                        "bolognese": {
+                            "breed_name_url": "bolognese",
+                            "breed_name": "Bolognese",
+                            "breed_name_oracle": "Bolognese",
+                            "matches_oracle": "Bolognese",
+                            "akc_code": "521",
+                            "breed_name_plural": "Bolognese",
+                            "breed_nicknames": "Bolo",
+                            "origin": "Italy",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Maltese, Bichon Frise, Coton de Tulear, Lhasa Apso, Havanese",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds, Hypoallergenic Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / easy-going / devoted"
+                        },
+                        "coton-de-tulear": {
+                            "breed_name_url": "coton-de-tulear",
+                            "breed_name": "Coton de Tulear",
+                            "breed_name_oracle": "Coton de Tulear",
+                            "matches_oracle": "Coton de Tulear",
+                            "akc_code": "318",
+                            "breed_name_plural": "Cotons de Tulear",
+                            "breed_nicknames": "Coton, Royal Dog of Madagascar",
+                            "origin": "Madagascar",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "2014",
+                            "life_expectancy": "15-19 years",
+                            "related_breeds": "Bichon Frise, Bolognese, Havanese, Russian Tsvetnaya Bolonka, Maltese",
+                            "links": [],
+                            "popularity_2025": 79,
+                            "popularity_2024": 92,
+                            "popularity_2023": 90,
+                            "popularity_2022": 84,
+                            "popularity_2021": 83,
+                            "popularity_2020": 80,
+                            "popularity_2019": 82,
+                            "popularity_2018": 81,
+                            "popularity_2017": 81,
+                            "popularity_2016": 80,
+                            "popularity_2015": 85,
+                            "related_groups_characteristics": "Hypoallergenic Dogs",
+                            "temperament": "charming / bright / happy-go-lucky"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "temperament": "confident / smart / comical",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Silky"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "akc_org_blurb": "<p>The lavishly coated Lhasa Apso is a thousand-year-old breed who served as sentinels at palaces and monasteries isolated high in the Himalayas. Smart, confident, and complex, Lhasas are family comedians but regally aloof with strangers.</p>",
+                    "akc_org_about": "<p>Standing less than a foot high at the shoulder, Lhasas are small but hardy dogs of aristocratic bearing. They're famous for a floor-length, flat-hanging coat, parted in the middle and draping each side of the body. A feathery tail curls over the back in the distinct manner of Tibetan breeds. The breed's fans say the dark, oval-shaped eyes peeping through lavish facial hair are the windows of a Lhasa's merry soul. The complete picture is unmistakably Asian: exotic, elegant, and serenely well balanced.</p>",
+                    "mp_description": "<p>The Lhasa Apso, with his long flowing coat, is about much more than looks. Although small, he's a hardy and independent dog who excels at challenges like the dog show and agility training. Your Lhasa Apso puppy comes from an ancient lineage of household protectors, so he'll do best with early socialization. With regular exercise for mind and body, he'll grow up to be a happy and amusing family member, especially with adults or older children.</p>"
+                }
+            },
+            "standards": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "title_1": "Head",
+                    "description_1": "<p>Heavy head furnishings with good fall over eyes, good whiskers and beard; skull narrow, falling away behind the eyes in a marked degree, not quite flat, but not domed or apple-shaped; straight foreface of fair length. Nose black, the length from tip of nose to eye to be roughly about one-third of the total length from nose to back of skull.</p>",
+                    "title_2": "Body",
+                    "description_2": "<p>The length from point of shoulders to point of buttocks longer than height at withers, well ribbed up, strong loin, well-developed quarters and thighs.</p>",
+                    "title_3": "Legs",
+                    "description_3": "<p>Forelegs straight; both forelegs and hind legs heavily furnished with hair.</p>",
+                    "title_4": "Coat",
+                    "description_4": "<p>Heavy, straight, hard, not woolly nor silky, of good length, and very dense.</p>",
+                    "title_5": "",
+                    "description_5": "",
+                    "title_6": "",
+                    "description_6": "",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": null,
+                    "height_max": "11",
+                    "weight_min": "12",
+                    "weight_max": "18",
+                    "size": "<p>Small</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/LhasaApso.pdf",
+                    "height_min_f": "10",
+                    "height_max_f": "11",
+                    "height_min_m": "10",
+                    "height_max_m": "11",
+                    "height_display": "10-11 inches (male), slightly smaller (female)",
+                    "weight_min_f": "12",
+                    "weight_max_f": "18",
+                    "weight_min_m": "12",
+                    "weight_max_m": "18",
+                    "weight_display": "12-18 pounds"
+                }
+            },
+            "markings": {
+                "lhasa-apso": {
+                    "markings": [
+                        {
+                            "marking_index": 155,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "054",
+                            "markings_long": "Black Mask With Tips",
+                            "markings_short": "BLK MSK W/TPS"
+                        },
+                        {
+                            "marking_index": 156,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "053",
+                            "markings_long": "Black Tips",
+                            "markings_short": "BLK TPS"
+                        },
+                        {
+                            "marking_index": 157,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "051",
+                            "markings_long": "Brindle",
+                            "markings_short": "BRDL"
+                        },
+                        {
+                            "marking_index": 158,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        },
+                        {
+                            "marking_index": 159,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 160,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 161,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "cde_markings": "067",
+                            "markings_long": "Sable, White Markings",
+                            "markings_short": "SBL WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "lhasa-apso": {
+                    "colors": [
+                        {
+                            "color_index": 531,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 532,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 533,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 534,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "093",
+                            "color_long": "Golden",
+                            "color_short": "GLDN"
+                        },
+                        {
+                            "color_index": 535,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "109",
+                            "color_long": "Grizzle",
+                            "color_short": "GRZL"
+                        },
+                        {
+                            "color_index": 536,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 537,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "152",
+                            "color_long": "Red Gold",
+                            "color_short": "RD GLD"
+                        },
+                        {
+                            "color_index": 538,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 539,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 540,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "331",
+                            "color_long": "Charcoal",
+                            "color_short": "CHAR"
+                        },
+                        {
+                            "color_index": 541,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 542,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 543,
+                            "breed_name_url": "lhasa-apso",
+                            "breed_name": "Lhasa Apso",
+                            "akc_code": "307",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "breed_club_name": "American Lhasa Apso Club, Inc.",
+                    "breed_club_url": "www.lhasaapso.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/02/08141826/Lhasa-Apso-Club-Flyer-20240205.pdf",
+                    "breed_rescue_url": "http://lhasaapsorescue.org/site/index.php",
+                    "national_breed_club": "American Lhasa Apso Club, Inc.",
+                    "national_breed_club_url": "www.lhasaapso.org",
+                    "breed_referral_contact_name": "Naomi Hanson",
+                    "breed_referral_contact_phone_number": "(360) 510-2093",
+                    "breed_referral_contact_email": "zhantortoo@gmail.com",
+                    "breed_referral_contact_address": "8270 N HAYDEN RD UNIT 1055\nSCOTTSDALE, AZ 85258-2498",
+                    "breed_referral_directory_title": "See Parent Club website - Breeder Referral",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://lhasaapsorescue.org/site/index.php",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1570,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 156,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Established in 1959, the American Lhasa Apso Club is the official AKC Parent Club for the Lhasa Apso."
+                        },
+                        {
+                            "id": 904,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 906,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 903,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 905,
+                            "breed_id": "157",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "lhasa-apso": {
+                    "breed_name_url": "lhasa-apso",
+                    "breed_name": "Lhasa Apso",
+                    "akc_org_history": "<p>This thousand-year-old breed served as sentinel dogs at palaces and Buddhist monasteries isolated high in the Himalayan Mountains. For centuries Lhasas have been associated with the Dalai Lama. In the late 1940s, dogs bred and given as gifts by the Fourteenth Dalai Lama helped establish the breed in America. In Tibetan folklore the country's protector is the mythical Snow Lion, and Lhasas, the 'bearded lion dogs', are the Snow Lion's earthly representatives. Lhasa is the name of Tibet's sacred city; Apso means 'longhaired dog.'\u009d</p>",
+                    "mp_history_job": "<p>This thousand-year-old breed served as sentinel dogs at palaces and Buddhist monasteries isolated high in the Himalayan Mountains. For centuries Lhasas have been associated with the Dalai Lama. In the late 1940s, dogs bred and given as gifts by the Fourteenth Dalai Lama helped establish the breed in America. In Tibetan folklore the country\u00bfs protector is the mythical Snow Lion, and Lhasas, the 'bearded lion dogs', are the Snow Lion\u00bfs earthly representatives. Lhasa is the name of Tibet\u00bfs sacred city; Apso means 'longhaired dog'.</p>",
+                    "did_you_know": "The original name of the Lhasa was Abso Seng Kye, the \"Bark Lion Sentinel Dog.\" | The Lhasa, along with the Tibetan Spaniel and Tibetan Terrier, is one of three natively Tibetan breeds in the Non-Sporting Group, and of the three, it was the first admitted to the AKC (in 1935). The three breeds share the heavy coat of protective hair and an upcurled tail over the back. | Suydam Cutting, a naturalist and world traveler, is singularly responsible for the establishment and reputation of the Lhasa in America. | Lhasas served as guards inside dwellings in Tibet, while Mastiffs served outside. | The Lhasa was originally shown in the Terrier Group and was reassigned in 1959 to the Non-Sporting Group."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24942%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-On-White-01.jpg",
+                    "alt": "Lhasa Apso standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apsos-side-by-side-outdoors-in-the-grass.20200505221604144.jpg",
+                    "alt": "Three Lhasa Apsos side by side outdoors in the grass.",
+                    "caption": "",
+                    "credit": "VKarlov/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-laying-down-in-profile.jpg",
+                    "alt": "Lhasa Apso laying down in profile.",
+                    "caption": "",
+                    "credit": "\u00a9otsphoto - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-standing-in-the-garden.jpg",
+                    "alt": "Lhasa Apso standing in the garden.",
+                    "caption": "",
+                    "credit": "\u00a9Barbara Schwartz"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-standing-in-a-mountainous-landscape.jpg",
+                    "alt": "Lhasa Apso standing in a mountainous landscape.",
+                    "caption": "",
+                    "credit": "\u00a9Ricant Images - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-apso-sitting-on-the-couch.jpg",
+                    "alt": "Lhasa Apso sitting on the couch.",
+                    "caption": "",
+                    "credit": "\u00a9Audrius Merfeldas - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-at-the-AKC-National-Championship.jpg",
+                    "alt": "Lhasa Apso at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-Illo-2.jpg",
+                "alt": "Lhasa Apso illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-puppies-laying-side-by-side.jpg",
+                "alt": "Lhasa Apso puppies laying side by side."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/lhasa-apso",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Lhasa Apso",
+        "shopCta": false
+    }
+}

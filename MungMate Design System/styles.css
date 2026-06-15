@@ -1,0 +1,9 @@
+/* ──────────────────────────────────────────────────────────────
+   MungMate · Global entry point
+   Consumers link THIS file only. It is a manifest of @imports that
+   reaches every token + font-face file in the design system.
+   ────────────────────────────────────────────────────────────── */
+@import url('./tokens/fonts.css');
+@import url('./tokens/colors.css');
+@import url('./tokens/typography.css');
+@import url('./tokens/spacing.css');

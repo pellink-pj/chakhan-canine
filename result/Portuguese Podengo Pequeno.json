@@ -186,8 +186,8 @@
                             "temperament": "curious / friendly / spunky"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -488,7 +488,7 @@
                 "portuguese-podengo-pequeno": {
                     "markings": [
                         {
-                            "marking_index": 325,
+                            "marking_index": 327,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -504,7 +504,7 @@
                 "portuguese-podengo-pequeno": {
                     "colors": [
                         {
-                            "color_index": 1056,
+                            "color_index": 1057,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -515,7 +515,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1057,
+                            "color_index": 1058,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -526,7 +526,7 @@
                             "color_short": "CHSNT"
                         },
                         {
-                            "color_index": 1058,
+                            "color_index": 1059,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -537,7 +537,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1059,
+                            "color_index": 1060,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -548,7 +548,7 @@
                             "color_short": "GLD"
                         },
                         {
-                            "color_index": 1060,
+                            "color_index": 1061,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -559,7 +559,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1061,
+                            "color_index": 1062,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -570,7 +570,7 @@
                             "color_short": "ORG"
                         },
                         {
-                            "color_index": 1062,
+                            "color_index": 1063,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -581,7 +581,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1063,
+                            "color_index": 1064,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -592,7 +592,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 1064,
+                            "color_index": 1065,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -603,7 +603,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 1065,
+                            "color_index": 1066,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -614,7 +614,7 @@
                             "color_short": "WH & GLD"
                         },
                         {
-                            "color_index": 1066,
+                            "color_index": 1067,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -625,7 +625,7 @@
                             "color_short": "WH & GR"
                         },
                         {
-                            "color_index": 1067,
+                            "color_index": 1068,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -636,7 +636,7 @@
                             "color_short": "WH & ORG"
                         },
                         {
-                            "color_index": 1068,
+                            "color_index": 1069,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -647,7 +647,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 1069,
+                            "color_index": 1070,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -658,7 +658,7 @@
                             "color_short": "YLW"
                         },
                         {
-                            "color_index": 1070,
+                            "color_index": 1071,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -669,7 +669,7 @@
                             "color_short": "WH & CHSNT"
                         },
                         {
-                            "color_index": 1071,
+                            "color_index": 1072,
                             "breed_name_url": "portuguese-podengo-pequeno",
                             "breed_name": "Portuguese Podengo Pequeno",
                             "akc_code": "443",
@@ -781,7 +781,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104019",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25367%5D",
@@ -830,8 +830,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

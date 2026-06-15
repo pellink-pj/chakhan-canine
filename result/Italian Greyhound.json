@@ -179,8 +179,8 @@
                             "temperament": "fearless / proud / fun-loving"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -480,7 +480,7 @@
                 "italian-greyhound": {
                     "markings": [
                         {
-                            "marking_index": 357,
+                            "marking_index": 374,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -490,7 +490,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 358,
+                            "marking_index": 375,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -500,7 +500,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 359,
+                            "marking_index": 376,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -510,7 +510,7 @@
                             "markings_short": "BL MSK"
                         },
                         {
-                            "marking_index": 360,
+                            "marking_index": 377,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -520,7 +520,7 @@
                             "markings_short": "WHT MRK BLK MSK"
                         },
                         {
-                            "marking_index": 361,
+                            "marking_index": 378,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -536,7 +536,7 @@
                 "italian-greyhound": {
                     "colors": [
                         {
-                            "color_index": 1167,
+                            "color_index": 1188,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -547,7 +547,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1168,
+                            "color_index": 1189,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -558,7 +558,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1169,
+                            "color_index": 1190,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -569,7 +569,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1170,
+                            "color_index": 1191,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -580,7 +580,7 @@
                             "color_short": "RD FN"
                         },
                         {
-                            "color_index": 1171,
+                            "color_index": 1192,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -591,7 +591,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1172,
+                            "color_index": 1193,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -602,7 +602,7 @@
                             "color_short": "BL FN"
                         },
                         {
-                            "color_index": 1173,
+                            "color_index": 1194,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -613,7 +613,7 @@
                             "color_short": "SBL"
                         },
                         {
-                            "color_index": 1174,
+                            "color_index": 1195,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -624,7 +624,7 @@
                             "color_short": "SL"
                         },
                         {
-                            "color_index": 1175,
+                            "color_index": 1196,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -635,7 +635,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 1176,
+                            "color_index": 1197,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -646,7 +646,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 1177,
+                            "color_index": 1198,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -657,7 +657,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 1178,
+                            "color_index": 1199,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -668,7 +668,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 1179,
+                            "color_index": 1200,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -679,7 +679,7 @@
                             "color_short": "WH & RD FN"
                         },
                         {
-                            "color_index": 1180,
+                            "color_index": 1201,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -690,7 +690,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 1181,
+                            "color_index": 1202,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -701,7 +701,7 @@
                             "color_short": "WH & SL"
                         },
                         {
-                            "color_index": 1182,
+                            "color_index": 1203,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -712,7 +712,7 @@
                             "color_short": "WH & SBL"
                         },
                         {
-                            "color_index": 1183,
+                            "color_index": 1204,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -723,7 +723,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1184,
+                            "color_index": 1205,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -734,7 +734,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1185,
+                            "color_index": 1206,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -745,7 +745,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1186,
+                            "color_index": 1207,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -756,7 +756,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 1187,
+                            "color_index": 1208,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -767,7 +767,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1188,
+                            "color_index": 1209,
                             "breed_name_url": "italian-greyhound",
                             "breed_name": "Italian Greyhound",
                             "akc_code": "505",
@@ -879,7 +879,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775198602",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781236491",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24774%5D",
@@ -928,8 +928,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

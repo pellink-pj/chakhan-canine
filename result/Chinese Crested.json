@@ -196,8 +196,8 @@
                             "temperament": "alert / curious / energetic"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -499,7 +499,7 @@
                 "chinese-crested": {
                     "markings": [
                         {
-                            "marking_index": 393,
+                            "marking_index": 410,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -509,7 +509,7 @@
                             "markings_short": "SPTD"
                         },
                         {
-                            "marking_index": 394,
+                            "marking_index": 411,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -525,7 +525,7 @@
                 "chinese-crested": {
                     "colors": [
                         {
-                            "color_index": 1295,
+                            "color_index": 1316,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -536,7 +536,7 @@
                             "color_short": "APCT"
                         },
                         {
-                            "color_index": 1296,
+                            "color_index": 1317,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -547,7 +547,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1297,
+                            "color_index": 1318,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -558,7 +558,7 @@
                             "color_short": "BLK WH & TN"
                         },
                         {
-                            "color_index": 1298,
+                            "color_index": 1319,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -569,7 +569,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1299,
+                            "color_index": 1320,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -580,7 +580,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1300,
+                            "color_index": 1321,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -591,7 +591,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1301,
+                            "color_index": 1322,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -602,7 +602,7 @@
                             "color_short": "PLMNO"
                         },
                         {
-                            "color_index": 1302,
+                            "color_index": 1323,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -613,7 +613,7 @@
                             "color_short": "PK & CHLT"
                         },
                         {
-                            "color_index": 1303,
+                            "color_index": 1324,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -624,7 +624,7 @@
                             "color_short": "PK & SLTE"
                         },
                         {
-                            "color_index": 1304,
+                            "color_index": 1325,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -635,7 +635,7 @@
                             "color_short": "SLTE"
                         },
                         {
-                            "color_index": 1305,
+                            "color_index": 1326,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -646,7 +646,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1306,
+                            "color_index": 1327,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -657,7 +657,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1307,
+                            "color_index": 1328,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -668,7 +668,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1308,
+                            "color_index": 1329,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -679,7 +679,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 1309,
+                            "color_index": 1330,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -690,7 +690,7 @@
                             "color_short": "PK"
                         },
                         {
-                            "color_index": 1310,
+                            "color_index": 1331,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -701,7 +701,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1311,
+                            "color_index": 1332,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -712,7 +712,7 @@
                             "color_short": "SBL"
                         },
                         {
-                            "color_index": 1312,
+                            "color_index": 1333,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -723,7 +723,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 1313,
+                            "color_index": 1334,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -734,7 +734,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 1314,
+                            "color_index": 1335,
                             "breed_name_url": "chinese-crested",
                             "breed_name": "Chinese Crested",
                             "akc_code": "516",
@@ -846,7 +846,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775369586",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104018",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24016%5D",
@@ -895,8 +895,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

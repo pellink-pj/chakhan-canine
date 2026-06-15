@@ -186,8 +186,8 @@
                             "temperament": "playful / charming / gentle"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -488,7 +488,7 @@
                 "coton-de-tulear": {
                     "markings": [
                         {
-                            "marking_index": 188,
+                            "marking_index": 190,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -498,7 +498,7 @@
                             "markings_short": "GR MKGS"
                         },
                         {
-                            "marking_index": 189,
+                            "marking_index": 191,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -508,7 +508,7 @@
                             "markings_short": "YLW MKGS"
                         },
                         {
-                            "marking_index": 190,
+                            "marking_index": 192,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -518,7 +518,7 @@
                             "markings_short": "TRI MKGS"
                         },
                         {
-                            "marking_index": 191,
+                            "marking_index": 193,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -534,7 +534,7 @@
                 "coton-de-tulear": {
                     "colors": [
                         {
-                            "color_index": 650,
+                            "color_index": 651,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -545,7 +545,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 651,
+                            "color_index": 652,
                             "breed_name_url": "coton-de-tulear",
                             "breed_name": "Coton de Tulear",
                             "akc_code": "318",
@@ -568,10 +568,10 @@
                     "breed_rescue_url": null,
                     "national_breed_club": "United States of America Coton de Tulear Club",
                     "national_breed_club_url": "www.usactc.dog",
-                    "breed_referral_contact_name": "Eileen Narieka",
-                    "breed_referral_contact_phone_number": "(484) 577-9740",
-                    "breed_referral_contact_email": "savmercer@aol.com",
-                    "breed_referral_contact_address": "1103 Snyder Dr\nLeesport, PA 19533-9001",
+                    "breed_referral_contact_name": "Greg Beach",
+                    "breed_referral_contact_phone_number": "(412) 726-0199",
+                    "breed_referral_contact_email": "greg@beachcotons.com",
+                    "breed_referral_contact_address": "148 CRYSTAL CREEK CIR\nOAKDALE, PA 15071-3833",
                     "breed_referral_directory_title": "",
                     "breed_referral_directory_url": "",
                     "breed_referral_regional_club_title": "",
@@ -657,7 +657,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104016",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24132%5D",
@@ -706,8 +706,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

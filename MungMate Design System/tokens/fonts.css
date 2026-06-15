@@ -1,0 +1,56 @@
+/* ──────────────────────────────────────────────────────────────
+   MungMate · Webfonts
+   NanumSquareRound — the rounded Korean sans used across the
+   product. Self-hosted (woff2 + woff) so the design system is
+   fully offline-capable. Carries both Hangul + Latin glyphs.
+   Source: github.com/innks/NanumSquareRound (v1.11, OFL/free).
+   Weights shipped: 300 (Light) · 400 (Regular) · 700 (Bold) ·
+   800 (ExtraBold). The --fw-heavy(900) token falls back to 800,
+   the heaviest cut available.
+   ────────────────────────────────────────────────────────────── */
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('NanumSquareRoundL'),
+       url('./fonts/NanumSquareRoundL.woff2') format('woff2'),
+       url('./fonts/NanumSquareRoundL.woff') format('woff');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('NanumSquareRoundR'),
+       url('./fonts/NanumSquareRoundR.woff2') format('woff2'),
+       url('./fonts/NanumSquareRoundR.woff') format('woff');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('NanumSquareRoundB'),
+       url('./fonts/NanumSquareRoundB.woff2') format('woff2'),
+       url('./fonts/NanumSquareRoundB.woff') format('woff');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('NanumSquareRoundEB'),
+       url('./fonts/NanumSquareRoundEB.woff2') format('woff2'),
+       url('./fonts/NanumSquareRoundEB.woff') format('woff');
+}
+/* 900 hero-stat token reuses the 800 ExtraBold cut (heaviest available). */
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('NanumSquareRoundEB'),
+       url('./fonts/NanumSquareRoundEB.woff2') format('woff2'),
+       url('./fonts/NanumSquareRoundEB.woff') format('woff');
+}

@@ -1,0 +1,99 @@
+/* ──────────────────────────────────────────────────────────────
+   MungMate · Color tokens
+   Warm coral leads, sunset yellow brings the energy, with an
+   electric-blue accent (the "IT signal" / cool axis) and a
+   lavender bridge tying warm to cool. Everything sits on warm
+   cream, with deep-plum text instead of pure black. The semantic
+   "tone" trio (good / hope / caution) drives the trait & insight
+   cards that are core to the product's caring-but-honest voice.
+   ────────────────────────────────────────────────────────────── */
+:root {
+  /* ── Brand core · Coral Pink (Primary — 메인 따뜻함) ── */
+  --coral-700: #D63E50;
+  --coral-600: #F25D6C;   /* PRIMARY — buttons, big stats, links */
+  --coral-500: #F47A86;
+  --coral-300: #F9ABB3;
+  --coral-100: #FCE0E3;
+  --coral-tint: #FFEFF1;  /* caution / coral wash background */
+
+  /* ── Sunset Yellow (Secondary — 에너지) ── */
+  --yellow-600: #D99A14;
+  --yellow-500: #EBA91F;
+  --yellow-400: #F5BE3D;  /* highlight, rank badges, "hope" */
+  --yellow-200: #FBE5A6;
+  --yellow-tint: #FFF8E6; /* hope wash background */
+
+  /* ── Electric Blue (Accent — IT 신호 / 차가운 축) ── */
+  --blue-600: #0B9FD6;
+  --blue-500: #0BB4F0;    /* accent — links to tech/AI, info */
+  --blue-300: #7FD6F5;
+  --blue-100: #CDEEFB;
+  --blue-tint: #E6F7FD;
+
+  /* ── Lavender Mist (Bridge — 코랄↔블루 다리 / 패션·디자인) ── */
+  --lavender-600: #8E5FC9;
+  --lavender-500: #A57BD9; /* bridge accent, soft decorative */
+  --lavender-300: #C9AEEA;
+  --lavender-100: #ECE0F7;
+  --lavender-tint: #F5EFFB;
+
+  /* ── Warm orange (kept for the signature gradient midpoint) ── */
+  --orange-500: #F5933D;
+  --orange-tint: #FFF1E4;
+
+  /* ── Semantic tone trio (trait & insight cards) ── */
+  --good-fg:    #2F9E54;
+  --good-line:  #6BC47D;  /* good · positive trait */
+  --good-tint:  #EFF9F0;
+
+  --hope-fg:    #C7901A;
+  --hope-line:  #F5BE3D;  /* hope · trainable with effort (sunset yellow) */
+  --hope-tint:  #FFF8E6;
+
+  --caution-fg:   #D63E50;
+  --caution-line: #F25D6C; /* caution · needs real preparation (coral) */
+  --caution-tint: #FFEFF1;
+
+  --info-fg:   #0B8FC2;
+  --info-line: #0BB4F0;   /* info · tech / AI training (electric blue) */
+  --info-tint: #E6F7FD;
+
+  /* ── Warm neutrals (plum-tinted, not cold gray) ── */
+  --ink-900: #2D1E33;   /* primary text — Deep Plum (not pure black) */
+  --ink-700: #574860;   /* warm body text (founder voice) */
+  --ink-600: #6E6275;   /* secondary text */
+  --ink-400: #9C92A0;   /* captions, helper, placeholder */
+  --ink-200: #D8CEDB;   /* hairline borders */
+
+  /* Soft mint ground — easier on the eyes, more distinctive than cream */
+  --mint-50:  #F5FBF8;  /* lightest surface */
+  --mint-100: #ECF6F1;  /* SOFT APP BACKGROUND — light mint */
+  --mint-200: #DCEDE5;  /* sunken / striped rows */
+  --line-soft: #D3E6DC;  /* default border on mint */
+  --white: #FFFFFF;
+
+  /* ── Semantic aliases ───────────────────────── */
+  --brand: var(--coral-600);
+  --brand-strong: var(--coral-700);
+  --accent: var(--blue-500);
+  --bridge: var(--lavender-500);
+  --brand-gradient: linear-gradient(135deg, #F25D6C, #F5933D 55%, #F5BE3D); /* @kind color */
+  --brand-gradient-soft: linear-gradient(135deg, #ECF6F1, #FFFFFF); /* @kind color */
+  --spectrum-gradient: linear-gradient(120deg, #F25D6C, #A57BD9 55%, #0BB4F0); /* @kind color */
+
+  --bg-app: var(--mint-100);
+  --bg-elevated: var(--white);
+  --bg-sunken: var(--mint-200);
+
+  --text-strong: var(--ink-900);
+  --text-body: var(--ink-700);
+  --text-muted: var(--ink-600);
+  --text-caption: var(--ink-400);
+  --text-on-brand: #FFFFFF;
+
+  --border-card: var(--line-soft);
+  --border-strong: var(--ink-200);
+  --border-brand: #F25D6C33;
+
+  --rank-gold: #E8A21F;   /* Korea popularity rank badge */
+}

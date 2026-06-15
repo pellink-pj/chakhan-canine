@@ -196,8 +196,8 @@
                             "temperament": "alert / loyal / calm"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -497,7 +497,7 @@
                 "american-hairless-terrier": {
                     "markings": [
                         {
-                            "marking_index": 109,
+                            "marking_index": 111,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -507,7 +507,7 @@
                             "markings_short": "BRDL PTS"
                         },
                         {
-                            "marking_index": 110,
+                            "marking_index": 112,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -517,7 +517,7 @@
                             "markings_short": "BRDL"
                         },
                         {
-                            "marking_index": 111,
+                            "marking_index": 113,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -527,7 +527,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 112,
+                            "marking_index": 114,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -537,7 +537,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 113,
+                            "marking_index": 115,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -547,7 +547,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 114,
+                            "marking_index": 116,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -557,7 +557,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 115,
+                            "marking_index": 117,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -567,7 +567,7 @@
                             "markings_short": "WH MKGS TAN PTS"
                         },
                         {
-                            "marking_index": 116,
+                            "marking_index": 118,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -583,7 +583,7 @@
                 "american-hairless-terrier": {
                     "colors": [
                         {
-                            "color_index": 400,
+                            "color_index": 401,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -594,7 +594,7 @@
                             "color_short": "APCT"
                         },
                         {
-                            "color_index": 401,
+                            "color_index": 402,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -605,7 +605,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 402,
+                            "color_index": 403,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -616,7 +616,7 @@
                             "color_short": "BLK SBL RD"
                         },
                         {
-                            "color_index": 403,
+                            "color_index": 404,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -627,7 +627,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 404,
+                            "color_index": 405,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -638,7 +638,7 @@
                             "color_short": "BL FN"
                         },
                         {
-                            "color_index": 405,
+                            "color_index": 406,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -649,7 +649,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 406,
+                            "color_index": 407,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -660,7 +660,7 @@
                             "color_short": "LMN"
                         },
                         {
-                            "color_index": 407,
+                            "color_index": 408,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -671,7 +671,7 @@
                             "color_short": "LI DLUT"
                         },
                         {
-                            "color_index": 408,
+                            "color_index": 409,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -682,7 +682,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 409,
+                            "color_index": 410,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -693,7 +693,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 410,
+                            "color_index": 411,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -704,7 +704,7 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 411,
+                            "color_index": 412,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -715,7 +715,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 412,
+                            "color_index": 413,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -726,7 +726,7 @@
                             "color_short": "WH BLK SBL RD"
                         },
                         {
-                            "color_index": 413,
+                            "color_index": 414,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -737,7 +737,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 414,
+                            "color_index": 415,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -748,7 +748,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 415,
+                            "color_index": 416,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -759,7 +759,7 @@
                             "color_short": "WH & CHLT"
                         },
                         {
-                            "color_index": 416,
+                            "color_index": 417,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -770,7 +770,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 417,
+                            "color_index": 418,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -781,7 +781,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 418,
+                            "color_index": 419,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -792,7 +792,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 419,
+                            "color_index": 420,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -803,7 +803,7 @@
                             "color_short": "BLK TN & WH"
                         },
                         {
-                            "color_index": 420,
+                            "color_index": 421,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -814,7 +814,7 @@
                             "color_short": "BLK BRDL"
                         },
                         {
-                            "color_index": 421,
+                            "color_index": 422,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -825,7 +825,7 @@
                             "color_short": "BLK BRDL & WH"
                         },
                         {
-                            "color_index": 422,
+                            "color_index": 423,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -836,7 +836,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 423,
+                            "color_index": 424,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -847,7 +847,7 @@
                             "color_short": "BL TN & WH"
                         },
                         {
-                            "color_index": 424,
+                            "color_index": 425,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -858,7 +858,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 425,
+                            "color_index": 426,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -869,7 +869,7 @@
                             "color_short": "BL BRDL & WH"
                         },
                         {
-                            "color_index": 426,
+                            "color_index": 427,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -880,7 +880,7 @@
                             "color_short": "BL FN & WH"
                         },
                         {
-                            "color_index": 427,
+                            "color_index": 428,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -891,7 +891,7 @@
                             "color_short": "CHLT BRDL"
                         },
                         {
-                            "color_index": 428,
+                            "color_index": 429,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -902,7 +902,7 @@
                             "color_short": "CHLT & TN"
                         },
                         {
-                            "color_index": 429,
+                            "color_index": 430,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -913,7 +913,7 @@
                             "color_short": "LMN & WH"
                         },
                         {
-                            "color_index": 430,
+                            "color_index": 431,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -924,7 +924,7 @@
                             "color_short": "RD & TN"
                         },
                         {
-                            "color_index": 431,
+                            "color_index": 432,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -935,7 +935,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 432,
+                            "color_index": 433,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -946,7 +946,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 433,
+                            "color_index": 434,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -957,7 +957,7 @@
                             "color_short": "RD BRDL & WH"
                         },
                         {
-                            "color_index": 434,
+                            "color_index": 435,
                             "breed_name_url": "american-hairless-terrier",
                             "breed_name": "American Hairless Terrier",
                             "akc_code": "231",
@@ -1069,7 +1069,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781245390",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23307%5D",
@@ -1118,8 +1118,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

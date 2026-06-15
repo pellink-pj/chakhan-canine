@@ -18,7 +18,7 @@
                     "akc_org_nutrition": "<p>You are going to want to feed your Grand Basset Griffon Vend\u00e9en a formula that will cater to his unique digestive needs throughout the various phases of his life. Many dog food companies have breed-specific formulas for small, medium, large and extra-large breeds. The Grand is a medium-sized breed. &nbsp;&nbsp;&nbsp;&nbsp;What you feed your dog is an individual choice, but working with your veterinarian and/or breeder will be the best way to determine frequency of meals as a puppy and the best adult diet to increase his longevity. Clean, fresh water should be available at all times.</p>",
                     "akc_org_grooming": "<p>The Grand Basset Griffon Vend\u00e9en requires only a weekly brushing with a slicker brush and comb. Beyond regular weekly grooming, the occasional bath will keep him clean and looking his best. Grooming can be a wonderful bonding experience for you and your pet. Their strong fast-growing nails should be trimmed regularly with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Their ears should be checked regularly to avoid a buildup of wax and debris which can result in an infection. Teeth should be brushed regularly.</p>",
                     "akc_org_exercise": "<p>The Grand's quiet, docile demeanor makes them excellent companions and house dogs. Be prepared to give your new GBGV lots of exercise. They will not thrive as a couch potato. You must have a securely fenced-in area for exercise, since these hunting dogs cannot resist the urge to chase. They are sturdy and do not slow down with age, so plan on keeping their exercise routine going into their teenage years.</p>",
-                    "akc_org_training": "<p>null</p>",
+                    "akc_org_training": "<p></p>",
                     "text_yumove_link": null,
                     "test_1": "Hip Evaluation",
                     "test_2": "Ophthalmologist Evaluation",
@@ -162,11 +162,11 @@
                             "related_breeds": "Basset Hound, Braque Francais Pyrenean, Porcelaine",
                             "links": [],
                             "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
-                            "temperament": "sociable / lively / smart"
+                            "temperament": "Affectionate / Alert / Cheerful"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -467,7 +467,7 @@
                 "grand-basset-griffon-vendeen": {
                     "colors": [
                         {
-                            "color_index": 1045,
+                            "color_index": 1046,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -478,7 +478,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 1046,
+                            "color_index": 1047,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -489,7 +489,7 @@
                             "color_short": "WH & GR"
                         },
                         {
-                            "color_index": 1047,
+                            "color_index": 1048,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -500,7 +500,7 @@
                             "color_short": "WH & GRZL"
                         },
                         {
-                            "color_index": 1048,
+                            "color_index": 1049,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -511,7 +511,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 1049,
+                            "color_index": 1050,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -522,7 +522,7 @@
                             "color_short": "WH & ORG"
                         },
                         {
-                            "color_index": 1050,
+                            "color_index": 1051,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -533,7 +533,7 @@
                             "color_short": "WH & SBL"
                         },
                         {
-                            "color_index": 1051,
+                            "color_index": 1052,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -544,7 +544,7 @@
                             "color_short": "WH BLK & TN"
                         },
                         {
-                            "color_index": 1052,
+                            "color_index": 1053,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -555,7 +555,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1053,
+                            "color_index": 1054,
                             "breed_name_url": "grand-basset-griffon-vendeen",
                             "breed_name": "Grand Basset Griffon Vend\u00e9en",
                             "akc_code": "439",
@@ -667,7 +667,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775351598",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781193070",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24570%5D",
@@ -716,8 +716,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -1,0 +1,1392 @@
+{
+    "settings": {
+        "current_breed": "border-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22103921/Border-Terrier-Health-Statement-February-2018.pdf",
+                    "mp_health": "<p>Border Terriers are generally a healthy and robust breed. Like all breeds there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Border Terriers are healthy dogs.</p>",
+                    "akc_org_health": "<p>The Border Terrier is generally a healthy breed, and and a responsible breeder will screen breeding stock for health conditions such as hip dysplasia, progressive retinal atrophy, juvenile cataracts, seizures, heart problems, and allergies. Some Borders seem less tolerant of hot weather, so outdoor exercise should be kept to a minimum when the temperature gets above 85 degrees F.</p>",
+                    "akc_org_nutrition": "<p>The Border Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Border Terrier has a double coat: a hard, wiry outer coat over a soft, fluffy undercoat. Like most double-coated breeds, the Border sheds seasonally. Most of the time, a quick brushing every week or two is enough to keep the coat in good shape. During shedding season, owners can expect to spend a half-hour or so every day stripping out the dead hair, either with their hands or with a rake or stripping tool. The outer coat repels dirt, but bathing compromises this ability. Usually a dirty Border Terrier can be cleaned up with a towel and a brush. As with all breeds, the BT's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>Borders are active dogs and need plenty of exercise daily. A brisk half-hour walk or play session with his owner and a ball or flying disc should be enough to keep a Border healthy and happy. Because of their instinct to chase small animals, a Border Terrier must always be walked on a leash, and play sessions must take place inside a fenced-in yard or other secure area. Terriers are diggers, so ideally any backyard fencing will extend underground for at least 18 inches. BTs enjoy participating in tracking, lure coursing, agility, and earthdog, as well as canine sports such as flyball.</p>",
+                    "akc_org_training": "<p>Early socialization and puppy training classes are a must for Border Terriers. The breed's parent club notes: 'A Border was bred to think for himself, which can be both his most endearing and most frustrating quality. Told to stay, he will oblige for what he considers enough time, then slip off about his own business. Confronted, he will act sorry, since he really likes to please. Punish him harshly, and you will break his spirit. If you want a dog that is unfailingly obedient, don't get a Border Terrier.'\u009d Remember that Borders cannot resist a chase and should only be off leash in securely fenced areas.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Spongiform Leukoencephalomyelopathy (SLEM) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Spongiform Leukoencephalomyelopathy (SLEM) - DNA Test"
+                }
+            },
+            "basics": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "breed_name_oracle": "Border Terrier",
+                    "matches_oracle": "Border Terrier",
+                    "akc_code": "205",
+                    "breed_name_plural": "Border Terriers",
+                    "breed_nicknames": "Border",
+                    "origin": "England/Scotland",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1930",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Norwich Terrier, Russell Terrier, Norfolk Terrier, Jagdterrier, Cairn Terrier",
+                    "links": [],
+                    "popularity_2025": 91,
+                    "popularity_2024": 98,
+                    "popularity_2023": 94,
+                    "popularity_2022": 95,
+                    "popularity_2021": 91,
+                    "popularity_2020": 97,
+                    "popularity_2019": 85,
+                    "popularity_2018": 88,
+                    "popularity_2017": 92,
+                    "popularity_2016": 86,
+                    "popularity_2015": 82,
+                    "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, ",
+                    "related_breeds_items_url": [
+                        "norwich-terrier",
+                        "russell-terrier",
+                        "norfolk-terrier",
+                        "jagdterrier",
+                        "cairn-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "norwich-terrier": {
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "breed_name_oracle": "Norwich Terrier",
+                            "matches_oracle": "Norwich Terrier",
+                            "akc_code": "215",
+                            "breed_name_plural": "Norwich Terriers",
+                            "breed_nicknames": "Norwich",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Border Terrier, Norfolk Terrier, Australian Terrier, West Highland White Terrier, Cairn Terrier",
+                            "links": [],
+                            "popularity_2025": 109,
+                            "popularity_2024": 104,
+                            "popularity_2023": 105,
+                            "popularity_2022": 109,
+                            "popularity_2021": 111,
+                            "popularity_2020": 109,
+                            "popularity_2019": 104,
+                            "popularity_2018": 108,
+                            "popularity_2017": 105,
+                            "popularity_2016": 103,
+                            "popularity_2015": 103,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / curious / loyal / affectionate / gregarious"
+                        },
+                        "russell-terrier": {
+                            "breed_name_url": "russell-terrier",
+                            "breed_name": "Russell Terrier",
+                            "breed_name_oracle": "Russell Terrier",
+                            "matches_oracle": "Russell Terrier",
+                            "akc_code": "248",
+                            "breed_name_plural": "Russell Terriers",
+                            "breed_nicknames": "Russell",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "2012",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Parson Russell Terrier, Smooth Fox Terrier, Jagdterrier, Rat Terrier, Wire Fox Terrier",
+                            "links": [],
+                            "popularity_2025": 60,
+                            "popularity_2024": 66,
+                            "popularity_2023": 66,
+                            "popularity_2022": 73,
+                            "popularity_2021": 72,
+                            "popularity_2020": 72,
+                            "popularity_2019": 76,
+                            "popularity_2018": 82,
+                            "popularity_2017": 78,
+                            "popularity_2016": 90,
+                            "popularity_2015": 104,
+                            "related_groups_characteristics": "Smallest Dog Breeds, ",
+                            "temperament": "alert / inquisitive / lively"
+                        },
+                        "norfolk-terrier": {
+                            "breed_name_url": "norfolk-terrier",
+                            "breed_name": "Norfolk Terrier",
+                            "breed_name_oracle": "Norfolk Terrier",
+                            "matches_oracle": "Norfolk Terrier",
+                            "akc_code": "216",
+                            "breed_name_plural": "Norfolk Terriers",
+                            "breed_nicknames": "Norfolk",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1979",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Norwich Terrier, Glen of Imaal Terrier, West Highland White Terrier, Cairn Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 126,
+                            "popularity_2024": 130,
+                            "popularity_2023": 134,
+                            "popularity_2022": 138,
+                            "popularity_2021": 130,
+                            "popularity_2020": 130,
+                            "popularity_2019": 133,
+                            "popularity_2018": 126,
+                            "popularity_2017": 128,
+                            "popularity_2016": 134,
+                            "popularity_2015": 131,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / fearless / fun-loving"
+                        },
+                        "jagdterrier": {
+                            "breed_name_url": "jagdterrier",
+                            "breed_name": "Jagdterrier",
+                            "breed_name_oracle": "Jagdterrier",
+                            "matches_oracle": "Jagdterrier",
+                            "akc_code": "249",
+                            "breed_name_plural": "Jagdterriers",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Border Terrier, Smooth Fox Terrier, Dachshund, Australian Terrier, Wire Fox Terrier",
+                            "links": [],
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "intelligent / courageous / hardworking"
+                        },
+                        "cairn-terrier": {
+                            "breed_name_url": "cairn-terrier",
+                            "breed_name": "Cairn Terrier",
+                            "breed_name_oracle": "Cairn Terrier",
+                            "matches_oracle": "Cairn Terrier",
+                            "akc_code": "207",
+                            "breed_name_plural": "Cairn Terriers",
+                            "breed_nicknames": "Cairn",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1913",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Skye Terrier, West Highland White Terrier, Norwich Terrier, Border Terrier, Scottish Terrier",
+                            "links": [],
+                            "popularity_2025": 68,
+                            "popularity_2024": 71,
+                            "popularity_2023": 68,
+                            "popularity_2022": 70,
+                            "popularity_2021": 74,
+                            "popularity_2020": 73,
+                            "popularity_2019": 73,
+                            "popularity_2018": 69,
+                            "popularity_2017": 69,
+                            "popularity_2016": 70,
+                            "popularity_2015": 70,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers, ",
+                            "temperament": "alert / cheerful / busy"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "temperament": "affectionate / happy / plucky",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "akc_org_blurb": "Admirers of the upbeat and agile Border Terrier cherish their breed's reputation as a tough, no-frills working terrier. These plucky, happy, and affectionate dogs are popular pets in town and country. The wiry coat is an easy keeper.",
+                    "akc_org_about": "Border Terriers, standing from 11 to 16 inches at the shoulder, are easy to recognize among other small terriers by their unique head shape'\u00bfthe breed has an 'otter head,'\u009d as fanciers say. Another distinguishing trait is that they are longer in leg than other small terriers. The wire coat can be grizzle and tan, blue and tan, wheaten, or red.\n\n\n\n Borders are described as 'hard as nails'\u009d when working, but at home they're good-tempered, affectionate, and trainable. Borders love exploring outdoors and make fine childhood playmates. Bred to be country dogs, Borders adapt well to city life'\u00bfas long as they get plenty of exercise. Borders tend to get along with other dogs, but their hunting instincts can be aroused when cats or squirrels cross their path.",
+                    "mp_description": "Your Border Terrier puppy is born to work, with a natural instinct to chase down vermin. These small dogs aren't just great hunters, they're happy and affectionate family dogs, too. They are quick learners and do well at obedience training and dog sports like agility. Give your Border Terrier lots of exercise and stimulation and you'll be rewarded with an active, playful companion."
+                }
+            },
+            "standards": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "title_1": "Forequarters",
+                    "description_1": "Shoulders well laid back and of good length, the blades converging to the withers gradually from a brisket not excessively deep or narrow. Forelegs straight and not too heavy in bone and placed slightly wider than in a Fox Terrier. Feet small and compact. Toes should point forward and be moderately arched with thick pads.",
+                    "title_2": "Hindquarters",
+                    "description_2": "Muscular and racy, with thighs long and nicely molded. Stifles well bent and hocks well let down. Feet as in front.",
+                    "title_3": "Coat",
+                    "description_3": "A short and dense undercoat covered with a very wiry and somewhat broken topcoat which should lie closely, but it must not show any tendency to curl or wave. With such a coat a Border should be able to be exhibited almost in his natural state, nothing more in the way of trimming being needed than a tidying up of the head, neck and feet. Hide very thick and loose fitting.",
+                    "title_4": "General Appearance",
+                    "description_4": "He is an active terrier of medium bone, strongly put together, suggesting endurance and agility, but rather narrow in shoulder, body and quarter. The body is covered with a somewhat broken though close-fitting and intensely wiry jacket. The characteristic \"otter\" head with its keen eye, combined with a body poise which is \"at the alert,\" gives a look of fearless and implacable determination characteristic of the breed. Since the Border Terrier is a working terrier of a size to go to ground and able, within reason, to follow a horse, his conformation should be such that he be ideally built to do his job. No deviations from this ideal conformation should be permitted, which would impair his usefulness in running his quarry to earth and in bolting it therefrom. For this work he must be alert, active and agile, and capable of squeezing through narrow apertures and rapidly traversing any kind of terrain. His head, \"like that of an otter,\" is distinctive, and his temperament ideally exemplifies that of a terrier.",
+                    "title_5": "Head",
+                    "description_5": "Similar to that of an otter. Eyes dark hazel and full of fire and intelligence. Moderate in size, neither prominent nor small and beady. Ears small, V-shaped and of moderate thickness, dark preferred. Not set high on the head but somewhat on the side, and dropping forward close to the cheeks. They should not break above the level of the skull. Moderately broad and flat in skull with plenty of width between the eyes and between the ears. A slight, moderately broad curve at the stop rather than a pronounced indentation. Cheeks slightly full. Muzzle short and \"well filled.\" A dark muzzle is characteristic and desirable. A few short whiskers are natural to the breed. Nose black, and of a good size. Teeth strong, with a scissors bite, large in proportion to size of dog.",
+                    "title_6": "Neck Topline Body",
+                    "description_6": "Neck clean, muscular and only long enough to give a well-balanced appearance. It should gradually widen into the shoulder. Back strong but laterally supple, with no suspicion of a dip behind the shoulder. Loin strong. Body deep, fairly narrow and of sufficient length to avoid any suggestions of lack of range and agility. The body should be capable of being spanned by a man's hands behind the shoulders. Brisket not excessively deep or narrow. Deep ribs carried well back and not oversprung in view of the desired depth and narrowness of the body. The underline fairly straight.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "12",
+                    "height_max": "15",
+                    "weight_min": "11.5",
+                    "weight_max": "15.5",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BorderTerrier.pdf",
+                    "height_min_f": "12",
+                    "height_max_f": "15",
+                    "height_min_m": "12",
+                    "height_max_m": "15",
+                    "height_display": "12-15 inches",
+                    "weight_min_f": "11.5",
+                    "weight_max_f": "15.5",
+                    "weight_min_m": "11.5",
+                    "weight_max_m": "15.5",
+                    "weight_display": "13-15.5 pounds (male), 11.5-14 pounds (female)"
+                }
+            },
+            "markings": {
+                "border-terrier": {
+                    "markings": [
+                        {
+                            "marking_index": 87,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "cde_markings": "019",
+                            "markings_long": "Black Points",
+                            "markings_short": "BLK PTS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "border-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 241,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "044",
+                            "color_long": "Blue & Tan",
+                            "color_short": "BL & TN"
+                        },
+                        {
+                            "color_index": 242,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "110",
+                            "color_long": "Grizzle & Tan",
+                            "color_short": "GRZL & TN"
+                        },
+                        {
+                            "color_index": 243,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 244,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "224",
+                            "color_long": "Wheaten",
+                            "color_short": "WHTN"
+                        },
+                        {
+                            "color_index": 245,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "109",
+                            "color_long": "Grizzle",
+                            "color_short": "GRZL"
+                        },
+                        {
+                            "color_index": 246,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "154",
+                            "color_long": "Red Grizzle",
+                            "color_short": "RD GRZL"
+                        },
+                        {
+                            "color_index": 247,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "248",
+                            "color_long": "Black Grizzle",
+                            "color_short": "BLK GRZL"
+                        },
+                        {
+                            "color_index": 248,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "249",
+                            "color_long": "Blue Grizzle",
+                            "color_short": "BL GRZL"
+                        },
+                        {
+                            "color_index": 249,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "156",
+                            "color_long": "Red Wheaten",
+                            "color_short": "RD WHTN"
+                        },
+                        {
+                            "color_index": 250,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "259",
+                            "color_long": "Red Grizzle & Tan",
+                            "color_short": "RD GRZL & TN"
+                        },
+                        {
+                            "color_index": 251,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 252,
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "akc_code": "205",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "014",
+                            "color_long": "Black & Red",
+                            "color_short": "BLK & RD"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "breed_club_name": "Border Terrier Club of America, Inc.",
+                    "breed_club_url": "www.btcoa.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/12/06104836/BorderTerrier20190626.pdf",
+                    "breed_rescue_url": "http://www.btcoa.org/rescue/rescue.html",
+                    "national_breed_club": "Border Terrier Club of America, Inc.",
+                    "national_breed_club_url": "www.btcoa.org",
+                    "breed_referral_contact_name": "Barbara Dalane",
+                    "breed_referral_contact_phone_number": "(973) 600-0333",
+                    "breed_referral_contact_email": "btca.akc.delegate.dalane@gmail.com",
+                    "breed_referral_contact_address": "66 Lake Wallkill Rd\nSussex, NJ 07461",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.btcoa.org/",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.btcoa.org/rescue/rescue.html",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1460,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 46,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 464,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 466,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 463,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 465,
+                            "breed_id": "46",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "border-terrier": {
+                    "breed_name_url": "border-terrier",
+                    "breed_name": "Border Terrier",
+                    "akc_org_history": "<p>In the hilly countryside near the Scottish-English border, old-time farmers and shepherds developed quick, agile terriers to help pursue and dispatch a clever, sheep-stealing predator: the large, powerful hill fox. This required game terriers with legs long enough to run with foxhounds and huntsmen on horseback. But they also had to be small enough to dig into the fox's lair and force it into the open.</p>\n<p><br></p>\n<p>These dogs, the ancestors of today's Border Terrier, were energetic, strong, and tireless, with a wiry, weatherproof coat to protect them from the rain, mist, and notoriously tough terrain of the borderland. Here, a breed historian describes the Border's working ability: 'There is no wall he cannot get over or wire entanglement he cannot scramble through. Should the fox run to earth, he will bolt him every time, or stay the night in the earth until the matter is settled.' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Early breed names included the Reedwater Terrier, Ullswater Terrier, and Coquetdale Terrier, all derived from place names in the north of England where these rugged little dogs plied their trade. It was, however, in Northumberland, England's northernmost county, where the breed earned its enduring reputation as a foxhunter adept at working in tandem with hounds. (And to this day, the Border is known as a terrier who gets on well with his fellow canines.) &nbsp;&nbsp;&nbsp;Foxhunting with Border Terriers in the north country was distinctly different from the pageantry of traditional British foxhunts staged on lavish country estates, where well-heeled horsemen in red coats and high hats rode with huge packs of foxhounds just for the sport of it.</p>\n<p><br></p>\n<p>&nbsp;Borderland foxhunts were working-class affairs with a practical purpose: to protect shepherds' flocks from predators. And to this day, the Border Terrier remains a popular option for just plain folks in the United Kingdom looking for a spirited, low-maintenance companion.</p>\n<p><br></p>\n<p>The Kennel Club (England) recognized the Border Terrier in 1920, and the AKC followed suit 10 years later.</p>",
+                    "mp_history_job": "<p>In the countryside near the Scottish-English border, farmers and shepherds developed quick, agile terriers to help pursue the clever, sheep-stealing fox. This required terriers with legs long enough to keep up with foxhounds and huntsmen on horseback. But they also had to be small enough to dig into the fox's lair and force him into the open. A wiry coat protected these fearless terriers from the wet weather and rough terrain of the borderland.</p>",
+                    "did_you_know": "As a working terrier, the early Border Terrier's value was based on its ability to go after and bolt fox and be a source of vermin control for the farmers of the region. | The formation of the Border Terrier Club was 1920 with the English Kennel Club. | The Border Terrier has a weather resistant coat with a hard, wiry outercoat and soft undercoat that repels most dirt. | Borders on the farm in the 18th century were expected to find their own food, so they had to be good hunters to survive. | The first registration of the Border Terrier in the United States was 1930. | By nature, the Border Terrier is good tempered, affectionate obedient and easily trained."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23699%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-On-White-03.jpg",
+                    "alt": "Border Terrier sitting facing forward.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2017-BBE-Oleg-QG5A2160.jpg",
+                    "alt": "BBE Terrier Group First, Best of Breed, and Best Bred By in Breed/Variety: GCHB CH Meadowlake . . . Until Now, Border Terrier; Best Bred By Exhibitor in Show judging at the 2017 AKC National Championship presented by Royal Canin, Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-stacked.jpg",
+                    "alt": "Border Terrier standing stacked outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Vincent - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Border-Terriers.jpg",
+                    "alt": "Two Border Terriers sitting side by side outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Vincent - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-running.jpg",
+                    "alt": "Border Terrier running in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9CallallooAlexis - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Three-Border-Terriers.jpg",
+                    "alt": "A Border Terrier laying next to two puppies.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Two-Border-Terrier-running.jpg",
+                    "alt": "Two Border Terriers running in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9CallallooAlexis - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-leaping-over-an-agility-jump.jpg",
+                    "alt": "Border Terrier leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "\u00a9Juha Saastamoinen - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-Illo-2.jpg",
+                "alt": "Border Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-puppy.jpg",
+                "alt": "Border Terrier puppy laying down."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/border-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Border Terrier",
+        "shopCta": false
+    }
+}

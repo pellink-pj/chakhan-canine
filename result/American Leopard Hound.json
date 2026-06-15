@@ -164,8 +164,8 @@
                             "temperament": "intelligent / reserved with strangers / strong-willed"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -464,7 +464,7 @@
                 "american-leopard-hound": {
                     "markings": [
                         {
-                            "marking_index": 326,
+                            "marking_index": 328,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -474,7 +474,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 327,
+                            "marking_index": 329,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -484,7 +484,7 @@
                             "markings_short": "BRDL MKGS"
                         },
                         {
-                            "marking_index": 328,
+                            "marking_index": 330,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -494,7 +494,7 @@
                             "markings_short": "MRL MKGS"
                         },
                         {
-                            "marking_index": 329,
+                            "marking_index": 331,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -510,7 +510,7 @@
                 "american-leopard-hound": {
                     "colors": [
                         {
-                            "color_index": 1073,
+                            "color_index": 1074,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -521,7 +521,7 @@
                             "color_short": "YLW"
                         },
                         {
-                            "color_index": 1074,
+                            "color_index": 1075,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -532,7 +532,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1075,
+                            "color_index": 1076,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -543,7 +543,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1076,
+                            "color_index": 1077,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -554,7 +554,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1077,
+                            "color_index": 1078,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -565,7 +565,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1078,
+                            "color_index": 1079,
                             "breed_name_url": "american-leopard-hound",
                             "breed_name": "American Leopard Hound",
                             "akc_code": "445",
@@ -677,7 +677,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23322%5D",
@@ -726,8 +726,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

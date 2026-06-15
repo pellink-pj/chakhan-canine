@@ -1,0 +1,1294 @@
+{
+    "settings": {
+        "current_breed": "beauceron",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21160151/Beauceron-ABC-Health-Information-for-AKC-website-08112015.pdf",
+                    "mp_health": "<p>Beaucerons are generally a healthy and hardy breed. Like all larger dog breeds they can be prone hip dysplasia. Some dogs may be faced with these health challenges in their lives, but the majority of Beaucerons are healthy dogs.</p>",
+                    "akc_org_health": "<p>Any large or deep-chested dog may be susceptible to bloat, a sudden and life-threatening stomach condition. Beauceron owners should educate themselves on what symptoms to look for and what to do should it occur. Responsible breeders will screen their breeding stock health conditions such as hip dysplasia, heart disease, eye problems, and allergies. As with all breeds, a Beauceron's ears should be checked regularly, and the teeth should be brushed often.</p>",
+                    "akc_org_nutrition": "<p>The Beauceron should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). A working Beauceron can have high nutritional demands, so remember to assess your dog's condition regularly to be sure his diet is meeting his needs. Conversely, some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Beauceron has a short, dense double coat; the soft undercoat is covered by a rough, waterproof outer coat. It doesn't require a lot of grooming, but it does shed. A lot. And even more so twice a year during shedding season. Weekly brushing, daily during shedding season, with a medium-bristle brush, a rubber grooming mitt or tool, or a hound glove will remove the dead hair before it can fall onto the furniture, and it promotes new hair growth as well. As with all breeds, the Beauceron's nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running. Don't forget to trim the double dewclaws on the rear legs.</p>",
+                    "akc_org_exercise": "<p>The Beauceron is a powerful, athletic, and intelligent breed that needs lots of physical and mental challenges. This is not a breed for novice owners. They need a variety of outdoor locations and types of exercise each day and are best suited to an experienced, active owner who can provide the mental and physical activity they need. Although the Beauceron was not bred to gather sheep as other shepherd breeds were, he can be trained to perform in herding events, as well as Schutzhund (protection work) and agility trials and activities such as carting, mushing, and skijoring (pulling a person who is on skis).</p>",
+                    "akc_org_training": "<p>Socialization and &nbsp;obedience training are a must for this breed. Beaucerons are highly intelligent, loyal, and strongly devoted to their owners, which makes training them fairly easy. They do not respond well to harsh training methods, particularly physical correction. Firm, fair, consistent training and handling are usually quite successful. They are known for exuberant behaviors such as jumping on people and grabbing people and things with their mouths; these behaviors will often be the focus of early training sessions.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Cardiac Exam",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Cardiac Exam | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "breed_name_oracle": "Beauceron",
+                    "matches_oracle": "Beauceron",
+                    "akc_code": "846",
+                    "breed_name_plural": "Beaucerons",
+                    "breed_nicknames": "Bas-Rouge (Red Stockings)",
+                    "origin": "France",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "2007",
+                    "life_expectancy": "10-12 years",
+                    "related_breeds": "Briard, Belgian Malinois, Dutch Shepherd, Berger Picard, Border Collie",
+                    "links": [],
+                    "popularity_2025": 102,
+                    "popularity_2024": 100,
+                    "popularity_2023": 109,
+                    "popularity_2022": 111,
+                    "popularity_2021": 121,
+                    "popularity_2020": 121,
+                    "popularity_2019": 123,
+                    "popularity_2018": 124,
+                    "popularity_2017": 141,
+                    "popularity_2016": 140,
+                    "popularity_2015": 142,
+                    "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds, Best Guard Dogs",
+                    "related_breeds_items_url": [
+                        "briard",
+                        "belgian-malinois",
+                        "dutch-shepherd",
+                        "berger-picard",
+                        "border-collie"
+                    ],
+                    "related_breeds_items": {
+                        "briard": {
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "breed_name_oracle": "Briard",
+                            "matches_oracle": "Briard",
+                            "akc_code": "808",
+                            "breed_name_plural": "Briards",
+                            "breed_nicknames": "Berger de Brie (France)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1928",
+                            "life_expectancy": "12 years",
+                            "related_breeds": "Schapendoes, Beauceron, Polish Lowland Sheepdog, Berger Picard, Pyrenean Shepherd",
+                            "links": [],
+                            "popularity_2025": 172,
+                            "popularity_2024": 145,
+                            "popularity_2023": 150,
+                            "popularity_2022": 151,
+                            "popularity_2021": 150,
+                            "popularity_2020": 150,
+                            "popularity_2019": 137,
+                            "popularity_2018": 132,
+                            "popularity_2017": 127,
+                            "popularity_2016": 132,
+                            "popularity_2015": 130,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "confident / smart / faithful"
+                        },
+                        "belgian-malinois": {
+                            "breed_name_url": "belgian-malinois",
+                            "breed_name": "Belgian Malinois",
+                            "breed_name_oracle": "Belgian Malinois",
+                            "matches_oracle": "Belgian Malinois",
+                            "akc_code": "802",
+                            "breed_name_plural": "Belgian Malinois",
+                            "breed_nicknames": "",
+                            "origin": "Belgium",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1959",
+                            "life_expectancy": "14-16 years",
+                            "related_breeds": "Belgian Sheepdog, Belgian Tervuren, Dutch Shepherd, Schipperke, Belgian Laekenois",
+                            "links": [],
+                            "popularity_2025": 32,
+                            "popularity_2024": 33,
+                            "popularity_2023": 33,
+                            "popularity_2022": 32,
+                            "popularity_2021": 36,
+                            "popularity_2020": 37,
+                            "popularity_2019": 41,
+                            "popularity_2018": 43,
+                            "popularity_2017": 44,
+                            "popularity_2016": 47,
+                            "popularity_2015": 51,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "confident / smart / hardworking"
+                        },
+                        "dutch-shepherd": {
+                            "breed_name_url": "dutch-shepherd",
+                            "breed_name": "Dutch Shepherd",
+                            "breed_name_oracle": "Dutch Shepherd",
+                            "matches_oracle": "Dutch Shepherd",
+                            "akc_code": "863",
+                            "breed_name_plural": "Dutch Shepherds",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Belgian Malinois, Belgian Tervuren, Belgian Sheepdog, Belgian Laekenois, Croatian Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / lively / athletic"
+                        },
+                        "berger-picard": {
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "breed_name_oracle": "Berger Picard",
+                            "matches_oracle": "Berger Picard",
+                            "akc_code": "856",
+                            "breed_name_plural": "Berger Picards",
+                            "breed_nicknames": "Picardy, Picard",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2015",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Pyrenean Shepherd, Briard, Portuguese Podengo, Dutch Shepherd, Belgian Laekenois",
+                            "links": [],
+                            "popularity_2025": 166,
+                            "popularity_2024": 166,
+                            "popularity_2023": 157,
+                            "popularity_2022": 153,
+                            "popularity_2021": 163,
+                            "popularity_2020": 151,
+                            "popularity_2019": 148,
+                            "popularity_2018": 144,
+                            "popularity_2017": 146,
+                            "popularity_2016": 141,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / good-natured / observant"
+                        },
+                        "border-collie": {
+                            "breed_name_url": "border-collie",
+                            "breed_name": "Border Collie",
+                            "breed_name_oracle": "Border Collie",
+                            "matches_oracle": "Border Collie",
+                            "akc_code": "835",
+                            "breed_name_plural": "Border Collies",
+                            "breed_nicknames": "BC",
+                            "origin": "England/Scotland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "1995",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Australian Shepherd, Collie, Pyrenean Shepherd, Miniature American Shepherd, Icelandic Sheepdog",
+                            "links": [],
+                            "popularity_2025": 26,
+                            "popularity_2024": 30,
+                            "popularity_2023": 31,
+                            "popularity_2022": 30,
+                            "popularity_2021": 31,
+                            "popularity_2020": 32,
+                            "popularity_2019": 33,
+                            "popularity_2018": 35,
+                            "popularity_2017": 38,
+                            "popularity_2016": 38,
+                            "popularity_2015": 38,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs",
+                            "temperament": "energetic / affectionate / smart"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "temperament": "faithful / gentle / obedient",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "akc_org_blurb": "<p>The Beauceron is imposing and powerful, but also remarkably smart, spirited, and a versatile herder. Imagine a Border Collie's brain in a 100-pound body. They are especially beloved by women as a dashing but sensitive companion and protector.</p>",
+                    "akc_org_about": "<p>Beaucerons are muscular, rugged, and large, standing as high as 27.5 inches at the shoulder, and yet graceful and in all ways balanced. Their dark black coats feature handsome squirrel-red accents, including the red feet that give the breed its French nickname Bas-Rouge ('red stockings'). They're also seen in a black-gray-tan coat. The long head is well chiseled, and the dark brown eyes project expression breed fanciers describe as frank and confident. They're not for novice owners, who might end up being owned by their dominant dog instead of the other way around. That said, well-trained and socialized Beaucerons are levelheaded watchdogs and guardians, especially good with the young, the small, and the defenseless.</p>\n<p><br></p>\n<p>Pronunciation - Bo-sir-ron</p>",
+                    "mp_description": "<p>Not well known outside of France, the Beauceron is a versatile, athletic herder. In France, they're a common sight on working farms. The breed is larger than some other herding breeds, weighing as much as 100 pounds, but it shares a similar work ethic, the need for a task and an independent mind. Your Beauceron puppy will grow up to be a faithful, loving family member, but he'll be a lot of dog, so training and socialization are important. Give him lots of outdoor exercise and mental stimulation to channel all that energy and intelligence.</p>"
+                }
+            },
+            "standards": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "title_1": "General Appearance",
+                    "description_1": "The ideal Beauceron is a well balanced, solid dog of good height and well muscled without heaviness or coarseness. The whole conformation gives the impression of depth and solidity without bulkiness, exhibiting the strength, endurance and agility required of the herding dog. He is alert and energetic with a noble carriage. A formidable dog with a frank and unwavering expression, he always demands respect wherever he goes. Male dogs are characteristically larger throughout with a larger frame and heavier bone than bitches. Bitches are distinctly feminine, but without weakness in substance or structure. The Beauceron should be discerning and confident. He is a dog with spirit and initiative, wise and fearless with no trace of timidity. Intelligent, easily trained, faithful, gentle and obedient.",
+                    "title_2": "Head",
+                    "description_2": "The head is long, well chiseled with harmonious lines without weakness. The head must be in proportion with the body, measured from the tip of the nose to the occiput it is about 40 percent of the height at the withers. The height and width of the head are each slightly less than half its total length. The skull and muzzle are of equal length. Expression - The gaze is frank, alert, and confident. Eyes - The eyes are horizontal and slightly oval in shape. The eyes must be dark brown, never lighter than dark hazel. For the Harlequin, walleye is acceptable.",
+                    "title_3": "Body",
+                    "description_3": "Neck- The neck is muscular, of good length, united harmoniously with the shoulders, enabling the head to be carried proudly while standing in an alert posture. Topline - The back is straight and strong. The withers are well defined. The loin is broad, short and muscular. The croup is well muscled and slightly sloped in the direction of the attachment of the tail. Body - The length of the body from the point of the shoulder to the point of the buttock is slightly more than the height of the dog at the withers. Chest - The chest is wide, deep, long, and descends to the point of the elbow. The girth of the chest is greater than the height at the withers by more than 20 percent. Ribs - The ribcage extends well back with long, flexible, and moderately curved ribs. The abdomen is moderately drawn up but still presents good volume.",
+                    "title_4": "Forequarters",
+                    "description_4": "The construction of the forequarters is of the utmost importance, determining the dog's ability to work and his resistance to fatigue. The legs are vertical when viewed from the front or in profile. Shoulder - The shoulders are moderately long, muscular but not loaded, with good layback. Forearm - The forearms are muscular. Feet - The feet are large, round, and compact with black nails. The pads are firm yet supple.",
+                    "title_5": "Coat",
+                    "description_5": "Outer coat is 1_ to 1_ inches, coarse, dense and lying close to the body. It is short and smooth on the head, ears and lower legs. The hair is somewhat longer around the neck. The tail and back of thighs are lightly fringed. The undercoat is short, fine, dense and downy, mouse gray in color and does not show through the outer coat. The Beauceron is exhibited in the natural condition with no trimming. Disqualification - Shaggy coat.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The angulation of the hindquarters is balanced with the forequarters. The hindquarters are powerful, providing flexible, almost tireless movement. They are vertical when viewed from profile and from behind. Legs - The thighs are wide and muscled. Hock joint is substantial, not too close to the ground, the point situated roughly at _ the height at the withers, forming a well open angle with the second thigh. Metatarsals are upright, slightly further back than the point of the buttock. When viewed from behind, metatarsals are perpendicular to the ground and parallel to each other. Feet - The feet are large, round, compact, and the rear toes turn out very slightly. Dewclaws - Double dewclaws form well separated \"thumbs\" with nails, placed rather close to the foot. Disqualification - Anything less than double dewclaws on each rear leg.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "24",
+                    "height_max": "27.5",
+                    "weight_min": "70",
+                    "weight_max": "110",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Beauceron.pdf",
+                    "height_min_f": "24",
+                    "height_max_f": "27.5",
+                    "height_min_m": "24",
+                    "height_max_m": "27.5",
+                    "height_display": "25.5-27.5 inches (male), 24-26.5 inches (female)",
+                    "weight_min_f": "70",
+                    "weight_max_f": "110",
+                    "weight_min_m": "70",
+                    "weight_max_m": "110",
+                    "weight_display": "70-110 pounds"
+                }
+            },
+            "colors": {
+                "beauceron": {
+                    "colors": [
+                        {
+                            "color_index": 1910,
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "akc_code": "846",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 1911,
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "akc_code": "846",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "399",
+                            "color_long": "Gray Black & Tan",
+                            "color_short": "GR BLK TN"
+                        },
+                        {
+                            "color_index": 1912,
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "akc_code": "846",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "015",
+                            "color_long": "Black & Rust",
+                            "color_short": "BLK & RST"
+                        },
+                        {
+                            "color_index": 1913,
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "akc_code": "846",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "112",
+                            "color_long": "Harlequin",
+                            "color_short": "HLQN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "breed_club_name": "American Beauceron Club",
+                    "breed_club_url": "www.beauce.org",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": "http://beauce.org/rescue/",
+                    "national_breed_club": "American Beauceron Club",
+                    "national_breed_club_url": "www.beauce.org",
+                    "breed_referral_contact_name": "Ashleigh Mendard",
+                    "breed_referral_contact_phone_number": "(337) 660-6157",
+                    "breed_referral_contact_email": "vp@beauce.org",
+                    "breed_referral_contact_address": "119 BISHOP ST\nDEQUINCY, LA 70633-3003",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://beauce.org/rescue/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1442,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 28,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 392,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 394,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 391,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 393,
+                            "breed_id": "28",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "beauceron": {
+                    "breed_name_url": "beauceron",
+                    "breed_name": "Beauceron",
+                    "akc_org_history": "<p>The Beauceron, also known as the Berger de Beauce or the Bas Rouge, is a French shepherd dog whose name is derived from the vast agricultural region southwest of Paris. Since its development in the late Middle Ages, the Beauceron has played many roles: soldier, bodyguard, rescuer, competitor, companion, prankster, and peerless mover of livestock. Along the way, the breed has won hearts on both sides of the Atlantic, as much for its endearing personality as for its multifaceted working ability.</p>\n<p><br></p>\n<p>Beauceron and Briard are names of two groups of French shepherd dogs identified in the 19th century. A dog show held at the 1863 Universal Exposition in Paris featured dogs recognizable as Beaucerons: upright ears, black with rust markings, and a wolflike build. Unlike the modern type, they had a narrower muzzle and a rougher coat.&nbsp;</p>\n<p><br></p>\n<p>Leading authorities convened in 1896 to classify the French shepherd dogs. The name Beauceron was given to the shorter-coated dogs; the longer-haired one was called the Briard. In 1922, the French breed club, the Club des Amis Du Beauceron, was founded.</p>\n<p><br></p>\n<p>The Beauceron is a dog of great power but of great sensitivity too. It's an upright breed who works wide of the herd or flock, unlike such herders as the Australian Shepherd, who works up close to his charges. The Beauceron approach to herding is quiet and calm; they can work into sheep without spooking them. This versatile and whip-smart breed also has a history of military and police K-9 work. They were especially useful in the trench warfare of World War I. The British War Museum houses a photo of a Beauceron leaping over a trench' a French dog used by Germans to penetrate the British line.&nbsp;</p>\n<p><br></p>\n<p>Along the way, the Beauceron was discovered by the dog-loving French public, among them Sidonie-Gabrielle Colette (1873' - 1954), known to generations of adoring readers the world over as simply Colette. She wrote that her Beauceron was 'one of those rare companions who remain silent at the right time, respect our work and our sleep, howl for our own tears, and close their eyes with a bitter discretion in the face of anything' the kiss of a lover, the tender hug of a child'\u00bfthat deprives them of our fickle human friendship.'</p>",
+                    "mp_history_job": "<p>The Beauceron is a shepherd dog whose name is derived from Beauce, a vast agricultural region southwest of Paris. Since their development in the late Middle Ages, Beaucerons have played many roles: soldier, bodyguard, rescuer, athlete, companion, prankster, and premier mover of livestock, with a calm, stealthy working style. The breed has won hearts on both sides of the Atlantic, as much for its endearing personality as for its multifaceted working ability. Beaucerons served the French cause with distinction during both world wars.</p>",
+                    "did_you_know": "The Beauceron is AKC's 157th breed. | The Beauceron has been assigned the Herding Group designation. | The Beauceron has been recorded in the Foundation Stock Service since 1998. | The Beauceron is a distinct French breed of herding dog. | The Beauceron is relatively unknown outside of France, but the breed is very old within the country and has experienced no foreign crosses. | The oldest manuscript ostensibly dating the Beauceron is circa 1578."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23489%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-On-White-03.jpg",
+                    "alt": "Beauceron sitting in three-quarter view facing left.",
+                    "caption": "",
+                    "credit": " Angie Kerins \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Herding-Group-David-0E9A2377.jpg",
+                    "alt": "Best of Breed: GCH CH Harbin L'Amour De Ma Vie AXP AJP CA DS CGC, Beauceron; 2016 AKC National Championship presented by Royal Canin Herding Group judging, Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-head-portrait-outdoors.jpg",
+                    "alt": "Beauceron head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9vika33 - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beaucerons-running-outdoors.jpg",
+                    "alt": "Three Beaucerons running down a dirt road.",
+                    "caption": "",
+                    "credit": "\u00a9anna pozzi - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beaucerons-together-outdoors.jpg",
+                    "alt": "Three Beaucerons laying together on a rocky river bank after swimming.",
+                    "caption": "",
+                    "credit": "\u00a9anna pozzi - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-leaping-over-agility-jump.jpg",
+                    "alt": "Beauceron leaping over an agility jump outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9beatrix kido - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-running-in-the-grass.jpg",
+                    "alt": "Beauceron running in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9CALLALLOO CANDCY - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-head-in-profile-outdoors.jpg",
+                    "alt": "Beauceron head in profile outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9zanna_ - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-laying-in-profile.jpg",
+                    "alt": "Beauceron laying down in profile.",
+                    "caption": "",
+                    "credit": "\u00a9DoraZett - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-Illo-2.jpg",
+                "alt": "Beauceron illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-puppies.jpg",
+                "alt": "Four Beauceron puppies laying in a pile."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/beauceron",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Beauceron",
+        "shopCta": false
+    }
+}

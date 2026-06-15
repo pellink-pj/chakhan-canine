@@ -1,0 +1,1331 @@
+{
+    "settings": {
+        "current_breed": "briard",
+        "current_breed_group": {
+            "name": "Herding Group",
+            "url": "https://www.akc.org/dog-breeds/herding/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22112329/Briard-Health-Statement-March-2015.pdf",
+                    "mp_health": "<p>Briards are generally a healthy breed. They may however, be affected by bloat, a digestive disorder of the stomach.</p>",
+                    "akc_org_health": "<p>The Briard is overall a healthy breed, and responsible breeders screen their stock for health conditions such as cancer, hip dysplasia, congenital stationary night blindness, cataracts, corneal dystrophy, retinal folds, hypothyroidism, immune diseases, exocrine pancreatic insufficiency, and kidney disease. Discuss any questions or concerns with your breeder and veterinarian so you can make educated decisions regarding your dog's health.</p>",
+                    "akc_org_nutrition": "<p>The Briard should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Begin grooming your Briard puppy long before he really needs grooming. Make sure that you make grooming time a happy period he will look forward to in the years when grooming is a necessity and can take a long time. A Briard should be brushed several times a week, completely to the skin, using a good-quality pin brush. Using an undercoat rake can help eliminate a lot of dead hair and lessen shedding. The number of baths a Briard will need depends entirely on his lifestyle and the jobs he is doing. Frequency may range from weekly to monthly, to even less.</p>",
+                    "akc_org_exercise": "<p>The Briard requires a job to be happy. Hopefully his job will be one that gives him a lot of exercise, as this is a breed that craves action. Their zest for life makes them great companions for hikers, bicyclers, and joggers. They need a large, securely fenced area where they can run free. Chasing a tennis ball thrown by his owner can help a Briard work off excess energy as well as giving him the human companionship he loves.</p>",
+                    "akc_org_training": "<p>The Briard was bred to be able to make executive decisions without the aid of a human. Sometimes this can make them a bit difficult to train. They are eager to please, however, and when training methods are positive and the sessions kept lively, energetic, and interesting, the Briard's natural intelligence will have him at the top of the class. Briards learn quickly and have an excellent memory. They excel at almost any canine role or sport, from catching discs to search-and-rescue, to obedience and agility. Socialization should begin early and continue throughout the Briard's life.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Congenital Stationary Night Blindness (CSNB, LCA) - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Congenital Stationary Night Blindness (CSNB, LCA) - DNA Test"
+                }
+            },
+            "basics": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "breed_name_oracle": "Briard",
+                    "matches_oracle": "Briard",
+                    "akc_code": "808",
+                    "breed_name_plural": "Briards",
+                    "breed_nicknames": "Berger de Brie (France)",
+                    "origin": "France",
+                    "breed_group": "Herding Group",
+                    "year_recognized": "1928",
+                    "life_expectancy": "12 years",
+                    "related_breeds": "Schapendoes, Beauceron, Polish Lowland Sheepdog, Berger Picard, Pyrenean Shepherd",
+                    "links": [],
+                    "popularity_2025": 172,
+                    "popularity_2024": 145,
+                    "popularity_2023": 150,
+                    "popularity_2022": 151,
+                    "popularity_2021": 150,
+                    "popularity_2020": 150,
+                    "popularity_2019": 137,
+                    "popularity_2018": 132,
+                    "popularity_2017": 127,
+                    "popularity_2016": 132,
+                    "popularity_2015": 130,
+                    "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds, Best Guard Dogs, ",
+                    "related_breeds_items_url": [
+                        "schapendoes",
+                        "beauceron",
+                        "polish-lowland-sheepdog",
+                        "berger-picard",
+                        "pyrenean-shepherd"
+                    ],
+                    "related_breeds_items": {
+                        "schapendoes": {
+                            "breed_name_url": "schapendoes",
+                            "breed_name": "Schapendoes",
+                            "breed_name_oracle": "Schapendoes",
+                            "matches_oracle": "Schapendoes",
+                            "akc_code": "855",
+                            "breed_name_plural": "Schapendoes",
+                            "breed_nicknames": "",
+                            "origin": "The Netherlands",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie, Portuguese Sheepdog",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / watchful / lively"
+                        },
+                        "beauceron": {
+                            "breed_name_url": "beauceron",
+                            "breed_name": "Beauceron",
+                            "breed_name_oracle": "Beauceron",
+                            "matches_oracle": "Beauceron",
+                            "akc_code": "846",
+                            "breed_name_plural": "Beaucerons",
+                            "breed_nicknames": "Bas-Rouge (Red Stockings)",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2007",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Briard, Belgian Malinois, Dutch Shepherd, Berger Picard, Border Collie",
+                            "links": [],
+                            "popularity_2025": 102,
+                            "popularity_2024": 100,
+                            "popularity_2023": 109,
+                            "popularity_2022": 111,
+                            "popularity_2021": 121,
+                            "popularity_2020": 121,
+                            "popularity_2019": 123,
+                            "popularity_2018": 124,
+                            "popularity_2017": 141,
+                            "popularity_2016": 140,
+                            "popularity_2015": 142,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds, Best Guard Dogs",
+                            "temperament": "faithful / gentle / obedient"
+                        },
+                        "polish-lowland-sheepdog": {
+                            "breed_name_url": "polish-lowland-sheepdog",
+                            "breed_name": "Polish Lowland Sheepdog",
+                            "breed_name_oracle": "Polish Lowland Sheepdog",
+                            "matches_oracle": "Polish Lowland Sheepdog",
+                            "akc_code": "836",
+                            "breed_name_plural": "Polish Lowland Sheepdog",
+                            "breed_nicknames": "PON",
+                            "origin": "Poland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2001",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Bearded Collie, Schapendoes, Portuguese Sheepdog, Romanian Mioritic Shepherd Dog, Old English Sheepdog",
+                            "links": [],
+                            "popularity_2025": 192,
+                            "popularity_2024": 181,
+                            "popularity_2023": 193,
+                            "popularity_2022": 181,
+                            "popularity_2021": 180,
+                            "popularity_2020": 175,
+                            "popularity_2019": 175,
+                            "popularity_2018": 170,
+                            "popularity_2017": 176,
+                            "popularity_2016": 169,
+                            "popularity_2015": 164,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "confident / lively / clever"
+                        },
+                        "berger-picard": {
+                            "breed_name_url": "berger-picard",
+                            "breed_name": "Berger Picard",
+                            "breed_name_oracle": "Berger Picard",
+                            "matches_oracle": "Berger Picard",
+                            "akc_code": "856",
+                            "breed_name_plural": "Berger Picards",
+                            "breed_nicknames": "Picardy, Picard",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2015",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Pyrenean Shepherd, Briard, Portuguese Podengo, Dutch Shepherd, Belgian Laekenois",
+                            "links": [],
+                            "popularity_2025": 166,
+                            "popularity_2024": 166,
+                            "popularity_2023": 157,
+                            "popularity_2022": 153,
+                            "popularity_2021": 163,
+                            "popularity_2020": 151,
+                            "popularity_2019": 148,
+                            "popularity_2018": 144,
+                            "popularity_2017": 146,
+                            "popularity_2016": 141,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "loyal / good-natured / observant"
+                        },
+                        "pyrenean-shepherd": {
+                            "breed_name_url": "pyrenean-shepherd",
+                            "breed_name": "Pyrenean Shepherd",
+                            "breed_name_oracle": "Pyrenean Shepherd",
+                            "matches_oracle": "Pyrenean Shepherd",
+                            "akc_code": "853",
+                            "breed_name_plural": "Pyrenean Shepherds",
+                            "breed_nicknames": "Pyr Shep",
+                            "origin": "France",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2009",
+                            "life_expectancy": "17-19 years",
+                            "related_breeds": "Berger Picard, Dutch Shepherd, Croatian Sheepdog, Romanian Mioritic Shepherd Dog, Mudi",
+                            "links": [],
+                            "popularity_2025": 191,
+                            "popularity_2024": 188,
+                            "popularity_2023": 187,
+                            "popularity_2022": 190,
+                            "popularity_2021": 192,
+                            "popularity_2020": 182,
+                            "popularity_2019": 184,
+                            "popularity_2018": 181,
+                            "popularity_2017": 180,
+                            "popularity_2016": 176,
+                            "popularity_2015": 176,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "active / affectionate / enthusiastic"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "temperament": "confident / smart / faithful",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wavy",
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "akc_org_blurb": "The Briard packs so much loyalty, love, and spirit into its ample frame that it's often described as a \"heart wrapped in fur.\" The dashing good looks of these muscular Frenchmen radiate a distinct aura of Gallic romance and elegance.",
+                    "akc_org_about": "Briards are herders known for a wavy coat of either gray, tawny, or black, and an impressive head topped by a peek-a-boo hairdo parted naturally in the middle. A luxurious beard and eyebrows accentuate an expression described as 'frank and questioning.'\u009d Standing between 22 and 27 inches at the shoulder, Briards are burly and rugged but move with a nimble-footed gait.\n\n\n\n They possess traits common to many other herders: trainability, brains, a protective eye toward family (especially kids, whom they regard as their flock), and wariness with outsiders. These are large, tireless dogs'\u00bfit is said that just two or three Briards can handle 700 head of sheep'\u00bfand novice owners might be overwhelmed by their work drive and zest for life.",
+                    "mp_description": "The French herder, the Briard, is a dog with boundless zest, loyalty, work drive and love. Originally bred to defend the flock against prey, today their tasks tend more to herding and keeping sheep in the pasture. Like many herders, your Briard puppy is a bit of an independent thinker, so patient training is necessary. He will be deeply loyal and attached to his family and is protective of children, who he may see as members of his flock. He's a lot of dog, but with socialization and training, he is an excellent family pet."
+                }
+            },
+            "standards": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "title_1": "General Appearance",
+                    "description_1": "A dog of handsome form. Vigorous and alert, powerful without coarseness, strong in bone and muscle, exhibiting the strength and agility required of the herding dog. Dogs lacking these qualities, however concealed by the coat, are to be penalized.",
+                    "title_2": "Head",
+                    "description_2": "The head of a Briard always gives the impression of length, having sufficient width without being cumbersome. The correct length of a good head, measured from the occiput to the tip of the nose, is about forty percent (40%) of the height of the dog at the withers. There is no objection to a slightly longer head, especially if the animal tends to a longer body line. Viewed from above, from the front or in profile, the fully-coated silhouette gives the impression of two rectangular forms, equal in length but differing in height and width, blending together rather abruptly. The larger rectangle is the skull and the other forms the muzzle. The head joins the neck in a right angle and is held proudly alert. The head is sculptured in clean lines, without jowls or excess flesh on the sides, or under the eyes or temples.",
+                    "title_3": "Body",
+                    "description_3": "Neck - strong and well constructed. The neck is in the shape of a truncated cone, clearing the shoulders well. It is strongly muscled and has good length. Topline - the Briard is constructed with a very slight incline, downward from the prominent withers to the back which is straight, to the broad loin and the croup which is slightly inclined. The croup is well muscled and slightly sloped to give a well-rounded finish. The topline is strong, never swayed nor roached. Body - the chest is broad and deep with moderately curved ribs, egg-shaped in form, the ribs not too rounded. The breastbone is moderately advanced in front, descending smoothly to the level of the elbows and shaped to give good depth to the chest. The abdomen is moderately drawn up but still presents good volume.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulder blades are long and sloping forming a 45-degree angle with the horizontal, firmly attached by strong muscles and blending smoothly with the withers. Legs the legs are powerfully muscled with strong bone. The forelegs are vertical when viewed from the side except the pasterns are very slightly inclined. Viewed from the front or rear, the legs are straight and parallel to the median line of the body, never turned inward or outward. The distance between the front legs is equal to the distance between the rear legs. The construction of the legs is of utmost importance, determining the dog's ability to work and his resistance to fatigue. Dewclaws - dewclaws on the forelegs may or may not be removed. Feet - strong and rounded, being slightly oval in shape. The feet travel straight forward in the line of movement. The toes are strong, well arched and compact. The pads are well developed, compact and elastic, covered with strong tissue. The nails are always black and hard.",
+                    "title_5": "Coat",
+                    "description_5": "The outer coat is coarse, hard and dry (making a dry rasping sound between the fingers). It lies down flat, falling naturally in long, slightly waving locks, having the sheen of good health. On the shoulders the length of the hair is generally six inches or more. The undercoat is fine and tight on all the body. The head is well covered with hair which lies down, forming a natural part in the center. The eyebrows do not lie flat but, instead, arch up and out in a curve that lightly veils the eyes. The hair is never so abundant that it masks the form of the head or completely covers the eyes.",
+                    "title_6": "Expressions Ears And Eyes",
+                    "description_6": "Expression - the gaze is frank, questioning and confident. Eyes - the eyes set well apart with the inner corners and outer corners on the same level. Large, well opened and calm, they must never be narrow or slanted. The color must be black or black-brown with very dark pigmentation of the rim of the eyelids, whatever the color of the coat. Disqualification - yellow eyes or spotted eyes. Ears - the ears should be attached high, have thick leather and be firm at the base. Low-set ears cause the head to appear to be too arched. The length of the natural ear should be equal to or slightly less than one-half the length of the head, always straight and covered with long hair. The natural ear must not lie flat against the head and, when alert, the ears are lifted slightly, giving a square look to the top of the skull. The ears when cropped should be carried upright and parallel, emphasizing the parallel lines of the head; when alert, they should face forward, well open with long hair falling over the opening. The cropped ear should be long, broad at the base, tapering gradually to a rounded tip.",
+                    "title_7": "Hindquarters",
+                    "description_7": "The hindquarters are powerful, providing flexible, almost tireless movement. The pelvis slopes at a 30-degree angle from the horizontal and forms a right angle with the upper leg bone. Legs viewed from the side, the legs are well angulated with the metatarsus slightly inclined, the hock making an angle of 135 degrees. Dewclaws two dewclaws are required on each rear leg, placed low on the leg, giving a wide base to the foot. Occasionally the nail may break off completely. The dog shall not be penalized for the missing nail so long as the digit itself is present. Ideally the dewclaws form additional functioning toes. Disqualification - anything less than two dewclaws on each rear leg. Feet - if the rear toes turn out very slightly when the hocks and metatarsus are parallel, then the position of the feet is correct.",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "22",
+                    "height_max": "27",
+                    "weight_min": "55",
+                    "weight_max": "100",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Briard.pdf",
+                    "height_min_f": "22",
+                    "height_max_f": "27",
+                    "height_min_m": "22",
+                    "height_max_m": "27",
+                    "height_display": "23-27 inches (male), 22-25.5 inches (female)",
+                    "weight_min_f": "55",
+                    "weight_max_f": "100",
+                    "weight_min_m": "55",
+                    "weight_max_m": "100",
+                    "weight_display": "55-100 pounds"
+                }
+            },
+            "markings": {
+                "briard": {
+                    "markings": [
+                        {
+                            "marking_index": 539,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "briard": {
+                    "colors": [
+                        {
+                            "color_index": 1719,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1720,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "198",
+                            "color_long": "Tawny",
+                            "color_short": "TWNY"
+                        },
+                        {
+                            "color_index": 1721,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1722,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "012",
+                            "color_long": "Black & Gray",
+                            "color_short": "BLK & GR"
+                        },
+                        {
+                            "color_index": 1723,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "313",
+                            "color_long": "Black & Tawny",
+                            "color_short": "BLK & TWNY"
+                        },
+                        {
+                            "color_index": 1724,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1725,
+                            "breed_name_url": "briard",
+                            "breed_name": "Briard",
+                            "akc_code": "808",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "312",
+                            "color_long": "Tawny & Gray",
+                            "color_short": "TWNY & GR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "breed_club_name": "Briard Club of America, Inc.",
+                    "breed_club_url": "www.briardclubofamerica.org/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/10/12114001/Briard-Club-Fllyer.pdf",
+                    "breed_rescue_url": "http://www.briardrescuetrust.org/",
+                    "national_breed_club": "Briard Club of America, Inc.",
+                    "national_breed_club_url": "www.briardclubofamerica.org/",
+                    "breed_referral_contact_name": "Jami Groce",
+                    "breed_referral_contact_phone_number": "(517) 676-8546",
+                    "breed_referral_contact_email": "larkwd@yahoo.com",
+                    "breed_referral_contact_address": "585 HARPER RD\nMASON, MI 48854-9447",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://briardclubofamerica.org/bca/index.php?option=com_content&view=article&id=3&Itemid=5",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.briardrescuetrust.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1469,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 55,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Founded in 1928, the Briard Club of America, Inc. is the official AKC Parent Club for the Briard."
+                        },
+                        {
+                            "id": 500,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 502,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 499,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 501,
+                            "breed_id": "55",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "briard": {
+                    "breed_name_url": "briard",
+                    "breed_name": "Briard",
+                    "akc_org_history": "<p>In the dairy belt of northern France, the Briard, or Chien Berger de Brie as the breed is known in his homeland, has been working pastures since the time of Charlemagne. The breed is named for the dairy-producing region of Brie, best known for the gooey cheese of the same name.</p>\n<p><br></p>\n<p>&nbsp;French farmers, known for frugality, developed Briards as two-in-one dogs: They are sheepherders famed for quicksilver agility, and are also tough, courageous flock guardians capable of running off sheep-steeling predators. The Briard is a close relative of the smooth-coated Beauceron, another French pasture breed known for its dual herding and guarding ability. By the 1800s, the Briard was a cherished French institution' even Napoleon, who had an aversion to dogs, was said to be a fan of the breed. The Briard was proudly exhibited at the very first French dog show, at Paris in 1865. By the time of World War I, the Briard was so much a part of the national character that it was named the official war dog of the French army, doing sentry duty, finding wounded soldiers, and pulling supply carts.</p>\n<p><br></p>\n<p>Origin stories of Briards in America feature two towering figures in the War of Independence. Thomas Jefferson enters the story in 1789, at the end of his long tenure as America's ambassador to France. Before he departed for home, the future President acquired a pregnant Briard named Berg\u00c3\u00a8re ('pd. for a chienne bergere big with pup, 36 libre,' he wrote in his memorandum book). &nbsp;&nbsp;</p>\n<p><br></p>\n<p>erg\u00c3\u00a8re and her pups proved to be magnificent herders and all-around working dogs at Jefferson's Virginia estate, Monticello. But, as a Monticello historian wrote, 'Berg\u00c3\u00a8re's employment was secondary to her role as founder of the American branch of her family.' Indeed, Berg\u00c3\u00a8re and her brood, augmented by exports sent from France by Jefferson's old friend and Revolutionary hero the Marquis de Lafayette, are thought to be the Briard's foundation in the United States.</p>\n<p><br></p>\n<p>In the many years since, Briard owners worldwide have echoed the words Jefferson wrote in praise of these remarkable dogs: 'Their extraordinary sagacity renders them extremely valuable, capable of being taught almost any duty that may be required of them, and the most anxious in the performance of that duty, the most watchful and faithful of all servants.'</p>",
+                    "mp_history_job": "<p>In the dairy belt of northern France, Briards have been working pastures since Charlemagne\u00bfs time. They're named for the region of Brie, best known for the gooey cheese of the same name. French farmers, known for frugality, developed Briards as two-in-one dogs: They're sheepherders famed for quicksilver agility, and also tough, courageous flock guardians. Briards were introduced to America by two towering figures of Revolutionary times, Thomas Jefferson and the Marquis de Lafayette. Even Napoleon, who didn't particularly like dogs, was a fan.</p>",
+                    "did_you_know": "The Briard is a very old breed of French working dog. | In early times, Briards were used to defend their charges against wolves and poachers, but they eventually became more peaceful herding dogs. | In 1909, a French society called Les Amis du Briard (Friends of the Briard) was founded which eventually drew up a precise standard in 1925. | The Briard is depicted in French tapestries as early as the 8th century. | History credits both the Marquis De Lafayette and Thomas Jefferson with bringing specimens of the Briard to the Americas. | Thomas Jefferson became interested in Briards while serving as minister to France."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23800%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-standing-in-the-grass.jpg",
+                    "alt": "Briard standing in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9lenkadan - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-at-the-AKC-National-Championship.jpg",
+                    "alt": "Briard at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-in-conformation.jpg",
+                    "alt": "Briard in conformation.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-standing-in-profile-on-a-white-background.jpg",
+                    "alt": "Briard standing in profile on a white background.",
+                    "caption": "",
+                    "credit": "Thomas Pitera \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/2018-NAC-AR3I1339.20200414173756284.jpg",
+                    "alt": "Briard at the AKC National Agility Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briards-standing-side-by-side-on-a-white-background.jpg",
+                    "alt": "Briards standing side by side on a white background.",
+                    "caption": "",
+                    "credit": "\u00a9cynoclub - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-running-in-a-grassy-field.jpg",
+                    "alt": "Briard running in a grassy field.",
+                    "caption": "",
+                    "credit": "\u00a9Ricant Images - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-Illo-2.jpg",
+                "alt": "Briard illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Briard-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Briard-puppy-sitting.jpg",
+                "alt": "Briard puppy sitting on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/briard",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Briard",
+        "shopCta": false
+    }
+}

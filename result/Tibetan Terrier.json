@@ -208,8 +208,8 @@
                             "temperament": "affectionate / outgoing / positive"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -509,7 +509,7 @@
                 "tibetan-terrier": {
                     "markings": [
                         {
-                            "marking_index": 163,
+                            "marking_index": 165,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -519,7 +519,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 164,
+                            "marking_index": 166,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -529,7 +529,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 165,
+                            "marking_index": 167,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -539,7 +539,7 @@
                             "markings_short": "BLK PTS"
                         },
                         {
-                            "marking_index": 166,
+                            "marking_index": 168,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -549,7 +549,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 167,
+                            "marking_index": 169,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -559,7 +559,7 @@
                             "markings_short": "TKD"
                         },
                         {
-                            "marking_index": 168,
+                            "marking_index": 170,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -575,7 +575,7 @@
                 "tibetan-terrier": {
                     "colors": [
                         {
-                            "color_index": 558,
+                            "color_index": 559,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -586,7 +586,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 559,
+                            "color_index": 560,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -597,7 +597,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 560,
+                            "color_index": 561,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -608,7 +608,7 @@
                             "color_short": "BLK WH & GLD"
                         },
                         {
-                            "color_index": 561,
+                            "color_index": 562,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -619,7 +619,7 @@
                             "color_short": "WH & GLD"
                         },
                         {
-                            "color_index": 562,
+                            "color_index": 563,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -630,7 +630,7 @@
                             "color_short": "GLD & WH"
                         },
                         {
-                            "color_index": 563,
+                            "color_index": 564,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -641,7 +641,7 @@
                             "color_short": "GLDN BRDL"
                         },
                         {
-                            "color_index": 564,
+                            "color_index": 565,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -652,7 +652,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 565,
+                            "color_index": 566,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -663,7 +663,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 566,
+                            "color_index": 567,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -674,7 +674,7 @@
                             "color_short": "SBL"
                         },
                         {
-                            "color_index": 567,
+                            "color_index": 568,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -685,7 +685,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 568,
+                            "color_index": 569,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -696,7 +696,7 @@
                             "color_short": "GLD"
                         },
                         {
-                            "color_index": 569,
+                            "color_index": 570,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -707,7 +707,7 @@
                             "color_short": "BLK & GLD"
                         },
                         {
-                            "color_index": 570,
+                            "color_index": 571,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -718,7 +718,7 @@
                             "color_short": "BR & WH"
                         },
                         {
-                            "color_index": 571,
+                            "color_index": 572,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -729,7 +729,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 572,
+                            "color_index": 573,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -740,7 +740,7 @@
                             "color_short": "SLVR & BLK"
                         },
                         {
-                            "color_index": 573,
+                            "color_index": 574,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -751,7 +751,7 @@
                             "color_short": "SLVR & WH"
                         },
                         {
-                            "color_index": 574,
+                            "color_index": 575,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -762,7 +762,7 @@
                             "color_short": "BRDL & WH"
                         },
                         {
-                            "color_index": 575,
+                            "color_index": 576,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -773,7 +773,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 576,
+                            "color_index": 577,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -784,7 +784,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 577,
+                            "color_index": 578,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -795,7 +795,7 @@
                             "color_short": "FN & WH"
                         },
                         {
-                            "color_index": 578,
+                            "color_index": 579,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -806,7 +806,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 579,
+                            "color_index": 580,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -817,7 +817,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 580,
+                            "color_index": 581,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -828,7 +828,7 @@
                             "color_short": "BLK & BR"
                         },
                         {
-                            "color_index": 581,
+                            "color_index": 582,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -839,7 +839,7 @@
                             "color_short": "BLK & WH BRDL"
                         },
                         {
-                            "color_index": 582,
+                            "color_index": 583,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -850,7 +850,7 @@
                             "color_short": "BLK BR & WH"
                         },
                         {
-                            "color_index": 583,
+                            "color_index": 584,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -861,7 +861,7 @@
                             "color_short": "SBL & WH"
                         },
                         {
-                            "color_index": 584,
+                            "color_index": 585,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -872,7 +872,7 @@
                             "color_short": "GR & WH"
                         },
                         {
-                            "color_index": 585,
+                            "color_index": 586,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -883,7 +883,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 586,
+                            "color_index": 587,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -894,7 +894,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 587,
+                            "color_index": 588,
                             "breed_name_url": "tibetan-terrier",
                             "breed_name": "Tibetan Terrier",
                             "akc_code": "311",
@@ -1006,7 +1006,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775235710",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781238593",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25894%5D",
@@ -1055,8 +1055,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1275,7 +1275,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/tibetan-terrier",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1610,6 +1619,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Tibetan Terrier",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/tibetan-terrier",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

@@ -1,0 +1,1298 @@
+{
+    "settings": {
+        "current_breed": "scottish-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "parent_club_health_statement_link": "https://www.akc.org/wp-content/uploads/2026/03/STCA-CHIC-Requirements-2026.pdf",
+                    "mp_health": "<p>Scottish Terriers are generally a healthy breed. Like all breeds there may be some health issues, important among them are von Willebrand\u00bfs Disease (vWD), allergies, cancer, Scottie Cramp, Cerebellar Abiotrophy (CA), hypothyroidism, liver disease, and craniomandibular osteopathy (CMO). Many of these will not appear in the adult dog, but will be transmitted to the puppies. For vWD, a devastating bleeding disease, there is a simple DNA test. It is imperative that Scotties have a vWD test before breeding. Research is underway now to develop tests for CMO and Scottie Cramp as well as bladder cancer. Maintain a flea-free environment to reduce skin problems due to flea allergy. Some dogs may be faced with these health challenges in their lives, but the majority of Scottish Terriers are healthy dogs</p>",
+                    "akc_org_health": "<p>The breed's national parent club, the Scottish Terrier Club of America, provides excellent information regarding breed health issues on the club website. A good breeder will discuss with you what they have encountered in their lines. There is also some excellent research being done, much of which is supported by the club, to help breeders identify health conditions and make better decisions when choosing to breed. That means overall better health for the future generations.</p>",
+                    "akc_org_nutrition": "<p>If the Scottish Terrier's coat is healthy and grows evenly and there is no dry, flaky skin or irritation, and the eyes are bright and there is no chewing or itching, then odds are the dog is being fed a suitable food. Some experienced breeders have found terriers to do well on a moderate-protein diet (mid-20-percent protein), with a bit of an additive such as canned food.</p>",
+                    "akc_org_grooming": "<p>Scottish Terriers require regularly scheduled grooming. They are a dual-coated breed, with a harsh, wiry outer layer and dense, soft undercoat. Ideally, they are hand stripped. This should be started when they are young puppies so they get used to the process. Once a month would be best once the coat is started, but they can be worked on weekly. If you are not doing it yourself, it may be hard to find a groomer who will do this for a pet. In that case it is acceptable to clipper the coat. With clipping you will eventually lose the correct harsh texture, as the undercoat will take over once the cutting process is begun. Clipped coats can be maintained on a six- to eight-week schedule. A weekly brushing and comb-out will keep the Scottie's coat tangle free and the skin healthy. Periodic baths with the grooming is acceptable with a good-quality moisturizing shampoo.</p>",
+                    "akc_org_exercise": "<p>Scottish Terriers need a good walk, but also good playtime. They have high energy and need to expend some of that in bursts. Throwing a ball or toy around that they can chase works great. Their nickname is the 'diehard,'\u009d and all you have to do is play tug with a favorite toy to see they won't stop or let go until you do. All of that activity will keep them in good shape and attitude. This makes them great dogs for a small home or apartment living.</p>",
+                    "akc_org_training": "<p>Scottish Terriers do best with training sessions not lasting more than 15 minutes at a time. Be creative, and do not repeat the training the same way all the time. This breed is a thinker, and if they get bored, they will not respond. Remember, the farmers kept the dogs who could figure things out'\u00bfnot the ones who had to be told what to do. Don't be surprised when they test you. There is an independent streak in them. That is best focused when you make it seem like it is their idea to do something. They respond greatly to vocal tones and know why you are displeased by your voice. Just be persistent, and reward good behavior.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Von Willebrand Disease III (Scottish Terrier) (VWDIII) - DNA Test",
+                    "test_3": "Craniomandibular Osteopathy",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Von Willebrand Disease III (Scottish Terrier) (VWDIII) - DNA Test | Craniomandibular Osteopathy"
+                }
+            },
+            "basics": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "breed_name_oracle": "Scottish Terrier",
+                    "matches_oracle": "Scottish Terrier",
+                    "akc_code": "218",
+                    "breed_name_plural": "Scottish Terriers",
+                    "breed_nicknames": "Scottie, Diehard",
+                    "origin": "Scotland",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1885",
+                    "life_expectancy": "12 years",
+                    "related_breeds": "Skye Terrier, Cairn Terrier, West Highland White Terrier, Soft Coated Wheaten Terrier, Kerry Blue Terrier",
+                    "links": [],
+                    "popularity_2025": 57,
+                    "popularity_2024": 54,
+                    "popularity_2023": 59,
+                    "popularity_2022": 60,
+                    "popularity_2021": 58,
+                    "popularity_2020": 57,
+                    "popularity_2019": 57,
+                    "popularity_2018": 57,
+                    "popularity_2017": 58,
+                    "popularity_2016": 58,
+                    "popularity_2015": 58,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "skye-terrier",
+                        "cairn-terrier",
+                        "west-highland-white-terrier",
+                        "soft-coated-wheaten-terrier",
+                        "kerry-blue-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "skye-terrier": {
+                            "breed_name_url": "skye-terrier",
+                            "breed_name": "Skye Terrier",
+                            "breed_name_oracle": "Skye Terrier",
+                            "matches_oracle": "Skye Terrier",
+                            "akc_code": "220",
+                            "breed_name_plural": "Skye Terriers",
+                            "breed_nicknames": "Skye",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Cesky Terrier, West Highland White Terrier, Cairn Terrier, Glen of Imaal Terrier, Scottish Terrier",
+                            "links": [],
+                            "popularity_2025": 181,
+                            "popularity_2024": 179,
+                            "popularity_2023": 185,
+                            "popularity_2022": 189,
+                            "popularity_2021": 181,
+                            "popularity_2020": 183,
+                            "popularity_2019": 189,
+                            "popularity_2018": 178,
+                            "popularity_2017": 172,
+                            "popularity_2016": 178,
+                            "popularity_2015": 175,
+                            "related_groups_characteristics": "",
+                            "temperament": "courageous / good-tempered / canny"
+                        },
+                        "cairn-terrier": {
+                            "breed_name_url": "cairn-terrier",
+                            "breed_name": "Cairn Terrier",
+                            "breed_name_oracle": "Cairn Terrier",
+                            "matches_oracle": "Cairn Terrier",
+                            "akc_code": "207",
+                            "breed_name_plural": "Cairn Terriers",
+                            "breed_nicknames": "Cairn",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1913",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Skye Terrier, West Highland White Terrier, Norwich Terrier, Border Terrier, Scottish Terrier",
+                            "links": [],
+                            "popularity_2025": 68,
+                            "popularity_2024": 71,
+                            "popularity_2023": 68,
+                            "popularity_2022": 70,
+                            "popularity_2021": 74,
+                            "popularity_2020": 73,
+                            "popularity_2019": 73,
+                            "popularity_2018": 69,
+                            "popularity_2017": 69,
+                            "popularity_2016": 70,
+                            "popularity_2015": 70,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers, ",
+                            "temperament": "alert / cheerful / busy"
+                        },
+                        "west-highland-white-terrier": {
+                            "breed_name_url": "west-highland-white-terrier",
+                            "breed_name": "West Highland White Terrier",
+                            "breed_name_oracle": "West Highland White Terrier",
+                            "matches_oracle": "West Highland White Terrier",
+                            "akc_code": "222",
+                            "breed_name_plural": "West Highland White Terriers",
+                            "breed_nicknames": "Westie",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1908",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Cairn Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Australian Terrier",
+                            "links": [],
+                            "popularity_2025": 45,
+                            "popularity_2024": 41,
+                            "popularity_2023": 43,
+                            "popularity_2022": 45,
+                            "popularity_2021": 46,
+                            "popularity_2020": 44,
+                            "popularity_2019": 44,
+                            "popularity_2018": 42,
+                            "popularity_2017": 42,
+                            "popularity_2016": 41,
+                            "popularity_2015": 41,
+                            "related_groups_characteristics": "",
+                            "temperament": "loyal / happy / entertaining"
+                        },
+                        "soft-coated-wheaten-terrier": {
+                            "breed_name_url": "soft-coated-wheaten-terrier",
+                            "breed_name": "Soft Coated Wheaten Terrier",
+                            "breed_name_oracle": "Soft Coated Wheaten Terrier",
+                            "matches_oracle": "Soft Coated Wheaten Terrier",
+                            "akc_code": "223",
+                            "breed_name_plural": "Soft Coated Wheaten Terriers",
+                            "breed_nicknames": "Wheaten, SCWT, Poor Man\u00bfs Wolfhound",
+                            "origin": "Ireland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1973",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Irish Terrier, Kerry Blue Terrier, Lakeland Terrier, Airedale Terrier, Glen of Imaal Terrier",
+                            "links": [],
+                            "popularity_2025": 76,
+                            "popularity_2024": 75,
+                            "popularity_2023": 69,
+                            "popularity_2022": 66,
+                            "popularity_2021": 66,
+                            "popularity_2020": 58,
+                            "popularity_2019": 54,
+                            "popularity_2018": 53,
+                            "popularity_2017": 49,
+                            "popularity_2016": 50,
+                            "popularity_2015": 47,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Hypoallergenic Dogs",
+                            "temperament": "friendly / happy / deeply devoted"
+                        },
+                        "kerry-blue-terrier": {
+                            "breed_name_url": "kerry-blue-terrier",
+                            "breed_name": "Kerry Blue Terrier",
+                            "breed_name_oracle": "Kerry Blue Terrier",
+                            "matches_oracle": "Kerry Blue Terrier",
+                            "akc_code": "211",
+                            "breed_name_plural": "Kerry Blue Terriers",
+                            "breed_nicknames": "Kerry",
+                            "origin": "Ireland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1922",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Irish Terrier, Airedale Terrier, Standard Schnauzer, Soft Coated Wheaten Terrier, Welsh Terrier",
+                            "links": [],
+                            "popularity_2025": 155,
+                            "popularity_2024": 135,
+                            "popularity_2023": 160,
+                            "popularity_2022": 146,
+                            "popularity_2021": 134,
+                            "popularity_2020": 133,
+                            "popularity_2019": 135,
+                            "popularity_2018": 129,
+                            "popularity_2017": 129,
+                            "popularity_2016": 127,
+                            "popularity_2015": 124,
+                            "related_groups_characteristics": "Hypoallergenic Dogs",
+                            "temperament": "alert / smart / people-oriented"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "temperament": "independent / confident / spirited",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "akc_org_blurb": "A solidly compact dog of vivid personality, the Scottish Terrier is an independent, confident companion of high spirits. Scotties have a dignified, almost-human character. Their terrier persistence has earned the breed the nickname 'the Diehard.'\u009d",
+                    "akc_org_about": "The well-known Scottie silhouette is that of a short-legged but substantial terrier with distinctive furnishings at the beard, legs, and lower body. The wiry topcoat and soft, dense undercoat coat can be black, wheaten yellow, or a brindle-stripe pattern. Bright, piercing eyes, and erect ears and tail, convey keen alertness'\u00bfa hallmark of Britain's terrier breeds.\n\n\n\n The Scottie working style has been described as efficient and businesslike, and their aloofness toward strangers makes them excellent watchdogs. Their hunting instinct remains strong, which can complicate life for the neighbor's cat, and Scotties are known to be cantankerous around other dogs. This bold and clever Scotsman enjoys brisk walks and upbeat play.",
+                    "mp_description": "The Scottish Terrier, popularly known as the Scottie, is instantly recognizable for his wiry coat, beard and sturdy little body. Bred to hunt vermin, the breed shares a lot of traits with other terriers, including a love of digging and the chase. Your Scottish Terrier puppy has a naturally bold and confident nature. Obedience training, playtime and lots of exercise (on a leash or in a fenced area) will bring out his best traits. Teach your Scottish Terrier good manners from puppyhood and you'll be rewarded with a gentle, loving and always endearing canine friend."
+                }
+            },
+            "standards": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "The Scottish Terrier is a small, compact, short-legged, sturdily-built dog of good bone and substance. His head is long in proportion to his size. He has a hard, wiry, weather-resistant coat and a thick-set, cobby body which is hung between short, heavy legs. These characteristics, joined with his very special keen, piercing, \"varminty\" expression, and his erect ears and tail are salient features of the breed. The Scottish Terrier's bold, confident, dignified aspect exemplifies power in a small package.",
+                    "title_2": "Head",
+                    "description_2": "The head should be long in proportion to the overall length and size of the dog.The nose should be black, regardless of coat color, and of good size, projecting somewhat over the mouth and giving the impression that the upper jaw is longer than the lower. The teeth should be large and evenly spaced, having either a scissor or level bite, the former preferred. The jaw should be square, level and powerful. The eyes should be set wide apart and well in under the brow. They should be small, bright and piercing, and almond-shaped not round.",
+                    "title_3": "Body",
+                    "description_3": "The body should be moderately short with ribs extending well back into a short, strong loin, deep flanks and very muscular hindquarters. The ribs should be well sprung out from the spine, forming a broad, strong back, then curving down and inward to form a deep body that would be nearly heart-shaped if viewed in cross-section. The topline of the back should be firm and level. The chest should be broad, very deep and well let down between the forelegs. The forechest should extend well in front of the legs and drop well down into the brisket. The chest should not be flat or concave, and the brisket should nicely fill an average man's slightly-cupped hand. The lowest point of the brisket should be such that an average man's fist would fit under it with little or no overhead clearance.",
+                    "title_4": "Forequarters",
+                    "description_4": "The shoulders should be well laid back and moderately well knit at the withers. The forelegs should be very heavy in bone, straight or slightly bent with elbows close to the body, and set in under the shoulder blade with a definite forechest in front of them. Scottish Terriers should not be out at the elbows. The forefeet should be larger than the hind feet, round, thick and compact with strong nails. The front feet should point straight ahead, but a slight \"toeing out\" is acceptable. Dew claws may be removed.",
+                    "title_5": "Coat",
+                    "description_5": "The Scottish Terrier should have a broken coat. It is a hard, wiry outer coat with a soft, dense undercoat. The coat should be trimmed and blended into the furnishings to give a distinct Scottish Terrier outline. The dog should be presented with sufficient coat so that the texture and density may be determined. The longer coat on the beard, legs and lower body may be slightly softer than the body coat but should not be or appear fluffy.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The thighs should be very muscular and powerful for the size of the dog with the stifles well bent and the legs straight from hock to heel. Hocks should be well let down and parallel to each other.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "10",
+                    "height_max": "10",
+                    "weight_min": "18",
+                    "weight_max": "22",
+                    "size": "Small",
+                    "height_max_f": "10",
+                    "height_min_m": "10",
+                    "height_max_m": "10",
+                    "height_display": "10 inches",
+                    "weight_min_f": "18",
+                    "weight_max_f": "22",
+                    "weight_min_m": "18",
+                    "weight_max_m": "22",
+                    "weight_display": "19-22 pounds (male), 18-21 pounds (female)",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/ScottishTerrier.pdf",
+                    "height_min_f": "10"
+                }
+            },
+            "colors": {
+                "scottish-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 335,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 336,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "279",
+                            "color_long": "Black Brindle",
+                            "color_short": "BLK BRDL"
+                        },
+                        {
+                            "color_index": 337,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 338,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "148",
+                            "color_long": "Red Brindle",
+                            "color_short": "RD BRDL"
+                        },
+                        {
+                            "color_index": 339,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "303",
+                            "color_long": "Silver Brindle",
+                            "color_short": "SLVR BRDL"
+                        },
+                        {
+                            "color_index": 340,
+                            "breed_name_url": "scottish-terrier",
+                            "breed_name": "Scottish Terrier",
+                            "akc_code": "218",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "224",
+                            "color_long": "Wheaten",
+                            "color_short": "WHTN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "breed_club_name": "Scottish Terrier Club of America",
+                    "breed_club_url": "www.stca.biz/",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/12/23102440/Scottish-Terrier-Club-Flyer-20241216.pdf",
+                    "breed_rescue_url": "http://www.stca.biz/index.php/scottish-terrier-rescue-sp-5846/rescue-groups",
+                    "national_breed_club": "Scottish Terrier Club of America",
+                    "national_breed_club_url": "www.stca.biz/",
+                    "breed_referral_contact_name": "Lisa Kincheloe",
+                    "breed_referral_contact_phone_number": "(831) 261-3453",
+                    "breed_referral_contact_email": "lkinch@pacbell.net",
+                    "breed_referral_contact_address": "890 Eden Estates Drive\nNew Braunfels, TX 78132",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.stca.biz/",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.stca.biz/index.php/scottish-terrier-rescue-sp-5846/rescue-groups",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1630,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 216,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1144,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1146,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1143,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1145,
+                            "breed_id": "220",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "scottish-terrier": {
+                    "breed_name_url": "scottish-terrier",
+                    "breed_name": "Scottish Terrier",
+                    "akc_org_history": "Developed to hunt rats, foxes, and badgers on the craggy Scottish Highlands, the Scottish Terrier is a venerable breed. In fact, it is thought to be the oldest of the Highland terriers. And one authority calls the breed 'the oldest variety of the canine race indigenous to Britain.'\u009d At various times in the breed's long history there has been controversy about its origins and type. In fact, dog folks spent much of the 1800s arguing over what was a Scottish Terrier and what was a terrier that happened to be Scottish. Despite his humble farm-dog origins, the Scottie had friends in high places. In the 17th century, England's King James I, a Scot by birth, was well acquainted with the breed and gave them as gifts.\n \n \n \n The first Scottie imports arrived in America in 1883, and two years later the AKC registered its first Scottie, a male named Prince Charlie. The Scottie's peak of popularity was the 1930s and early '40s, with such celebrity owners as Humphrey Bogart and Bette Davis under the spell of the breed's spicy charm. The Scottie silhouette is a familiar motif of Depression-era knickknacks and advertising, and the image is still popular today with textile makers looking for a sporty retro-kitsch accent for their designs. History's most famous Scottie was Fala, the constant companion of President Franklin Roosevelt during World War II.",
+                    "mp_history_job": "The Scottie is an ancient breed developed on the Scottish Highlands. During its history there has been controversy about its origins and type. In fact, dog fanciers spent much of the 1800s arguing over what was a Scottish Terrier and what was a terrier that happened to be Scottish. The heyday of the Scottie in America was the 1930s, with such celebrity owners as President Roosevelt, Humphrey Bogart, and Bette Davis. The Scottie silhouette is a familiar motif of Depression-era knickknacks and advertising.",
+                    "did_you_know": "The Scottish Terrier was bred in Scotland as a fierce hunter of foxes and badgers. | The first show to have a class for the Scottish Terrier was in 1860. | John Naylor is credited with being the first to introduce the Scottie to this country. | The first registered Scottie in America was \"Dake,\" whelped Sept. 15, 1884. | Franklin D. Roosevelt's Scottish Terrier \"Fala\" reportedly received more fan mail than many presidents did. | Dwight D. Eisenhower owned two Scottish Terriers named \"Caacie\" and \"Telek.\""
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25604%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Terrier-Group-David-0E9A3359.jpg",
+                    "alt": "Best of Breed: GCHS CH Kelwyn's Warrior Princess CA, Scottish Terrier; Terrier Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier.side_.jpg",
+                    "alt": "Scottish Terrier standing in profile.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier.jpg",
+                    "alt": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-04.jpg",
+                    "alt": "Two Scottish Terriers sitting on grass side by side facing forward",
+                    "caption": "",
+                    "credit": "\u00a9Radomir Rezny / Adobe Stock"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-Illo-2.jpg",
+                "alt": "Scottish Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-puppies.jpg",
+                "alt": "Scottish Terrier puppies sitting side by side surrounded by pumpkins and apples."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/scottish-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Scottish Terrier",
+        "shopCta": false
+    }
+}

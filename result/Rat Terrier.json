@@ -196,8 +196,8 @@
                             "temperament": "friendly / clever / athletic"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -497,7 +497,7 @@
                 "rat-terrier": {
                     "markings": [
                         {
-                            "marking_index": 117,
+                            "marking_index": 119,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -507,7 +507,7 @@
                             "markings_short": "PBLD"
                         },
                         {
-                            "marking_index": 118,
+                            "marking_index": 120,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -517,7 +517,7 @@
                             "markings_short": "SPTD OR PTCHD"
                         },
                         {
-                            "marking_index": 119,
+                            "marking_index": 121,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -527,7 +527,7 @@
                             "markings_short": "SBL WH MKGS"
                         },
                         {
-                            "marking_index": 120,
+                            "marking_index": 122,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -537,7 +537,7 @@
                             "markings_short": "WHT MSK WHT MRK"
                         },
                         {
-                            "marking_index": 121,
+                            "marking_index": 123,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -547,7 +547,7 @@
                             "markings_short": "WH MKGS TAN PTS"
                         },
                         {
-                            "marking_index": 122,
+                            "marking_index": 124,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -557,7 +557,7 @@
                             "markings_short": "BDGR MKGS"
                         },
                         {
-                            "marking_index": 123,
+                            "marking_index": 125,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -567,7 +567,7 @@
                             "markings_short": "BLNK-BCK"
                         },
                         {
-                            "marking_index": 124,
+                            "marking_index": 126,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -577,7 +577,7 @@
                             "markings_short": "IRSH MRKD"
                         },
                         {
-                            "marking_index": 125,
+                            "marking_index": 127,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -593,7 +593,7 @@
                 "rat-terrier": {
                     "colors": [
                         {
-                            "color_index": 435,
+                            "color_index": 436,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -604,7 +604,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 436,
+                            "color_index": 437,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -615,7 +615,7 @@
                             "color_short": "BLK WH & TN"
                         },
                         {
-                            "color_index": 437,
+                            "color_index": 438,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -626,7 +626,7 @@
                             "color_short": "BLK TN & WH"
                         },
                         {
-                            "color_index": 438,
+                            "color_index": 439,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -637,7 +637,7 @@
                             "color_short": "BL WH & TN"
                         },
                         {
-                            "color_index": 439,
+                            "color_index": 440,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -648,7 +648,7 @@
                             "color_short": "RD WH & SBL"
                         },
                         {
-                            "color_index": 440,
+                            "color_index": 441,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -659,7 +659,7 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 441,
+                            "color_index": 442,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -670,7 +670,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 442,
+                            "color_index": 443,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -681,7 +681,7 @@
                             "color_short": "WH BLK & TN"
                         },
                         {
-                            "color_index": 443,
+                            "color_index": 444,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -692,7 +692,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 444,
+                            "color_index": 445,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -703,7 +703,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 445,
+                            "color_index": 446,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -714,7 +714,7 @@
                             "color_short": "WH & CHLT"
                         },
                         {
-                            "color_index": 446,
+                            "color_index": 447,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -725,7 +725,7 @@
                             "color_short": "WH CHLT TN"
                         },
                         {
-                            "color_index": 447,
+                            "color_index": 448,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -736,7 +736,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 448,
+                            "color_index": 449,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -747,7 +747,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 449,
+                            "color_index": 450,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -758,7 +758,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 450,
+                            "color_index": 451,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -769,7 +769,7 @@
                             "color_short": "WH & SLVR"
                         },
                         {
-                            "color_index": 451,
+                            "color_index": 452,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -780,7 +780,7 @@
                             "color_short": "WH & TN"
                         },
                         {
-                            "color_index": 452,
+                            "color_index": 453,
                             "breed_name_url": "rat-terrier",
                             "breed_name": "Rat Terrier",
                             "akc_code": "247",
@@ -892,7 +892,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781236491",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25453%5D",
@@ -941,8 +941,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

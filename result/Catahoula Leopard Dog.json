@@ -142,8 +142,8 @@
                             "temperament": "affectionate / gentle / adaptable"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -442,7 +442,7 @@
                 "catahoula-leopard-dog": {
                     "markings": [
                         {
-                            "marking_index": 575,
+                            "marking_index": 592,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -452,7 +452,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 576,
+                            "marking_index": 593,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -468,7 +468,7 @@
                 "catahoula-leopard-dog": {
                     "colors": [
                         {
-                            "color_index": 1855,
+                            "color_index": 1877,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -479,7 +479,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1856,
+                            "color_index": 1878,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -490,7 +490,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1857,
+                            "color_index": 1879,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -501,7 +501,7 @@
                             "color_short": "YLW"
                         },
                         {
-                            "color_index": 1858,
+                            "color_index": 1880,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -512,7 +512,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1859,
+                            "color_index": 1881,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -523,7 +523,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1860,
+                            "color_index": 1882,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -534,7 +534,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1861,
+                            "color_index": 1883,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -545,7 +545,7 @@
                             "color_short": "BL MRL"
                         },
                         {
-                            "color_index": 1862,
+                            "color_index": 1884,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -556,7 +556,7 @@
                             "color_short": "RD MRL"
                         },
                         {
-                            "color_index": 1863,
+                            "color_index": 1885,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -567,7 +567,7 @@
                             "color_short": "WH MRL"
                         },
                         {
-                            "color_index": 1864,
+                            "color_index": 1886,
                             "breed_name_url": "catahoula-leopard-dog",
                             "breed_name": "Catahoula Leopard Dog",
                             "akc_code": "837",
@@ -679,7 +679,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781245390",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23946%5D",
@@ -728,8 +728,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

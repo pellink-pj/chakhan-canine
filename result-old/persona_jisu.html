@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Adopter Persona — 김지수</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans KR', 'Inter', sans-serif;
+    background: #F4F6FA;
+    padding: 40px 24px;
+    color: #1A1D23;
+    min-width: 860px;
+  }
+
+  .wrapper {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* ── 상단 태그 ── */
+  .top-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .badge {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+  .badge-blue  { background: #E8F0FE; color: #3B5BDB; }
+  .badge-green { background: #E6F9F0; color: #2D8A5E; }
+
+  /* ── 히어로 헤더 ── */
+  .hero {
+    background: linear-gradient(135deg, #3B5BDB 0%, #7048E8 100%);
+    border-radius: 20px;
+    padding: 36px 40px;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    margin-bottom: 24px;
+    color: white;
+  }
+  .avatar {
+    width: 88px; height: 88px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.2);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 38px;
+    flex-shrink: 0;
+    border: 3px solid rgba(255,255,255,0.4);
+  }
+  .hero-info h1 {
+    font-size: 28px; font-weight: 700;
+    letter-spacing: -.02em;
+    margin-bottom: 4px;
+  }
+  .hero-info .en-name {
+    font-size: 14px; font-weight: 400;
+    opacity: .75; letter-spacing: .04em;
+    margin-bottom: 12px;
+  }
+  .hero-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .hero-tag {
+    background: rgba(255,255,255,0.18);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    padding: 3px 12px;
+    font-size: 12px; font-weight: 500;
+  }
+
+  /* ── 그리드 레이아웃 ── */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+
+  /* ── 카드 ── */
+  .card {
+    background: white;
+    border-radius: 16px;
+    padding: 24px 28px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.06);
+  }
+  .card-title {
+    font-size: 11px; font-weight: 700;
+    letter-spacing: .1em; text-transform: uppercase;
+    color: #7B8599; margin-bottom: 16px;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .card-title .en { color: #B0B8CC; font-weight: 400; }
+
+  /* ── 프로필 행 ── */
+  .profile-row {
+    display: flex; justify-content: space-between;
+    align-items: flex-start;
+    padding: 9px 0;
+    border-bottom: 1px solid #F0F2F7;
+    font-size: 13.5px;
+    gap: 12px;
+  }
+  .profile-row:last-child { border-bottom: none; }
+  .pr-label { color: #8891A6; font-weight: 400; min-width: 100px; flex-shrink: 0; }
+  .pr-label .en-s { display: block; font-size: 10px; color: #B5BBCA; margin-top: 1px; }
+  .pr-value { font-weight: 500; text-align: right; color: #1A1D23; }
+
+  /* ── 인용구 ── */
+  .quote-card {
+    background: linear-gradient(135deg, #FFF8F0, #FFF3E6);
+    border-left: 4px solid #FF8C42;
+    border-radius: 0 16px 16px 0;
+    padding: 20px 24px;
+    margin-bottom: 16px;
+  }
+  .quote-text-ko {
+    font-size: 15px; font-weight: 500; color: #3A2A1A;
+    line-height: 1.6; margin-bottom: 6px;
+  }
+  .quote-text-en {
+    font-size: 12.5px; color: #9A7A5A; font-style: italic;
+    line-height: 1.5;
+  }
+
+  /* ── 동기 리스트 ── */
+  .motive-list { list-style: none; }
+  .motive-list li {
+    display: flex; gap: 10px;
+    font-size: 13.5px; line-height: 1.55;
+    padding: 8px 0;
+    border-bottom: 1px solid #F0F2F7;
+    color: #3A3F50;
+  }
+  .motive-list li:last-child { border-bottom: none; }
+  .motive-list li .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: #FF8C42; margin-top: 7px; flex-shrink: 0;
+  }
+  .motive-en { font-size: 11.5px; color: #9CA3B5; margin-top: 2px; }
+
+  /* ── 트레잇 바 ── */
+  .trait-row { padding: 8px 0; border-bottom: 1px solid #F0F2F7; }
+  .trait-row:last-child { border-bottom: none; }
+  .trait-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+  .trait-label { font-size: 12.5px; font-weight: 500; color: #3A3F50; }
+  .trait-label .en-s { font-size: 10.5px; color: #9CA3B5; font-weight: 400; margin-left: 4px; }
+  .trait-score { font-size: 11px; font-weight: 600; color: #7B8599; }
+  .bar-bg { background: #EEF0F6; border-radius: 4px; height: 7px; }
+  .bar-fill { height: 7px; border-radius: 4px; transition: width .3s; }
+  .bar-blue   { background: linear-gradient(90deg, #4C6EF5, #748FFC); }
+  .bar-green  { background: linear-gradient(90deg, #2D8A5E, #51CF66); }
+  .bar-orange { background: linear-gradient(90deg, #E67700, #FFA94D); }
+  .bar-red    { background: linear-gradient(90deg, #C92A2A, #FF6B6B); }
+
+  /* ── 기질 카테고리 ── */
+  .temp-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .temp-item {
+    border-radius: 10px; padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .temp-icon { font-size: 20px; flex-shrink: 0; }
+  .temp-name { font-size: 12px; font-weight: 600; color: #1A1D23; }
+  .temp-en   { font-size: 10px; color: #8891A6; margin-top: 1px; }
+  .stars     { font-size: 10px; margin-top: 3px; letter-spacing: 1px; }
+
+  .t1 { background: #E8F9EE; }
+  .t2 { background: #FFF0E6; }
+  .t3 { background: #E8F0FE; }
+  .t4 { background: #F3EEFF; }
+  .t5 { background: #FFF7E6; }
+
+  /* ── 제약 칩 ── */
+  .chip-wrap { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    border-radius: 20px; padding: 5px 13px;
+    font-size: 12px; font-weight: 500;
+    display: flex; align-items: center; gap: 5px;
+  }
+  .chip-red    { background: #FFF0F0; color: #C92A2A; }
+  .chip-blue   { background: #E8F0FE; color: #3B5BDB; }
+  .chip-green  { background: #E6F9F0; color: #2D8A5E; }
+  .chip-gray   { background: #F0F2F7; color: #5A6179; }
+  .chip-orange { background: #FFF3E0; color: #E67700; }
+
+  /* ── 하단 ── */
+  .footer {
+    text-align: center; margin-top: 28px;
+    font-size: 11px; color: #B0B8CC; letter-spacing: .04em;
+  }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- 배지 -->
+  <div class="top-badge">
+    <span class="badge badge-blue">🐾 Adopter Persona</span>
+    <span class="badge badge-green">입양 희망자 프로파일</span>
+  </div>
+
+  <!-- 히어로 -->
+  <div class="hero">
+    <div class="avatar">👩</div>
+    <div class="hero-info">
+      <h1>김지수 <span style="font-size:18px;opacity:.7">· Kim Jisu</span></h1>
+      <div class="en-name">Single-person household · 32 yrs · Seoul, Mapo-gu</div>
+      <div class="hero-tags">
+        <span class="hero-tag">🏠 1인 가구 · Solo Living</span>
+        <span class="hero-tag">💼 IT 스타트업 마케터</span>
+        <span class="hero-tag">🐶 입양 초보 · First-time Owner</span>
+        <span class="hero-tag">💛 외로움 해소 목적</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 기본 정보 + 라이프스타일 -->
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">기본 정보 <span class="en">/ Basic Info</span></div>
+      <div class="profile-row">
+        <span class="pr-label">나이<span class="en-s">Age</span></span>
+        <span class="pr-value">32세</span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">성별<span class="en-s">Gender</span></span>
+        <span class="pr-value">여성 · Female</span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">거주지<span class="en-s">Location</span></span>
+        <span class="pr-value">서울 마포구 합정동<br><span style="font-size:11px;color:#9CA3B5">Hapjeong-dong, Mapo-gu, Seoul</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">주거 형태<span class="en-s">Housing</span></span>
+        <span class="pr-value">빌라 2룸 · Villa 2-room</span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">직업<span class="en-s">Job</span></span>
+        <span class="pr-value">IT 스타트업 마케터<br><span style="font-size:11px;color:#9CA3B5">Marketing, IT Startup (4yr)</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">월 소득<span class="en-s">Income</span></span>
+        <span class="pr-value">세후 약 250만 원<br><span style="font-size:11px;color:#9CA3B5">~₩2,500,000 net/mo</span></span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">라이프스타일 <span class="en">/ Lifestyle</span></div>
+      <div class="profile-row">
+        <span class="pr-label">근무 형태<span class="en-s">Work Style</span></span>
+        <span class="pr-value">오피스 + 재택 1~2회<br><span style="font-size:11px;color:#9CA3B5">Office + WFH 1–2x/wk</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">출퇴근<span class="en-s">Commute</span></span>
+        <span class="pr-value">왕복 2시간<br><span style="font-size:11px;color:#9CA3B5">2 hrs total (transit)</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">평일 귀가<span class="en-s">Home by</span></span>
+        <span class="pr-value">저녁 7시 · 7 PM</span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">혼자 시간<span class="en-s">Alone hrs</span></span>
+        <span class="pr-value" style="color:#C92A2A;font-weight:700">평일 약 10시간<br><span style="font-size:11px">~10 hrs/day (weekdays)</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">활동량<span class="en-s">Activity</span></span>
+        <span class="pr-value">보통 · Moderate<br><span style="font-size:11px;color:#9CA3B5">산책 즐김 · Enjoys walking</span></span>
+      </div>
+      <div class="profile-row">
+        <span class="pr-label">반려동물<span class="en-s">Pet Exp.</span></span>
+        <span class="pr-value">경험 없음 · None</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 입양 동기 -->
+  <div class="quote-card">
+    <div class="quote-text-ko">"퇴근하고 집에 들어오면 너무 조용해서 외로워요. 누군가 반겨줬으면 해서요."</div>
+    <div class="quote-text-en">"When I come home after work, the silence feels heavy. I just want someone to greet me at the door."</div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">입양 동기 <span class="en">/ Motivation</span></div>
+      <ul class="motive-list">
+        <li><span class="dot"></span><div>혼자 산 지 3년째, 갈수록 공허함이 커짐<div class="motive-en">3 years of solo living — growing sense of emptiness</div></div></li>
+        <li><span class="dot"></span><div>SNS 입양 후기 보며 꿈꿔오다 올해 결심<div class="motive-en">Inspired by adoption posts; decided to commit this year</div></div></li>
+        <li><span class="dot"></span><div>책임감 있는 입양 희망 (유기견 보호소 고려)<div class="motive-en">Prefers responsible adoption — shelter dog considered</div></div></li>
+        <li><span class="dot"></span><div>애교 있고 독립성도 있는 소형견 원함<div class="motive-en">Wants a small, affectionate yet somewhat independent dog</div></div></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="card-title">제약 & 조건 <span class="en">/ Constraints</span></div>
+      <div class="chip-wrap" style="margin-bottom:14px">
+        <span class="chip chip-orange">🏠 소형견 희망 · Small breed</span>
+        <span class="chip chip-blue">💰 月 15만원 이내</span>
+        <span class="chip chip-green">✅ 집주인 동의 완료</span>
+        <span class="chip chip-gray">😶 알러지 없음 · No allergy</span>
+        <span class="chip chip-red">⏰ 평일 낮 10h 혼자</span>
+        <span class="chip chip-red">🔰 입양 초보 · No experience</span>
+      </div>
+      <div style="font-size:12.5px;color:#5A6179;line-height:1.7;padding-top:4px">
+        중형견도 가능하나 <b>짖음이 작고 얌전한 편</b>이어야 함.<br>
+        <span style="color:#9CA3B5;font-size:11.5px">Medium-sized OK if calm and quiet-natured.</span><br><br>
+        <b>분리불안 없거나 낮은 견종</b> 우선 추천.<br>
+        <span style="color:#9CA3B5;font-size:11.5px">Low separation anxiety is a key requirement.</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 트레잇 선호도 -->
+  <div class="card" style="margin-bottom:16px">
+    <div class="card-title">트레잇 선호도 <span class="en">/ Trait Preferences (1–5 scale)</span></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:0 32px">
+
+      <div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">가족 애정도 <span class="en-s">Affectionate w/ Family</span></span><span class="trait-score">5 / 5 ⭐</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-green" style="width:100%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">적응력 <span class="en-s">Adaptability</span></span><span class="trait-score">4 / 5</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-blue" style="width:80%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">훈련 용이성 <span class="en-s">Trainability</span></span><span class="trait-score">4 / 5</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-blue" style="width:80%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">에너지 수준 <span class="en-s">Energy Level</span></span><span class="trait-score">3 / 5</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-orange" style="width:60%"></div></div>
+        </div>
+      </div>
+
+      <div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">짖음 수준 <span class="en-s">Barking Level</span></span><span class="trait-score">≤ 2 / 5 ✅</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-red" style="width:40%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">그루밍 빈도 <span class="en-s">Grooming Freq.</span></span><span class="trait-score">≤ 2 / 5 ✅</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-red" style="width:40%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">털 빠짐 <span class="en-s">Shedding</span></span><span class="trait-score">≤ 2 / 5 ✅</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-red" style="width:40%"></div></div>
+        </div>
+        <div class="trait-row">
+          <div class="trait-top"><span class="trait-label">침 흘림 <span class="en-s">Drooling</span></span><span class="trait-score">1 / 5 ✅</span></div>
+          <div class="bar-bg"><div class="bar-fill bar-red" style="width:20%"></div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- 기질 카테고리 -->
+  <div class="card" style="margin-bottom:16px">
+    <div class="card-title">기질 카테고리 우선순위 <span class="en">/ Temperament Priority</span></div>
+    <div class="temp-grid">
+      <div class="temp-item t2">
+        <span class="temp-icon">🤗</span>
+        <div>
+          <div class="temp-name">② 사교성 & 애정</div>
+          <div class="temp-en">Social & Affectionate</div>
+          <div class="stars" style="color:#FF8C42">★★★★★ 최우선</div>
+        </div>
+      </div>
+      <div class="temp-item t5">
+        <span class="temp-icon">😌</span>
+        <div>
+          <div class="temp-name">⑤ 온화함 & 안정성</div>
+          <div class="temp-en">Calm & Steady</div>
+          <div class="stars" style="color:#E0A500">★★★★☆</div>
+        </div>
+      </div>
+      <div class="temp-item t1">
+        <span class="temp-icon">⚡</span>
+        <div>
+          <div class="temp-name">① 활발함</div>
+          <div class="temp-en">Energetic & Playful</div>
+          <div class="stars" style="color:#2D8A5E">★★★☆☆ 적당히</div>
+        </div>
+      </div>
+      <div class="temp-item t3">
+        <span class="temp-icon">🧠</span>
+        <div>
+          <div class="temp-name">③ 지능 & 작업성</div>
+          <div class="temp-en">Intelligent & Work-oriented</div>
+          <div class="stars" style="color:#3B5BDB">★★★☆☆</div>
+        </div>
+      </div>
+    </div>
+    <div class="temp-item t4" style="margin-top:10px;border-radius:10px">
+      <span class="temp-icon">🛡️</span>
+      <div>
+        <div class="temp-name">④ 독립성 & 보호성 — 낮을수록 좋음</div>
+        <div class="temp-en">Independent & Protective — Lower preferred (separation anxiety concern)</div>
+        <div class="stars" style="color:#7048E8">★★☆☆☆ 비선호</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    🐾 Dog Adoption Matching System — Persona Profile v1.0 &nbsp;|&nbsp; 입양 매칭 시스템 테스트용 페르소나
+  </div>
+
+</div>
+</body>
+</html>

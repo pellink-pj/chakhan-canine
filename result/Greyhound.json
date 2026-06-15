@@ -203,8 +203,8 @@
                             "temperament": "reserved / graceful / noble"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -504,7 +504,7 @@
                 "greyhound": {
                     "markings": [
                         {
-                            "marking_index": 240,
+                            "marking_index": 242,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -514,7 +514,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 241,
+                            "marking_index": 243,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -524,7 +524,7 @@
                             "markings_short": "TKD"
                         },
                         {
-                            "marking_index": 242,
+                            "marking_index": 244,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -534,7 +534,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 243,
+                            "marking_index": 245,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -550,7 +550,7 @@
                 "greyhound": {
                     "colors": [
                         {
-                            "color_index": 835,
+                            "color_index": 836,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -561,7 +561,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 836,
+                            "color_index": 837,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -572,7 +572,7 @@
                             "color_short": "BLK BRDL"
                         },
                         {
-                            "color_index": 837,
+                            "color_index": 838,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -583,7 +583,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 838,
+                            "color_index": 839,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -594,7 +594,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 839,
+                            "color_index": 840,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -605,7 +605,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 840,
+                            "color_index": 841,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -616,7 +616,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 841,
+                            "color_index": 842,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -627,7 +627,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 842,
+                            "color_index": 843,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -638,7 +638,7 @@
                             "color_short": "WH & BL BRDL"
                         },
                         {
-                            "color_index": 843,
+                            "color_index": 844,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -649,7 +649,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 844,
+                            "color_index": 845,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -660,7 +660,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 845,
+                            "color_index": 846,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -671,7 +671,7 @@
                             "color_short": "BL FN"
                         },
                         {
-                            "color_index": 846,
+                            "color_index": 847,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -682,7 +682,7 @@
                             "color_short": "WH & BLK BRDL"
                         },
                         {
-                            "color_index": 847,
+                            "color_index": 848,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -693,7 +693,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 848,
+                            "color_index": 849,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -704,7 +704,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 849,
+                            "color_index": 850,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -715,7 +715,7 @@
                             "color_short": "WH & RD BRDL"
                         },
                         {
-                            "color_index": 850,
+                            "color_index": 851,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -726,7 +726,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 851,
+                            "color_index": 852,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -737,7 +737,7 @@
                             "color_short": "BL BRDL & WH"
                         },
                         {
-                            "color_index": 852,
+                            "color_index": 853,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -748,7 +748,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 853,
+                            "color_index": 854,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -759,7 +759,7 @@
                             "color_short": "BLK BRDL & WH"
                         },
                         {
-                            "color_index": 854,
+                            "color_index": 855,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -770,7 +770,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 855,
+                            "color_index": 856,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -781,7 +781,7 @@
                             "color_short": "BL FN & WH"
                         },
                         {
-                            "color_index": 856,
+                            "color_index": 857,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -792,7 +792,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 857,
+                            "color_index": 858,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -803,7 +803,7 @@
                             "color_short": "FN & WH"
                         },
                         {
-                            "color_index": 858,
+                            "color_index": 859,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -814,7 +814,7 @@
                             "color_short": "LVR"
                         },
                         {
-                            "color_index": 859,
+                            "color_index": 860,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -825,7 +825,7 @@
                             "color_short": "LVR & WH"
                         },
                         {
-                            "color_index": 860,
+                            "color_index": 861,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -836,7 +836,7 @@
                             "color_short": "LVR BRDL"
                         },
                         {
-                            "color_index": 861,
+                            "color_index": 862,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -847,7 +847,7 @@
                             "color_short": "RD BRDL & WH"
                         },
                         {
-                            "color_index": 862,
+                            "color_index": 863,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -858,7 +858,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 863,
+                            "color_index": 864,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -869,7 +869,7 @@
                             "color_short": "WH & LVR"
                         },
                         {
-                            "color_index": 864,
+                            "color_index": 865,
                             "breed_name_url": "greyhound",
                             "breed_name": "Greyhound",
                             "akc_code": "411",
@@ -981,7 +981,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781209992",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24618%5D",
@@ -1030,8 +1030,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

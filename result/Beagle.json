@@ -140,7 +140,7 @@
                             "related_breeds": "Basset Hound, Braque Francais Pyrenean, Porcelaine",
                             "links": [],
                             "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
-                            "temperament": "sociable / lively / smart"
+                            "temperament": "Affectionate / Alert / Cheerful"
                         },
                         "basset-hound": {
                             "breed_name_url": "basset-hound",
@@ -199,8 +199,8 @@
                             "temperament": "independent / easy-going / sweet-tempered"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -453,9 +453,9 @@
                 "beagle": {
                     "breed_name_url": "beagle",
                     "breed_name": "Beagle",
-                    "akc_org_blurb": "Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'\u00bfthanks to its pleading expression'\u00bfcute. They were bred to hunt in packs, so they enjoy company and are generally easygoing.",
-                    "akc_org_about": "There are two Beagle varieties: those standing under 13 inches at the shoulder, and those between 13 and 15 inches. Both varieties are sturdy, solid, and 'big for their inches,'\u009d as dog folks say. They come in such pleasing colors as lemon, red and white, and tricolor. The Beagle's fortune is in his adorable face, with its big brown or hazel eyes set off by long, houndy ears set low on a broad head.\n\n A breed described as 'merry'\u009d by its fanciers, Beagles are loving and lovable, happy, and companionable'\u00bfall qualities that make them excellent family dogs. No wonder that for years the Beagle has been the most popular hound dog among American pet owners. These are curious, clever, and energetic hounds who require plenty of playtime.",
-                    "mp_description": "It's no surprise that one of the most beloved fictional dogs in America is Snoopy the Beagle. Your Beagle puppy will make an amusing and lively addition to the family. Bred for hunting, he'll thrive on daily exercise and being a member of your pack. Beagles are easy-going and friendly comedians, but they're also quick to follow their noses, which can lead to mischief. Give your Beagle pup lots of active play and you'll be rewarded with a loving and lovable pal."
+                    "akc_org_blurb": "<p>Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'\u00bfthanks to its pleading expression'\u00bfcute. They were bred to hunt in packs, so they enjoy company and are generally easygoing.</p>",
+                    "akc_org_about": "<p>There are two Beagle varieties: those standing under 13 inches at the shoulder, and those between 13 and 15 inches. Both varieties are sturdy, solid, and 'big for their inches,' as dog folks say. They come in such pleasing colors as lemon, red and white, and tricolor. The Beagle's fortune is in his adorable face, with its big brown or hazel eyes set off by long, houndy ears set low on a broad head. &nbsp;&nbsp;A breed described as 'merry' by its fanciers, Beagles are loving and lovable, happy, and companionable'\u00bfall qualities that make them excellent family dogs. No wonder that for years the Beagle has been the most popular hound dog among American pet owners. These are curious, clever, and energetic hounds who require plenty of playtime.</p>",
+                    "mp_description": "<p>It's no surprise that one of the most beloved fictional dogs in America is Snoopy the Beagle. Your Beagle puppy will make an amusing and lively addition to the family. Bred for hunting, he'll thrive on daily exercise and being a member of your pack. Beagles are easy-going and friendly comedians, but they're also quick to follow their noses, which can lead to mischief. Give your Beagle pup lots of active play and you'll be rewarded with a loving and lovable pal.</p>"
                 }
             },
             "standards": {
@@ -500,7 +500,7 @@
                 "beagle": {
                     "markings": [
                         {
-                            "marking_index": 220,
+                            "marking_index": 222,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -510,7 +510,7 @@
                             "markings_short": "TKD"
                         },
                         {
-                            "marking_index": 221,
+                            "marking_index": 223,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -520,7 +520,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 222,
+                            "marking_index": 224,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -530,7 +530,7 @@
                             "markings_short": "BR MKGS"
                         },
                         {
-                            "marking_index": 223,
+                            "marking_index": 225,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -540,7 +540,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 224,
+                            "marking_index": 226,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -550,7 +550,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 225,
+                            "marking_index": 227,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -566,7 +566,7 @@
                 "beagle": {
                     "colors": [
                         {
-                            "color_index": 748,
+                            "color_index": 749,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -577,7 +577,7 @@
                             "color_short": "BLK RD & WH"
                         },
                         {
-                            "color_index": 749,
+                            "color_index": 750,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -588,7 +588,7 @@
                             "color_short": "RD BLK & WH"
                         },
                         {
-                            "color_index": 750,
+                            "color_index": 751,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -599,7 +599,7 @@
                             "color_short": "RD & BLK"
                         },
                         {
-                            "color_index": 751,
+                            "color_index": 752,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -610,7 +610,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 752,
+                            "color_index": 753,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -621,7 +621,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 753,
+                            "color_index": 754,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -632,7 +632,7 @@
                             "color_short": "LMN"
                         },
                         {
-                            "color_index": 754,
+                            "color_index": 755,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -643,7 +643,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 755,
+                            "color_index": 756,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -654,7 +654,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 756,
+                            "color_index": 757,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -665,7 +665,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 757,
+                            "color_index": 758,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -676,7 +676,7 @@
                             "color_short": "TN"
                         },
                         {
-                            "color_index": 758,
+                            "color_index": 759,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -687,7 +687,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 759,
+                            "color_index": 760,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -698,7 +698,7 @@
                             "color_short": "BLK TN & RDTK"
                         },
                         {
-                            "color_index": 760,
+                            "color_index": 761,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -709,7 +709,7 @@
                             "color_short": "BLK FN & WH"
                         },
                         {
-                            "color_index": 761,
+                            "color_index": 762,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -720,7 +720,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 762,
+                            "color_index": 763,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -731,7 +731,7 @@
                             "color_short": "WH BLK & TN"
                         },
                         {
-                            "color_index": 763,
+                            "color_index": 764,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -742,7 +742,7 @@
                             "color_short": "BL TN & WH"
                         },
                         {
-                            "color_index": 764,
+                            "color_index": 765,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -753,7 +753,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 765,
+                            "color_index": 766,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -764,7 +764,7 @@
                             "color_short": "BLK TN & BLTK"
                         },
                         {
-                            "color_index": 766,
+                            "color_index": 767,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -775,7 +775,7 @@
                             "color_short": "BLK TN & WH"
                         },
                         {
-                            "color_index": 767,
+                            "color_index": 768,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -786,7 +786,7 @@
                             "color_short": "BLK WH & TN"
                         },
                         {
-                            "color_index": 768,
+                            "color_index": 769,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -797,7 +797,7 @@
                             "color_short": "BR & WH"
                         },
                         {
-                            "color_index": 769,
+                            "color_index": 770,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -808,7 +808,7 @@
                             "color_short": "BR WH & TN"
                         },
                         {
-                            "color_index": 770,
+                            "color_index": 771,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -819,7 +819,7 @@
                             "color_short": "LMN & WH"
                         },
                         {
-                            "color_index": 771,
+                            "color_index": 772,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -830,7 +830,7 @@
                             "color_short": "TN & WH"
                         },
                         {
-                            "color_index": 772,
+                            "color_index": 773,
                             "breed_name_url": "beagle",
                             "breed_name": "Beagle",
                             "akc_code": "404",
@@ -942,7 +942,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104019",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23453%5D",
@@ -991,8 +991,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1577,7 +1577,7 @@
             "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
             "button": {
                 "text": "Look for your Puppy",
-                "url": "http://marketplace.akc.org/puppies/beagle",
+                "url": "https://marketplace.akc.org/puppies/beagle",
                 "is_external": true
             }
         },

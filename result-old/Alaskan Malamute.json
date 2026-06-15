@@ -1,0 +1,1349 @@
+{
+    "settings": {
+        "current_breed": "alaskan-malamute",
+        "current_breed_group": {
+            "name": "Working Group",
+            "url": "https://www.akc.org/dog-breeds/working/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21144303/Alaskan-Malamute-Club-of-America-March-2022.pdf",
+                    "mp_health": "<p>The Alaskan Malamute needs early socialization to people and dogs as well as basic obedience training to grow up to be a well-adjusted, mentally healthy dog. Working with a responsible breeder, those wishing to own an Alaskan Malamute can gain the education they need to know what specific health concerns exist within the breed.</p>",
+                    "akc_org_health": "<p>A responsible breeder will screen breeding stock for health conditions such as hip dysplasia (a malformation of the hip joint that is the most common skeletal condition in dogs), elbow dysplasia, thrombopathia, chondrodysplasia ('dwarfism'), hypothyroidism, inherited polyneuropathy, von Willebrand's disease, and day blindness. As with all breeds, an Alaskan Malamute's ears should be checked regularly to remove foreign matter and avoid a buildup of wax, and his teeth should be brushed regularly.</p>",
+                    "akc_org_nutrition": "<p>The Alaskan Malamute should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The thick, waterproof double coat of the Alaskan Malamute is beautifully adapted to harsh Arctic life, but it requires constant upkeep. A Malamute should be brushed every day with a pin brush and metal comb, all the while checking for mats, which can harbor fungus, and hot spots, which can become infected. Twice a year, during shedding season, an undercoat rake should be added to the regimen. Show Malamutes are often bathed weekly, but a pet Malamute can go six to eight weeks between baths. &nbsp;Conditioner can be used, in moderation, if the coat feels dry. As with all breeds, the Malamute's nails should be trimmed regularly.</p>",
+                    "akc_org_exercise": "<p>While the Malamute was not bred for racing, he was bred to work. A strong, athletic dog with tremendous endurance, designed to carry heavy loads, a Mal requires daily exercise. Romping in a well-fenced yard or other enclosed space will suffice, but Malamutes also enjoy hiking, running, and swimming with their owners. And should the owner have sufficient time and interest, Malamutes often take part in agility and obedience trials, weight-pulling competitions, backpacking (yes, you can buy a backpack for your dog), recreational or competitive sledding, and skijoring (pulling a person who is on skis).</p>",
+                    "akc_org_training": "<p>Socialization and obedience training are necessary in order to prevent a Malamute from becoming pushy with children and other pets, or dominant over adults he or she doesn't respect. Malamutes are highly intelligent but also independent and willful, often to the point of stubbornness. While fairness and patience can yield a devoted, trustworthy companion, there are certain behaviors that may be impossible to train out of a Mal, such as digging, so any yard fencing must continue into the ground. And Malamutes are not especially suited to be guard dogs because they tend to be friendly with everyone they meet.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Alaskan Malamute Polyneuropathy (AMPN) - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Alaskan Malamute Polyneuropathy (AMPN) - DNA Test"
+                }
+            },
+            "basics": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "breed_name_oracle": "Alaskan Malamute",
+                    "matches_oracle": "Alaskan Malamute",
+                    "akc_code": "601",
+                    "breed_name_plural": "Alaskan Malamutes",
+                    "breed_nicknames": "Mal",
+                    "origin": "Alaska",
+                    "breed_group": "Working Group",
+                    "year_recognized": "1935",
+                    "life_expectancy": "10-14 years",
+                    "related_breeds": "Yakutian Laika, Siberian Husky, Samoyed, Chinook, Lapponian Herder",
+                    "links": {
+                        "mp_url": "https://marketplace.akc.org/puppies/alaskan-malamute",
+                        "akc_url": "https://www.akc.org/dog-breeds/alaskan-malamute"
+                    },
+                    "popularity_2025": 81,
+                    "popularity_2024": 79,
+                    "popularity_2023": 71,
+                    "popularity_2022": 67,
+                    "popularity_2021": 68,
+                    "popularity_2020": 65,
+                    "popularity_2019": 65,
+                    "popularity_2018": 58,
+                    "popularity_2017": 59,
+                    "popularity_2016": 59,
+                    "popularity_2015": 54,
+                    "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "yakutian-laika",
+                        "siberian-husky",
+                        "samoyed",
+                        "chinook",
+                        "lapponian-herder"
+                    ],
+                    "related_breeds_items": {
+                        "yakutian-laika": {
+                            "breed_name_url": "yakutian-laika",
+                            "breed_name": "Yakutian Laika",
+                            "breed_name_oracle": "Yakutian Laika",
+                            "matches_oracle": "Yakutian Laika",
+                            "akc_code": "670",
+                            "breed_name_plural": "Yakutian Laikas",
+                            "breed_nicknames": "Yakuts",
+                            "origin": "Yakutia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Swedish Lapphund, Lapponian Herder, Alaskan Malamute, Samoyed, Siberian Husky",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / active / affectionate"
+                        },
+                        "siberian-husky": {
+                            "breed_name_url": "siberian-husky",
+                            "breed_name": "Siberian Husky",
+                            "breed_name_oracle": "Siberian Husky",
+                            "matches_oracle": "Siberian Husky",
+                            "akc_code": "626",
+                            "breed_name_plural": "Siberian Huskies",
+                            "breed_nicknames": "Husky",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Alaskan Malamute, Yakutian Laika, Akita, Chinook, Samoyed",
+                            "links": [],
+                            "popularity_2025": 30,
+                            "popularity_2024": 26,
+                            "popularity_2023": 24,
+                            "popularity_2022": 21,
+                            "popularity_2021": 19,
+                            "popularity_2020": 16,
+                            "popularity_2019": 15,
+                            "popularity_2018": 14,
+                            "popularity_2017": 12,
+                            "popularity_2016": 12,
+                            "popularity_2015": 12,
+                            "related_groups_characteristics": "Largest Dog Breeds, ",
+                            "temperament": "Loyal / Outgoing / mischievous"
+                        },
+                        "samoyed": {
+                            "breed_name_url": "samoyed",
+                            "breed_name": "Samoyed",
+                            "breed_name_oracle": "Samoyed",
+                            "matches_oracle": "Samoyed",
+                            "akc_code": "624",
+                            "breed_name_plural": "Samoyeds",
+                            "breed_nicknames": "Sammy, Sam, The Smiling Dog",
+                            "origin": "Siberia",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1906",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Yakutian Laika, Siberian Husky, Norwegian Elkhound, Swedish Lapphund, Lapponian Herder",
+                            "links": [],
+                            "popularity_2025": 55,
+                            "popularity_2024": 53,
+                            "popularity_2023": 50,
+                            "popularity_2022": 53,
+                            "popularity_2021": 55,
+                            "popularity_2020": 56,
+                            "popularity_2019": 59,
+                            "popularity_2018": 59,
+                            "popularity_2017": 57,
+                            "popularity_2016": 65,
+                            "popularity_2015": 61,
+                            "related_groups_characteristics": "",
+                            "temperament": "friendly / gentle / adaptable"
+                        },
+                        "chinook": {
+                            "breed_name_url": "chinook",
+                            "breed_name": "Chinook",
+                            "breed_name_oracle": "Chinook",
+                            "matches_oracle": "Chinook",
+                            "akc_code": "653",
+                            "breed_name_plural": "Chinooks",
+                            "breed_nicknames": "Chinook",
+                            "origin": "United States",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2013",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Siberian Husky, Mastiff, Samoyed, Yakutian Laika, Alaskan Malamute",
+                            "links": [],
+                            "popularity_2025": 198,
+                            "popularity_2024": 182,
+                            "popularity_2023": 179,
+                            "popularity_2022": 180,
+                            "popularity_2021": 172,
+                            "popularity_2020": 186,
+                            "popularity_2019": 186,
+                            "popularity_2018": 190,
+                            "popularity_2017": 179,
+                            "popularity_2016": 175,
+                            "popularity_2015": 177,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "devoted / smart / patient"
+                        },
+                        "lapponian-herder": {
+                            "breed_name_url": "lapponian-herder",
+                            "breed_name": "Lapponian Herder",
+                            "breed_name_oracle": "Lapponian Herder",
+                            "matches_oracle": "Lapponian Herder",
+                            "akc_code": "866",
+                            "breed_name_plural": null,
+                            "breed_nicknames": "",
+                            "origin": "Finland",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Finnish Lapphund, Swedish Lapphund, Norwegian Buhund, Yakutian Laika, Finnish Spitz",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / friendly / energetic"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "temperament": "loyal / playful / affectionate",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "akc_org_blurb": "An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone.",
+                    "akc_org_about": "The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!'\u009d But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,'\u009d the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'\u00bfplayful, gentle, friendly, and great with kids.",
+                    "mp_description": "The Alaskan Malamute, a Spitz-type cousin, is built for long heavy hauling, a marathoner, not a sprinter. He's a dignified, hard-working dog, intelligent and athletic. But he's also a great companion, especially for active families who take him swimming, jogging or hiking. He can be playful and affectionate and is gentle with kids. Malamute puppies, with their sweet eyes and fluffy coats will grow up to be strong (and strong-willed) dogs, so loving, early training will help him be a balanced and happy family member."
+                }
+            },
+            "standards": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "title_1": "Coat",
+                    "description_1": "The Malamute has a thick, coarse guard coat, never long and soft. The undercoat is dense, from one to two inches in depth, oily and woolly. The coarse guard coat varies in length as does the undercoat. The coat is relatively short to medium along the sides of the body, with the length of the coat increasing around the shoulders and neck, down the back, over the rump, and in the breeching and plume. Malamutes usually have a shorter and less dense coat during the summer months. The Malamute is shown naturally. Trimming is not acceptable except to provide a clean cut appearance of feet.",
+                    "title_2": "Neck Topline Body",
+                    "description_2": "The neck is strong and moderately arched. The chest is well developed. The body is compactly built but not short coupled. The back is straight and gently sloping to the hips. The loins are hard and well muscled. A long loin that may weaken the back is a fault. The tail is moderately set and follows the line of the spine at the base. The tail is carried over the back when not working. It is not a snap tail or curled tight against the back, nor is it short furred like a fox brush. The Malamute tail is well furred and has the appearance of a waving plume.",
+                    "title_3": "Forequarters",
+                    "description_3": "The shoulders are moderately sloping; forelegs heavily boned and muscled, straight to the pasterns when viewed from the front. Pasterns are short and strong and slightly sloping when viewed from the side. The feet are of the snowshoe type, tight and deep, with well-cushioned pads, giving a firm, compact appearance. The feet are large, toes tight fitting and well arched. There is a protective growth of hair between the toes. The pads are thick and tough; toenails short and strong.",
+                    "title_4": "Hindquarters",
+                    "description_4": "The rear legs are broad and heavily muscled through the thighs; stifles moderately bent; hock joints are moderately bent and well let down. When viewed from the rear, the legs stand and move true in line with the movement of the front legs, not too close or too wide. Dewclaws on the rear legs are undesirable and should be removed shortly after puppies are whelped.",
+                    "title_5": "General Appearance",
+                    "description_5": "The Alaskan Malamute, one of the oldest Arctic sled dogs, is a powerful and substantially built dog with a deep chest and strong, well-muscled body. The Malamute stands well over the pads, and this stance gives the appearance of much activity and a proud carriage, with head erect and eyes alert showing interest and curiosity. The head is broad. Ears are triangular and erect when alerted. The muzzle is bulky, only slight diminishing in width from root to nose. The muzzle is not pointed or long, yet not stubby. The coat is thick with a coarse guard coat of sufficient length to protect a woolly undercoat. Malamutes are of various colors. Face markings are a distinguishing feature. These consist of a cap over the head, the face either all white or marked with a bar and/or mask. The tail is well furred, carried over the back, and has the appearance of a waving plume.",
+                    "title_6": "Head",
+                    "description_6": "The head is broad and deep, not coarse or clumsy, but in proportion to the size of the dog. The expression is soft and indicates an affectionate disposition. The eyes are obliquely placed in the skull. Eyes are brown, almond shaped and of medium size. Dark eyes are preferred. Blue eyes are a disqualifying fault. The ears are of medium size, but small in proportion to the head. The ears are triangular in shape and slightly rounded at the tips. They are set wide apart on the outside back edges of the skull on line with the upper corner of the eye, giving ears the appearance, when erect, of standing off from the skull. Erect ears point slightly forward, but when the dog is at work, the ears are sometimes folded against the skull. High set ears are a fault.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23",
+                    "height_max": "25",
+                    "weight_min": "75",
+                    "weight_max": "85",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/AlaskanMalamute.pdf",
+                    "height_min_f": "23",
+                    "height_max_f": "25",
+                    "height_min_m": "23",
+                    "height_max_m": "25",
+                    "height_display": "25 inches (male), 23 inches (female)",
+                    "weight_min_f": "75",
+                    "weight_max_f": "85",
+                    "weight_min_m": "75",
+                    "weight_max_m": "85",
+                    "weight_display": "85 pounds (male), 75 pounds (female)"
+                }
+            },
+            "markings": {
+                "alaskan-malamute": {
+                    "markings": [
+                        {
+                            "marking_index": 412,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 413,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "A",
+                            "cde_markings": "041",
+                            "markings_long": "Gray Mask",
+                            "markings_short": "GR MSK"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "alaskan-malamute": {
+                    "colors": [
+                        {
+                            "color_index": 1381,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "105",
+                            "color_long": "Gray & White",
+                            "color_short": "GR & WH"
+                        },
+                        {
+                            "color_index": 1382,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 1383,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 1384,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "170",
+                            "color_long": "Seal & White",
+                            "color_short": "SL & WH"
+                        },
+                        {
+                            "color_index": 1385,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "182",
+                            "color_long": "Silver & White",
+                            "color_short": "SLVR & WH"
+                        },
+                        {
+                            "color_index": 1386,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1387,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        },
+                        {
+                            "color_index": 1388,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 1389,
+                            "breed_name_url": "alaskan-malamute",
+                            "breed_name": "Alaskan Malamute",
+                            "akc_code": "601",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "001",
+                            "color_long": "Agouti & White",
+                            "color_short": "AGT & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "breed_club_name": "Alaskan Malamute Club of America, Inc.",
+                    "breed_club_url": "www.alaskanmalamute.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/AlaskanMalamute-club-flier.pdf",
+                    "breed_rescue_url": "http://www.malamuterescue.org/index.php/rescue-affiliates/",
+                    "national_breed_club": "Alaskan Malamute Club of America, Inc.",
+                    "national_breed_club_url": "www.alaskanmalamute.org",
+                    "breed_referral_contact_name": "Stephanie Lindeman",
+                    "breed_referral_contact_phone_number": "(219) 851-1002",
+                    "breed_referral_contact_email": "sigmaknls@gmail.com",
+                    "breed_referral_contact_address": "5801 WHEELHORSE DR\nINDIANAPOLIS, IN 46221-4021",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.alaskanmalamute.org/malamutes/breeder-list",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.malamuterescue.org/index.php/rescue-affiliates/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1419,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 5,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Alaskan Malamute Club of America, Inc. is the official AKC Parent Club for the Alaskan Malamute. For interest in rescuing a Malamute, contact the Alaskan Malamute Assistance League."
+                        },
+                        {
+                            "id": 300,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 302,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 299,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 301,
+                            "breed_id": "5",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:15",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "alaskan-malamute": {
+                    "breed_name_url": "alaskan-malamute",
+                    "breed_name": "Alaskan Malamute",
+                    "akc_org_history": "The Alaskan Malamute is among the oldest sled dog breeds of the Arctic. The breed name is derived from the Mahlemiut, an Inuit tribe that settled in Kotzebue Sound of northwestern Alaska a long, long time ago. The dog the Mahlemiut people developed is a sled dog, created to work in packs to haul heavy loads at low speeds over long distances. (Sled dogs, like the Siberian Husky, pull lighter loads at faster speeds. Huskies are racers; Malamutes are freighters.)",
+                    "mp_history_job": "The Malamute gets its name from the Mahlemiut, an Inuit tribe that settled in north Alaska a long, long time ago. The dog the Mahlemiuts developed is a sledge dog, created to haul heavy loads at low speeds over long distances. (Sled dogs, like the Siberian Husky, pull lighter loads at faster speeds. Huskies are racers; Malamutes are freighters.) Mals also earned their keep in the Arctic as hunting partners, backpack carriers, and loyal family companions.",
+                    "did_you_know": "Named after the native Innuit tribe called Mahlemuts, who settled along the shores of Kotzebue Sound in the northwestern part of Alaska. | The Malamute is the native Alaskan Arctic breed, cousin to the Samoyed of Russia, Siberian Husky, and the Eskimo dogs of Greenland and Labrador. | In 1933, some Malamutes were selected to aid Adm. Richard Byrd with his Antarctic expedition. | Malamutes typically don't bark much, but they are vocal and will \"talk.\" They also will howl. Sirens will often set them off, although humans can often persuade them to sing as well. Malamutes who are lonely or bored will often howl. | Most Malamutes love to dig in the ground. You cannot train them to stop, but you can give them a designated place to dig. | The Alaskan Malamute was one of the four pure-bred dogs featured on the AKC centennial stamps issued in 1984 by the U.S. Postal Service. The breed has appeared on stamps in at least 14 countries."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775323665",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23249%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-standing-in-the-grass1.jpg",
+                    "alt": "Alaskan Malamute standing in profile in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9ft2010 - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamutes-pulling-a-sled-over-the-snow.jpg",
+                    "alt": "Alaskan Malamutes pulling a sled over the snow.",
+                    "caption": "",
+                    "credit": "format35/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-head-portrait-outdoors.jpg",
+                    "alt": "Alaskan Malamute head portrait outdoors.",
+                    "caption": "",
+                    "credit": "Ksenia Raykova/Shuterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-at-the-AKC-National-Championship.jpg",
+                    "alt": "Best of Breed: GCHB CH Taolanquest Flying Cloud, Alaskan Malamute; Working Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-walking-in-a-field1.jpg",
+                    "alt": "Alaskan Malamute walking in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Alexandr - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-sled-team-pulling-at-their-harness.jpg",
+                    "alt": "Alaskan Malamute sled team pulling at their harness.",
+                    "caption": "",
+                    "credit": "otsphoto/Shutterstock"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-illustration.jpg",
+                "alt": "Alaskan Malamute illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-puppies-playing-in-the-yard.jpg",
+                "alt": "Alaskan Malamute puppies playing in the yard."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/alaskan-malamute",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Alaskan Malamute",
+        "shopCta": false
+    }
+}

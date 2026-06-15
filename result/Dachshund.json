@@ -186,8 +186,8 @@
                             "temperament": "alert / affectionate / smart"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -488,7 +488,7 @@
                 "dachshund": {
                     "markings": [
                         {
-                            "marking_index": 235,
+                            "marking_index": 237,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -498,7 +498,7 @@
                             "markings_short": "BRDL"
                         },
                         {
-                            "marking_index": 236,
+                            "marking_index": 238,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -508,7 +508,7 @@
                             "markings_short": "DPL"
                         },
                         {
-                            "marking_index": 237,
+                            "marking_index": 239,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -518,7 +518,7 @@
                             "markings_short": "PBLD"
                         },
                         {
-                            "marking_index": 238,
+                            "marking_index": 240,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -528,7 +528,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 239,
+                            "marking_index": 241,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -544,7 +544,7 @@
                 "dachshund": {
                     "colors": [
                         {
-                            "color_index": 807,
+                            "color_index": 808,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -555,7 +555,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 808,
+                            "color_index": 809,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -566,7 +566,7 @@
                             "color_short": "CHLT & TN"
                         },
                         {
-                            "color_index": 809,
+                            "color_index": 810,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -577,7 +577,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 810,
+                            "color_index": 811,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -588,7 +588,7 @@
                             "color_short": "WHTN"
                         },
                         {
-                            "color_index": 811,
+                            "color_index": 812,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -599,7 +599,7 @@
                             "color_short": "WLDBR"
                         },
                         {
-                            "color_index": 812,
+                            "color_index": 813,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -610,7 +610,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 813,
+                            "color_index": 814,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -621,7 +621,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 814,
+                            "color_index": 815,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -632,7 +632,7 @@
                             "color_short": "FWN(ISB) & TN"
                         },
                         {
-                            "color_index": 815,
+                            "color_index": 816,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -643,7 +643,7 @@
                             "color_short": "BLK & CR"
                         },
                         {
-                            "color_index": 816,
+                            "color_index": 817,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -654,7 +654,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 817,
+                            "color_index": 818,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -665,7 +665,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 818,
+                            "color_index": 819,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -676,7 +676,7 @@
                             "color_short": "FWN(ISB) & CR"
                         },
                         {
-                            "color_index": 819,
+                            "color_index": 820,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -687,7 +687,7 @@
                             "color_short": "CHLT & CR"
                         },
                         {
-                            "color_index": 820,
+                            "color_index": 821,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -698,7 +698,7 @@
                             "color_short": "BL & CR"
                         },
                         {
-                            "color_index": 821,
+                            "color_index": 822,
                             "breed_name_url": "dachshund",
                             "breed_name": "Dachshund",
                             "akc_code": "408",
@@ -810,7 +810,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781238593",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24162%5D",
@@ -859,8 +859,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1079,7 +1079,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Dachshund Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/dachshund?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Dachshund/dachshund",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Dachshund-Merchandise-Collage.png"
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1462,6 +1471,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Dachshund",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Dachshund Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/dachshund?utm_source=breed_page_banner_ad&#038;utm_medium=akcorg&#038;utm_campaign=AKCShop_march2026_marketing&#038;utm_id=AKCShop&#038;utm_term=shop_collection&#038;utm_content=Dachshund/dachshund",
+                "is_external": true
+            },
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Dachshund-Merchandise-Collage.png"
+        }
     }
 }

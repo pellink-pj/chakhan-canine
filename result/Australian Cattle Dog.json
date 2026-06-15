@@ -168,14 +168,14 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "12-15 years",
-                            "related_breeds": "Border Collie, Australian Cattle Dog, Collie, Beauceron, Australian Kelpie",
+                            "related_breeds": "Australian Kelpie, Border Collie, Australian Cattle Dog, Collie, Beauceron",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "alert / intelligent / eager"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -476,7 +476,7 @@
                 "australian-cattle-dog": {
                     "markings": [
                         {
-                            "marking_index": 557,
+                            "marking_index": 574,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -486,7 +486,7 @@
                             "markings_short": "TN MKGS"
                         },
                         {
-                            "marking_index": 558,
+                            "marking_index": 575,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -496,7 +496,7 @@
                             "markings_short": "RD MKGS"
                         },
                         {
-                            "marking_index": 559,
+                            "marking_index": 576,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -512,7 +512,7 @@
                 "australian-cattle-dog": {
                     "colors": [
                         {
-                            "color_index": 1801,
+                            "color_index": 1823,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -523,7 +523,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1802,
+                            "color_index": 1824,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -534,7 +534,7 @@
                             "color_short": "BL MOT"
                         },
                         {
-                            "color_index": 1803,
+                            "color_index": 1825,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -545,7 +545,7 @@
                             "color_short": "BL SPKLD"
                         },
                         {
-                            "color_index": 1804,
+                            "color_index": 1826,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -556,7 +556,7 @@
                             "color_short": "RED SPKLD"
                         },
                         {
-                            "color_index": 1805,
+                            "color_index": 1827,
                             "breed_name_url": "australian-cattle-dog",
                             "breed_name": "Australian Cattle Dog",
                             "akc_code": "832",
@@ -668,7 +668,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229310",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23364%5D",
@@ -717,8 +717,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

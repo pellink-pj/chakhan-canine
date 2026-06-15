@@ -1,0 +1,1284 @@
+{
+    "settings": {
+        "current_breed": "norrbottenspets",
+        "current_breed_group": {
+            "name": "Miscellaneous Class",
+            "url": "https://www.akc.org/dog-breeds/miscellaneous-class/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage. </p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "parent_club_health_statement_link": null,
+                    "mp_health": "<p>Norrbottenspets are generally a healthy breed Like all breeds there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Norrbottenspets are healthy dogs.</p>",
+                    "akc_org_health": "<p>Some dogs may be faced with health challenges in their lives, but the majority of Norrbottenspets are healthy dogs. Working with a responsible breeder, prospective owners can gain the education they need to learn about specific health concerns within the breed.</p>",
+                    "akc_org_nutrition": "<p>The Norrbottenspet should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                    "akc_org_grooming": "<p>The Norrbottenspets is double-coated with a topcoat that is hard, short, and straight and an undercoat that is fine and dense. They are very clever and clean dogs, with no offensive smell. Beyond regular weekly grooming, the very occasional bath will keep them clean and looking their best. Their nails should be trimmed when necessary with a nail clipper or grinder to avoid overgrowth, splitting, and cracking. Ears should be checked regularly to avoid a buildup of wax and debris, which can result in infection. Teeth should be brushed when needed.</p>",
+                    "akc_org_exercise": "<p>Nobs are vivacious, energetic, and playful, with an engaging and affectionate disposition. Options for exercise include play time in the backyard, preferably fenced, or being taken for walks several times a day. Exercise can also come in the form of indoor activities, like hide-and-seek, chasing a ball rolled along the floor, or learning new tricks. Certain outdoor activities like swimming, hiking, and retrieving balls or flying discs can provide a good outlet for expending energy. If you live in an apartment, even short walks in the hallways can give your dog some exercise, especially during inclement weather. Training for dog sports like agility, obedience, and rally can also be a great way to give your dog exercise.</p>",
+                    "akc_org_training": "<p>null</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "breed_name_oracle": "Norrbottenspets",
+                    "matches_oracle": "Norrbottenspets",
+                    "akc_code": "441",
+                    "breed_name_plural": "Norrbottenspets",
+                    "breed_nicknames": "Nobs",
+                    "origin": "Norway",
+                    "breed_group": "Miscellaneous Class",
+                    "year_recognized": 0,
+                    "life_expectancy": "14-17 years",
+                    "related_breeds": "Norwegian Lundehund, Danish-Swedish Farmdog, Yakutian Laika, Finnish Lapphund, Swedish Vallhund",
+                    "links": [],
+                    "popularity_2016": 174,
+                    "popularity_2015": 165,
+                    "popularity_2014": 172,
+                    "popularity_2013": 166,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "norwegian-lundehund",
+                        "danish-swedish-farmdog",
+                        "yakutian-laika",
+                        "finnish-lapphund",
+                        "swedish-vallhund"
+                    ],
+                    "related_breeds_items": {
+                        "norwegian-lundehund": {
+                            "breed_name_url": "norwegian-lundehund",
+                            "breed_name": "Norwegian Lundehund",
+                            "breed_name_oracle": "Norwegian Lundehund",
+                            "matches_oracle": "Norwegian Lundehund",
+                            "akc_code": "330",
+                            "breed_name_plural": "Norwegian Lundehunds",
+                            "breed_nicknames": "Lundhund, Lundie",
+                            "origin": "Norway",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Swedish Vallhund, Finnish Lapphund, Norwegian Buhund, Norrbottenspets, Icelandic Sheepdog",
+                            "links": [],
+                            "popularity_2025": 202,
+                            "popularity_2024": 198,
+                            "popularity_2023": 198,
+                            "popularity_2022": 198,
+                            "popularity_2021": 197,
+                            "popularity_2020": 195,
+                            "popularity_2019": 194,
+                            "popularity_2018": 191,
+                            "popularity_2017": 190,
+                            "popularity_2016": 188,
+                            "popularity_2015": 182,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / loyal / energetic"
+                        },
+                        "danish-swedish-farmdog": {
+                            "breed_name_url": "danish-swedish-farmdog",
+                            "breed_name": "Danish-Swedish Farmdog",
+                            "breed_name_oracle": "Danish-Swedish Farmdog",
+                            "matches_oracle": "Danish-Swedish Farmdog",
+                            "akc_code": "662",
+                            "breed_name_plural": "Danish-Swedish Farmdogs",
+                            "breed_nicknames": "",
+                            "origin": "Denmark/Sweden",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2025",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Beagle, Teddy Roosevelt Terrier, Rat Terrier, Parson Russell Terrier, Jagdterrier",
+                            "links": [],
+                            "popularity_2025": 170,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "energetic / trainable / attentive"
+                        },
+                        "yakutian-laika": {
+                            "breed_name_url": "yakutian-laika",
+                            "breed_name": "Yakutian Laika",
+                            "breed_name_oracle": "Yakutian Laika",
+                            "matches_oracle": "Yakutian Laika",
+                            "akc_code": "670",
+                            "breed_name_plural": "Yakutian Laikas",
+                            "breed_nicknames": "Yakuts",
+                            "origin": "Yakutia",
+                            "breed_group": "Miscellaneous Class",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Swedish Lapphund, Lapponian Herder, Alaskan Malamute, Samoyed, Siberian Husky",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / active / affectionate"
+                        },
+                        "finnish-lapphund": {
+                            "breed_name_url": "finnish-lapphund",
+                            "breed_name": "Finnish Lapphund",
+                            "breed_name_oracle": "Finnish Lapphund",
+                            "matches_oracle": "Finnish Lapphund",
+                            "akc_code": "848",
+                            "breed_name_plural": "Finnish Lapphunds",
+                            "breed_nicknames": "Lappy",
+                            "origin": "Finland",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2011",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Icelandic Sheepdog, Norwegian Elkhound, Finnish Spitz, Yakutian Laika, Swedish Vallhund",
+                            "links": [],
+                            "popularity_2025": 127,
+                            "popularity_2024": 129,
+                            "popularity_2023": 135,
+                            "popularity_2022": 167,
+                            "popularity_2021": 168,
+                            "popularity_2020": 165,
+                            "popularity_2019": 167,
+                            "popularity_2018": 161,
+                            "popularity_2017": 173,
+                            "popularity_2016": 173,
+                            "popularity_2015": 169,
+                            "related_groups_characteristics": "",
+                            "temperament": "alert / friendly / agile"
+                        },
+                        "swedish-vallhund": {
+                            "breed_name_url": "swedish-vallhund",
+                            "breed_name": "Swedish Vallhund",
+                            "breed_name_oracle": "Swedish Vallhund",
+                            "matches_oracle": "Swedish Vallhund",
+                            "akc_code": "844",
+                            "breed_name_plural": "Swedish Vallhunds",
+                            "breed_nicknames": "SV, Vallhund, Viking Dog",
+                            "origin": "Sweden",
+                            "breed_group": "Herding Group",
+                            "year_recognized": "2007",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Cardigan Welsh Corgi, Icelandic Sheepdog, Swedish Lapphund, Pembroke Welsh Corgi, Norwegian Lundehund",
+                            "links": [],
+                            "popularity_2025": 152,
+                            "popularity_2024": 153,
+                            "popularity_2023": 138,
+                            "popularity_2022": 160,
+                            "popularity_2021": 160,
+                            "popularity_2020": 147,
+                            "popularity_2019": 161,
+                            "popularity_2018": 169,
+                            "popularity_2017": 149,
+                            "popularity_2016": 163,
+                            "popularity_2015": 155,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "friendly / energetic / watchful"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "temperament": "fearless / agile / attentive",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "akc_org_blurb": "<p>The Norrbottenspets is a small, slightly rectangular spitzdog, well poised, with sinewy and well-developed muscles. Alert with head carried high, they have a fearless attitude and are extremely agile. They are calm, keen, and attentive, with a kind disposition.</p>",
+                    "akc_org_about": "<p>Nobs aren't large dogs (a big male stands a shade below 20 inches) but their tough, sinewy bodies are built to withstand punishing terrain and harsh climates. They are a small-sized hunting dog of Spitz-type, which was thought to be extinct but survived as a farm and hunting dog in the Northern parts of Sweden and Finland. To be able to navigate the rough terrain and climate of the Scandinavian forests and hold large dangerous game, like moose, Norrbottenspets evolved to be extremely agile, rugged, and weatherproof with a fearless attitude, while at the same time kind and affectionate companions at home. They exhibit no extremes in physical characteristics because they must do all things well.</p>\n<p><br></p>\n<p>Pronunciation - Nor-bot-ten-spitz</p>",
+                    "mp_description": "<p>Enter a Marketplace description</p>"
+                }
+            },
+            "standards": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "title_1": "General Appearance",
+                    "description_1": "The Norrbottenspets is a small, spitz-type hound of Nordic origin that uses sight, scent, and hearing to hunt forest game and then holds the game at bay and calls the hunter with high-pitched vocalizations. To navigate the rough terrain and climate of Scandinavian forests and hold large dangerous game, like moose, Norrbottenspets are extremely agile, rugged, and weatherproof with a fearless attitude, while at the same time kind and affectionate companions at fireside and home. Norrbottenspets exhibit no extremes in physical characteristics because they must do all things well. The ideal Norrbottenspets is a compact, well-muscled, yet agile dog standing no greater than 18_ inches at the withers. The ideal Norrbottenspets has brown, almond shaped eyes, slightly over medium size upright ears, an unaltered and naturally presented close-fitting double coat of white with a red or yellow mask and spots, a loosely curled tail with the tip touching the hip, bold movement, and a self-confident and daring demeanor. Norrbottenspets are never nervous, shy, or aggressive. Norrbottenspets vocalize when excited. Sexual dimorphism is clearly apparent in Norrbottenspets.",
+                    "title_2": "Size Proportion Substance",
+                    "description_2": "Size - The desired height for males is 17 to 18_ inches; females, 15_ to 17_ inches. Noticeably over size or under size is a fault. Proportion - Males are slightly rectangular; females are a little longer. The depth of the chest should be one-half the height at the withers. Substance - Norrbottenspets are compactly built without being bulky. They have sinewy, well-developed muscles and are without extremes in angulation or physical features. Bone dimension gives rugged yet graceful proportions. Sexual dimorphism is clearly apparent, with females appearing feminine yet durable.",
+                    "title_3": "Head",
+                    "description_3": "The head is strong, clean cut, and evenly tapering towards the nose when viewed from above and from the side. Sexual dimorphism should be clearly visible in the structure of the head. Expression - Norrbottenspets appear calm, keen, and attentive, with the head carried high and a fearless attitude. Eyes - The eyes are medium sized, almond-shaped, and obliquely set. Irises are dark brown and eye rims are pigmented. Ears - The ears are high set and erect, slightly over medium size in proportion to the head, with hard leather and slightly rounded tips. Skull - The skull is relatively broad with the forehead slightly arched and the top of the skull rather flat. The superciliary arches are well marked, the nosebridge is straight, and the cheeks are defined. The stop is evident but only slightly marked. Muzzle - The muzzle is half the length of head or somewhat shorter, clearly tapering towards the tip of nose, but never snipy. The planes of the muzzle and skull are parallel. Nose - The nose is black. A flesh colored or liver brown nose is a fault. Lips - The lips are thin, tightly fitting, and pigmented. Teeth - Well developed jaws and teeth meet in a scissors bite. Missing teeth except for the first premolar are a fault.",
+                    "title_4": "Neck Topline And Body",
+                    "description_4": "Neck - The neck is moderately long in proportion to the body, dry and muscular, with a slight arch and good reach. Topline - The withers are defined with the back and loin level and the croup slightly sloping. Body - The depth of the body is half the total height at withers. Chest - The chest is long, oval in shape, and of normal width, with well-developed last ribs. The forechest is well developed and well defined. The lowest part of the ribcage is in line with the elbow or just below it and merges softly into the bellyline. Tuck up - The bellyline is only slightly tucked up. Back - The back is short, level, and springy with strong muscles. Loin - The loin is short and broad. Croup - The croup is moderately long and broad, slightly sloping, with well-developed and hard muscles. Tail - The tail is rather high set and carried in a high Page 2 of 3 curve, loosely curled with the tip of tail touching the side of upper thigh when in motion. When stretched, the length of the tail should not reach below the hock. A stumpy tail or a docked tail is a disqualification.",
+                    "title_5": "Forequarters",
+                    "description_5": "The forequarters are neither narrow nor broad, with legs straight and parallel, and without extremes in angulation. Shoulder Blades - The shoulder blades are long, broad and muscular, forming well defined and developed withers. The shoulder blades are close fitting to the chest and set obliquely, with great freedom of movement. Upper Arm - The upper arm is the same length as the shoulder blade and forms a right angle with the shoulder blade. The upper arm is strong and well developed, lying close to the chest but with great freedom of movement. The upper arm abducts, extends laterally away from the body, forming up to a 90 degree angle with the midline of the chest. Elbow - The elbow turns neither in nor out. Forearm - The forearm is straight with strong bones and lean but flexible muscles. Pasterns - The pasterns are strong and slightly sloping. Dewclaws - Foreleg dewclaws are present and functional. Feet - The feet are small and strong, pointing straight forward. The toes are well arched and tightly knit with well-developed and hard pads.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The hindquarters are without extremes in angulation and mirror the angulation of the forequarters. The hindquarters stand parallel when viewed from behind. Upper thigh - The upper thigh is proportionately long with strong muscles and forms a right angle with the pelvis. Stifle - The stifle is strong. Second thigh -The second thigh is well muscled and forms a marked angle with the upper thigh. Hock - The hock joint is strong. Pasterns - The rear pasterns are rather long, dry, and elastic. Dewclaws - Rear dewclaws are absent. Feet - Feet are as described above.",
+                    "title_7": "Coat",
+                    "description_7": "The Norrbottenspets is double coated. Topcoat - The topcoat is hard, short, and straight, rather close lying with different lengths: shortest on the nose bridge, the top of skull, the ears and the front of the legs; longest on the neck, the backside of the thighs and the underside of tail. An erect coat is a serious fault. Undercoat - The undercoat is fine and dense. Grooming - The Norrbottenspets is shown naturally with no trimming or fluffing of the coat. A dog exhibiting an erect coat instead of a rather close lying coat, whether the erect coat has been produced by grooming or by a naturally occurring coat fault is to be penalized as to be effectively eliminated from competition.",
+                    "title_8": "Color",
+                    "description_8": "The Norrbottenspets has a base color of pure white overlaid with a colored mask covering the sides of the head and the ears and with well-defined and well-distributed body patches. The ideal overlay color is any nuance of red or yellow. Patches on the body are fairly big.",
+                    "height_min": "16.5",
+                    "height_max": "18",
+                    "weight_min": "20",
+                    "weight_max": "30",
+                    "size": "Small",
+                    "breed_standard_PDF": "https://images.akc.org/pdf/breeds/standards/Norrbottenspets.pdf",
+                    "height_min_f": "16.5",
+                    "height_max_f": "18",
+                    "height_min_m": "16.5",
+                    "height_max_m": "18",
+                    "height_display": "16.5-18 inches",
+                    "weight_min_f": "20",
+                    "weight_max_f": "30",
+                    "weight_min_m": "20",
+                    "weight_max_m": "30",
+                    "weight_display": "20-30 pounds"
+                }
+            },
+            "markings": {
+                "norrbottenspets": {
+                    "markings": [
+                        {
+                            "marking_index": 318,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "008",
+                            "markings_long": "Fawn Markings",
+                            "markings_short": "FN MKGS"
+                        },
+                        {
+                            "marking_index": 319,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "102",
+                            "markings_long": "Orange Markings",
+                            "markings_short": "ORNGE MRKNGS"
+                        },
+                        {
+                            "marking_index": 320,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "100",
+                            "markings_long": "Red Patched",
+                            "markings_short": "RD PTCHD"
+                        },
+                        {
+                            "marking_index": 321,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "026",
+                            "markings_long": "Sable",
+                            "markings_short": "SBL"
+                        },
+                        {
+                            "marking_index": 322,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "090",
+                            "markings_long": "Tan Patches",
+                            "markings_short": "TN PTCHS"
+                        },
+                        {
+                            "marking_index": 323,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 324,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "cde_markings": "044",
+                            "markings_long": "Cream Markings",
+                            "markings_short": "CR MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "norrbottenspets": {
+                    "colors": [
+                        {
+                            "color_index": 1055,
+                            "breed_name_url": "norrbottenspets",
+                            "breed_name": "Norrbottenspets",
+                            "akc_code": "441",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "breed_club_name": "American Norrbottenspets Association",
+                    "breed_club_url": "www.usnorrbottenspets.com",
+                    "breed_club_pdf_url": "",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "American Norrbottenspets Association",
+                    "national_breed_club_url": "www.usnorrbottenspets.com",
+                    "breed_referral_contact_name": "Gabrielle Vannini",
+                    "breed_referral_contact_phone_number": "(989) 859-9855",
+                    "breed_referral_contact_email": "gabriellevannini@gmail.com",
+                    "breed_referral_contact_address": "314 MAGNOLIA ST\nANNA, TX 75409-5262",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1584,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 170,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 960,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 962,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 959,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 961,
+                            "breed_id": "172",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "norrbottenspets": {
+                    "breed_name_url": "norrbottenspets",
+                    "breed_name": "Norrbottenspets",
+                    "akc_org_history": "<p>For centuries, the people of the world's northernmost climes have bred a type of dog known as spitz. These Nordic breeds can be burly like the Alaskan Malamute or dainty like the Pomeranian, but spitz types share certain traits. These include a profusely coated tail curved tightly over the back, a wedge-shaped head usually bearing a foxlike expression, and erect, pointed ears. The Norrbottenspets (nor-bo-TEN-spets) is a member of this ancient clan of cold-weather hunters and workers.&nbsp;</p>\n<p><br></p>\n<p>The Norrbottenspets (or Norrbottenspitz in English) means spitz from the county of North Bothnia and probably originates from small Laika type spitz that were known to live with hunting people in the North Cape area in prehistoric time; small hunting spitz have survived for thousands of years through natural selection. In the very harsh areas of the northern parts of the Scandinavian Peninsula, hunting for food and fur was a necessity for survival. Precious furs like sable, marten-skin and ermine were the only valid currency for centuries. When fur prices dropped drastically after World War II, so did the interest for the Norrbottenspitz. The breed vanished and had no registrations for many years; hence the Swedish Kennel Club (SKK) declared it extinct. But only a decade later, news came that some true-to-type specimens had been found living as pets and watch dogs on small homesteads in the inland area of North Bothnia. Due to the very dedicated work of a few men, this old type hunting spitz was saved. In 1967, the Norrbottenspitz was reintroduced to the Registry in Sweden and a new standard was drawn up. The FCI accepted the new breed standard and the official name became Norrbottenspets.</p>\n<p><br></p>\n<p>Following the Swedish Kennel Club\u00b4s desire, Finns began to search the remote countryside of North Finland for native dogs that matched the standard to broaden the gene pool. They were successful and the majority of foundation dogs came from Finland. The studbook is still open in Finland, but was closed in the 1980s in Sweden. The Norrbottenspets population is about 1600 in Sweden and 1300 in Finland with scattered individuals counted in some tens around the world.</p>\n<p><br></p>\n<p>Norrbottenspets were accepted to the American Kennel Club's Foundation Stock Service in November 2007. As of November 2012, 181 Norrbottenspets, 175 of these with 3-generation pedigrees, were recorded with the American Kennel Club's Foundation Stock Service.</p>",
+                    "mp_history_job": "<p>The Norrbottenspets is named for Norrbotten, the northernmost province of Sweden. It was here and neighboring Finland that this hearty little hunter worked on birds and small game, as well as serving as an all-around farm dog. For centuries the Nob was a common sight in Sweden, but by the 1940s it was rapidly going extinct. The Nob's low point came in 1948, when the Swedish Kennel Club closed the breed's studbook. The Nob hung on, however, in Sweden's most remote villages. In the post World War II era, the Nob made a comeback and was readmitted to the Swedish studbook in 1967.</p>",
+                    "did_you_know": "The Norrbottenspets has been assigned the Hound Group designation. | Norrbottenspets are active, but, with daily exercise, can be quiet in the home. | This breed was so rare, they were once thought to be extinct."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25111%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-On-White-01.jpg",
+                    "alt": "Norrbottenspets standing facing left",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-wading-in-a-lake.jpg",
+                    "alt": "Norrbottenspets wading into a lake.",
+                    "caption": "",
+                    "credit": "Northsweden / Shutterstock"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-sitting-in-a-field-eyes-closed-soaking-up-the-sun.jpg",
+                    "alt": "Norrbottenspets sitting in a field, eyes closed, soaking up the sunshine.",
+                    "caption": "",
+                    "credit": "Northsweden / Shutterstock"
+                }
+            ],
+            "standard": {
+                "src": "",
+                "alt": ""
+            }
+        },
+        "standard": {
+            "image": null
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-MP.jpg",
+                "alt": "Norrbottenspets"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/norrbottenspets",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Norrbottenspets",
+        "shopCta": false
+    }
+}

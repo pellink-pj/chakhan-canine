@@ -18,7 +18,7 @@
                     "akc_org_nutrition": "<p>The Karelian Bear Dog should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
                     "akc_org_grooming": "<p>Beyond regular weekly grooming, the occasional bath will keep your Karelian Bear Dog clean and looking his best. Grooming can be a wonderful bonding experience for you and your pet. The strong, fast-growing nails should be trimmed regularly with a nail clipper or grinder to avoid overgrowth, splitting, and cracking. Their ears should be checked regularly to avoid a buildup of wax and debris, which can result in infection. Teeth should be brushed regularly.</p>",
                     "akc_org_exercise": "<p>Options for exercise include play time in the backyard, preferably fenced, orwalks several times a day. Exercise can also come in the form of indoor activities, like hide-and-seek, chasing a ball rolled along the floor, or learning new tricks. Certain outdoor activities like swimming, hiking, and retrieving balls or flying discs can provide a good outlet for expending energy. If you live in an apartment, even short walks in the hallways can give your dog some exercise, especially during inclement weather. Training for dog sports like agility, obedience, and rally can also be a great way to give your dog exercise.</p>",
-                    "akc_org_training": "<p>null</p>",
+                    "akc_org_training": "<p></p>",
                     "text_yumove_link": null,
                     "test_1": "",
                     "test_2": "",
@@ -173,8 +173,8 @@
                             "temperament": "confident / smart / perceptive"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -474,7 +474,7 @@
                 "karelian-bear-dog": {
                     "markings": [
                         {
-                            "marking_index": 488,
+                            "marking_index": 505,
                             "breed_name_url": "karelian-bear-dog",
                             "breed_name": "Karelian Bear Dog",
                             "akc_code": "657",
@@ -490,7 +490,7 @@
                 "karelian-bear-dog": {
                     "colors": [
                         {
-                            "color_index": 1592,
+                            "color_index": 1614,
                             "breed_name_url": "karelian-bear-dog",
                             "breed_name": "Karelian Bear Dog",
                             "akc_code": "657",
@@ -602,7 +602,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229310",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24808%5D",
@@ -651,8 +651,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

@@ -1,0 +1,1402 @@
+{
+    "settings": {
+        "current_breed": "basenji",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21150520/Basenji-Health-Statement-August-20171.pdf",
+                    "mp_health": "<p>Presently, the primary health concerns in the breed are Fanconi Syndrome (a kidney dystrophy), Progressive Retinal Atrophy (an eye disorder), and surprisingly, hip dysplasia. Some Basenjis may be faced with these health challenges in their lives, but the majority of Basenjis are healthy dogs.</p>",
+                    "akc_org_health": "<p>Basenji are generally healthy dogs, and responsible breeders screen for health disorders such as hypothyroidism, a type of inflammatory bowel disease called IPSID and canine hip dysplasia. Gene tests are available to identify carriers of Fanconi syndrome, a kidney disorder, as well as progressive retinal atrophy, or PRA; such tests allow breeders to plan breedings that will not produce those diseases. As with all breeds, a Basenji's ears should be checked regularly, and the teeth should be brushed often.</p>",
+                    "akc_org_nutrition": "<p>The Basenji should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>Basenjis are fastidious creatures. Their short coat is a breeze to take care of, generally requiring no more than a quick once-over with a soft-bristle brush, a rubber grooming mitt or tool, or a hound glove every week. Brushing distributes skin oils throughout the coat to help keep it healthy and looking its best. Basenjis don't have a 'doggy'\u009d smell, and they usually don't need to be bathed unless they get into something particularly messy. As with all breeds, the Basenji'\u00bfs nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running.</p>",
+                    "akc_org_exercise": "<p>Basenjis are energetic, inquisitive, and very active. They require lots of regular exercise to keep them from becoming bored. Boredom can lead to destructive behavior. Long play sessions in a well-fenced yard or securely on lead are required. A Basenji should never run loose, as the breed's instinct to hunt is very strong, and the dog might not be able to resist the urge to run off on a chase. Giving the dog a structured outlet for those instincts and that pent-up energy can help immensely; many Basenjis enjoy, and excel at, canine sports such as lure coursing, tracking, and obedience and agility competitions.</p>",
+                    "akc_org_training": "<p>Early socialization and puppy training classes are recommended for all breeds, but given the Basenji's bountiful energy, intelligence, and penchant for mischief, they are a necessity. Basenjis are often described as 'catlike,'\u009d which may not seem to bode well for training them. However, they do learn readily in an encouraging and rewarding atmosphere, and with the use of positive-training techniques. They also lose interest quickly, so training sessions should last no more than five or 10 minutes.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "Thyroid Evaluation",
+                    "test_4": "Progressive Retinal Atrophy (Basenji) (PRA) - DNA Test",
+                    "test_5": "Fanconi's Syndrome, Paradoxic glucosuria - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Ophthalmologist Evaluation | Thyroid Evaluation | Progressive Retinal Atrophy (Basenji) (PRA) - DNA Test | Fanconi's Syndrome, Paradoxic glucosuria - DNA Test"
+                }
+            },
+            "basics": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "breed_name_oracle": "Basenji",
+                    "matches_oracle": "Basenji",
+                    "akc_code": "402",
+                    "breed_name_plural": "Basenjis",
+                    "breed_nicknames": "The Barkless Dog",
+                    "origin": "Central Africa",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1944",
+                    "life_expectancy": "13-14 years",
+                    "related_breeds": "Ibizan Hound, Pharaoh Hound, Boerboel, Rhodesian Ridgeback, Azawakh",
+                    "links": [],
+                    "popularity_2025": 92,
+                    "popularity_2024": 80,
+                    "popularity_2023": 81,
+                    "popularity_2022": 91,
+                    "popularity_2021": 87,
+                    "popularity_2020": 86,
+                    "popularity_2019": 88,
+                    "popularity_2018": 87,
+                    "popularity_2017": 84,
+                    "popularity_2016": 88,
+                    "popularity_2015": 87,
+                    "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers",
+                    "related_breeds_items_url": [
+                        "ibizan-hound",
+                        "pharaoh-hound",
+                        "boerboel",
+                        "rhodesian-ridgeback",
+                        "azawakh"
+                    ],
+                    "related_breeds_items": {
+                        "ibizan-hound": {
+                            "breed_name_url": "ibizan-hound",
+                            "breed_name": "Ibizan Hound",
+                            "breed_name_oracle": "Ibizan Hound",
+                            "matches_oracle": "Ibizan Hound",
+                            "akc_code": "420",
+                            "breed_name_plural": "Ibizan Hounds",
+                            "breed_nicknames": "Ibizan, Beezer",
+                            "origin": "Spain",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1978",
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Pharaoh Hound, Basenji, Greyhound, Portuguese Podengo, Cirneco dell'Etna",
+                            "links": [],
+                            "popularity_2025": 174,
+                            "popularity_2024": 174,
+                            "popularity_2023": 166,
+                            "popularity_2022": 172,
+                            "popularity_2021": 182,
+                            "popularity_2020": 171,
+                            "popularity_2019": 173,
+                            "popularity_2018": 152,
+                            "popularity_2017": 165,
+                            "popularity_2016": 152,
+                            "popularity_2015": 160,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "family-oriented / even-tempered / polite"
+                        },
+                        "pharaoh-hound": {
+                            "breed_name_url": "pharaoh-hound",
+                            "breed_name": "Pharaoh Hound",
+                            "breed_name_oracle": "Pharaoh Hound",
+                            "matches_oracle": "Pharaoh Hound",
+                            "akc_code": "421",
+                            "breed_name_plural": "Pharaoh Hounds",
+                            "breed_nicknames": "Pharaoh, the Blushing Dog",
+                            "origin": "Malta",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1983",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Portuguese Podengo, Greyhound, Saluki, Azawakh, Ibizan Hound",
+                            "links": [],
+                            "popularity_2025": 180,
+                            "popularity_2024": 185,
+                            "popularity_2023": 176,
+                            "popularity_2022": 174,
+                            "popularity_2021": 176,
+                            "popularity_2020": 180,
+                            "popularity_2019": 163,
+                            "popularity_2018": 172,
+                            "popularity_2017": 174,
+                            "popularity_2016": 168,
+                            "popularity_2015": 171,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / smart / noble"
+                        },
+                        "boerboel": {
+                            "breed_name_url": "boerboel",
+                            "breed_name": "Boerboel",
+                            "breed_name_oracle": "Boerboel",
+                            "matches_oracle": "Boerboel",
+                            "akc_code": "659",
+                            "breed_name_plural": "Boerboels",
+                            "breed_nicknames": "Bole",
+                            "origin": "South Africa",
+                            "breed_group": "Working Group",
+                            "year_recognized": "2015",
+                            "life_expectancy": "9-11 years",
+                            "related_breeds": "Bullmastiff, Cane Corso, Dogue de Bordeaux, Neapolitan Mastiff, Presa Canario",
+                            "links": [],
+                            "popularity_2025": 112,
+                            "popularity_2024": 114,
+                            "popularity_2023": 123,
+                            "popularity_2022": 118,
+                            "popularity_2021": 118,
+                            "popularity_2020": 123,
+                            "popularity_2019": 129,
+                            "popularity_2018": 121,
+                            "popularity_2017": 124,
+                            "popularity_2016": 131,
+                            "popularity_2015": 126,
+                            "related_groups_characteristics": "Largest Dog Breeds, Best Guard Dogs, ",
+                            "temperament": "intelligent / confident / calm"
+                        },
+                        "rhodesian-ridgeback": {
+                            "breed_name_url": "rhodesian-ridgeback",
+                            "breed_name": "Rhodesian Ridgeback",
+                            "breed_name_oracle": "Rhodesian Ridgeback",
+                            "matches_oracle": "Rhodesian Ridgeback",
+                            "akc_code": "416",
+                            "breed_name_plural": "Rhodesian Ridgebacks",
+                            "breed_nicknames": "RR",
+                            "origin": "Zambia/Zimbabwe (formerly Rhodesia)",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1955",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Boerboel, Thai Ridgeback, Weimaraner, Great Dane, Vizsla",
+                            "links": [],
+                            "popularity_2025": 41,
+                            "popularity_2024": 43,
+                            "popularity_2023": 41,
+                            "popularity_2022": 41,
+                            "popularity_2021": 41,
+                            "popularity_2020": 42,
+                            "popularity_2019": 42,
+                            "popularity_2018": 41,
+                            "popularity_2017": 41,
+                            "popularity_2016": 42,
+                            "popularity_2015": 40,
+                            "related_groups_characteristics": "Best Family Dogs",
+                            "temperament": "dignified / affectionate / even-tempered"
+                        },
+                        "azawakh": {
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "breed_name_oracle": "Azawakh",
+                            "matches_oracle": "Azawakh",
+                            "akc_code": "437",
+                            "breed_name_plural": "Azawakhs",
+                            "breed_nicknames": "Azawakh",
+                            "origin": "Sahel Region",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2019",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                            "links": [],
+                            "popularity_2025": 195,
+                            "popularity_2024": 192,
+                            "popularity_2023": 196,
+                            "popularity_2022": 194,
+                            "popularity_2021": 185,
+                            "popularity_2020": 193,
+                            "popularity_2019": 192,
+                            "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                            "temperament": "independent / loyal / deeply affectionate"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "temperament": "independent / smart / poised",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "akc_org_blurb": "The Basenji, Africa's 'Barkless Dog,'\u009d is a compact, sweet-faced hunter of intelligence and poise. They are unique and beguiling pets, best for owners who can meet their exercise needs and the challenge of training this catlike canine.",
+                    "akc_org_about": "Basenjis are small, graceful hounds standing 16 or 17 inches at the shoulder. They are recognizable by their glistening short coat, tightly curled tail, and wrinkled forehead and expressive almond-shaped eyes that convey a variety of subtle, humanlike emotions.\n\n Basenjis are a lovely sight at a standstill but more impressive yet at a fast trot, when they exhibit the long, smooth strides of a mini-racehorse. And yes, it's true, they don't bark, but they make their feelings known with an odd sound described as something between a chortle and a yodel. Basenjis are fastidious and will groom themselves like cats. This has been called a 'cult breed'\u009d'\u00bfsmall in numbers, but those lucky enough to own one do so with singular devotion.",
+                    "mp_description": "Basenjis are compact and elegant hunting dogs originally native to Africa and still used there today for hunting game. It's an ancient breed also known as the 'barkless dog,' although it does make a yodeling sound when excited. Basenji puppies grow to be about 22-24 pounds of muscular grace. They're as fastidious as cats with no 'doggy' smell, which makes them good housemates. Basenjis are calm and loving with their family, but because of an independent spirit can be aloof with strangers. Let your Basenji meet new people on his own careful terms."
+                }
+            },
+            "standards": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "title_1": "General Appearance",
+                    "description_1": "The Basenji is a small, short haired hunting dog from Africa. It is short backed and lightly built, appearing high on the leg compared to its length. The wrinkled head is proudly carried on a well arched neck and the tail is set high and curled. Elegant and graceful, the whole demeanor is one of poise and inquiring alertness. The balanced structure and the smooth musculature enable it to move with ease and agility. The Basenji hunts by both sight and scent. Characteristics-The Basenji should not bark but is not mute. The wrinkled forehead, tightly curled tail and swift, effortless gait (resembling a racehorse trotting full out) are typical of the breed. Faults-Any departure from the following points must be considered a fault, and the seriousness with which the fault is regarded is to be in exact proportion to its degree.",
+                    "title_2": "Head",
+                    "description_2": "The head is proudly carried. Eyes-Dark hazel to dark brown, almond shaped, obliquely set and farseeing. Rims dark. Ears-Small, erect and slightly hooded, of fine texture and set well forward on top of head. The skull is flat, well chiseled and of medium width, tapering toward the eyes. The foreface tapers from eye to muzzle with a perceptible stop. Muzzle shorter than skull, neither coarse nor snipy, but with rounded cushions. Wrinkles appear upon the forehead when ears are erect, and are fine and profuse. Side wrinkles are desirable, but should never be exaggerated into dewlap. Wrinkles are most noticeable in puppies, and because of lack of shadowing, less noticeable in blacks, tricolors and brindles. Nose-Black greatly desired. Teeth-Evenly aligned with a scissors bite.",
+                    "title_3": "Body",
+                    "description_3": "Neck of good length, well crested and slightly full at base of throat. Well set into shoulders. Topline-Back level. Body-Balanced with a short back, short coupled and ending in a definite waist. Ribs moderately sprung, deep to elbows and oval. Slight forechest in front of point of shoulder. Chest of medium width. Tail is set high on topline, bends acutely forward and lies well curled over to either side",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders moderately laid back. Shoulder blade and upper arm of approximately equal length. Elbows tucked firmly against brisket. Legs straight with clean fine bone, long forearm and well defined sinews. Pasterns of good length, strong and flexible. Feet-Small, oval and compact with thick pads and well arched toes. Dewclaws are usually removed.",
+                    "title_5": "Coat",
+                    "description_5": "Coat short and fine. Skin very pliant. Color-Chestnut red; pure black; tricolor (pure black and chestnut red); or brindle (black stripes on a background of chestnut red); all with white feet, chest and tail tip. White legs, blaze and collar optional. The amount of white should never predominate over primary color. Color and markings should be rich, clear and well-defined, with a distinct line of demarcation between the black and red of tricolors and the stripes of brindles.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Medium width, strong and muscular, hocks well let down and turned neither in nor out, with long second thighs and moderately bent stifles. Feet-Same as in \"Forequarters.\"",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "16",
+                    "height_max": "17",
+                    "weight_min": "22",
+                    "weight_max": "24",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/Basenji.pdf",
+                    "height_min_f": "16",
+                    "height_max_f": "17",
+                    "height_min_m": "16",
+                    "height_max_m": "17",
+                    "height_display": "17 inches (male), 16 inches (female)",
+                    "weight_min_f": "22",
+                    "weight_max_f": "24",
+                    "weight_min_m": "22",
+                    "weight_max_m": "24",
+                    "weight_display": "24 pounds (male), 22 pounds (female)"
+                }
+            },
+            "markings": {
+                "basenji": {
+                    "markings": [
+                        {
+                            "marking_index": 212,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 213,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "cde_markings": "065",
+                            "markings_long": "Black Saddle",
+                            "markings_short": "BLK SDL"
+                        },
+                        {
+                            "marking_index": 214,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "cde_markings": "066",
+                            "markings_long": "With Cap",
+                            "markings_short": "W/CP"
+                        },
+                        {
+                            "marking_index": 215,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "S",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "basenji": {
+                    "colors": [
+                        {
+                            "color_index": 722,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 723,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "030",
+                            "color_long": "Black Tan & White",
+                            "color_short": "BLK TN & WH"
+                        },
+                        {
+                            "color_index": 724,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 725,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 726,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "021",
+                            "color_long": "Black Brindle & White",
+                            "color_short": "BLK BRDL & WH"
+                        },
+                        {
+                            "color_index": 727,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "346",
+                            "color_long": "Blue Cream & White",
+                            "color_short": "BL CR & WH"
+                        },
+                        {
+                            "color_index": 728,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "077",
+                            "color_long": "Cream & White",
+                            "color_short": "CR & WH"
+                        },
+                        {
+                            "color_index": 729,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "347",
+                            "color_long": "Mahogany Tan & White",
+                            "color_short": "MHGY TN & WH"
+                        },
+                        {
+                            "color_index": 730,
+                            "breed_name_url": "basenji",
+                            "breed_name": "Basenji",
+                            "akc_code": "402",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "breed_club_name": "Basenji Club of America, Inc.",
+                    "breed_club_url": "http://www.basenji.org ",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Basenji-club-flier.pdf",
+                    "breed_rescue_url": "https://www.basenji.org/index.php/about-basenjis/rescue-information",
+                    "national_breed_club": "Basenji Club of America, Inc.",
+                    "national_breed_club_url": "http://www.basenji.org ",
+                    "breed_referral_contact_name": "Denise Vertrees",
+                    "breed_referral_contact_phone_number": "(502) 664-2950",
+                    "breed_referral_contact_email": "Bridenbasenjis@juno.com",
+                    "breed_referral_contact_address": "350 SPRING BRANCH LOOP\nKYLE, TX 78640-5374",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "https://www.basenji.org/joomla/",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "https://www.basenji.org/index.php/about-basenjis/rescue-information",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1436,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 22,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community thanks to AKC Breed Clubs located in every state and more than 450 AKC Rescue Network groups across the country. Formed in 1942, the Basenji Club of America, Inc. is the official AKC Parent Club for the Basenji."
+                        },
+                        {
+                            "id": 368,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 370,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 367,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 369,
+                            "breed_id": "22",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "basenji": {
+                    "breed_name_url": "basenji",
+                    "breed_name": "Basenji",
+                    "akc_org_history": "<p>Basenjis are contenders for the title of oldest AKC breed. Paleontologists tell us that the first domesticated dogs looked a lot like Basenjis. They were already well established when they were brought up the Nile from interior Africa as gifts for the pharaohs of ancient Egypt. Basenjis are depicted in ancient Egyptian artifacts, and traces of the breed can also be seen in ancient Babylonian and Mesopotamian art.</p>\n<p><br></p>\n<p>These once-mighty civilizations collapsed millennia ago, but the Basenji endured as a semi-wild dog living at the headwaters of both the Nile and Congo rivers. African tribesmen prized Basenjis as versatile hunters with keen eyesight, explosive speed, and a highly developed sense of smell. Basenjis are known expert vertical leapers, a skill developed to scout prey in African grasslands. (An African breed name translates as 'the jumping-up-and-down dog.') Father Jerome Merolla, a 17th-century Catholic missionary to the Congo, left behind this written description of the Basenjis he saw living a feral state: 'These dogs, notwithstanding their wildness, do little or no damage to the inhabitants. They are red-haired, have small slender bodies and their tails turned upon their backs.' &nbsp;&nbsp;&nbsp;&nbsp;Isolated in remote areas of the African continent for thousands of years, the unique Basenji went unaltered by Western fads and fancies. The breed that so impressed the pharaohs was pretty much the same as the breed that was introduced to the West in the late 1800s.</p>\n<p><br></p>\n<p>A breeding pair was brought to England by a returning explorer in 1895, but they died soon thereafter. Another pair was brought to England in 1937. They were exhibited as natural curiosities, and this previously unknown breed caused such a sensation with the dog-loving British public that police were called in for crowd control. But, again, tragedy struck: The female and a litter of puppies died, leaving only the male, named Bois.</p>\n<p><br></p>\n<p>Bois was acquired by a Boston breeder who had recently obtained a female named Congo. This resulted in the first Basenjis bred in America. More dogs were slowly added to the gene pool until, finally, the Basenji was established in the United States.</p>",
+                    "mp_history_job": "<p>Basenjis are contenders for the title of oldest AKC breed. They were already well established when they were brought up the Nile from interior Africa as gifts for the pharaohs of ancient Egypt. Basenjis are depicted in 4,500-year-old Egyptian artifacts. African tribesmen prized Basenjis as versatile hunters with keen eyesight, explosive speed, and a highly developed sense of smell. They're expert vertical leapers, a skill developed to scout prey in African grasslands. A native breed name is the 'jumping-up-and-down dog.'</p>",
+                    "did_you_know": "The Basenji is a dog with fastidious, dainty habits, such as cleaning himself all over as does a cat; the Basenji also lacks a doggy odor, contributing to his assets as a house dog. | The Basenji does not bark but does make yodeling noises. The Basenji is known as the \"barkless dog\". | The first specimens of the Basenji were brought from the source of the Nile as presents to the Pharaohs of ancient Egypt. | The Basenji is also known for being quite independent and aloof at times. It is alert and careful with strangers, open and calm with friends, and loving and solicitous with children. When meeting strangers, the Basenji prefers to make the first overtures and should not be approached from behind."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775351598",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23420%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-running-through-a-field.jpg",
+                    "alt": "Basenji running through a field.",
+                    "caption": "",
+                    "credit": "\u00a9madjuszka - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-On-White-01.jpg",
+                    "alt": "Basenji standing in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-standing-outdoors.jpg",
+                    "alt": "Basenji standing outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9tanipanova - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-sniffing-at-a-tree-trunk.jpg",
+                    "alt": "Basenji sniffing at a tree trunk.",
+                    "caption": "",
+                    "credit": "\u00a9Yuri Kravchenko - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-at-the-AKC-National-Championship.jpg",
+                    "alt": "Basenji at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-running-in-lure-coursing.jpg",
+                    "alt": "Basenji running in lure coursing.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenjis-outdoors-together.jpg",
+                    "alt": "Two Basenjis together outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9foxhound photo - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-sitting-on-a-white-background.jpg",
+                    "alt": "Basenji sitting on a white background.",
+                    "caption": "",
+                    "credit": "\u00a9Dixi_ - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-head-portrait-outdoors.jpg",
+                    "alt": "Basenji head portrait outdoors.",
+                    "caption": "",
+                    "credit": "Tikhomirov Sergey/Shutterstock"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-Illo-2.jpg",
+                "alt": "Basenji illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-puppy-laying-down-on-a-white-background.jpg",
+                "alt": "Basenji puppy laying down on a white background."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/basenji",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Basenji",
+        "shopCta": false
+    }
+}

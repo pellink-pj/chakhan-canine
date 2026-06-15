@@ -136,7 +136,7 @@
                             "related_breeds": "Basset Hound, Braque Francais Pyrenean, Porcelaine",
                             "links": [],
                             "related_groups_characteristics": "Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
-                            "temperament": "sociable / lively / smart"
+                            "temperament": "Affectionate / Alert / Cheerful"
                         },
                         "harrier": {
                             "breed_name_url": "harrier",
@@ -167,8 +167,8 @@
                             "temperament": "friendly / outgoing / people-oriented"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -468,7 +468,7 @@
                 "basset-hound": {
                     "markings": [
                         {
-                            "marking_index": 216,
+                            "marking_index": 218,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -478,7 +478,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 217,
+                            "marking_index": 219,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -488,7 +488,7 @@
                             "markings_short": "TKD"
                         },
                         {
-                            "marking_index": 218,
+                            "marking_index": 220,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -498,7 +498,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 219,
+                            "marking_index": 221,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -514,7 +514,7 @@
                 "basset-hound": {
                     "colors": [
                         {
-                            "color_index": 731,
+                            "color_index": 732,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -525,7 +525,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 732,
+                            "color_index": 733,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -536,7 +536,7 @@
                             "color_short": "BLK BR & WH"
                         },
                         {
-                            "color_index": 733,
+                            "color_index": 734,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -547,7 +547,7 @@
                             "color_short": "BLK TN & WH"
                         },
                         {
-                            "color_index": 734,
+                            "color_index": 735,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -558,7 +558,7 @@
                             "color_short": "BLK WH & BR"
                         },
                         {
-                            "color_index": 735,
+                            "color_index": 736,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -569,7 +569,7 @@
                             "color_short": "BLK WH & TN"
                         },
                         {
-                            "color_index": 736,
+                            "color_index": 737,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -580,7 +580,7 @@
                             "color_short": "BR BLK & WH"
                         },
                         {
-                            "color_index": 737,
+                            "color_index": 738,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -591,7 +591,7 @@
                             "color_short": "LMN & WH"
                         },
                         {
-                            "color_index": 738,
+                            "color_index": 739,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -602,7 +602,7 @@
                             "color_short": "MHGY & WH"
                         },
                         {
-                            "color_index": 739,
+                            "color_index": 740,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -613,7 +613,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 740,
+                            "color_index": 741,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -624,7 +624,7 @@
                             "color_short": "BLK & BR"
                         },
                         {
-                            "color_index": 741,
+                            "color_index": 742,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -635,7 +635,7 @@
                             "color_short": "BLK RD & WH"
                         },
                         {
-                            "color_index": 742,
+                            "color_index": 743,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -646,7 +646,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 743,
+                            "color_index": 744,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -657,7 +657,7 @@
                             "color_short": "BR & WH"
                         },
                         {
-                            "color_index": 744,
+                            "color_index": 745,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -668,7 +668,7 @@
                             "color_short": "TN & WH"
                         },
                         {
-                            "color_index": 745,
+                            "color_index": 746,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -679,7 +679,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 746,
+                            "color_index": 747,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -690,7 +690,7 @@
                             "color_short": "WH BLK & BR"
                         },
                         {
-                            "color_index": 747,
+                            "color_index": 748,
                             "breed_name_url": "basset-hound",
                             "breed_name": "Basset Hound",
                             "akc_code": "403",
@@ -802,7 +802,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104021",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23436%5D",
@@ -851,8 +851,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

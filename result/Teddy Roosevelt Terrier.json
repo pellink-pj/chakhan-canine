@@ -197,8 +197,8 @@
                             "temperament": "bright / spirited / keenly observant"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -498,7 +498,7 @@
                 "teddy-roosevelt-terrier": {
                     "markings": [
                         {
-                            "marking_index": 132,
+                            "marking_index": 134,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -508,7 +508,7 @@
                             "markings_short": "MRL MKGS"
                         },
                         {
-                            "marking_index": 133,
+                            "marking_index": 135,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -518,7 +518,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 134,
+                            "marking_index": 136,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -528,7 +528,7 @@
                             "markings_short": "BRDL PTS"
                         },
                         {
-                            "marking_index": 135,
+                            "marking_index": 137,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -544,7 +544,7 @@
                 "teddy-roosevelt-terrier": {
                     "colors": [
                         {
-                            "color_index": 457,
+                            "color_index": 458,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -555,7 +555,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 458,
+                            "color_index": 459,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -566,7 +566,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 459,
+                            "color_index": 460,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -577,7 +577,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 460,
+                            "color_index": 461,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -588,7 +588,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 461,
+                            "color_index": 462,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -599,7 +599,7 @@
                             "color_short": "WH & CHLT"
                         },
                         {
-                            "color_index": 462,
+                            "color_index": 463,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -610,7 +610,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 463,
+                            "color_index": 464,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -621,7 +621,7 @@
                             "color_short": "WH & LMN"
                         },
                         {
-                            "color_index": 464,
+                            "color_index": 465,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -632,7 +632,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 465,
+                            "color_index": 466,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -643,7 +643,7 @@
                             "color_short": "WH & SLVR"
                         },
                         {
-                            "color_index": 466,
+                            "color_index": 467,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -654,7 +654,7 @@
                             "color_short": "BL & WH"
                         },
                         {
-                            "color_index": 467,
+                            "color_index": 468,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -665,7 +665,7 @@
                             "color_short": "SLVR & WH"
                         },
                         {
-                            "color_index": 468,
+                            "color_index": 469,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -676,7 +676,7 @@
                             "color_short": "SBL & WH"
                         },
                         {
-                            "color_index": 469,
+                            "color_index": 470,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -687,7 +687,7 @@
                             "color_short": "WH & SBL"
                         },
                         {
-                            "color_index": 470,
+                            "color_index": 471,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -698,7 +698,7 @@
                             "color_short": "RD & WH"
                         },
                         {
-                            "color_index": 471,
+                            "color_index": 472,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -709,7 +709,7 @@
                             "color_short": "BL FN & WH"
                         },
                         {
-                            "color_index": 472,
+                            "color_index": 473,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -720,7 +720,7 @@
                             "color_short": "FN & WH"
                         },
                         {
-                            "color_index": 473,
+                            "color_index": 474,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -731,18 +731,18 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 474,
+                            "color_index": 475,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
-                            "standard_alternate": "S",
+                            "standard_alternate": "A",
                             "conformation_eligible": null,
                             "cde_color": "115",
                             "color_long": "Lemon & White",
                             "color_short": "LMN & WH"
                         },
                         {
-                            "color_index": 475,
+                            "color_index": 476,
                             "breed_name_url": "teddy-roosevelt-terrier",
                             "breed_name": "Teddy Roosevelt Terrier",
                             "akc_code": "250",
@@ -765,10 +765,10 @@
                     "breed_rescue_url": null,
                     "national_breed_club": "American Teddy Roosevelt Terrier Club",
                     "national_breed_club_url": "www.teddyrooseveltterrier.org",
-                    "breed_referral_contact_name": "Alma Burns",
-                    "breed_referral_contact_phone_number": "(720) 495-6790",
-                    "breed_referral_contact_email": "im2bfree09@yahoo.com",
-                    "breed_referral_contact_address": "8423 MONROE WAY\nDENVER, CO 80229-4229",
+                    "breed_referral_contact_name": "Penny Nelson",
+                    "breed_referral_contact_phone_number": "(616) 260-3460",
+                    "breed_referral_contact_email": "kyhan5@live.com",
+                    "breed_referral_contact_address": "11188 EDGERTON AVE NE\nROCKFORD, MI 49341-8041",
                     "breed_referral_directory_title": "",
                     "breed_referral_directory_url": "",
                     "breed_referral_regional_club_title": "",
@@ -854,7 +854,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781245390",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25862%5D",
@@ -903,8 +903,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

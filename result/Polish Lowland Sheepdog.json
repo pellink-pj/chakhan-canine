@@ -107,7 +107,7 @@
                             "breed_group": "Foundation Stock Service",
                             "year_recognized": 0,
                             "life_expectancy": "12-15 years",
-                            "related_breeds": "Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie, Portuguese Sheepdog",
+                            "related_breeds": "Portuguese Sheepdog, Romanian Mioritic Shepherd Dog, Bergamasco Sheepdog, Polish Lowland Sheepdog, Bearded Collie",
                             "links": [],
                             "related_groups_characteristics": "Medium Dog Breeds",
                             "temperament": "friendly / watchful / lively"
@@ -175,8 +175,8 @@
                             "temperament": "smart / gentle / adaptable"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -476,7 +476,7 @@
                 "polish-lowland-sheepdog": {
                     "markings": [
                         {
-                            "marking_index": 571,
+                            "marking_index": 588,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -486,7 +486,7 @@
                             "markings_short": "BLK PTCHS"
                         },
                         {
-                            "marking_index": 572,
+                            "marking_index": 589,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -496,7 +496,7 @@
                             "markings_short": "GR PTCHS"
                         },
                         {
-                            "marking_index": 573,
+                            "marking_index": 590,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -506,7 +506,7 @@
                             "markings_short": "GR TPS"
                         },
                         {
-                            "marking_index": 574,
+                            "marking_index": 591,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -522,7 +522,7 @@
                 "polish-lowland-sheepdog": {
                     "colors": [
                         {
-                            "color_index": 1830,
+                            "color_index": 1852,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -533,7 +533,7 @@
                             "color_short": "BG"
                         },
                         {
-                            "color_index": 1831,
+                            "color_index": 1853,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -544,7 +544,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1832,
+                            "color_index": 1854,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -555,7 +555,7 @@
                             "color_short": "BLK & WH"
                         },
                         {
-                            "color_index": 1833,
+                            "color_index": 1855,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -566,7 +566,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 1834,
+                            "color_index": 1856,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -577,7 +577,7 @@
                             "color_short": "CHLT & WH"
                         },
                         {
-                            "color_index": 1835,
+                            "color_index": 1857,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -588,7 +588,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 1836,
+                            "color_index": 1858,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -599,7 +599,7 @@
                             "color_short": "GR & WH"
                         },
                         {
-                            "color_index": 1837,
+                            "color_index": 1859,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -610,7 +610,7 @@
                             "color_short": "TRI"
                         },
                         {
-                            "color_index": 1838,
+                            "color_index": 1860,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -621,7 +621,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1839,
+                            "color_index": 1861,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -632,7 +632,7 @@
                             "color_short": "BG & BR"
                         },
                         {
-                            "color_index": 1840,
+                            "color_index": 1862,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -643,7 +643,7 @@
                             "color_short": "BG & WH"
                         },
                         {
-                            "color_index": 1841,
+                            "color_index": 1863,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -654,7 +654,7 @@
                             "color_short": "BLK & BG"
                         },
                         {
-                            "color_index": 1842,
+                            "color_index": 1864,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -665,7 +665,7 @@
                             "color_short": "BLK & GR"
                         },
                         {
-                            "color_index": 1843,
+                            "color_index": 1865,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -676,7 +676,7 @@
                             "color_short": "BLK & SLVR"
                         },
                         {
-                            "color_index": 1844,
+                            "color_index": 1866,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -687,7 +687,7 @@
                             "color_short": "BLK GR & BG"
                         },
                         {
-                            "color_index": 1845,
+                            "color_index": 1867,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -698,7 +698,7 @@
                             "color_short": "BLK GR & WH"
                         },
                         {
-                            "color_index": 1846,
+                            "color_index": 1868,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -709,7 +709,7 @@
                             "color_short": "BLK WH & SLVR"
                         },
                         {
-                            "color_index": 1847,
+                            "color_index": 1869,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -720,7 +720,7 @@
                             "color_short": "GR TN & BG"
                         },
                         {
-                            "color_index": 1848,
+                            "color_index": 1870,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -731,7 +731,7 @@
                             "color_short": "RD BLK & WH"
                         },
                         {
-                            "color_index": 1849,
+                            "color_index": 1871,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -742,7 +742,7 @@
                             "color_short": "WH & APCT"
                         },
                         {
-                            "color_index": 1850,
+                            "color_index": 1872,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -753,7 +753,7 @@
                             "color_short": "WH & BR"
                         },
                         {
-                            "color_index": 1851,
+                            "color_index": 1873,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -764,7 +764,7 @@
                             "color_short": "WH & GLD"
                         },
                         {
-                            "color_index": 1852,
+                            "color_index": 1874,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -775,7 +775,7 @@
                             "color_short": "WH & LVR"
                         },
                         {
-                            "color_index": 1853,
+                            "color_index": 1875,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -786,7 +786,7 @@
                             "color_short": "WH & SLVR"
                         },
                         {
-                            "color_index": 1854,
+                            "color_index": 1876,
                             "breed_name_url": "polish-lowland-sheepdog",
                             "breed_name": "Polish Lowland Sheepdog",
                             "akc_code": "836",
@@ -898,7 +898,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781240501",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25310%5D",
@@ -947,8 +947,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
@@ -1167,7 +1167,16 @@
                 "filter": "raw"
             }
         ],
-        "shop_cta_block": false,
+        "shop_cta_block": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/polish-lowland-sheepdog",
+                "is_external": true
+            },
+            "image": false
+        },
         "show_shop_cta_on_breeds": null
     },
     "ads": {
@@ -1508,6 +1517,15 @@
             "footer_text": "."
         },
         "breed_name_formatted": "Polish Lowland Sheepdog",
-        "shopCta": false
+        "shopCta": {
+            "title": "Shop Miniature American Shepherd Collection",
+            "text": "Show your love with jewelry, home, accessories & more!",
+            "button": {
+                "text": "Shop Now",
+                "url": "https://shop.akc.org/collections/polish-lowland-sheepdog",
+                "is_external": true
+            },
+            "image": false
+        }
     }
 }

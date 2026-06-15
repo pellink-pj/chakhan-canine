@@ -201,8 +201,8 @@
                             "temperament": "alert / intelligent / friendly"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -502,7 +502,7 @@
                 "russian-toy": {
                     "markings": [
                         {
-                            "marking_index": 404,
+                            "marking_index": 421,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -518,7 +518,7 @@
                 "russian-toy": {
                     "colors": [
                         {
-                            "color_index": 1350,
+                            "color_index": 1371,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -529,7 +529,7 @@
                             "color_short": "RD & BR"
                         },
                         {
-                            "color_index": 1351,
+                            "color_index": 1372,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -540,7 +540,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1352,
+                            "color_index": 1373,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -551,7 +551,7 @@
                             "color_short": "BL & TN"
                         },
                         {
-                            "color_index": 1353,
+                            "color_index": 1374,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -562,7 +562,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 1354,
+                            "color_index": 1375,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -573,7 +573,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1355,
+                            "color_index": 1376,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -584,7 +584,7 @@
                             "color_short": "BR & TN"
                         },
                         {
-                            "color_index": 1356,
+                            "color_index": 1377,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -595,7 +595,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1357,
+                            "color_index": 1378,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -606,7 +606,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1358,
+                            "color_index": 1379,
                             "breed_name_url": "russian-toy",
                             "breed_name": "Russian Toy",
                             "akc_code": "547",
@@ -629,10 +629,10 @@
                     "breed_rescue_url": null,
                     "national_breed_club": "Russian Toy Club of America",
                     "national_breed_club_url": "https://www.russiantoyclubofamerica.org/",
-                    "breed_referral_contact_name": "Jennifer Dellos",
-                    "breed_referral_contact_phone_number": "(936) 217-3824",
-                    "breed_referral_contact_email": "jjdellos@yahoo.com",
-                    "breed_referral_contact_address": "360 CEDAR HILLS RD\nHOLLY SPRINGS, MS 38635-7512",
+                    "breed_referral_contact_name": "Diana Downey",
+                    "breed_referral_contact_phone_number": "(804) 556-2877",
+                    "breed_referral_contact_email": "dimonde@earthlink.net",
+                    "breed_referral_contact_address": "4705 NEW LINE RD\nGUM SPRING, VA 23065",
                     "breed_referral_directory_title": "",
                     "breed_referral_directory_url": "",
                     "breed_referral_regional_club_title": "",
@@ -718,7 +718,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775321489",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781238593",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25525%5D",
@@ -767,8 +767,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

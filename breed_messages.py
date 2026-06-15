@@ -24,11 +24,26 @@ FOUNDER_TESTIMONY = (
 )
 
 
+def _josa_eun_neun(word: str) -> str:
+    """한국어 조사 은/는 자동 선택 (받침 유무 기반)"""
+    if not word:
+        return "은"
+    last_char = word[-1]
+    # 한글 범위
+    if '가' <= last_char <= '힣':
+        code = ord(last_char) - ord('가')
+        jongsung = code % 28
+        return "은" if jongsung != 0 else "는"
+    # 영문 등
+    return "은(는)"
+
+
 def get_trait_messages(breed: dict) -> list[dict]:
     """
     견종의 특성을 멍메이트 톤(훈련 희망)으로 메시지화.
 
-    Returns: [{"icon": str, "title": str, "tone": "good"|"hope"|"caution", "text": str}, ...]
+    Returns: [{"category": str, "title": str, "tone": "good"|"hope"|"caution", "text": str}, ...]
+      - category: "짖음" | "털 빠짐" | "가족" | "활동량" | "사회성" (UI 라벨)
       - good:    그대로도 좋은 특성
       - hope:    원래 부담스럽지만 훈련으로 극복 가능
       - caution: 신중히 고려할 부분
@@ -39,6 +54,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
     bark = scores.get("barking", {}).get("raw")
     shed = scores.get("shedding", {}).get("raw")
     train = scores.get("training_difficulty", {}).get("raw_trainability")
+    mental = scores.get("training_difficulty", {}).get("raw_mental_stimulation")
     energy = scores.get("exercise_needs", {}).get("raw_energy")
     friendliness = scores.get("friendliness", {})
     aff_family = friendliness.get("raw_with_family")
@@ -49,7 +65,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
     if bark is not None and train is not None:
         if bark >= 4 and train >= 4:
             messages.append({
-                "icon": "🔊",
+                "category": "짖음",
                 "title": "원래 잘 짖지만, 훈련으로 컨트롤 가능해요",
                 "tone": "hope",
                 "text": (
@@ -60,7 +76,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
             })
         elif bark >= 4 and train <= 2:
             messages.append({
-                "icon": "⚠️",
+                "category": "짖음",
                 "title": "짖음이 많고 훈련이 쉽지 않은 견종이에요",
                 "tone": "caution",
                 "text": (
@@ -71,7 +87,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
             })
         elif bark <= 2:
             messages.append({
-                "icon": "🤫",
+                "category": "짖음",
                 "title": "조용한 견종이에요",
                 "tone": "good",
                 "text": "타고나길 짖음이 적은 편이라 공동주택 거주에 부담이 적어요.",
@@ -81,7 +97,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
     if shed is not None:
         if shed >= 4:
             messages.append({
-                "icon": "🐕‍🦺",
+                "category": "털 빠짐",
                 "title": "털이 많이 빠지는 편이에요",
                 "tone": "hope",
                 "text": (
@@ -91,7 +107,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
             })
         elif shed <= 2:
             messages.append({
-                "icon": "✨",
+                "category": "털 빠짐",
                 "title": "털 빠짐이 적은 견종이에요",
                 "tone": "good",
                 "text": "옷·가구에 털이 잘 안 묻어요. 알러지가 있는 분에게도 비교적 적합해요.",
@@ -101,7 +117,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
     if with_kids is not None and aff_family is not None:
         if with_kids >= 4 and aff_family >= 4:
             messages.append({
-                "icon": "👨‍👩‍👧",
+                "category": "가족",
                 "title": "아이와 가족에게 다정한 견종이에요",
                 "tone": "good",
                 "text": (
@@ -111,7 +127,7 @@ def get_trait_messages(breed: dict) -> list[dict]:
             })
         elif with_kids is not None and with_kids <= 2:
             messages.append({
-                "icon": "🚸",
+                "category": "가족",
                 "title": "어린 자녀가 있으시면 신중히 고려해주세요",
                 "tone": "caution",
                 "text": (
@@ -122,37 +138,87 @@ def get_trait_messages(breed: dict) -> list[dict]:
 
     # ─── 에너지 × 운동 가능성 ────────────────────────
     if energy is not None:
-        if energy >= 4:
+        breed_name_kr = breed.get("kr_name") or breed["breed_name"]
+        josa = _josa_eun_neun(breed_name_kr)
+
+        if energy == 5:
             messages.append({
-                "icon": "🏃",
-                "title": "활동량이 많은 견종이에요",
+                "category": "활동량",
+                "title": "활동량이 매우 많은 견종이에요",
                 "tone": "hope",
                 "text": (
-                    "에너지가 높은 견종이라 하루 1시간 이상의 산책·놀이가 필요해요. "
+                    "에너지가 매우 높은 견종이라 하루 1~2시간 이상의 산책·놀이가 필요해요. "
+                    "충분히 운동시켜주면 실내에선 차분히 지내요. "
+                    "운동 부족 시 파괴 행동·문제 짖음이 생길 수 있어요."
+                ),
+            })
+        elif energy == 4:
+            messages.append({
+                "category": "활동량",
+                "title": f"{breed_name_kr}{josa} 활동량이 많은 편에 속하는 견종이에요",
+                "tone": "hope",
+                "text": (
+                    "에너지가 높은 편이라 하루 1시간 정도의 산책·놀이가 필요해요. "
                     "충분히 운동시켜주면 실내에선 차분히 지내요. "
                     "운동 부족 시 파괴 행동·문제 짖음이 생길 수 있어요."
                 ),
             })
         elif energy <= 2:
             messages.append({
-                "icon": "🛋",
+                "category": "활동량",
                 "title": "차분하고 활동량이 적은 견종이에요",
                 "tone": "good",
                 "text": "짧은 산책과 실내 놀이로도 만족해요. 아파트 거주자에게 적합해요.",
             })
 
+    # ─── 훈련 (학습 의지) ──────────────────────────────
+    if train is not None:
+        if train >= 4:
+            messages.append({
+                "category": "훈련",
+                "title": "학습 의지가 강해 훈련이 잘 되는 견종이에요",
+                "tone": "good",
+                "text": (
+                    "지능이 높고 보호자의 신호를 빠르게 이해해요. "
+                    "기본 명령어부터 고급 트릭까지 단계적으로 가르치기 좋아요."
+                ),
+            })
+        elif train <= 2:
+            messages.append({
+                "category": "훈련",
+                "title": "독립심이 강해 훈련에 시간이 필요해요",
+                "tone": "hope",
+                "text": (
+                    "고집이 있는 편이라 명령어 습득이 느릴 수 있어요. "
+                    "짧고 일관된 훈련 세션과 긍정 강화를 꾸준히 적용하면 점차 따라와요."
+                ),
+            })
+
+    # ─── 정신 자극 필요량 (지적 활동) ──────────────────
+    if mental is not None and mental >= 4:
+        messages.append({
+            "category": "지적 자극",
+            "title": "지적 자극이 많이 필요한 견종이에요",
+            "tone": "hope",
+            "text": (
+                "단순 산책만으론 부족해요. 노즈워크·트릭 훈련·퍼즐 장난감 같은 "
+                "두뇌 자극을 매일 챙겨주세요. 충분한 자극이 없으면 답답함을 느껴 "
+                "문제 행동(짖음·파괴)이 생길 수 있어요."
+            ),
+        })
+
     # ─── 다른 강아지 친화력 ──────────────────────────
     if with_dogs is not None:
         if with_dogs >= 4:
             messages.append({
-                "icon": "🐶",
+                "category": "사회성",
                 "title": "다른 강아지와 잘 어울려요",
                 "tone": "good",
                 "text": "다견 가정이나 강아지 놀이터에 데려가도 무리 없이 어울려요.",
             })
         elif with_dogs <= 2:
             messages.append({
-                "icon": "🐕",
+                "category": "사회성",
                 "title": "다른 강아지와의 만남은 천천히",
                 "tone": "caution",
                 "text": (

@@ -189,8 +189,8 @@
                             "temperament": "dignified / bright / serious-minded"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -490,7 +490,7 @@
                 "eurasier": {
                     "markings": [
                         {
-                            "marking_index": 204,
+                            "marking_index": 206,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -500,7 +500,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 205,
+                            "marking_index": 207,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -510,7 +510,7 @@
                             "markings_short": "RVS MSK"
                         },
                         {
-                            "marking_index": 206,
+                            "marking_index": 208,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -526,7 +526,7 @@
                 "eurasier": {
                     "colors": [
                         {
-                            "color_index": 695,
+                            "color_index": 696,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -537,7 +537,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 696,
+                            "color_index": 697,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -548,7 +548,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 697,
+                            "color_index": 698,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -559,7 +559,7 @@
                             "color_short": "WLFGR"
                         },
                         {
-                            "color_index": 698,
+                            "color_index": 699,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -570,7 +570,7 @@
                             "color_short": "WLF SBL"
                         },
                         {
-                            "color_index": 699,
+                            "color_index": 700,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -581,7 +581,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 700,
+                            "color_index": 701,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -592,7 +592,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 701,
+                            "color_index": 702,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -603,7 +603,7 @@
                             "color_short": "LVR"
                         },
                         {
-                            "color_index": 702,
+                            "color_index": 703,
                             "breed_name_url": "eurasier",
                             "breed_name": "Eurasier",
                             "akc_code": "353",
@@ -715,7 +715,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24353%5D",
@@ -764,8 +764,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

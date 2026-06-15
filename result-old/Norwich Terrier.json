@@ -1,0 +1,1282 @@
+{
+    "settings": {
+        "current_breed": "norwich-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Norwich-Terrier.pdf",
+                    "mp_health": "Norwich are a hardy breed that with good health care can be expected to live between 12 and 14 years. The most universal health issue in the breed is Upper Airway Syndrome (UAS). UAS is not completely understood in Norwich Terriers, however, upper airway abnormalities can be identified by symptoms such as loud or raspy breathing or exercise intolerance. A problem common to small terriers and toy breeds is dental issues; daily brushing is advised. Food should be carefully measured and rationed to avoid obesity. Norwich are particularly good jumpers and can jump up on furniture. Care must be taken to guard against giant leaps off of high places particularly when Norwich are immature.",
+                    "akc_org_health": "Overall, Norwich Terriers are a healthy breed. Responsible breeders screen their stock for health conditions such as hip dysplasia, epilepsy, degenerative myelopathy, and upper airway syndrome, a respiratory condition that is quite variable, and its prevalence and mode of inheritance are poorly understood. Norwich are prone to developing plaque and tartar, so diligent  dental care is essential.",
+                    "akc_org_nutrition": "The Norwich Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior).Although the breed standard gives an ideal weight of 12 pounds, because Norwich vary in height, bone structure, and muscle mass, there is no one correct weight. Some will require fewer calories than others, and metabolism tends to slow down with age. Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.",
+                    "akc_org_grooming": "A Norwich Terrier should have a double coat consisting of a harsh, nearly weatherproof outer coat, and a soft undercoat that insulates the body from heat and cold. Hand-stripping removes old outer hairs and excess undercoat so that new hair grows in. Wire coats that are cared for properly by hand-stripping have a beautiful shine and rich colors. Because clipping or scissoring cuts the colored tips off, the natural color will fade, and the texture will soften. The breed requires regular grooming. Learning to hand-strip, or finding a groomer who will hand-strip, is an important consideration in choosing this breed.",
+                    "akc_org_exercise": "The Norwich retains its original hunting instincts and jovial temperament. They are inquisitive and energetic, and they should be in fit condition for the day's activities. They require ample exercise to benefit their mental and physical health. Because of their innate hunting instincts, they must be walked on a leash or let out only in a securely fenced area.",
+                    "akc_org_training": "Norwich are spirited little terriers, and they are usually eager to please and respond well to training. Puppies should be properly socialized to develop the amiable, outgoing personality that is characteristic of the breed. They're successful in performance and companion events such as  earthdog , barn hunt,  obedience, and agility.",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Ophthalmologist Evaluation"
+                }
+            },
+            "basics": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "breed_name_oracle": "Norwich Terrier",
+                    "matches_oracle": "Norwich Terrier",
+                    "akc_code": "215",
+                    "breed_name_plural": "Norwich Terriers",
+                    "breed_nicknames": "Norwich",
+                    "origin": "England",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1936",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Border Terrier, Norfolk Terrier, Australian Terrier, West Highland White Terrier, Cairn Terrier",
+                    "links": [],
+                    "popularity_2025": 109,
+                    "popularity_2024": 104,
+                    "popularity_2023": 105,
+                    "popularity_2022": 109,
+                    "popularity_2021": 111,
+                    "popularity_2020": 109,
+                    "popularity_2019": 104,
+                    "popularity_2018": 108,
+                    "popularity_2017": 105,
+                    "popularity_2016": 103,
+                    "popularity_2015": 103,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "border-terrier",
+                        "norfolk-terrier",
+                        "australian-terrier",
+                        "west-highland-white-terrier",
+                        "cairn-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "border-terrier": {
+                            "breed_name_url": "border-terrier",
+                            "breed_name": "Border Terrier",
+                            "breed_name_oracle": "Border Terrier",
+                            "matches_oracle": "Border Terrier",
+                            "akc_code": "205",
+                            "breed_name_plural": "Border Terriers",
+                            "breed_nicknames": "Border",
+                            "origin": "England/Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1930",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Norwich Terrier, Russell Terrier, Norfolk Terrier, Jagdterrier, Cairn Terrier",
+                            "links": [],
+                            "popularity_2025": 91,
+                            "popularity_2024": 98,
+                            "popularity_2023": 94,
+                            "popularity_2022": 95,
+                            "popularity_2021": 91,
+                            "popularity_2020": 97,
+                            "popularity_2019": 85,
+                            "popularity_2018": 88,
+                            "popularity_2017": 92,
+                            "popularity_2016": 86,
+                            "popularity_2015": 82,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers, ",
+                            "temperament": "affectionate / happy / plucky"
+                        },
+                        "norfolk-terrier": {
+                            "breed_name_url": "norfolk-terrier",
+                            "breed_name": "Norfolk Terrier",
+                            "breed_name_oracle": "Norfolk Terrier",
+                            "matches_oracle": "Norfolk Terrier",
+                            "akc_code": "216",
+                            "breed_name_plural": "Norfolk Terriers",
+                            "breed_nicknames": "Norfolk",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1979",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Norwich Terrier, Glen of Imaal Terrier, West Highland White Terrier, Cairn Terrier, Sealyham Terrier",
+                            "links": [],
+                            "popularity_2025": 126,
+                            "popularity_2024": 130,
+                            "popularity_2023": 134,
+                            "popularity_2022": 138,
+                            "popularity_2021": 130,
+                            "popularity_2020": 130,
+                            "popularity_2019": 133,
+                            "popularity_2018": 126,
+                            "popularity_2017": 128,
+                            "popularity_2016": 134,
+                            "popularity_2015": 131,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "alert / fearless / fun-loving"
+                        },
+                        "australian-terrier": {
+                            "breed_name_url": "australian-terrier",
+                            "breed_name": "Australian Terrier",
+                            "breed_name_oracle": "Australian Terrier",
+                            "matches_oracle": "Australian Terrier",
+                            "akc_code": "203",
+                            "breed_name_plural": "Australian Terriers",
+                            "breed_nicknames": "Australian Terrier",
+                            "origin": "Australia",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1960",
+                            "life_expectancy": "11-15 years",
+                            "related_breeds": "Norwich Terrier, Dandie Dinmont Terrier, Yorkshire Terrier, Cairn Terrier, Silky Terrier",
+                            "links": [],
+                            "popularity_2025": 150,
+                            "popularity_2024": 158,
+                            "popularity_2023": 156,
+                            "popularity_2022": 136,
+                            "popularity_2021": 152,
+                            "popularity_2020": 134,
+                            "popularity_2019": 144,
+                            "popularity_2018": 139,
+                            "popularity_2017": 137,
+                            "popularity_2016": 136,
+                            "popularity_2015": 125,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dog Breeds for Kids, Best Dogs for Apartment Dwellers",
+                            "temperament": "courageous / affectionate / spirited"
+                        },
+                        "west-highland-white-terrier": {
+                            "breed_name_url": "west-highland-white-terrier",
+                            "breed_name": "West Highland White Terrier",
+                            "breed_name_oracle": "West Highland White Terrier",
+                            "matches_oracle": "West Highland White Terrier",
+                            "akc_code": "222",
+                            "breed_name_plural": "West Highland White Terriers",
+                            "breed_nicknames": "Westie",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1908",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Cairn Terrier, Norfolk Terrier, Norwich Terrier, Scottish Terrier, Australian Terrier",
+                            "links": [],
+                            "popularity_2025": 45,
+                            "popularity_2024": 41,
+                            "popularity_2023": 43,
+                            "popularity_2022": 45,
+                            "popularity_2021": 46,
+                            "popularity_2020": 44,
+                            "popularity_2019": 44,
+                            "popularity_2018": 42,
+                            "popularity_2017": 42,
+                            "popularity_2016": 41,
+                            "popularity_2015": 41,
+                            "related_groups_characteristics": "",
+                            "temperament": "loyal / happy / entertaining"
+                        },
+                        "cairn-terrier": {
+                            "breed_name_url": "cairn-terrier",
+                            "breed_name": "Cairn Terrier",
+                            "breed_name_oracle": "Cairn Terrier",
+                            "matches_oracle": "Cairn Terrier",
+                            "akc_code": "207",
+                            "breed_name_plural": "Cairn Terriers",
+                            "breed_nicknames": "Cairn",
+                            "origin": "Scotland",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1913",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Skye Terrier, West Highland White Terrier, Norwich Terrier, Border Terrier, Scottish Terrier",
+                            "links": [],
+                            "popularity_2025": 68,
+                            "popularity_2024": 71,
+                            "popularity_2023": 68,
+                            "popularity_2022": 70,
+                            "popularity_2021": 74,
+                            "popularity_2020": 73,
+                            "popularity_2019": 73,
+                            "popularity_2018": 69,
+                            "popularity_2017": 69,
+                            "popularity_2016": 70,
+                            "popularity_2015": 70,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Dogs for Apartment Dwellers, ",
+                            "temperament": "alert / cheerful / busy"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "temperament": "alert / curious / loyal / affectionate / gregarious",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double",
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "akc_org_blurb": "<p>Norwich Terriers are plucky little earthdogs named for their hometown in England. The old cliche \"a big dog in a small package\" was coined for breeds like the Norwich, who can be oblivious to the fact that they are just 10 inches tall.</p>",
+                    "akc_org_about": "<p>Standing no more than 10 inches at the shoulder and weighing about 12 pounds, Norwich are among the smallest working terriers. Beneath the hard, wiry coat is a stocky, substantial dog. Norwiches are toy-sized but are not satin-pillow dogs' they were originally bred as tough and fearless ratters. They are distinguished from their doggy doppelganger, the Norfolk Terrier, by their erect, pointed ears. &nbsp;&nbsp;&nbsp;&nbsp;Happy-go-lucky, fearless, and sometimes even bossy, Norwiches are energetic enough to play fetch all day, but affectionate enough to enjoy hours of lap time with their favorite human. Short, positive training sessions work best with this clever but sometimes stubborn breed. Three words convey the overall dog: cute, cuter, and cutest.</p>",
+                    "mp_description": "<p>One of the smallest of terriers, the Norwich Terrier is as happy playing endless games of fetch as he is curled in your lap. At just 10 inches tall, he can live just about anywhere, city or country. Your Norwich Terrier puppy, with his prick ears and alert expression, responds well to positive training in short sessions. As smart as he is, he can also be a bit stubborn, with an outsized personality. Lots of exercise and playtime will channel all that terrier energy. He's a brave little explorer with a strong hunting instinct, so keep him safe in a fenced yard and by walking him on a lead.</p>"
+                }
+            },
+            "standards": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "The Norwich Terrier, spirited and stocky with sensitive prick ears and a slightly foxy expression, is one of the smallest working terriers. This sturdy descendent of ratting companions, eager to dispatch small vermin alone or in a pack, has good bone and substance and an almost weatherproof coat. A hardy hunt terrier-honorable scars from fair wear and tear are acceptable.",
+                    "title_2": "Head",
+                    "description_2": "A slightly foxy expression. Eyes small, dark and oval shaped with black rims. Placed well apart with a bright and keen expression. Ears medium size and erect. Set well apart with pointed tips. Upright when alert. The skull is broad and slightly rounded with good width between the ears. The muzzle is wedge shaped and strong. Its length is about one-third less than the measurement from the occiput to the well-defined stop. The jaw is clean and strong. Nose and lip pigment black. Tight-lipped with large teeth. A scissor bite.",
+                    "title_3": "Body",
+                    "description_3": "Neck, Topline, Body\nNeck of medium length, strong and blending into well laid back shoulders. Level topline. Body moderately short. Compact and deep. Good width of chest. Well-sprung ribs and short loins. Tail medium docked. The terrier's working origin requires that the tail be of sufficient length to grasp. Base level with topline; carried erect.",
+                    "title_4": "Forequarters",
+                    "description_4": "Well laid back shoulders. Elbows close to ribs. Short, powerful legs, as straight as is consistent with the digging terrier. Pasterns firm. Feet round with thick pads. Nails black. The feet point forward when standing or moving.",
+                    "title_5": "Coat",
+                    "description_5": "Coat is described in words of the standard, \u00bfHard, wiry, straight, lying close to the body with a definite undercoat. Traditionally a Norwich coat is hand stripped to maintain its texture and rich color.\u00bf",
+                    "title_6": "Hindquarters",
+                    "description_6": "Broad, strong and muscular with well-turned stifles. Hocks low set and straight when viewed from the rear. Feet as in front.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "10",
+                    "height_max": "10",
+                    "weight_min": "12",
+                    "weight_max": "12",
+                    "size": "Small",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/NorwichTerrier.pdf",
+                    "height_min_f": "10",
+                    "height_max_f": "10",
+                    "height_min_m": "10",
+                    "height_max_m": "10",
+                    "height_display": "10 inches",
+                    "weight_min_f": "12",
+                    "weight_max_f": "12",
+                    "weight_min_m": "12",
+                    "weight_max_m": "12",
+                    "weight_display": "12 pounds"
+                }
+            },
+            "colors": {
+                "norwich-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 325,
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "akc_code": "215",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 326,
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "akc_code": "215",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "109",
+                            "color_long": "Grizzle",
+                            "color_short": "GRZL"
+                        },
+                        {
+                            "color_index": 327,
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "akc_code": "215",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 328,
+                            "breed_name_url": "norwich-terrier",
+                            "breed_name": "Norwich Terrier",
+                            "akc_code": "215",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "224",
+                            "color_long": "Wheaten",
+                            "color_short": "WHTN"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "breed_club_name": "Norwich Terrier Club of America",
+                    "breed_club_url": "www.norwichterrierclub.org",
+                    "breed_club_pdf_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2024/10/30115907/Norwich-Terrier-Club-Flyer-20241025.pdf",
+                    "breed_rescue_url": "http://www.norwichterrierclub.org/find-a-norwich/ntca-rescue-committee/",
+                    "national_breed_club": "Norwich Terrier Club of America",
+                    "national_breed_club_url": "www.norwichterrierclub.org",
+                    "breed_referral_contact_name": "Marilyn Jacobs",
+                    "breed_referral_contact_phone_number": "(707) 280-3979",
+                    "breed_referral_contact_email": "mjacobs@foxbriarkennels.com",
+                    "breed_referral_contact_address": "PO BOX 1509\nTRAVIS AFB, CA 94535-0509",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "http://norwichterrierclub.org/club/other-norwich-clubs",
+                    "breed_referral_regional_club_url": "http://norwichterrierclub.org/club/other-norwich-clubs",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.norwichterrierclub.org/find-a-norwich/ntca-rescue-committee/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1588,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 174,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 976,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 978,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 975,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 977,
+                            "breed_id": "176",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "norwich-terrier": {
+                    "breed_name_url": "norwich-terrier",
+                    "breed_name": "Norwich Terrier",
+                    "akc_org_history": "The Norwich Terrier is among the seemingly endless variety of terriers bred to control Britain's rodent population. In addition to being ratters, Norwiches were used in packs on foxhunts, and so were bred to be more sociable than the usual independent-minded terrier.\n \n \n \n The Norwich is famously associated with Cambridge University, where, in the 1870s and '80s, Norwich ownership became a fad among undergraduates. The students acquired the dogs as pets and dorm-room ratters from a livery stable on nearby Trumpington Street, and the breed became known as Trumpington Terriers. One of these dogs, named Rags, came into the possession of a stableyard owner in the town of Norwich. Rags was bred, sired several litters of admirable quality, as is today considered the granddaddy of today's Norwich.\n \n \n \n The breed's American history began in 1914, when a Brit named Frank \"Roughrider\" Jones utilized descendents of Rags to breed a dog named Willum. Willum was exported to Philadelphia, where he became the breed's cornerstone sire in the United States. So closely was Roughrider Jones associated with these cheerful, prick-eared terriers that the breed came to be known among American fanciers as the Jones Terrier. Long after the breed was recognized by the English and American kennel clubs in the1930s as the Norwich Terrier, American breed devotees referred to their charming little dogs as Jones Terriers.\n \n \n \n Norwich and Norfolk terriers are so closely related that the AKC did not recognize them as separate breeds until 1979. Perhaps the Norwich with the highest pop-culture profile of recent times was Winky, from the movie 'Best in Show,'\u009d who was played by a real-life show champion.",
+                    "mp_history_job": "The Norwich Terrier is among the seemingly endless variety of terriers bred to control Britain\u00bfs rodent population. In addition to being ratters, Norwiches were used in packs on foxhunts, and so tend to to be more sociable than the usual independent-minded terrier. The breed was associated with Cambridge University, where Norwich ownership was an undergraduate fad of the late 1800s. Norwich and Norfolk terriers are so closely related that AKC didn\u00bft recognize them as separate breeds until 1979.",
+                    "did_you_know": "The Norwich Terrier is a fearless little dog bred to hunt vermin. | The Norwich Terrier's prick ears are a distinguishing characteristic. | The name covered both the drop-eared and prick-eared varieties until 1979. | There was not a lot of uniformity in the breed until 1923 when the breed became known as the Norwich Terrier and a breed standard was accepted by the Kennel Club (England). | Once known as Cantab Terriers, the game and hardy little dogs were useful on the hunt, in the stable yard and as a fun-loving family pet. | As a working terrier of East Anglia, the Norwich was believed to have been developed by crossing small Irish Terriers with other short-legged terrier breeds."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25153%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-standing-outdoors.jpg",
+                    "alt": "Norwich Terrier standing outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9lenkadan - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-laying-down.jpg",
+                    "alt": "Norwich Terrier laying down in three-quarter view.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-at-the-AKC-National-Championship.jpg",
+                    "alt": "Norwich Terrier at the AKC National Championship.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-sitting.jpg",
+                    "alt": "Norwich Terrier sitting in profile.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terriers-sitting-together-outdoors.jpg",
+                    "alt": "Norwich Terriers sitting together outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Steve - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-illustration.jpg",
+                "alt": "Norwich Terrier illustration"
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Norwich_Terrier-MP.jpg",
+                "alt": "Norwich Terrier"
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/norwich-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Norwich Terrier",
+        "shopCta": false
+    }
+}

@@ -1,0 +1,1245 @@
+{
+    "settings": {
+        "current_breed": "boston-terrier",
+        "current_breed_group": {
+            "name": "Non-Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/non-sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22110635/Boston-Terrier-Health-Statement-November-2014.pdf",
+                    "mp_health": "<p>This is a brachycephalic breed so care must be taken that they do not become overheated in warm weather. In cold weather they should have a sweater or coat and must not be outside too long. Bostons should see the veterinarian for an annual wellness visit that will include a check for parasites and may include bloodwork. Bostons' eyes are easily hurt so check them daily and see a veterinarian when any injury is noted.</p>",
+                    "akc_org_health": "<p>Protecting the Boston Terrier's beautiful but prominent eyes is of special importance. The eyes should be checked daily for redness or irritation. Some owners carry saline eye drops to flush out dust or debris. Responsible breeders screen their stock for eye problems such as cataracts, corneal ulcers, and glaucoma, as well as deafness and patellar luxation (comparable to a \"trick knee\" in humans). Like all flat-faced breeds, Bostons can experience difficulty breathing when not given adequate shelter from excessive heat or humidity.</p>",
+                    "akc_org_nutrition": "<p>The Boston Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Boston's sleek, fine coat does shed somewhat, though not a lot. Weekly brushing with a soft-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove the loose hair. A good brushing also promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. Bostons need to be bathed only occasionally, unless they get into something messy. As with all breeds, the Boston's nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running.</p>",
+                    "akc_org_exercise": "<p>The Boston's need for exercise varies from individual to individual. For some, a brisk walk once or twice a day will be enough. Others will need more time to run and play every day and let off steam. Simply letting a Boston out into the backyard doesn't count as exercise'\u00bfhe'll probably just sit at the door waiting to be let back in. Left alone for long periods of time, a Boston will tend to become frustrated and develop undesirable behaviors. Throw him a ball or a toy, however, and he'll be more than happy to play with you. Participation in canine sports such as agility, obedience, flyball, and rally is an enjoyable way to channel the breed's energy.</p>",
+                    "akc_org_training": "<p>As with all breeds, early socialization and puppy training classes are recommended. Socialization'\u00bfgently exposing the puppy to a wide variety of people, places, and situations'\u00bfwill help him develop into a well-adjusted, well-mannered adult. Treats make a great training incentive. Many Bostons are quite sensitive; for them, gentle corrections should be followed by warmth and praise.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Ophthalmologist Evaluation",
+                    "test_3": "BAER Testing",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Ophthalmologist Evaluation | BAER Testing"
+                }
+            },
+            "basics": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "breed_name_oracle": "Boston Terrier",
+                    "matches_oracle": "Boston Terrier",
+                    "akc_code": "301",
+                    "breed_name_plural": "Boston Terriers",
+                    "breed_nicknames": "Boston, The American Gentleman",
+                    "origin": "United States",
+                    "breed_group": "Non-Sporting Group",
+                    "year_recognized": "1893",
+                    "life_expectancy": "11-13 years",
+                    "related_breeds": "French Bulldog, Affenpinscher, Pug, Rat Terrier",
+                    "links": [],
+                    "popularity_2025": 23,
+                    "popularity_2024": 23,
+                    "popularity_2023": 23,
+                    "popularity_2022": 24,
+                    "popularity_2021": 23,
+                    "popularity_2020": 21,
+                    "popularity_2019": 21,
+                    "popularity_2018": 21,
+                    "popularity_2017": 21,
+                    "popularity_2016": 21,
+                    "popularity_2015": 22,
+                    "related_groups_characteristics": "Smallest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "french-bulldog",
+                        "pug",
+                        "rat-terrier"
+                    ],
+                    "related_breeds_items": {
+                        "french-bulldog": {
+                            "breed_name_url": "french-bulldog",
+                            "breed_name": "French Bulldog",
+                            "breed_name_oracle": "French Bulldog",
+                            "matches_oracle": "French Bulldog",
+                            "akc_code": "305",
+                            "breed_name_plural": "French Bulldogs",
+                            "breed_nicknames": "Frenchie",
+                            "origin": "England",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1898",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Boston Terrier, Bulldog, Bull Terrier, Miniature Bull Terrier, Pug",
+                            "links": [],
+                            "popularity_2025": 1,
+                            "popularity_2024": 1,
+                            "popularity_2023": 1,
+                            "popularity_2022": 1,
+                            "popularity_2021": 2,
+                            "popularity_2020": 2,
+                            "popularity_2019": 4,
+                            "popularity_2018": 4,
+                            "popularity_2017": 4,
+                            "popularity_2016": 6,
+                            "popularity_2015": 6,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "playful / smart / adaptable"
+                        },
+                        "pug": {
+                            "breed_name_url": "pug",
+                            "breed_name": "Pug",
+                            "breed_name_oracle": "Pug",
+                            "matches_oracle": "Pug",
+                            "akc_code": "512",
+                            "breed_name_plural": "Pugs",
+                            "breed_nicknames": "Multum in Parvo",
+                            "origin": "China",
+                            "breed_group": "Toy Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Pekingese, Japanese Chin, French Bulldog, Boston Terrier, Shih Tzu",
+                            "links": [],
+                            "popularity_2024": 38,
+                            "popularity_2023": 36,
+                            "popularity_2022": 35,
+                            "popularity_2021": 33,
+                            "popularity_2020": 29,
+                            "popularity_2019": 31,
+                            "popularity_2018": 28,
+                            "popularity_2017": 31,
+                            "popularity_2016": 32,
+                            "popularity_2015": 33,
+                            "related_groups_characteristics": "Smallest Dog Breeds, Best Family Dogs, Best Dogs for Apartment Dwellers",
+                            "temperament": "charming / loving / mischievous"
+                        },
+                        "rat-terrier": {
+                            "breed_name_url": "rat-terrier",
+                            "breed_name": "Rat Terrier",
+                            "breed_name_oracle": "Rat Terrier",
+                            "matches_oracle": "Rat Terrier",
+                            "akc_code": "247",
+                            "breed_name_plural": "Rat Terriers",
+                            "breed_nicknames": "RT, Rat",
+                            "origin": "United States",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "2013",
+                            "life_expectancy": "12-18 years",
+                            "related_breeds": "Toy Fox Terrier, Smooth Fox Terrier, American Hairless Terrier, Teddy Roosevelt Terrier, Parson Russell Terrier",
+                            "links": [],
+                            "popularity_2025": 84,
+                            "popularity_2024": 81,
+                            "popularity_2023": 86,
+                            "popularity_2022": 85,
+                            "popularity_2021": 86,
+                            "popularity_2020": 83,
+                            "popularity_2019": 92,
+                            "popularity_2018": 86,
+                            "popularity_2017": 97,
+                            "popularity_2016": 96,
+                            "popularity_2015": 101,
+                            "related_groups_characteristics": "Smallest Dog Breeds, ",
+                            "temperament": "friendly / inquisitive / lovable"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "temperament": "friendly / bright / amusing",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "akc_org_blurb": "The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman.'\u009d",
+                    "akc_org_about": "Boston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo'\u009d coat can be white and either black, brindle, or seal (dark brown). The head is square, the muzzle is short, and the large, round eyes can shine with kindness, curiosity, or mischief. Ever alert to their surroundings, Bostons move with a jaunty, rhythmic step.\n\n\n\n It's a safe bet that a breed named for a city'\u00bfthe Havanese or Brussels Griffon, for instance'\u00bfwill make an excellent urban pet. Bostons are no exception: they are sturdy but portable, people-oriented, and always up for a brisk walk to the park or outdoor cafe. A bright dog with a natural gift for comedy, the dapper Bostonian is a steady source of smiles.",
+                    "mp_description": "Boston born and bred, the Boston Terrier is a true American gentleman. He's happy as an apartment-dwelling city dog or living anywhere his people are. Your Boston Terrier puppy, with his sturdy body and lively intelligence, is easily trained and always ready to play. Gentle, people-oriented and absolutely adorable, your pup will quickly become a beloved family member. His antics will keep you entertained and his eager affection will turn everyone he meets into a fan."
+                }
+            },
+            "standards": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "<p>The Boston Terrier is a lively, highly intelligent, smooth coated, short-headed, compactly built, short-tailed, well balanced dog, brindle, seal or black in color and evenly marked with white. The head is in proportion to the size of the dog and the expression indicates a high degree of intelligence. The body is rather short and well knit, the limbs strong and neatly turned, the tail is short and no feature is so prominent that the dog appears badly proportioned. The dog conveys an impression of determination, strength and activity, with style of a high order; carriage easy and graceful.</p>",
+                    "title_2": "Head",
+                    "description_2": "<p>The skull is square, flat on top, free from wrinkles, cheeks flat, brow abrupt and the stop well defined. The ideal Boston Terrier expression is alert and kind, indicating a high degree of intelligence. This is a most important characteristic of the breed. The eyes are wide apart, large and round and dark in color. The eyes are set square in the skull and the outside corners are on a line with the cheeks as viewed from the front. Disqualify - Eyes blue in color or any trace of blue. The ears are small, carried erect, either natural or cropped to conform to the shape of the head and situated as near to the corners of the skull as possible.</p>",
+                    "title_3": "Neck Topline Body",
+                    "description_3": "<p>The length of neck must display an image of balance to the total dog. It is slightly arched, carrying the head gracefully and setting neatly into the shoulders. The back is just short enough to square the body. The topline is level and the rump curves slightly to the set-on of the tail. The chest is deep with good width, ribs well sprung and carried well back to the loins. The body should appear short. The tail is set on low, short, fine and tapering, straight or screw and must not be carried above the horizontal. (Note: The preferred tail does not exceed in length more than one-quarter the distance from set-on to hock.) Disqualify - Docked tail. Body Faults - Gaily carried tail. Serious Body Faults - Roach back, sway back, slab-sided.</p>",
+                    "title_4": "Forequarters",
+                    "description_4": "<p>The shoulders are sloping and well laid back, which allows for the Boston Terrier's stylish movement. The elbows stand neither in nor out. The forelegs are set moderately wide apart and on a line with the upper tip of the shoulder blades. The forelegs are straight in bone with short, strong pasterns. The dewclaws may be removed. The feet are small, round and compact, turned neither in nor out, with well arched toes and short nails. Faults - Legs lacking in substance; splay feet.</p>",
+                    "title_5": "Hindquarters",
+                    "description_5": "<p>The thighs are strong and well muscled, bent at the stifles and set true. The hocks are short to the feet, turning neither in nor out, with a well defined hock joint. The feet are small and compact with short nails. Fault - Straight in stifle.</p>",
+                    "title_6": "Coat",
+                    "description_6": "<p>The coat is short, smooth, bright and fine in texture.</p>",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "15",
+                    "height_max": "17",
+                    "weight_min": "12",
+                    "weight_max": "25",
+                    "size": "<p>Small</p>",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BostonTerrier.pdf",
+                    "height_min_f": "10",
+                    "height_max_f": "12",
+                    "height_min_m": "10",
+                    "height_max_m": "12",
+                    "height_display": "10-12 inches",
+                    "weight_min_f": "12",
+                    "weight_max_f": "25",
+                    "weight_min_m": "12",
+                    "weight_max_m": "25",
+                    "weight_display": "12-25 pounds"
+                }
+            },
+            "colors": {
+                "boston-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 479,
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "akc_code": "301",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 480,
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "akc_code": "301",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "021",
+                            "color_long": "Black Brindle & White",
+                            "color_short": "BLK BRDL & WH"
+                        },
+                        {
+                            "color_index": 481,
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "akc_code": "301",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 482,
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "akc_code": "301",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "170",
+                            "color_long": "Seal & White",
+                            "color_short": "SL & WH"
+                        },
+                        {
+                            "color_index": 483,
+                            "breed_name_url": "boston-terrier",
+                            "breed_name": "Boston Terrier",
+                            "akc_code": "301",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "172",
+                            "color_long": "Seal Brindle & White",
+                            "color_short": "SL BRDL & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "breed_club_name": "Boston Terrier Club of America, Inc.",
+                    "breed_club_url": "www.bostonterrierclubofamerica.org/",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Boston_Terrier-club_flyer.pdf",
+                    "breed_rescue_url": "http://www.bostonterrierclubofamerica.org/about-boston-terriers/boston-terrier-rescue.htm",
+                    "national_breed_club": "Boston Terrier Club of America, Inc.",
+                    "national_breed_club_url": "www.bostonterrierclubofamerica.org/",
+                    "breed_referral_contact_name": "Sandie Friend",
+                    "breed_referral_contact_phone_number": "(804) 833-7030",
+                    "breed_referral_contact_email": "sandie1205@earthlink.net",
+                    "breed_referral_contact_address": "3503 BEKAH LN\nGLEN ALLEN, VA 23059-4823",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.bostonterrierclubofamerica.org/about-boston-terriers/boston-terrier-rescue.htm",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1462,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 48,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The Boston Terrier Club of America, founded in 1891, is the official AKC Parent Club for the Boston Terrier."
+                        },
+                        {
+                            "id": 472,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 474,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 471,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 473,
+                            "breed_id": "48",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "boston-terrier": {
+                    "breed_name_url": "boston-terrier",
+                    "breed_name": "Boston Terrier",
+                    "akc_org_history": "<p>The popularity of blood sports in 19th-century England led to a mania for crossing terriers and bull-type breeds to produce dogs who could excel at pit fighting and ratting contests. In Liverpool, sometime in the late 1860s, a cross between a Bulldog and the now-extinct white English Terrier resulted in a tough, muscular dog named Judge.</p>\n<p><br></p>\n<p>Judge's owner sold him to an American named William O'Brien, who brought his new dog home to Boston. In 1870, O'Brien sold Judge to a fellow Bostonian, Robert C. Hooper. Judge, from then on known in breed histories as 'Hooper's Judge,' became the patriarch of the Boston Terrier breed and the common ancestor of almost all true Bostons.</p>\n<p><br></p>\n<p>A breed historian describes Judge as a 'strongly built, high stationed dog of about thirty-two pounds weight. In color he was a dark brindle, with a white stripe in the face. His head was square and blocky, and he resembled the present Boston Terrier in that he had a nearly even mouth.'</p>\n<p><br></p>\n<p>Hooper bred Judge to a small white female named Burnett's Gyp, owned by Edward Burnett, of Southboro, Massachusetts. And, in the genealogy so familiar to Boston Terrier fanciers, Judge and Gyp begot Well's Eph, who begot Tobin's Kate, and on through the seminal generations of the Boston's U.S. history. During the breed's formative decades, selective breeding transformed the bulky fighter of Judge's time into a smaller, sweeter, and more attractive companion dog, originally called the Round Head by its partisans.</p>\n<p><br></p>\n<p>In honor of the city where these happy-go-lucky dogs were so painstakingly developed, the breed name was changed to Boston Terrier. The Boston Terrier Club of America was formed in 1891, and two years later the AKC registered its first dog of the breed.</p>\n<p><br></p>\n<p>To this day, Boston Terriers are a point of hometown pride. The Boston Terrier has been the official mascot of Boston University for nearly 100 years, and in 1979 the state legislature named the 'American Gentleman' the official dog of Massachusetts.</p>",
+                    "mp_history_job": "<p>Sometime around 1870 Robert C. Hooper, of Boston, acquired a dog named Judge, a cross between a Bulldog and an old breed known as the English Terrier. Judge has been called the 'ancestor of all true modern Bostons.' Fans of the breed set about refining their dog, and the first club devoted to Bostons was founded in 1889. Bostons are lovers not fighters, and the breed\u00bfs gentle nature earned it the nickname \"The American Gentleman.\"</p>",
+                    "did_you_know": "The Boston Terrier is a native American breed. | In the year 1889, fanciers formed the American Bull Terrier Club (the former name of Boston Terriers), but upon meeting opposition from both Bulldog and Bull Terrier fanciers, changed the name in 1891. | Much of the progress in the Boston Terrier breeding program has been made in the 20th century; it is a relatively new breed. | The Boston Terrier is the result of a cross between an English Bulldog and a White English Terrier, later considerably inbred. | The AKC admitted the Boston Terrier in 1893. | The original sire and dam of the Boston Terrier breed (the Bulldog and English Terrier that were bred) were named \"Judge\" and \"GYP\"."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23729%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-head-portrait-outdoors1.jpg",
+                    "alt": "Boston Terrier head portrait outdoors.",
+                    "caption": "",
+                    "credit": "Tereza Jancikova/Getty Images Plus"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-at-the-AKC-National-Championship-presented-by-Royal-Canin.jpg",
+                    "alt": "Boston Terrier at the 2016 AKC National Championship presented by Royal Canin.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-leaping-over-an-agility-jump.jpg",
+                    "alt": "Boston Terrier leaping over an agility jump.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-running-outdoors.jpg",
+                    "alt": "Boston Terrier running outdoors.",
+                    "caption": "",
+                    "credit": "Tereza Jancikova/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-participating-in-Rally.jpg",
+                    "alt": "Boston Terrier participating in Rally.",
+                    "caption": "",
+                    "credit": "Photo by Pix 'n Pages"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Dockdiving-0E9A0995.jpg",
+                    "alt": "Boston Terrier at a 2016 North American Diving Dogs dock diving competition.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-walking-in-the-grass.jpg",
+                    "alt": "Boston Terrier walking in the grass.",
+                    "caption": "",
+                    "credit": "\u00a9cynoclub - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-Illo-2.jpg",
+                "alt": "Boston Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-MP.jpg",
+                "alt": "Boston Terrier puppy."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/boston-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Boston Terrier",
+        "shopCta": false
+    }
+}

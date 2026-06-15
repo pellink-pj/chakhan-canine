@@ -1,0 +1,1260 @@
+{
+    "settings": {
+        "current_breed": "boykin-spaniel",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/22111916/Boykin-Spaniel-Health-Statement-February-2016.pdf",
+                    "mp_health": "<p>Boykin Spaniels can develop problems with the ears if neglected. Clean your Boykin\u00bfs ears regularly especially after working in the water, swimming and after bathing. Please consult your vet or your breeder for a good ear cleaner.</p>",
+                    "akc_org_health": "<p>Boykin Spaniels are generally healthy dogs, and responsible breeders screen their stock for health conditions such as hip dysplasia, juvenile cataracts, and exercise-induced collapse. The Boykin's ears should be checked regularly for signs of infection and cleaned when necessary'\u00bfthis can be done with soft gauze and an ear-cleaning solution, which the dog's breeder or veterinarian can recommend. The teeth should be brushed often, using a toothpaste designed for dogs.</p>",
+                    "akc_org_nutrition": "<p>The Boykin Spaniel should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Boykin's medium-length, wavy coat requires only minimal maintenance. A weekly brushing will help to remove dirt and loose hair and keep him looking his best, and an occasional bath will help to keep him clean-smelling. As with all breeds, the nails should be trimmed regularly, as overly long nails can cause discomfort and problems walking and running.</p>",
+                    "akc_org_exercise": "<p>Boykins have moderate to high energy and require lots of exercise every day. They do best with active people, especially those seeking an athletic partner for activities like hiking, running, or biking. Regular exercise will help keep the Boykin healthy and happy. This can come in the form of long walks and play sessions. The breed also exercises mind and body by participating in obedience, tracking, agility, rally, field events, and other activities that can be enjoyed by both dog and owner.</p>",
+                    "akc_org_training": "<p>The Boykin Spaniel is a tough, energetic, and enthusiastic hunting dog, yet gentle and contented in the home. An affectionate and fiercely loyal personality is a hallmark of the breed, and Boykins make wonderful family pets. They thrive on companionship, enjoying the company of children and other dogs. Early socialization and puppy training classes are recommended to help ensure that the Boykin grows into a well-adjusted, well-mannered companion. Intelligent and eager to please, Boykins are generally easy to train.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Ophthalmologist Evaluation",
+                    "test_4": "Exercise-Induced Collapse (EIC) - DNA Test",
+                    "test_5": "Collie Eye Anomaly (CEA, CH) - DNA Test",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Ophthalmologist Evaluation | Exercise-Induced Collapse (EIC) - DNA Test | Collie Eye Anomaly (CEA, CH) - DNA Test"
+                }
+            },
+            "basics": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "breed_name_oracle": "Boykin Spaniel",
+                    "matches_oracle": "Boykin Spaniel",
+                    "akc_code": "131",
+                    "breed_name_plural": "Boykin Spaniels",
+                    "breed_nicknames": "Boykin",
+                    "origin": "United States",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "2009",
+                    "life_expectancy": "10-15 years",
+                    "related_breeds": "English Springer Spaniel, American Water Spaniel, French Spaniel, Deutscher Wachtelhund, Field Spaniel",
+                    "links": [],
+                    "popularity_2025": 64,
+                    "popularity_2024": 65,
+                    "popularity_2023": 75,
+                    "popularity_2022": 82,
+                    "popularity_2021": 90,
+                    "popularity_2020": 87,
+                    "popularity_2019": 90,
+                    "popularity_2018": 100,
+                    "popularity_2017": 98,
+                    "popularity_2016": 110,
+                    "popularity_2015": 107,
+                    "related_groups_characteristics": "Medium Dog Breeds",
+                    "related_breeds_items_url": [
+                        "english-springer-spaniel",
+                        "american-water-spaniel",
+                        "french-spaniel",
+                        "deutscher-wachtelhund",
+                        "field-spaniel"
+                    ],
+                    "related_breeds_items": {
+                        "english-springer-spaniel": {
+                            "breed_name_url": "english-springer-spaniel",
+                            "breed_name": "English Springer Spaniel",
+                            "breed_name_oracle": "English Springer Spaniel",
+                            "matches_oracle": "English Springer Spaniel",
+                            "akc_code": "117",
+                            "breed_name_plural": "English Springer Spaniels",
+                            "breed_nicknames": "Springer",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1910",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Welsh Springer Spaniel, English Cocker Spaniel, Clumber Spaniel, Sussex Spaniel, Field Spaniel",
+                            "links": {
+                                "mp_url": null,
+                                "akc_url": null
+                            },
+                            "popularity_2025": 27,
+                            "popularity_2024": 28,
+                            "popularity_2023": 27,
+                            "popularity_2022": 26,
+                            "popularity_2021": 26,
+                            "popularity_2020": 26,
+                            "popularity_2019": 27,
+                            "popularity_2018": 27,
+                            "popularity_2017": 27,
+                            "popularity_2016": 26,
+                            "popularity_2015": 27,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / playful / obedient"
+                        },
+                        "american-water-spaniel": {
+                            "breed_name_url": "american-water-spaniel",
+                            "breed_name": "American Water Spaniel",
+                            "breed_name_oracle": "American Water Spaniel",
+                            "matches_oracle": "American Water Spaniel",
+                            "akc_code": "112",
+                            "breed_name_plural": "American Water Spaniels",
+                            "breed_nicknames": "AWS",
+                            "origin": "United States",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1940",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "Chesapeake Bay Retriever, Curly-Coated Retriever, Portuguese Water Dog, Irish Water Spaniel, Spanish Water Dog",
+                            "links": [],
+                            "popularity_2025": 176,
+                            "popularity_2024": 167,
+                            "popularity_2023": 168,
+                            "popularity_2022": 166,
+                            "popularity_2021": 166,
+                            "popularity_2020": 158,
+                            "popularity_2019": 166,
+                            "popularity_2018": 166,
+                            "popularity_2017": 167,
+                            "popularity_2016": 156,
+                            "popularity_2015": 157,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "charming / eager / happy"
+                        },
+                        "french-spaniel": {
+                            "breed_name_url": "french-spaniel",
+                            "breed_name": "French Spaniel",
+                            "breed_name_oracle": "French Spaniel",
+                            "matches_oracle": "French Spaniel",
+                            "akc_code": "146",
+                            "breed_name_plural": "French Spaniels",
+                            "breed_nicknames": "",
+                            "origin": "France",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Field Spaniel, Boykin Spaniel, Brittany, Drentsche Patrijshond",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "intelligent / sociable / gentle"
+                        },
+                        "deutscher-wachtelhund": {
+                            "breed_name_url": "deutscher-wachtelhund",
+                            "breed_name": "Deutscher Wachtelhund",
+                            "breed_name_oracle": "Deutscher Wachtelhund",
+                            "matches_oracle": "Deutscher Wachtelhund",
+                            "akc_code": "145",
+                            "breed_name_plural": "Deutscher Wachtelhunds",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Foundation Stock Service",
+                            "year_recognized": 0,
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Brittany, German Wirehaired Pointer, Boykin Spaniel, French Spaniel",
+                            "links": [],
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / versatile / determined"
+                        },
+                        "field-spaniel": {
+                            "breed_name_url": "field-spaniel",
+                            "breed_name": "Field Spaniel",
+                            "breed_name_oracle": "Field Spaniel",
+                            "matches_oracle": "Field Spaniel",
+                            "akc_code": "118",
+                            "breed_name_plural": "Field Spaniels",
+                            "breed_nicknames": "Field Spaniel",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1884",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "English Cocker Spaniel, English Springer Spaniel, Sussex Spaniel, Clumber Spaniel, Welsh Springer Spaniel",
+                            "links": [],
+                            "popularity_2025": 148,
+                            "popularity_2024": 160,
+                            "popularity_2023": 147,
+                            "popularity_2022": 157,
+                            "popularity_2021": 136,
+                            "popularity_2020": 160,
+                            "popularity_2019": 155,
+                            "popularity_2018": 149,
+                            "popularity_2017": 145,
+                            "popularity_2016": 147,
+                            "popularity_2015": 145,
+                            "related_groups_characteristics": "",
+                            "temperament": "sweet / fun-loving / sensitive"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "temperament": "friendly / eager / lovable",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wavy",
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "akc_org_blurb": "A medium-sized flushing and retrieving dog known for its rich brown coat, the Boykin Spaniel is avid, eager, merry, and trainable. This mellow housedog and tenacious bird dog was once South Carolina's best-kept secret.",
+                    "akc_org_about": "Boykins are medium-sized spaniels, larger and rangier than Cockers but more compact than Springers. The breed's hallmark is a beautiful solid-brown coat. Colors range from a rich liver to a luscious chocolate. The large, feathery ears hang close to the cheeks, setting off an expression of soulful intelligence. Bred to work in the lakes and swamps of their native South Carolina, web-toed Boykins can swim like seals.\n\n\n\n For years, Boykins were known only to hunters of Carolina waterfowl and wild turkey. But lately, the wider world has discovered that the Boykin is as delightful at home as he is eager at the lake. 'They are very, very sweet dogs to have around the family,'\u009d a longtime owner says, 'but an absolute tiger in the field.'\u009d",
+                    "mp_description": "This newer breed, named for its original breeder, is a special favorite of South Carolina waterfowl and wild turkey hunters. Like many spaniels, the Boykin Spaniel excels as a hunting partner. He can work all day in water and on land. Small in stature, with stamina to spare, he's not only an ideal gun dog, but a charming, lovable companion. He's handsome, too, with his deep brown coat and soulful eyes. Your Boykin Spaniel puppy is friendly, eager and trainable. Give him plenty of mental and physical exercise and you'll have a sweet pal around the house and a versatile, tenacious partner in the field."
+                }
+            },
+            "standards": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "title_1": "General Appearance",
+                    "description_1": "The Boykin Spaniel is medium in size, with emphasis placed on his hunting abilities, characterized by flushing and retrieving, with moderate speed and agility. His pendulous ears, intelligent expression, sturdy build and friendly wagging tail proclaim him part of the spaniel family.",
+                    "title_2": "Head",
+                    "description_2": "The head must be in proportion with the size of the dog. The Boykin's expression is alert, self-confident, attractive and intelligent. His eyes are varying shades of brown, set well apart, medium size and oval shaped, trusting, and should not be protruding or bulging. The Boykin Spaniel's ears are set slightly above or even with the line of the eye. The leather of the ear is thin and when pulled forward should almost reach the tip of the nose. The ears hang close to the cheeks and are flat. The skull is medium length fairly broad, flat on top, slightly rounded at the sides and back.",
+                    "title_3": "Body",
+                    "description_3": "The neck is moderately long, muscular, slightly arched at the crest and gradually blends into sloping shoulders. The back is straight, strong and essentially level. Loins are short, strong with a slight tuck up. His body is sturdily constructed but not too compact. The shoulders of the Boykin Spaniel are sloping. The brisket is well developed but not barreled, extending to the elbow and not too broad or narrow as to interfere with movement. The croup slopes gently to the set of the tail, and the tail-set follows the natural line of the croup. Tail is docked to a length of 3 to 5 inches when fully mature. The tail's carriage should be carried horizontally or slightly elevated and displays a characteristic lively, merry action, particularly when the dog is on game.",
+                    "title_4": "Forequarters",
+                    "description_4": "The Boykin Spaniel's shoulders are sloping, clean and muscular. His legs medium in length, straight and well boned but not too short as to handicap for field work or so heavy as too appear clumsy. The pasterns strong with no suggestions of weakness. The toes closely grouped, webbed and well padded. The feet are round, compact, well-arched, of medium size with thick pads. Dewclaws should be removed.",
+                    "title_5": "Coat",
+                    "description_5": "The Boykin Spaniel has both an undercoat and an outer coat. The coat can range from flat to slightly wavy, with medium length, on the outer coat. The undercoat is short and dense. The ears, chest, legs and belly are equipped with light fringe or feathering. His coat may be trimmed to have a well groomed appearance and to enhance the dog's natural lines. It is legitimate to trim about the head, throat, ears and feet to give a smart, functional appearance. A rough, curly or harsh coat or no undercoat is to be penalized.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The Boykin Spaniel has well developed hips and thighs with the whole rear assembly showing strength and drive. The hock joint slightly rounded, should not be small or sharp in contour, moderately angulated. Legs from hock joint to foot pad moderate in length, strong and straight with good bone structure. His hocks are parallel.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "14",
+                    "height_max": "18",
+                    "weight_min": "25",
+                    "weight_max": "40",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/BoykinSpaniel.pdf",
+                    "height_min_f": "14",
+                    "height_max_f": "18",
+                    "height_min_m": "14",
+                    "height_max_m": "18",
+                    "height_display": "15.5-18 inches (male), 14-16.5 inches (female)",
+                    "weight_min_f": "25",
+                    "weight_max_f": "40",
+                    "weight_min_m": "25",
+                    "weight_max_m": "40",
+                    "weight_display": "30-40 pounds (male), 25-35 pounds (female)"
+                }
+            },
+            "colors": {
+                "boykin-spaniel": {
+                    "colors": [
+                        {
+                            "color_index": 151,
+                            "breed_name_url": "boykin-spaniel",
+                            "breed_name": "Boykin Spaniel",
+                            "akc_code": "131",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "breed_club_name": "Boykin Spaniel Club & Breeders Association of America",
+                    "breed_club_url": "www.theboykinspanielclub.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/Boykin_Spaniel_club_flyer.pdf",
+                    "breed_rescue_url": "http://www.boykinspanielrescue.org/",
+                    "national_breed_club": "Boykin Spaniel Club & Breeders Association of America",
+                    "national_breed_club_url": "www.theboykinspanielclub.org",
+                    "breed_referral_contact_name": "Rachel Frey",
+                    "breed_referral_contact_phone_number": "(936) 933-4621",
+                    "breed_referral_contact_email": "contact@TheBoykinSpanielClub.com",
+                    "breed_referral_contact_address": "PO BOX 502\nHEMPSTEAD, TX 77445-0502",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://theboykinspanielclub.com/html/breeder_list.html",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.boykinspanielrescue.org/",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1465,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 51,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Since 2007 the Boykin Spaniel Club and Breeders Association of America has been the official AKC Parent Club for the Boykin Spaniel."
+                        },
+                        {
+                            "id": 484,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 486,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 483,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 485,
+                            "breed_id": "51",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "boykin-spaniel": {
+                    "breed_name_url": "boykin-spaniel",
+                    "breed_name": "Boykin Spaniel",
+                    "akc_org_history": "The Boykin Spaniel is among the handful of AKC breeds wholly developed in the 20th century. Boykin is a small South Carolina community, population approximately 100 souls, named for a founding resident, Lemuel Whitaker 'Whit'\u009d Boykin. As the Boykin Spaniel origin story goes, around 1900 a man named Alexander White found a little brown spaniel outside the church in Spartanburg, South Carolina, where he attended services. White gave the young male spaniel the uninspiring name Dumpy. An avid sportsman, White took Dumpy out hunting with his retrievers, and to White's delight Dumpy showed great enthusiasm and instincts for water retrieves and more than held his own with the pedigreed bird dogs.\n \n \n \n White sent Dumpy for training to his hunting partner, community patriarch Whit Boykin, who was the area's leading dog man. Boykin was fascinated with the brown spaniel, who turned out to be as skillful on flushing and retrieving wild turkeys as he was at duck hunting. Boykin built a new breeding program around Dumpy, utilizing crosses to such breeds as the Chesapeake Bay Retriever, Cocker, English Springer, and American Water spaniels. The result was the upbeat gundog we know today as the Boykin Spaniel.\n \n \n \n From the breed's beginning, sportsmen working Carolina's swampy terrain were enamored of the breed's intensity, versatility, and effortless balanced gait. The Boykin's popularity was for years restricted to the immediate area of its birth. Eventually, though, the Boykin caught on with bird hunters around the country, especially on the East Coast. The keys to the breed's success were its unbridled energy in the field, the ability to work on land or lake, and a sweet, gentle manner at home.\n \n \n \n South Carolinians have made the Boykin Spaniel their official state dog and celebrate September 1 as Boykin Spaniel Day. The Boykin gained full AKC recognition in 2009, joining the elite assembly of the AKC's 'all-American'\u009d dog breeds.",
+                    "mp_history_job": "Around 1900 Whit Boykin, of Camden, South Carolina, took possession of a brown spaniel named Dumpy, a stray found by a friend. Dumpy proved to be an excellent hunter. Boykin, an avid sportsman and dog trainer, crossed Dumpy with various spaniel breeds and eventually hit upon the upbeat gundog that today bears his name. It might\u00bfve been more appropriate to name the breed for its foundation sire, but would you really want to own something called a Dumpy Spaniel?",
+                    "did_you_know": "The Boykin Spaniel is AKC's 163rd breed. | The Boykin Spaniel (designated by Act Nov. 31, 1985) is the official dog of South Carolina. | The Boykin Spaniel is so small that you can lift both dog and duck into your boat at the same time. | The Boykin Spaniel has been approved to compete in the Miscellaneous Class since January 1, 2008. | The Boykin Spaniel was recorded in the Foundation Stock Service from 1997 to 2018. | The stray dog that Mr. Alexander l. White found was named \"Dumpy\" because of his short, rather thick build."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23779%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-holding-a-dummy-toy.jpg",
+                    "alt": "Boykin Spaniel holding a dummy toy in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_7450.jpg",
+                    "alt": "Best of Breed: GCHS CH Larley's Nothing But the Truth, Spaniel (Boykin); Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-head-portrait-outdoors-1.jpg",
+                    "alt": "Boykin Spaniel head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-leaping-into-a-lake.jpg",
+                    "alt": "Boykin Spaniel leaping into a lake.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-leaping-in-shallow-water-hunting.jpg",
+                    "alt": "Boykin Spaniel leaping in shallow water hunting.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-retrieving-a-duck.jpg",
+                    "alt": "Boykin Spaniel retrieving a duck in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-coming-out-of-the-water-with-a-dummy.jpg",
+                    "alt": "Boykin Spaniel coming out of the water with a dummy.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-running-through-the-grass-with-a-ball.jpg",
+                    "alt": "Boykin Spaniel running fetching a ball.",
+                    "caption": "",
+                    "credit": "BestSide/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-swimming.jpg",
+                    "alt": "Boykin Spaniel swimming in a lake.",
+                    "caption": "",
+                    "credit": "\u00a9Field Dog Imagery"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-07.jpg",
+                    "alt": "Boykin Spaniel standing in profile facing left.",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-Illo-2.jpg",
+                "alt": "Boykin Spaniel illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-puppy-head-portrait.jpg",
+                "alt": "Boykin Spaniel puppy head portrait outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/boykin-spaniel",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Boykin Spaniel",
+        "shopCta": false
+    }
+}

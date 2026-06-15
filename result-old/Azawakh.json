@@ -1,0 +1,1408 @@
+{
+    "settings": {
+        "current_breed": "azawakh",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/09/06151254/Azawakh-Association-Health-Letter-February-2015.pdf",
+                    "mp_health": "<p>Azawakhs are generally a healthy breed. Like all breeds there may be some health issues. Some dogs may be faced with these health challenges in their lives, but the majority of Azawakhs are healthy dogs.</p>",
+                    "akc_org_health": "<p>Azawakhs are generally health dogs, and a responsible breeder will screen breeding stock for health issues such as hypothyroidism, seizures, cardiac problems, and autoimmune-mediated disease. Azawakhs are slender, elegant dogs whose thin skin naturally allows their bone structure and muscle to show through; owners should learn what an Azawakh in good weight and condition looks like.</p>",
+                    "akc_org_nutrition": "<p>The Azawakh should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>The Azawakh's short, fine coat requires minimal upkeep. A weekly once-over with a soft bristle brush, a rubber grooming mitt or tool, or a hound glove is usually all that's needed to keep the coat in good condition. Azawakhs don't have a doggy odor, so frequent bathing isn't necessary. Even if the hound does find his way into a mud puddle, a bath may not be required'\u00bfwaiting for the mud to dry and then brushing it away may do the trick. As with all breeds, the Azawakh's nails should be trimmed regularly, as overly long nails are painful and can impede the dog's gait.</p>",
+                    "akc_org_exercise": "<p>The Azawakh is an active breed, requiring daily exercise to keep both mind and body healthy. Adult Azawakhs can make great running companions. Failing that, a daily half-hour play session in a well-fenced field, park, or yard will keep the hound happy and healthy. However, an Azawakh left alone in the yard will not self-exercise. He is more likely to get the activity he needs in the presence of the owner or another dog.</p>",
+                    "akc_org_training": "<p>Because the Azawakh is both highly intelligent and fiercely independent, training needs to be started early. Early socialization and puppy training classes with a trainer who has a positive approach are recommended. The Azawakh possesses an amazing amount of dignity and does not respond well to harsh or punishment-based training, which can produce a hound who is either broken in spirit, or aggressive and unmanageable. Positive, reward-based training with gentle but firm corrections can result in a hound who is obedient, affectionate, and loyal.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "No recommended health tests",
+                    "test_2": "",
+                    "test_3": "",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "No recommended health tests"
+                }
+            },
+            "basics": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "breed_name_oracle": "Azawakh",
+                    "matches_oracle": "Azawakh",
+                    "akc_code": "437",
+                    "breed_name_plural": "Azawakhs",
+                    "breed_nicknames": "Azawakh",
+                    "origin": "Sahel Region",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "2019",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "Greyhound, Sloughi, Borzoi, Ibizan Hound, Saluki",
+                    "links": [],
+                    "popularity_2025": 195,
+                    "popularity_2024": 192,
+                    "popularity_2023": 196,
+                    "popularity_2022": 194,
+                    "popularity_2021": 185,
+                    "popularity_2020": 193,
+                    "popularity_2019": 192,
+                    "related_groups_characteristics": "Smartest Breeds of Dogs, Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "greyhound",
+                        "sloughi",
+                        "borzoi",
+                        "ibizan-hound",
+                        "saluki"
+                    ],
+                    "related_breeds_items": {
+                        "greyhound": {
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "breed_name_oracle": "Greyhound",
+                            "matches_oracle": "Greyhound",
+                            "akc_code": "411",
+                            "breed_name_plural": "Greyhounds",
+                            "breed_nicknames": "greyhound",
+                            "origin": "Egypt",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                            "links": [],
+                            "popularity_2025": 151,
+                            "popularity_2024": 118,
+                            "popularity_2023": 127,
+                            "popularity_2022": 129,
+                            "popularity_2021": 132,
+                            "popularity_2020": 142,
+                            "popularity_2019": 164,
+                            "popularity_2018": 145,
+                            "popularity_2017": 156,
+                            "popularity_2016": 151,
+                            "popularity_2015": 147,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                            "temperament": "independent / gentle / noble"
+                        },
+                        "sloughi": {
+                            "breed_name_url": "sloughi",
+                            "breed_name": "Sloughi",
+                            "breed_name_oracle": "Sloughi",
+                            "matches_oracle": "Sloughi",
+                            "akc_code": "435",
+                            "breed_name_plural": "Sloughis",
+                            "breed_nicknames": "",
+                            "origin": "Arabian Greyhound",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "2016",
+                            "life_expectancy": "10-15 years",
+                            "related_breeds": "Azawakh, Saluki, Borzoi, Greyhound, Pharaoh Hound",
+                            "links": [],
+                            "popularity_2025": 201,
+                            "popularity_2024": 197,
+                            "popularity_2023": 200,
+                            "popularity_2022": 197,
+                            "popularity_2021": 193,
+                            "popularity_2020": 189,
+                            "popularity_2019": 193,
+                            "popularity_2018": 192,
+                            "popularity_2017": 188,
+                            "popularity_2016": 185,
+                            "related_groups_characteristics": "Largest Dog Breeds, ",
+                            "temperament": "reserved / graceful / noble"
+                        },
+                        "borzoi": {
+                            "breed_name_url": "borzoi",
+                            "breed_name": "Borzoi",
+                            "breed_name_oracle": "Borzoi",
+                            "matches_oracle": "Borzoi",
+                            "akc_code": "407",
+                            "breed_name_plural": "Borzoi",
+                            "breed_nicknames": "",
+                            "origin": "Russia",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1891",
+                            "life_expectancy": "9-14 years",
+                            "related_breeds": "Irish Wolfhound, Saluki, Scottish Deerhound, Azawakh, Greyhound",
+                            "links": [],
+                            "popularity_2025": 99,
+                            "popularity_2024": 102,
+                            "popularity_2023": 101,
+                            "popularity_2022": 101,
+                            "popularity_2021": 104,
+                            "popularity_2020": 103,
+                            "popularity_2019": 107,
+                            "popularity_2018": 103,
+                            "popularity_2017": 102,
+                            "popularity_2016": 98,
+                            "popularity_2015": 89,
+                            "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds, ",
+                            "temperament": "loyal / affectionate / regally dignified"
+                        },
+                        "ibizan-hound": {
+                            "breed_name_url": "ibizan-hound",
+                            "breed_name": "Ibizan Hound",
+                            "breed_name_oracle": "Ibizan Hound",
+                            "matches_oracle": "Ibizan Hound",
+                            "akc_code": "420",
+                            "breed_name_plural": "Ibizan Hounds",
+                            "breed_nicknames": "Ibizan, Beezer",
+                            "origin": "Spain",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1978",
+                            "life_expectancy": "11-14 years",
+                            "related_breeds": "Pharaoh Hound, Basenji, Greyhound, Portuguese Podengo, Cirneco dell'Etna",
+                            "links": [],
+                            "popularity_2025": 174,
+                            "popularity_2024": 174,
+                            "popularity_2023": 166,
+                            "popularity_2022": 172,
+                            "popularity_2021": 182,
+                            "popularity_2020": 171,
+                            "popularity_2019": 173,
+                            "popularity_2018": 152,
+                            "popularity_2017": 165,
+                            "popularity_2016": 152,
+                            "popularity_2015": 160,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "family-oriented / even-tempered / polite"
+                        },
+                        "saluki": {
+                            "breed_name_url": "saluki",
+                            "breed_name": "Saluki",
+                            "breed_name_oracle": "Saluki",
+                            "matches_oracle": "Saluki",
+                            "akc_code": "417",
+                            "breed_name_plural": "Salukis",
+                            "breed_nicknames": "",
+                            "origin": "Middle East",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1929",
+                            "life_expectancy": "10-17 years",
+                            "related_breeds": "Sloughi, Azawakh, Pharaoh Hound, Greyhound, Afghan Hound",
+                            "links": [],
+                            "popularity_2025": 135,
+                            "popularity_2024": 141,
+                            "popularity_2023": 120,
+                            "popularity_2022": 135,
+                            "popularity_2021": 128,
+                            "popularity_2020": 144,
+                            "popularity_2019": 127,
+                            "popularity_2018": 120,
+                            "popularity_2017": 123,
+                            "popularity_2016": 125,
+                            "popularity_2015": 132,
+                            "related_groups_characteristics": "Medium Dog Breeds, ",
+                            "temperament": "dignified / gentle / independent-minded"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "temperament": "independent / loyal / deeply affectionate",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "akc_org_blurb": "<p>Tall and elegant, the Azawakh is a West African sighthound who originates from the countries of Burkina Faso, Mali, and Niger. The Azawakh has a short, fine coat which may come in any color or color combinations: red, clear sand to fawn, brindled, parti-color (which may be predominantly white), blue, black and brown. The head may have a black mask and there may be white markings on the legs, bib and at the tip of tail. There are no color or marking disqualifications in the breed. Befitting its heritage, the Azawakh excels as a companion, guardian and a lure courser in the United States.</p>",
+                    "akc_org_about": "<p>This ancient hunting hound is so lean and rangy that his bone structure and musculature can plainly be seen beneath his skin. The smooth S-shaped contours, deep chest, and aerodynamic head mark the Azwakh as a member of the sighthound family, canine sprinters that rely on keen vision and blazing speed to fix and course their prey. The ultrafine coat comes in several colors and patterns. The overall look of this leggy hound is one of elegance and fineness, but don't be fooled: This is a tough, durable hunter who's been chasing gazelle across the scorching sands of the Sahara for more than a thousand years.</p>\n<p><br></p>\n<p>Pronunciation - Az-a-walk</p>",
+                    "mp_description": "<p>Enter a Marketplace description</p>"
+                }
+            },
+            "standards": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "title_1": "General Appearance",
+                    "description_1": "The Azawakh is an African sighthound of Afro-Asiatic type, which appeared in Europe towards 1970 and, comes from the Nigerien middle basin, among others, from the Valley of the Azawakh. For hundreds of years, he has been the companion of the nomads of the southern Sahara. Particularly leggy and elegant, the Azawakh gives a general impression of great fineness. His bone structure and musculature are transparent beneath fine and lean skin. This sighthound presents itself as a rangy dog whose body fits into a rectangle with its longer sides in a vertical position. Faults - Heavy general appearance.\nSize, Weight, Proportion: Height at withers - Males 25 to 29 inches, females 23 to 27 inches. Serious Fault - Size deviating more than an inch from the norms of the standard. Weight - Males 44 to 55 pounds, females 33 to 44 pounds; in correct weight a minimum of three to five ribs and hip bones should be visible. Body Proportion - Length of body/height at withers - 9:10. Length of body is 90 percent height of hound. This ratio may be slightly higher in bitches.",
+                    "title_2": "Head",
+                    "description_2": "Head: Eyes - Almond shaped, quite large. Their color is in keeping with the coat color. Eye rims are pigmented. Ears - Set quite high. They are fine, always drooping and flat, quite wide at the base, close to the skull, never a rose ear. Their shape is that of a triangle with a slightly rounded tip. Their base rises when the hound is attentive. Skull - The skull is almost flat, rather elongated. The width of the skull must definitely be inferior to half the length of the head. The width of the skull is 40 percent the length of the head. The superciliary arches and the frontal furrow are slightly marked. The occipital protuberance is clearly pronounced. Stop \u00bf Very slight. Faults - Wide back skull, prominent stop, rose ear. Muzzle - Long, straight, fine, lean and chiseled, rather narrow, without excess. Length of muzzle/length of head equals 1:2. Length of back skull is 50 percent length of head. Planes \u00bf Parallel, however sometimes the line of the skull and the bridge of the muzzle are slightly divergent. Nose - Nostrils well opened. The nose color is in keeping with the coat color. Lips and Jaw - Lips are fine and tight. Jaw is long and strong. Cheeks are flat. Bite - A scissor bite is preferable; a level bite is allowed. Serious Fault - An overshot or undershot jaw. Teeth - Full dentition; the teeth are healthy and strong.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Good reach of neck which is long, fine and muscular, slightly arched. The skin is fine and does not form a dewlap. Topline - Nearly straight, horizontal or rising toward the hips. Withers are quite prominent. Body - Length of body/height at withers - 9:10. Length of body is 90 percent height of hound. This ratio may be slightly higher in bitches. Fault - Body too long. Chest - Depth of chest is 40 percent of height at withers. Well developed in length, deep but without reaching elbow level. It is not very wide, but must have enough space for the heart, so the sternal region of the chest must not abruptly become narrow. Forechest is not very wide. Ribs - Long, visible, slightly and evenly curved down to the sternum. Underline - The chest is curved like a keel consisting of dry muscle and visible skeleton. The brisket is well defined with the underline rising very high into the lumbar arch without interruption. Back - Nearly straight, horizontal or rising toward the hips. Hipbones are distinctly protruding and always placed at an equal or superior height to the height at the withers. Serious Fault - Hip bones placed lower than withers. Loin - The lumbar section is usually flat (horizontal), but a slight curve is common. Croup - Oblique without accentuated slant. Tail - The tail is set low, thin, lean, and tapered. Length should reach the hock. It is covered with the same type of hair as that of the body. It is carried hanging with the tip raised or when the hound is excited, it can be carried in a sickle, ring, or saber above the horizontal.",
+                    "title_4": "Forequarters",
+                    "description_4": "Forequarters are seen as a whole: long, fine, almost entirely vertical. Shoulders - Long, lean and muscular and only slightly slanting seen in profile. The scapulohumeral angle is very open (about 130 degrees). Dewclaws - may or may not be removed. Feet - Rounded shape, with fine and tightly closed toes. Pads may be pigmented.",
+                    "title_5": "Hindquarters",
+                    "description_5": "Hindquarters are seen as a whole: long and lean; legs perfectly vertical. Thighs - Long and prominent with lean muscles. The coxo-femoral angle is very open (about 130 degrees). Stifle - The femoro-tibial angle is very open (about 140 degrees). Hock - Hock joint and hock are straight and lean. Dewclaws \u00bf may or may not be removed. Feet - round shaped, with fine and tightly closed toes. Pads may be pigmented.",
+                    "title_6": "Coat",
+                    "description_6": "Skin - Fine, tight over the whole body. Hair - Short, fine, down to none on the belly. Color - Color and markings are immaterial. Serious Fault - Harsh or semi-long coat. Coat not identical to the standard.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "23.5",
+                    "height_max": "29",
+                    "weight_min": "33",
+                    "weight_max": "55",
+                    "size": "Large",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/judges/Azawakh_Standard.pdf",
+                    "height_min_f": "23.5",
+                    "height_max_f": "29",
+                    "height_min_m": "23.5",
+                    "height_max_m": "29",
+                    "height_display": "25-29 inches (male), 23.5-27.5 inches (female)",
+                    "weight_min_f": "33",
+                    "weight_max_f": "55",
+                    "weight_min_m": "33",
+                    "weight_max_m": "55",
+                    "weight_display": "44-55 pounds (male), 33-44 pounds (female)"
+                }
+            },
+            "markings": {
+                "azawakh": {
+                    "markings": [
+                        {
+                            "marking_index": 310,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 311,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "004",
+                            "markings_long": "Black Mask",
+                            "markings_short": "BLK MSK"
+                        },
+                        {
+                            "marking_index": 312,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "025",
+                            "markings_long": "Piebald",
+                            "markings_short": "PBLD"
+                        },
+                        {
+                            "marking_index": 313,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        },
+                        {
+                            "marking_index": 314,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "064",
+                            "markings_long": "Grizzle Markings",
+                            "markings_short": "GRZL MKGS"
+                        },
+                        {
+                            "marking_index": 315,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "cde_markings": "038",
+                            "markings_long": "Parti-Color",
+                            "markings_short": "PRTI"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "azawakh": {
+                    "colors": [
+                        {
+                            "color_index": 1020,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 1021,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 1022,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 1023,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "168",
+                            "color_long": "Sandy",
+                            "color_short": "SNDY"
+                        },
+                        {
+                            "color_index": 1024,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 1025,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 1026,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 1027,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "061",
+                            "color_long": "Brown",
+                            "color_short": "BR"
+                        },
+                        {
+                            "color_index": 1028,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 1029,
+                            "breed_name_url": "azawakh",
+                            "breed_name": "Azawakh",
+                            "akc_code": "437",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "breed_club_name": "American Azawakh Association",
+                    "breed_club_url": "Azawakhclub.org",
+                    "breed_club_pdf_url": "http://www.azawakhs.org/aaarescue.html",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "American Azawakh Association",
+                    "national_breed_club_url": "Azawakhclub.org",
+                    "breed_referral_contact_name": "Fabian Arienti",
+                    "breed_referral_contact_phone_number": "(305) 458-4227",
+                    "breed_referral_contact_email": "starfirespoms@aol.com",
+                    "breed_referral_contact_address": "468 COLUMBUS DR\nBASSETT, VA 24055-4869",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1434,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 20,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. The American Azawakh Association has served as the AKC Parent Club for the Azawakh since February 2011."
+                        },
+                        {
+                            "id": 360,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 362,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 359,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 361,
+                            "breed_id": "20",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:16",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "azawakh": {
+                    "breed_name_url": "azawakh",
+                    "breed_name": "Azawakh",
+                    "akc_org_history": "The original homeland of the Azawakh, are the endless arid regions of the south Sahara and the Sahel zone. Geographically encompassing the border region of Mali and Niger, lies the center of the Azawakh Valley. Found here are most of the types of examples of the breed. Traditionally owned by the blue-clad Tuareg nomads, they are called, \"idii n' illeli\" (Translated from the native tongue, this means, \"sighthound of the free people.\"). The Azawakh enjoy a special appreciation from the nomads. They live under the same roof and are fully accepted members of the family. They assume the duty of protecting the encampment and flocks from invaders. They are passionate hunters and provide the family with meat, however, the diminishing of game and usage of firearms, lessens the utilization of the dogs. The preferred prey is hare, antelope, and wild boar. It is here the dog can utilize their agility and stamina. The rough and broken terrain is no hindrance. In spite of their fine-limbness, they are not prone to injury.",
+                    "mp_history_job": "The Azwakh is associated with the nomad tribes of the Sahel, the semi-arid region of western and north-central Africa. The breed is named for the region\u00bfs Azwakh Valley. Built along classic Greyhound lines, Azawakhs can crank it up to 35 mph on the straightaway. They were also expected to work guard duty, protecting the camels and goats so essential to the nomads\u00bf survival on the Sahara. The Azwakh was introduced to Europe in the early 1970s and was brought to America in the mid-1980s.",
+                    "did_you_know": "The Azawakh has been assigned the Hound Group designation. | The Azawakh has been recorded in the Foundation Stock Service since 1997. | The Azawakh is also known as the Tuareg Sloughi. The breed has been the companion of the nomads of the South Sahara for hundreds of years. | The Azawakh is an African sighthound of Afro-Asiatic type. The breed made its debut in the United States in the mid-1980s. | The Azawakh has been eligible to compete in Companion Events since January 1, 2008. | The Azawakh has been approved to compete in AKC Lure Coursing Events for Suffix Titles since January 1, 2008."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23414%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_178091272.jpg",
+                    "alt": "Azawakh jogging in a green grassy field.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh-standing-in-the-backyard.jpg",
+                    "alt": "Azawakh standing in the backyard.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh-standing-in-the-yard.jpg",
+                    "alt": "Azawakh standing in the yard.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh1.jpg",
+                    "alt": "Azawakh at a conformation show.",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh.day_6_dec_18_017.jpg",
+                    "alt": "Azawakh coat detail.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_illustration.bw_.1.jpg",
+                "alt": "Azawakh illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_illustration.bw_.1.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_141650824.jpg",
+                "alt": "Azawakh running on the beach."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/azawakh",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Azawakh",
+        "shopCta": false
+    }
+}

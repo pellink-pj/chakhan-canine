@@ -1,0 +1,32 @@
+<!-- @dsCard group="Brand" viewport="700x190" name="Voice — hope-first reframe" subtitle="The core move: warning → hope + a path" -->
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body{margin:0;font-family:var(--font-sans);background:var(--bg-app);padding:20px 24px;display:flex;gap:16px;align-items:stretch}
+  .col{flex:1;border-radius:var(--radius-xl);padding:15px 17px;border:1px solid var(--border-card)}
+  .bad{background:#fff;opacity:.85}
+  .bad .tag{color:var(--ink-400)}
+  .bad .txt{color:var(--ink-600);text-decoration:line-through;text-decoration-color:var(--coral-300)}
+  /* white fill + spectrum-gradient border (padding-box / border-box trick keeps the radius) */
+  .good{
+    border:2px solid transparent;
+    background:
+      linear-gradient(#fff,#fff) padding-box,
+      var(--spectrum-gradient) border-box;
+    box-shadow:var(--shadow-card);
+  }
+  .good .tag{
+    color:transparent;
+    background:var(--spectrum-gradient);
+    -webkit-background-clip:text;background-clip:text;
+  }
+  .good .txt{color:var(--ink-900)}
+  .tag{font-weight:800;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:8px}
+  .txt{font-weight:700;font-size:16px;line-height:1.5}
+  .arrow{align-self:center;font-size:22px;color:var(--brand)}
+</style></head>
+<body>
+  <div class="col bad"><div class="tag">✕ 단순 경고</div><div class="txt">이 견종은 짖음이 많아요</div></div>
+  <div class="arrow">→</div>
+  <div class="col good"><div class="tag">✓ 멍메이트 톤</div><div class="txt">원래 잘 짖지만, 훈련으로 컨트롤 가능해요</div></div>
+</body></html>

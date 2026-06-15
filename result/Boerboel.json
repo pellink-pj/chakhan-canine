@@ -197,8 +197,8 @@
                             "temperament": "strong-willed / confident / calm"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -498,7 +498,7 @@
                 "boerboel": {
                     "markings": [
                         {
-                            "marking_index": 489,
+                            "marking_index": 506,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -508,7 +508,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 490,
+                            "marking_index": 507,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -518,7 +518,7 @@
                             "markings_short": "PBLD"
                         },
                         {
-                            "marking_index": 491,
+                            "marking_index": 508,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -528,7 +528,7 @@
                             "markings_short": "IRSH MRKD"
                         },
                         {
-                            "marking_index": 492,
+                            "marking_index": 509,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -544,7 +544,7 @@
                 "boerboel": {
                     "colors": [
                         {
-                            "color_index": 1593,
+                            "color_index": 1615,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -555,7 +555,7 @@
                             "color_short": "BR"
                         },
                         {
-                            "color_index": 1594,
+                            "color_index": 1616,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -566,7 +566,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 1595,
+                            "color_index": 1617,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -577,7 +577,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1596,
+                            "color_index": 1618,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -588,7 +588,7 @@
                             "color_short": "RDSH BR"
                         },
                         {
-                            "color_index": 1597,
+                            "color_index": 1619,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -599,7 +599,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1598,
+                            "color_index": 1620,
                             "breed_name_url": "boerboel",
                             "breed_name": "Boerboel",
                             "akc_code": "659",
@@ -711,7 +711,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775212428",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781199098",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B23666%5D",
@@ -760,8 +760,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

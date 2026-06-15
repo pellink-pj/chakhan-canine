@@ -186,8 +186,8 @@
                             "temperament": "charming / bright / happy-go-lucky"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -487,7 +487,7 @@
                 "lhasa-apso": {
                     "markings": [
                         {
-                            "marking_index": 155,
+                            "marking_index": 157,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -497,7 +497,7 @@
                             "markings_short": "BLK MSK W/TPS"
                         },
                         {
-                            "marking_index": 156,
+                            "marking_index": 158,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -507,7 +507,7 @@
                             "markings_short": "BLK TPS"
                         },
                         {
-                            "marking_index": 157,
+                            "marking_index": 159,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -517,7 +517,7 @@
                             "markings_short": "BRDL"
                         },
                         {
-                            "marking_index": 158,
+                            "marking_index": 160,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -527,7 +527,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 159,
+                            "marking_index": 161,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -537,7 +537,7 @@
                             "markings_short": "SBL"
                         },
                         {
-                            "marking_index": 160,
+                            "marking_index": 162,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -547,7 +547,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 161,
+                            "marking_index": 163,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -563,7 +563,7 @@
                 "lhasa-apso": {
                     "colors": [
                         {
-                            "color_index": 531,
+                            "color_index": 532,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -574,7 +574,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 532,
+                            "color_index": 533,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -585,7 +585,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 533,
+                            "color_index": 534,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -596,7 +596,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 534,
+                            "color_index": 535,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -607,7 +607,7 @@
                             "color_short": "GLDN"
                         },
                         {
-                            "color_index": 535,
+                            "color_index": 536,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -618,7 +618,7 @@
                             "color_short": "GRZL"
                         },
                         {
-                            "color_index": 536,
+                            "color_index": 537,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -629,7 +629,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 537,
+                            "color_index": 538,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -640,7 +640,7 @@
                             "color_short": "RD GLD"
                         },
                         {
-                            "color_index": 538,
+                            "color_index": 539,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -651,7 +651,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 539,
+                            "color_index": 540,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -662,7 +662,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 540,
+                            "color_index": 541,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -673,7 +673,7 @@
                             "color_short": "CHAR"
                         },
                         {
-                            "color_index": 541,
+                            "color_index": 542,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -684,7 +684,7 @@
                             "color_short": "GR"
                         },
                         {
-                            "color_index": 542,
+                            "color_index": 543,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -695,7 +695,7 @@
                             "color_short": "LVR"
                         },
                         {
-                            "color_index": 543,
+                            "color_index": 544,
                             "breed_name_url": "lhasa-apso",
                             "breed_name": "Lhasa Apso",
                             "akc_code": "307",
@@ -807,7 +807,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775226263",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781229494",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24942%5D",
@@ -856,8 +856,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

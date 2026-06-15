@@ -1,0 +1,1502 @@
+{
+    "settings": {
+        "current_breed": "english-cocker-spaniel",
+        "current_breed_group": {
+            "name": "Sporting Group",
+            "url": "https://www.akc.org/dog-breeds/sporting/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/07/08140708/English-Cocker-Spaniel-Health-Statement.pdf",
+                    "mp_health": "<p>English Cocker Spaniels are generally a healthy breed. Like all breeds there may be some health issues, like hip dysplasia, patellar luxation and progressive retinal atrophy (PRA). Some dogs may be faced with these health challenges in their lives, but the majority of English Cocker Spaniels are healthy dogs.</p>",
+                    "akc_org_health": "<p>Although the English Cocker is overall a healthy breed, some genetic health conditions are known to occur occasionally. These include progressive retinal atrophy, hip dysplasia, familial nephropathy, and adult onset neuropathy. A responsible breeders will have their breeding stock tested for conditions that can affect the breed. The English Cocker's ears should be checked regularly for signs of infection, and the teeth should be brushed often, using a toothpaste designed for dogs.</p>",
+                    "akc_org_nutrition": "<p>The English Cocker should be fed a high-quality dog food appropriate to the dog's age (puppy, adult, or senior) and activity level. Some English Cockers are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.</p>",
+                    "akc_org_grooming": "<p>Most English Cockers have a fairly profuse coat that requires regular care, including a thorough brushing and combing at least once a week to keep the dog looking his best and to prevent the formation of mats and tangles. In addition the dog is usually trimmed every month or so in certain areas'\u00bfaround the feet, on the face, under the neck, on the underside of the ears, and under the tail. The owner can learn to use scissors, thinning shears or a stripping tool, and clippers to do an overall trim and help keep up the English Cocker's neat appearance. The ears should be checked weekly for debris and excess wax, and the nails should be trimmed at least monthly.</p>",
+                    "akc_org_exercise": "<p>An upbeat, active sporting dog, the English Cocker Spaniel requires daily exercise for his physical and mental well-being. He will do well with activities such as long walks or hikes with his owner or playing ball in the backyard. As his hunting instincts remain strong, he should be on a leash for walks, and a fenced yard is recommended. Merry and affectionate, the English Cocker Spaniel is an excellent family companion and easy to train. Whether he is working in the field or at home lounging on the sofa, his tail rarely stops wagging.</p>",
+                    "akc_org_training": "<p>With a merry, devoted disposition, the English Cocker was developed to follow instructions in the field, and the breed is still very eager to please. He is easy to train and enjoys working with his person so long as only positive methods are used. The EC will react poorly to a harsh or negative training approach; he must love and respect his person, never fear them. Early socialization is recommended to ensure a well-adjusted companion who is adaptable to a variety of situations.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Patella Evaluation",
+                    "test_2": "Hip Evaluation",
+                    "test_3": "Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test",
+                    "test_4": "",
+                    "test_5": "",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Patella Evaluation | Hip Evaluation | Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test"
+                }
+            },
+            "basics": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "breed_name_oracle": "English Cocker Spaniel",
+                    "matches_oracle": "English Cocker Spaniel",
+                    "akc_code": "116",
+                    "breed_name_plural": "English Cocker Spaniels",
+                    "breed_nicknames": "EC",
+                    "origin": "England",
+                    "breed_group": "Sporting Group",
+                    "year_recognized": "1946",
+                    "life_expectancy": "12-14 years",
+                    "related_breeds": "English Springer Spaniel, Cocker Spaniel, Field Spaniel, Sussex Spaniel, Welsh Springer Spaniel",
+                    "links": [],
+                    "popularity_2025": 35,
+                    "popularity_2024": 36,
+                    "popularity_2023": 39,
+                    "popularity_2022": 40,
+                    "popularity_2021": 43,
+                    "popularity_2020": 47,
+                    "popularity_2019": 50,
+                    "popularity_2018": 52,
+                    "popularity_2017": 52,
+                    "popularity_2016": 56,
+                    "popularity_2015": 60,
+                    "related_groups_characteristics": "",
+                    "related_breeds_items_url": [
+                        "english-springer-spaniel",
+                        "cocker-spaniel",
+                        "field-spaniel",
+                        "sussex-spaniel",
+                        "welsh-springer-spaniel"
+                    ],
+                    "related_breeds_items": {
+                        "english-springer-spaniel": {
+                            "breed_name_url": "english-springer-spaniel",
+                            "breed_name": "English Springer Spaniel",
+                            "breed_name_oracle": "English Springer Spaniel",
+                            "matches_oracle": "English Springer Spaniel",
+                            "akc_code": "117",
+                            "breed_name_plural": "English Springer Spaniels",
+                            "breed_nicknames": "Springer",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1910",
+                            "life_expectancy": "12-14 years",
+                            "related_breeds": "Welsh Springer Spaniel, English Cocker Spaniel, Clumber Spaniel, Sussex Spaniel, Field Spaniel",
+                            "links": {
+                                "mp_url": null,
+                                "akc_url": null
+                            },
+                            "popularity_2025": 27,
+                            "popularity_2024": 28,
+                            "popularity_2023": 27,
+                            "popularity_2022": 26,
+                            "popularity_2021": 26,
+                            "popularity_2020": 26,
+                            "popularity_2019": 27,
+                            "popularity_2018": 27,
+                            "popularity_2017": 27,
+                            "popularity_2016": 26,
+                            "popularity_2015": 27,
+                            "related_groups_characteristics": "Medium Dog Breeds",
+                            "temperament": "friendly / playful / obedient"
+                        },
+                        "cocker-spaniel": {
+                            "breed_name_url": "cocker-spaniel",
+                            "breed_name": "Cocker Spaniel",
+                            "breed_name_oracle": "Cocker Spaniel",
+                            "matches_oracle": "Cocker Spaniel",
+                            "akc_code": "115",
+                            "breed_name_plural": "Cocker Spaniels",
+                            "breed_nicknames": "Cocker",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "10-14 years",
+                            "related_breeds": "English Cocker Spaniel, English Springer Spaniel, Cavalier King Charles Spaniel, Welsh Springer Spaniel, Field Spaniel",
+                            "links": [],
+                            "popularity_2025": 33,
+                            "popularity_2024": 32,
+                            "popularity_2023": 30,
+                            "popularity_2022": 29,
+                            "popularity_2021": 29,
+                            "popularity_2020": 30,
+                            "popularity_2019": 28,
+                            "popularity_2018": 30,
+                            "popularity_2017": 29,
+                            "popularity_2016": 29,
+                            "popularity_2015": 30,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "smart / happy / gentle"
+                        },
+                        "field-spaniel": {
+                            "breed_name_url": "field-spaniel",
+                            "breed_name": "Field Spaniel",
+                            "breed_name_oracle": "Field Spaniel",
+                            "matches_oracle": "Field Spaniel",
+                            "akc_code": "118",
+                            "breed_name_plural": "Field Spaniels",
+                            "breed_nicknames": "Field Spaniel",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1884",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "English Cocker Spaniel, English Springer Spaniel, Sussex Spaniel, Clumber Spaniel, Welsh Springer Spaniel",
+                            "links": [],
+                            "popularity_2025": 148,
+                            "popularity_2024": 160,
+                            "popularity_2023": 147,
+                            "popularity_2022": 157,
+                            "popularity_2021": 136,
+                            "popularity_2020": 160,
+                            "popularity_2019": 155,
+                            "popularity_2018": 149,
+                            "popularity_2017": 145,
+                            "popularity_2016": 147,
+                            "popularity_2015": 145,
+                            "related_groups_characteristics": "",
+                            "temperament": "sweet / fun-loving / sensitive"
+                        },
+                        "sussex-spaniel": {
+                            "breed_name_url": "sussex-spaniel",
+                            "breed_name": "Sussex Spaniel",
+                            "breed_name_oracle": "Sussex Spaniel",
+                            "matches_oracle": "Sussex Spaniel",
+                            "akc_code": "120",
+                            "breed_name_plural": "Sussex Spaniels",
+                            "breed_nicknames": "Sussex (singular and plural)",
+                            "origin": "England",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1878",
+                            "life_expectancy": "13-15 years",
+                            "related_breeds": "Clumber Spaniel, Cavalier King Charles Spaniel, English Springer Spaniel, English Cocker Spaniel, Field Spaniel",
+                            "links": [],
+                            "popularity_2025": 175,
+                            "popularity_2024": 175,
+                            "popularity_2023": 174,
+                            "popularity_2022": 192,
+                            "popularity_2021": 177,
+                            "popularity_2020": 172,
+                            "popularity_2019": 178,
+                            "popularity_2018": 180,
+                            "popularity_2017": 161,
+                            "popularity_2016": 172,
+                            "popularity_2015": 173,
+                            "related_groups_characteristics": "",
+                            "temperament": "Affectionate / Loyal"
+                        },
+                        "welsh-springer-spaniel": {
+                            "breed_name_url": "welsh-springer-spaniel",
+                            "breed_name": "Welsh Springer Spaniel",
+                            "breed_name_oracle": "Welsh Springer Spaniel",
+                            "matches_oracle": "Welsh Springer Spaniel",
+                            "akc_code": "121",
+                            "breed_name_plural": "Welsh Springer Spaniels",
+                            "breed_nicknames": "Welshie, Welshman",
+                            "origin": "Wales",
+                            "breed_group": "Sporting Group",
+                            "year_recognized": "1914",
+                            "life_expectancy": "12-15 years",
+                            "related_breeds": "Brittany, English Springer Spaniel, English Cocker Spaniel, Irish Red and White Setter, Nederlandse Kooikerhondje",
+                            "links": [],
+                            "popularity_2025": 141,
+                            "popularity_2024": 138,
+                            "popularity_2023": 132,
+                            "popularity_2022": 126,
+                            "popularity_2021": 126,
+                            "popularity_2020": 128,
+                            "popularity_2019": 132,
+                            "popularity_2018": 128,
+                            "popularity_2017": 133,
+                            "popularity_2016": 123,
+                            "popularity_2015": 128,
+                            "related_groups_characteristics": "",
+                            "temperament": "reserved / happy / upbeat"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "temperament": "energetic / merry / responsive",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium",
+                                "Long"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Double"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "akc_org_blurb": "<p>English Cocker Spaniel lovers often use the word 'merry'\u009d to describe their breed. Upbeat in the field and mellow at home, this compact, silky-coated bird dog is widely admired for his delightful personality and irresistible good looks.</p>",
+                    "akc_org_about": "<p>The English Cocker Spaniel is a compactly built sporting dog standing between 15 to 17 inches at the shoulder. The softly contoured head, with its dark, melting eyes that convey an alert and dignified expression, is framed by lush, close-lying ears. The medium-length coat, seen in a variety of striking colors and patterns, is silky to the touch. 'Balance' is a key word in understanding the breed: The EC is balanced in temperament, construction, and movement. Beneath the EC's physical beauty beats the heart of a tireless, eager-to-please hunter's helper, famous the world over for his ability to flush and retrieve gamebirds. For those who prefer more domestic pursuits, there is no more charming and agreeable household companion.</p>",
+                    "mp_description": "<p>The English Cocker Spaniel will first melt your heart with his soft, doe-eyed expression and then perform like an Olympian in the field. This energetic breed is happy and responsive, a willing companion in dog sports, daily walks or a good game of fetch. At day's end, he's ready to snuggle up with you, just hanging out. Your English Cocker Spaniel puppy is very trainable and responds best to positive, gentle training. Treat him well and you'll have an enthusiastic, even-tempered and affectionate buddy for life.</p>"
+                }
+            },
+            "standards": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "title_1": "General Appearance",
+                    "description_1": "The English Cocker Spaniel is an active, merry sporting dog, standing well up at the withers and compactly built. He is alive with energy; his gait is powerful and frictionless, capable both of covering ground effortlessly and penetrating dense cover to flush and retrieve game. His enthusiasm in the field and the incessant action of his tail while at work indicate how much he enjoys the hunting for which he was bred. His head is especially characteristic. He is, above all, a dog of balance, both standing and moving, without exaggeration in any part, the whole worth more than the sum of its parts.",
+                    "title_2": "Head",
+                    "description_2": "General appearance: strong, yet free from coarseness, softly contoured, without sharp angles. Taken as a whole, the parts combine to produce the expression distinctive of the breed.\nExpression - Soft, melting, yet dignified, alert, and intelligent.\nEyes - The eyes are essential to the desired expression. They are medium in size, full and slightly oval; set wide apart; lids tight. Haws are inconspicuous; may be pigmented or unpigmented. Eye color dark brown, except in livers and liver parti-colors where hazel is permitted, but the darker the hazel the better.\nEars - Set low, lying close to the head; leather fine, extending to the nose, well covered with long, silky, straight or slightly wavy hair.",
+                    "title_3": "Body",
+                    "description_3": "Neck - Graceful and muscular, arched toward the head and blending cleanly, without throatiness, into sloping shoulders; moderate in length and in balance with the length and height of the dog.\nTopline - The line of the neck blends into the shoulder and backline in a smooth curve. The backline slopes very slightly toward a gently rounded croup, and is free from sagging or rumpiness.\nBody - Compact and well-knit, giving the impression of strength without heaviness.",
+                    "title_4": "Forequarters",
+                    "description_4": "The English Cocker is moderately angulated. Shoulders are sloping, the blade flat and smoothly fitting. Shoulder blade and upper arm are approximately equal in length. Upper arm set well back, joining the shoulder with sufficient angulation to place the elbow beneath the highest point of the shoulder blade when the dog is standing naturally. Forelegs-Straight, with bone nearly uniform in size from elbow to heel; elbows set close to the body; pasterns nearly straight, with some flexibility.",
+                    "title_5": "Coat",
+                    "description_5": "On head, short and fine; of medium length on body; flat or slightly wavy; silky in texture. The English Cocker is well-feathered, but not so profusely as to interfere with field work. Trimming is permitted to remove overabundant hair and to enhance the dogs true lines. It should be done so as to appear as natural as possible.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Angulation moderate and, most importantly, in balance with that of the forequarters. Hips relatively broad and well rounded. Upper thighs broad, thick and muscular, providing plenty of propelling power. Second thighs well muscled and approximately equal in length to the upper. Stifle strong and well bent. Hock to pad short. Feet as in front.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "15",
+                    "height_max": "17",
+                    "weight_min": "26",
+                    "weight_max": "34",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/EnglishCockerSpaniel.pdf",
+                    "height_min_f": "15",
+                    "height_max_f": "17",
+                    "height_min_m": "15",
+                    "height_max_m": "17",
+                    "height_display": "16-17 inches (male), 15-16 inches (female)",
+                    "weight_min_f": "26",
+                    "weight_max_f": "34",
+                    "weight_min_m": "26",
+                    "weight_max_m": "34",
+                    "weight_display": "28-34 pounds (male), 26-32 pounds (female)"
+                }
+            },
+            "markings": {
+                "english-cocker-spaniel": {
+                    "markings": [
+                        {
+                            "marking_index": 23,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "cde_markings": "013",
+                            "markings_long": "Ticked",
+                            "markings_short": "TKD"
+                        },
+                        {
+                            "marking_index": 24,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        },
+                        {
+                            "marking_index": 25,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "cde_markings": "012",
+                            "markings_long": "Tan Markings",
+                            "markings_short": "TN MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "english-cocker-spaniel": {
+                    "colors": [
+                        {
+                            "color_index": 87,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 88,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 89,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "053",
+                            "color_long": "Blue Roan",
+                            "color_short": "BL RN"
+                        },
+                        {
+                            "color_index": 90,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "054",
+                            "color_long": "Blue Roan & Tan",
+                            "color_short": "BL RN & TN"
+                        },
+                        {
+                            "color_index": 91,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "122",
+                            "color_long": "Liver Roan & Tan",
+                            "color_short": "LVR RN & TN"
+                        },
+                        {
+                            "color_index": 92,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "126",
+                            "color_long": "Liver Roan",
+                            "color_short": "LVR RN"
+                        },
+                        {
+                            "color_index": 93,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "134",
+                            "color_long": "Orange & White",
+                            "color_short": "ORG & WH"
+                        },
+                        {
+                            "color_index": 94,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "136",
+                            "color_long": "Orange Roan",
+                            "color_short": "ORG RN"
+                        },
+                        {
+                            "color_index": 95,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 96,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 97,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "034",
+                            "color_long": "Black White & Tan",
+                            "color_short": "BLK WH & TN"
+                        },
+                        {
+                            "color_index": 98,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        },
+                        {
+                            "color_index": 99,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "124",
+                            "color_long": "Liver & Tan",
+                            "color_short": "LVR & TN"
+                        },
+                        {
+                            "color_index": 100,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "125",
+                            "color_long": "Liver & White",
+                            "color_short": "LVR & WH"
+                        },
+                        {
+                            "color_index": 101,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "127",
+                            "color_long": "Liver White & Tan",
+                            "color_short": "LVR WH & TN"
+                        },
+                        {
+                            "color_index": 102,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "223",
+                            "color_long": "Red Roan",
+                            "color_short": "RD RN"
+                        },
+                        {
+                            "color_index": 103,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "093",
+                            "color_long": "Golden",
+                            "color_short": "GLDN"
+                        },
+                        {
+                            "color_index": 104,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "289",
+                            "color_long": "Lemon Roan",
+                            "color_short": "LMN RN"
+                        },
+                        {
+                            "color_index": 105,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "164",
+                            "color_long": "Sable",
+                            "color_short": "SBL"
+                        },
+                        {
+                            "color_index": 106,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "290",
+                            "color_long": "Sable & Tan",
+                            "color_short": "SBL & TN"
+                        },
+                        {
+                            "color_index": 107,
+                            "breed_name_url": "english-cocker-spaniel",
+                            "breed_name": "English Cocker Spaniel",
+                            "akc_code": "116",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "165",
+                            "color_long": "Sable & White",
+                            "color_short": "SBL & WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "breed_club_name": "English Cocker Spaniel Club of America, Inc.",
+                    "breed_club_url": "englishcocker.org ",
+                    "breed_club_pdf_url": "http://cdn.akc.org/EnglishCockerSpaniel-club-flyer.pdf",
+                    "breed_rescue_url": null,
+                    "national_breed_club": "English Cocker Spaniel Club of America, Inc.",
+                    "national_breed_club_url": "englishcocker.org ",
+                    "breed_referral_contact_name": "Deborah McClelland",
+                    "breed_referral_contact_phone_number": "(530) 953-8926",
+                    "breed_referral_contact_email": "jarde1@sbcglobal.net",
+                    "breed_referral_contact_address": "76851 BUGLE LOOP\nOAKLAND, OR 97646-3",
+                    "breed_referral_directory_title": "",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "https://englishcocker.org/",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1511,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 97,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 668,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 670,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 667,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 669,
+                            "breed_id": "97",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:17",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "english-cocker-spaniel": {
+                    "breed_name_url": "english-cocker-spaniel",
+                    "breed_name": "English Cocker Spaniel",
+                    "akc_org_history": "<p>The breeds of the AKC Sporting Group were all developed to assist hunters of feathered game. These 'sporting dogs' (also referred to as gundogs or bird dogs) are subdivided by function' that is, how they hunt. They are spaniels, pointers, setters, retrievers, and the European utility breeds. Of these, spaniels are generally considered the oldest.</p>\n<p><br></p>\n<p>The spaniel breeds of England were developed centuries ago from dogs of Spanish stock (the word 'spaniel' deriving from 'Spanish'). This was long before the invention of reliable hunting rifles, when bird hunters used dogs in tandem with nets, bows, and sometimes falcons.&nbsp;</p>\n<p><br></p>\n<p>Early authorities divided the spaniels not by breed but by type: either water spaniels or land spaniels. The land spaniels came to be subdivided by size. The larger types were the 'springing spaniel' and the 'field spaniel,' and the smaller, which specialized on flushing woodcock, was known as a 'cocking spaniel.'</p>\n<p><br></p>\n<p>In the 19th century, the rise of dog shows, coupled with Victorian England's mania for classification, led to designating the various spaniel types as official breeds. Thus, the English Springer Spaniel, Field Spaniel, English Cocker Spaniel, and on through all of today's British spaniel breeds.</p>\n<p><br></p>\n<p>American dog fanciers of the early-20th century developed a companion-bred Cocker. It was smaller, with a more profuse coat, a shorter head, and a more domed skull, than its English cousin. Those who favored the old English hunting dog formed the English Cocker Spaniel Club of America in 1935. And in 1946, the AKC officially recognized the Cocker Spaniel (the U.S. type) and English Cocker Spaniel as separate breeds.</p>",
+                    "mp_history_job": "<p>The history of the English Cocker resembles that of lots of other breeds\u00bfwhat starts out as one breed is divided and reclassified into offshoots, to refine their function and look. In the late 1800s spaniels were separated into springers and cockers, with cockers being smaller and bred to hunt woodcock. In 1935, there was yet another split, and the English Cocker received his own designation from the AKC. Which is as it should be, since the EC is a true original.</p>",
+                    "did_you_know": "The English Cocker Spaniel was recognized as a separate breed by the American Kennel Club in 1946. | As late as the early 20th century (after their official breed separation in England), the distinction between English Cockers and Springer Spaniels was one of height only; otherwise, Cocker and Springer developed side-by-side, born in the same litters. | For quite some time, English and American Cockers competed against each other in the show ring, even after the official American separation was made. | The English Cocker Spaniel Club of America was formed in 1935 to promote the interest of the English Cocker, which had already been recognized as a variety of Cocker Spaniel but not a separate breed. | The immediate aim of the ECSCA was to discourage the interbreeding of English and American varieties of Cocker Spaniel. | Not until January 1947 did breed registrations for the ECS appear in the stud book under their own heading."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775369483",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24262%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-Slide03.jpg",
+                    "alt": "English Cocker Spaniel standing sideways in grass facing left",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Sporting-Group-David-0E9A8669.jpg",
+                    "alt": "Best of Breed: GCHP CH Dawnglow Knight Rider, Spaniel (English Cocker); Sporting Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-On-White-03.jpg",
+                    "alt": "English Cocker Spaniel sitting in three-quarter view",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ECSCAHuntTest_201010_EnglishCockerSpaniel_IMG_1029.jpg",
+                    "alt": "English Cocker Spaniel sitting near a lake with a bird in its mouth.",
+                    "caption": "",
+                    "credit": ""
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-illustration.jpg",
+                "alt": "English Cocker Spaniel illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-illustration.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-puppies-sitting-in-a-row.jpg",
+                "alt": "English Cocker Spaniel puppies sitting in a row."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/english-cocker-spaniel",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "English Cocker Spaniel",
+        "shopCta": false
+    }
+}

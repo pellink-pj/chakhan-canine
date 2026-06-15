@@ -1,0 +1,1423 @@
+{
+    "settings": {
+        "current_breed": "staffordshire-bull-terrier",
+        "current_breed_group": {
+            "name": "Terrier Group",
+            "url": "https://www.akc.org/dog-breeds/terrier/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "parent_club_health_statement_link": "http://cdn.akc.org/Marketplace/Health-Statement/Staffordshire-Bull-Terrier.pdf",
+                    "mp_health": "<p>Staffordshire Bull Terriers are generally a healthy breed. Like all breeds there may be some health issues, like mild dysplasia, hereditary cataracts, cleft palate, and elongated soft palate do occur occasionally. Less frequently, cases of PRA (progressive retinal atrophy), deafness, demodectic manage, and distichiasis (inverted eyelashes that can irritate the cornea) have also been documented. Some dogs may be faced with these health challenges in their lives, but the majority of Staffordshire Bull Terriers are healthy dogs.</p>",
+                    "akc_org_health": "<p>Responsible breeders screen their stock for health conditions such as elbow and hip dysplasia, patellar luxation and eye anomalies including hereditary juvenile cataracts, persistent hyperplastic primary vitreous (PHPV), and posterior polar subcapsular cataracts (PPSC). The DNA test for L-2-HGA, a metabolic condition, allows breeders to identify carriers and avoid producing affected offspring. There is a similar DNA test for Hereditary Cataracts. Be an informed owner, and discuss any health questions or concerns with your dog's breeder and request copies of testing results.</p>",
+                    "akc_org_nutrition": "<p>The Staffordshire Bull Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared cooked or raw, with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity, so look for a low calorie option. Learn about which human foods are safe for dogs, and which are not. Check with your dog's breeder and/or vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.</p>",
+                    "akc_org_grooming": "<p>It doesn't take much work to keep a Staffordshire Bull Terrier looking handsome. Occasional baths and weekly brushings with a horsehair mitt or hound glove to pull away dead hairs will keep him in beautiful condition. His nails should be trimmed at least monthly. Avoid letting them grow out too long, as overly long nails can be quite painful for him. Clean the ears regularly to remove excess wax and debris, which can cause an ear infection. Your breeder and your veterinarian can suggest a good routine and cleaning materials and will show you how to do it without damaging his inner ear.</p>",
+                    "akc_org_exercise": "<p>The Stafford requires regular exercise to stay mentally and physically fit. This exercise can be chasing a ball tossed across the backyard, running alongside a biking or jogging owner, or just a nice, long hike through the woods. The age recommendation for running beside a bike or jogger is after 18 months &nbsp;so that growth plate closure can be completed, and as long as weather is not humid or too warm. Although a Stafford in good physical condition can keep up with an athletic owner, they usually settle right in when they come back in the house after a good exercise session. The breed can be heat intolerant and should absolutely never be overworked in warm or humid weather.</p>",
+                    "akc_org_training": "<p>The Stafford is intelligent, learns easily, responds quickly, and can be a loving and fun companion. They have an ardent desire to please and easily comply with the requests of their owners. However, remember that they were originally bred to fight other dogs, and most have retained a strong prey drive, so watch for escalation in enthusiastic play, especially after maturity. Like all dogs, they should be trained to the basics of obedience using positive methods so that they become the perfect pet. It is imperative that from the beginning a Stafford puppy have clear and consistent positive training. Despite their tough outward appearance and sometimes stoic disposition, they can be quite sensitive and do not respond well to harsh training methods.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Ophthalmologist Evaluation",
+                    "test_2": "Hips: X-rays evaluated by OFA or PennHip",
+                    "test_3": "Elbows: X-rays evaluated by OFA",
+                    "test_4": "Hereditary Cataracts DNA Test",
+                    "test_5": "L-2-Hydroxyglutaric Aciduria (Staffordshire Bull Terrier) (L-2-HGA) - DNA Test",
+                    "test_6": "Hereditary Cataracts (HC, JC) - DNA Test",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Ophthalmologist Evaluation | Hips: X-rays evaluated by OFA or PennHip | Elbows: X-rays evaluated by OFA | Hereditary Cataracts DNA Test | L-2-Hydroxyglutaric Aciduria (Staffordshire Bull Terrier) (L-2-HGA) - DNA Test | Hereditary Cataracts (HC, JC) - DNA Test"
+                }
+            },
+            "basics": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "breed_name_oracle": "Staffordshire Bull Terrier",
+                    "matches_oracle": "Staffordshire Bull Terrier",
+                    "akc_code": "224",
+                    "breed_name_plural": "Staffordshire Bull Terriers",
+                    "breed_nicknames": "Stafford",
+                    "origin": "England",
+                    "breed_group": "Terrier Group",
+                    "year_recognized": "1974",
+                    "life_expectancy": "12-15 years",
+                    "related_breeds": "American Staffordshire Terrier, Bull Terrier, Miniature Bull Terrier, Bulldog, Boxer",
+                    "links": [],
+                    "popularity_2025": 61,
+                    "popularity_2024": 63,
+                    "popularity_2023": 72,
+                    "popularity_2022": 75,
+                    "popularity_2021": 75,
+                    "popularity_2020": 81,
+                    "popularity_2019": 83,
+                    "popularity_2018": 80,
+                    "popularity_2017": 82,
+                    "popularity_2016": 82,
+                    "popularity_2015": 79,
+                    "related_groups_characteristics": "Best Guard Dogs",
+                    "related_breeds_items_url": [
+                        "american-staffordshire-terrier",
+                        "bull-terrier",
+                        "miniature-bull-terrier",
+                        "bulldog",
+                        "boxer"
+                    ],
+                    "related_breeds_items": {
+                        "american-staffordshire-terrier": {
+                            "breed_name_url": "american-staffordshire-terrier",
+                            "breed_name": "American Staffordshire Terrier",
+                            "breed_name_oracle": "American Staffordshire Terrier",
+                            "matches_oracle": "American Staffordshire Terrier",
+                            "akc_code": "202",
+                            "breed_name_plural": "American Staffordshire Terriers",
+                            "breed_nicknames": "AmStaff",
+                            "origin": "United States",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1936",
+                            "life_expectancy": "12-16 years",
+                            "related_breeds": "Staffordshire Bull Terrier, Bulldog, Boxer, Miniature Bull Terrier, Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 97,
+                            "popularity_2024": 77,
+                            "popularity_2023": 95,
+                            "popularity_2022": 87,
+                            "popularity_2021": 81,
+                            "popularity_2020": 82,
+                            "popularity_2019": 86,
+                            "popularity_2018": 85,
+                            "popularity_2017": 83,
+                            "popularity_2016": 81,
+                            "popularity_2015": 77,
+                            "related_groups_characteristics": "Best Family Dogs, Smartest Breeds of Dogs, Medium Dog Breeds",
+                            "temperament": "good-natured / confident / smart"
+                        },
+                        "bull-terrier": {
+                            "breed_name_url": "bull-terrier",
+                            "breed_name": "Bull Terrier",
+                            "breed_name_oracle": "Bull Terrier",
+                            "matches_oracle": "Bull Terrier",
+                            "akc_code": "206",
+                            "breed_name_plural": "Bull Terriers",
+                            "breed_nicknames": "BT, Bully, White Cavalier",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "12-13 years",
+                            "related_breeds": "Miniature Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, Bulldog",
+                            "links": [],
+                            "popularity_2025": 86,
+                            "popularity_2024": 72,
+                            "popularity_2023": 65,
+                            "popularity_2022": 64,
+                            "popularity_2021": 61,
+                            "popularity_2020": 64,
+                            "popularity_2019": 62,
+                            "popularity_2018": 62,
+                            "popularity_2017": 60,
+                            "popularity_2016": 57,
+                            "popularity_2015": 55,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Medium Dog Breeds",
+                            "temperament": "playful / charming / mischievous"
+                        },
+                        "miniature-bull-terrier": {
+                            "breed_name_url": "miniature-bull-terrier",
+                            "breed_name": "Miniature Bull Terrier",
+                            "breed_name_oracle": "Miniature Bull Terrier",
+                            "matches_oracle": "Miniature Bull Terrier",
+                            "akc_code": "227",
+                            "breed_name_plural": "Miniature Bull Terriers",
+                            "breed_nicknames": "Mini Bull, MBT",
+                            "origin": "England",
+                            "breed_group": "Terrier Group",
+                            "year_recognized": "1991",
+                            "life_expectancy": "11-13 years",
+                            "related_breeds": "Bulldog, Staffordshire Bull Terrier, French Bulldog, American Staffordshire Terrier, Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 105,
+                            "popularity_2024": 105,
+                            "popularity_2023": 107,
+                            "popularity_2022": 110,
+                            "popularity_2021": 107,
+                            "popularity_2020": 105,
+                            "popularity_2019": 114,
+                            "popularity_2018": 110,
+                            "popularity_2017": 115,
+                            "popularity_2016": 120,
+                            "popularity_2015": 121,
+                            "related_groups_characteristics": "Smallest Dog Breeds",
+                            "temperament": "upbeat / mischievous / comical"
+                        },
+                        "bulldog": {
+                            "breed_name_url": "bulldog",
+                            "breed_name": "Bulldog",
+                            "breed_name_oracle": "Bulldog",
+                            "matches_oracle": "Bulldog",
+                            "akc_code": "302",
+                            "breed_name_plural": "Bulldogs",
+                            "breed_nicknames": "Sourmug",
+                            "origin": "England",
+                            "breed_group": "Non-Sporting Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "8-10 years",
+                            "related_breeds": "Bull Terrier, French Bulldog, Bullmastiff, American Staffordshire Terrier, Staffordshire Bull Terrier",
+                            "links": [],
+                            "popularity_2025": 10,
+                            "popularity_2024": 9,
+                            "popularity_2023": 7,
+                            "popularity_2022": 6,
+                            "popularity_2021": 6,
+                            "popularity_2020": 5,
+                            "popularity_2019": 5,
+                            "popularity_2018": 5,
+                            "popularity_2017": 5,
+                            "popularity_2016": 4,
+                            "popularity_2015": 4,
+                            "related_groups_characteristics": "Best Family Dogs, Best Dogs for Apartment Dwellers, Medium Dog Breeds",
+                            "temperament": "friendly / courageous / calm"
+                        },
+                        "boxer": {
+                            "breed_name_url": "boxer",
+                            "breed_name": "Boxer",
+                            "breed_name_oracle": "Boxer",
+                            "matches_oracle": "Boxer",
+                            "akc_code": "607",
+                            "breed_name_plural": "Boxers",
+                            "breed_nicknames": "",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1904",
+                            "life_expectancy": "10-12 years",
+                            "related_breeds": "Doberman Pinscher, American Staffordshire Terrier, Staffordshire Bull Terrier, Beauceron, Great Dane",
+                            "links": [],
+                            "popularity_2025": 18,
+                            "popularity_2024": 17,
+                            "popularity_2023": 18,
+                            "popularity_2022": 16,
+                            "popularity_2021": 14,
+                            "popularity_2020": 14,
+                            "popularity_2019": 14,
+                            "popularity_2018": 11,
+                            "popularity_2017": 11,
+                            "popularity_2016": 10,
+                            "popularity_2015": 10,
+                            "related_groups_characteristics": "Best Dog Breeds for Kids, Largest Dog Breeds",
+                            "temperament": "active / bright / fun-loving"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "temperament": "clever / brave / tenacious",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Short"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Smooth"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "akc_org_blurb": "<p>From his brawling past, the muscular but agile Staffordshire Bull Terrier retains the traits of courage and tenacity. Happily, good breeding transformed this former gladiator into a playful, energetic, and sometimes boisterous, companion with a special affection for kids.</p>",
+                    "akc_org_about": "<p>At 14 to 16 inches, Staffords do not stand particularly tall. But, weighing anywhere between 24 to 38 pounds, Staffords pour a gallon of dog into a quart-size container. These are rock-solid, muscular terriers. The head is short and broad, with pronounced cheek muscles, and the tight-fitting coat comes in several colors.</p>\n<p>Staffords still resemble the pugnacious brawlers who once ruled England's fighting pits. But today's responsible breeders are producing sweet-natured, family-oriented Staffords with a reputation for being patient with children. These are true blue loyal companions, but the old fighting instinct still lies within, making it vital that Stafford pups be raised with enrichment protocols and also socialized with other dogs to learn good canine manners by diligent owners. Staffords are not good candidates for dog parks, nor for multiple male dog homes.</p>",
+                    "mp_description": "<p>The Staffordshire Bull Terrier is a steady and sweet-natured dog, patient with family, and devoted to his people. They are strong and determined, with a powerful build, so early socialization and training are essential. A Staffordshire Bull Terrier puppy may respond best to an experienced owner or trainer who understands how to work with him. He'll also thrive on vigorous exercise and a secure place to run and play, and is a great playmate as long as he knows that you're in charge. Brave and intelligent, with a bit of the comedian mixed in, he'll bond closely to the family and, with the right guidance, be a good canine citizen.</p>"
+                }
+            },
+            "standards": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "title_1": "General Appearance",
+                    "description_1": "The Staffordshire Bull Terrier is a smooth-coated dog. It should be of great strength for its size and, although muscular, should be active and agile.",
+                    "title_2": "Head",
+                    "description_2": "Short, deep through, broad skull, very pronounced cheek muscles, distinct stop, short foreface, black nose. Pink (Dudley) nose to be considered a serious fault. Eyes - Dark preferable, but may bear some relation to coat color. Round, of medium size, and set to look straight ahead. Light eyes or pink eye rims to be considered a fault, except that where the coat surrounding the eye is white the eye rim may be pink. Ears - Rose or half-pricked and not large. Full drop or full prick to be considered a serious fault.",
+                    "title_3": "Body",
+                    "description_3": "The neck is muscular, rather short, clean in outline and gradually widening toward the shoulders. The body is close coupled, with a level topline, wide front, deep brisket and well sprung ribs being rather light in the loins. The tail is undocked, of medium length, low set, tapering to a point and carried rather low. It should not curl much and may be likened to an old-fashioned pump handle. A tail that is too long or badly curled is a fault.",
+                    "title_4": "Forequarters",
+                    "description_4": "Legs straight and well boned, set rather far apart, without looseness at the shoulders and showing no weakness at the pasterns, from which point the feet turn out a little. Dewclaws on the forelegs may be removed. The feet should be well padded, strong and of medium size.",
+                    "title_5": "Coat",
+                    "description_5": "Smooth, short and close to the skin, not to be trimmed or de-whiskered.",
+                    "title_6": "Hindquarters",
+                    "description_6": "The hindquarters should be well muscled, hocks let down with stifles well bent. Legs should be parallel when viewed from behind. Dewclaws, if any, on the hind legs are generally removed. Feet as in front.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "14",
+                    "height_max": "16",
+                    "weight_min": "24",
+                    "weight_max": "38",
+                    "size": "Medium",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/StaffordshireBullTerrier.pdf",
+                    "height_min_f": "14",
+                    "height_max_f": "16",
+                    "height_min_m": "14",
+                    "height_max_m": "16",
+                    "height_display": "14-16 inches",
+                    "weight_min_f": "24",
+                    "weight_max_f": "38",
+                    "weight_min_m": "24",
+                    "weight_max_m": "38",
+                    "weight_display": "28-38 pounds (male), 24-34 pounds (female)"
+                }
+            },
+            "markings": {
+                "staffordshire-bull-terrier": {
+                    "markings": [
+                        {
+                            "marking_index": 98,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "cde_markings": "007",
+                            "markings_long": "Brindle Markings",
+                            "markings_short": "BRDL MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "staffordshire-bull-terrier": {
+                    "colors": [
+                        {
+                            "color_index": 354,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 355,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "019",
+                            "color_long": "Black & White",
+                            "color_short": "BLK & WH"
+                        },
+                        {
+                            "color_index": 356,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 357,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "045",
+                            "color_long": "Blue & White",
+                            "color_short": "BL & WH"
+                        },
+                        {
+                            "color_index": 358,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 359,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "059",
+                            "color_long": "Brindle & White",
+                            "color_short": "BRDL & WH"
+                        },
+                        {
+                            "color_index": 360,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "082",
+                            "color_long": "Fawn",
+                            "color_short": "FN"
+                        },
+                        {
+                            "color_index": 361,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "086",
+                            "color_long": "Fawn & White",
+                            "color_short": "FN & WH"
+                        },
+                        {
+                            "color_index": 362,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 363,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "146",
+                            "color_long": "Red & White",
+                            "color_short": "RD & WH"
+                        },
+                        {
+                            "color_index": 364,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        },
+                        {
+                            "color_index": 365,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "203",
+                            "color_long": "White & Brindle",
+                            "color_short": "WH & BRDL"
+                        },
+                        {
+                            "color_index": 366,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "207",
+                            "color_long": "White & Fawn",
+                            "color_short": "WH & FN"
+                        },
+                        {
+                            "color_index": 367,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "214",
+                            "color_long": "White & Red",
+                            "color_short": "WH & RD"
+                        },
+                        {
+                            "color_index": 368,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "018",
+                            "color_long": "Black & Tan",
+                            "color_short": "BLK & TN"
+                        },
+                        {
+                            "color_index": 369,
+                            "breed_name_url": "staffordshire-bull-terrier",
+                            "breed_name": "Staffordshire Bull Terrier",
+                            "akc_code": "224",
+                            "standard_alternate": "A",
+                            "conformation_eligible": null,
+                            "cde_color": "123",
+                            "color_long": "Liver",
+                            "color_short": "LVR"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "breed_club_name": "Staffordshire Bull Terrier Club of America",
+                    "breed_club_url": "www.sbtca.com/",
+                    "breed_club_pdf_url": "http://cdn.akc.org/StaffordshireBullTerrier-club-flier.pdf",
+                    "breed_rescue_url": "http://www.sbtca.com/index.php?option=com_wrapper&view=wrapper&Itemid=12",
+                    "national_breed_club": "Staffordshire Bull Terrier Club of America",
+                    "national_breed_club_url": "www.sbtca.com/",
+                    "breed_referral_contact_name": "Toni Pawson",
+                    "breed_referral_contact_phone_number": "(631) 905-7993",
+                    "breed_referral_contact_email": "taylorstnt@aol.com",
+                    "breed_referral_contact_address": "137 RIVER RD\nMANORVILLE, NY 11949-1403",
+                    "breed_referral_directory_title": "See Parent Club website - Finding a Stafford - Breeder Referral",
+                    "breed_referral_directory_url": "",
+                    "breed_referral_regional_club_title": "",
+                    "breed_referral_regional_club_url": "",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.sbtca.com/index.php?option=com_wrapper&view=wrapper&Itemid=12",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1650,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:24",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 236,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:12",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country. Founded in 1974, the Staffordshire Bull Terrier Club of America is the official AKC Parent Club for the Staffordshire Bull Terrier."
+                        },
+                        {
+                            "id": 1224,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1226,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1223,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 1225,
+                            "breed_id": "241",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:19",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "staffordshire-bull-terrier": {
+                    "breed_name_url": "staffordshire-bull-terrier",
+                    "breed_name": "Staffordshire Bull Terrier",
+                    "akc_org_history": "<p>The story of the Staffordshire Bull Terrier is a relatively brief one in the grand scheme of canine history, but it can be confused by the several different names hung on the breed at various times. The Bull-and-Terrier, the Patched Fighting Terrier, the Staffordshire Pit-dog, and the Brindle Bull are a few of the Stafford's historical aliases. Staffords are among the AKC\u00ae terriers, such as the Bull Terrier and American Staffordshire Terrier, classified as \"bull types.\" All have a similar backstory.</p>\n<p>A few centuries ago, in the days when betting on the outcome of dog-oriented blood sports was all the rage in England, gamblers bred ferocious dogs to excel in these ghastly affairs. The granddaddy of these breeds was the Bulldog, created for the horrifying spectacle of bull-baiting. Blood sports were outlawed in 1835, but pit-dog wagering continued as an underground activity. In these illicit pits, usually housed in a cellar, away from the prying eyes of the law, dogs would either do battle against one another, gladiator style, or would be set against a sack full of rats. Gamblers took Bulldogs, unemployed after bull-baiting went by the boards, and crossed them with quick, feisty terriers. The results were fighting dogs with the punishing jaws of a Bulldog and the fiery spirit of a terrier. From among the profusion of breeds created in this way, most now extinct, the Stafford, perfected by one James Hinks, of Birmingham, England, in the mid-19th century, emerged as one of the most successful and enduring. The breed name that finally came to these burly, broad-skulled terriers is a nod to the county of Staffordshire, where the breed was especially popular. After the Stafford arrived in North America in the 1880s, breeders developed a taller, heavier offshoot, the American Staffordshire Terrier, or AmStaff. Since then, more than a hundred years of responsible breeding has transformed both breeds from brawlers to loyal family companions.</p>",
+                    "mp_history_job": "<p>The AKC recognizes four terriers classified as \"bull types\": Bull Terriers and Miniature Bull Terriers, AmStaffs, and Staffords. All have a similar backstory. A few centuries ago, in the days when dogfighting was considered a sport instead of a crime, breeders experimented with various crosses to create fighting dogs possessing the strength and the punishing jaws of Bulldogs and the fiery spirit and quickness of terriers. The AKC's four \"bully breeds\" are the most successful and enduring of those experiments.</p>",
+                    "did_you_know": "The Staffordshire Bull Terrier was recognized by the Kennel Club of England in 1935. | The first club show for the breed took place in August 1935 at Cradley Heath in the West Midlands, where 60 dogs and bitches were entered. | The first two members of their sex to claim championships in England were the bitch, Lady Eve and the dog, Gentleman Jim in 1939. | The old-fashioned Bulldog was a fierce, courageous animal used in the sports of bear- and bull-baiting as early as the mid-sixteenth century. | Authorities generally agree that the breed can be traced back to the Mastiff-like dogs through the old Bulldog which, when crossed with British Terriers, produced the first \"bull and terriers.\" | The Stafford does not genetically produce a Merle coat pattern. A Stafford with a Merle coat is not a purebred dog."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775344304",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B25810%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-On-White-03.jpg",
+                    "alt": "Staffordshire Bull Terrier lying in three-quarter view facing forward",
+                    "caption": "",
+                    "credit": "\u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/HDM_1207.jpg",
+                    "alt": "Best of Breed: GCHG CH Ciera Homebrewed Born Free CGCA, Staffordshire Bull Terrier; Terrier Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "Photo by HOTdog"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-standing-outdoors.jpg",
+                    "alt": "Staffordshire Bull Terrier standing outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9everydoghasastory - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-head-portrait-outdoors.jpg",
+                    "alt": "Staffordshire Bull Terrier head portrait outdoors.",
+                    "caption": "",
+                    "credit": "\u00a9Irina - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-Illo-2.jpg",
+                "alt": "Staffordshire Bull Terrier illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-puppy-laying-down-outdoors.jpg",
+                "alt": "Staffordshire Bull Terrier puppy laying down outdoors."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/staffordshire-bull-terrier",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Staffordshire Bull Terrier",
+        "shopCta": false
+    }
+}

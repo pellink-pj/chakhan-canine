@@ -1,0 +1,57 @@
+<!-- @dsCard group="Brand" viewport="700x230" name="Logo lockup" subtitle="멍 mark + wordmark · pick a mark shape" -->
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body{margin:0;font-family:var(--font-sans);background:var(--bg-app);padding:22px 24px}
+  .wrap{display:flex;flex-direction:column;gap:18px}
+  .top{display:flex;align-items:center;gap:36px}
+  .lockup{display:flex;align-items:center;gap:14px}
+  /* mark: solid coral fill (flat, no diagonal sheen) + centered glyph */
+  .mark{
+    width:54px;height:54px;flex-shrink:0;
+    background:var(--coral-600);
+    display:flex;align-items:center;justify-content:center;
+    color:#fff;font-weight:800;font-size:27px;line-height:1;
+    box-shadow:var(--shadow-brand);
+  }
+  .mark .g{display:block;transform:translateY(1px)} /* optical centering for 멍 */
+  .r-square{border-radius:14px}
+  .r-squircle{border-radius:27px / 20px}
+  .r-circle{border-radius:50%}
+  .wm{font-weight:800;font-size:34px;color:var(--ink-900);letter-spacing:-0.02em;line-height:1}
+  .wm .en{color:var(--brand)}
+  .cap{font-family:var(--font-mono);font-size:10px;color:var(--text-caption);text-align:center;margin-top:8px}
+  .options{display:flex;align-items:flex-start;gap:26px}
+  .opt{display:flex;flex-direction:column;align-items:center}
+  .onbrand{background:var(--coral-600);padding:14px 20px;border-radius:var(--radius-xl)}
+  .onbrand .wm{color:#fff}
+  .onbrand .mark{background:#fff;color:var(--brand);box-shadow:none}
+  .divider{width:1px;align-self:stretch;background:var(--line-soft)}
+</style></head>
+<body>
+  <div class="wrap">
+    <!-- Primary lockup -->
+    <div class="top">
+      <div class="lockup">
+        <div class="mark r-squircle"><span class="g">멍</span></div>
+        <div class="wm">멍메이트</div>
+      </div>
+      <div class="lockup">
+        <div class="mark r-squircle"><span class="g">멍</span></div>
+        <div class="wm"><span class="en">Mung</span>Mate</div>
+      </div>
+    </div>
+
+    <!-- Mark shape options + reversed -->
+    <div class="options">
+      <div class="opt"><div class="mark r-square"><span class="g">멍</span></div><div class="cap">둥근 사각형</div></div>
+      <div class="opt"><div class="mark r-squircle"><span class="g">멍</span></div><div class="cap">스퀘어클 ✓</div></div>
+      <div class="opt"><div class="mark r-circle"><span class="g">멍</span></div><div class="cap">원형</div></div>
+      <div class="divider"></div>
+      <div class="opt">
+        <div class="onbrand"><div class="lockup"><div class="mark r-squircle"><span class="g">멍</span></div><div class="wm">멍메이트</div></div></div>
+        <div class="cap">반전 (on coral)</div>
+      </div>
+    </div>
+  </div>
+</body></html>

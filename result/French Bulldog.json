@@ -207,8 +207,8 @@
                             "temperament": "charming / loving / mischievous"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -508,7 +508,7 @@
                 "french-bulldog": {
                     "markings": [
                         {
-                            "marking_index": 149,
+                            "marking_index": 151,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -518,7 +518,7 @@
                             "markings_short": "BLK MKGS"
                         },
                         {
-                            "marking_index": 150,
+                            "marking_index": 152,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -528,7 +528,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 151,
+                            "marking_index": 153,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -538,7 +538,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 152,
+                            "marking_index": 154,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -548,7 +548,7 @@
                             "markings_short": "BRDL MKGS"
                         },
                         {
-                            "marking_index": 153,
+                            "marking_index": 155,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -558,7 +558,7 @@
                             "markings_short": "PBLD"
                         },
                         {
-                            "marking_index": 154,
+                            "marking_index": 156,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -574,7 +574,7 @@
                 "french-bulldog": {
                     "colors": [
                         {
-                            "color_index": 506,
+                            "color_index": 507,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -585,7 +585,7 @@
                             "color_short": "BRDL"
                         },
                         {
-                            "color_index": 507,
+                            "color_index": 508,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -596,7 +596,7 @@
                             "color_short": "BRDL & WH"
                         },
                         {
-                            "color_index": 508,
+                            "color_index": 509,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -607,7 +607,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 509,
+                            "color_index": 510,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -618,7 +618,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 510,
+                            "color_index": 511,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -629,7 +629,7 @@
                             "color_short": "FN & WH"
                         },
                         {
-                            "color_index": 511,
+                            "color_index": 512,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -640,7 +640,7 @@
                             "color_short": "FN BRDL"
                         },
                         {
-                            "color_index": 512,
+                            "color_index": 513,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -651,7 +651,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 513,
+                            "color_index": 514,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -662,7 +662,7 @@
                             "color_short": "WH & BRDL"
                         },
                         {
-                            "color_index": 514,
+                            "color_index": 515,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -673,7 +673,7 @@
                             "color_short": "FN BRDL & WH"
                         },
                         {
-                            "color_index": 515,
+                            "color_index": 516,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -684,7 +684,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 516,
+                            "color_index": 517,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -695,7 +695,7 @@
                             "color_short": "BLK*"
                         },
                         {
-                            "color_index": 517,
+                            "color_index": 518,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -706,7 +706,7 @@
                             "color_short": "BLK & FWN*"
                         },
                         {
-                            "color_index": 518,
+                            "color_index": 519,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -717,7 +717,7 @@
                             "color_short": "BL FWN*"
                         },
                         {
-                            "color_index": 519,
+                            "color_index": 520,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -728,7 +728,7 @@
                             "color_short": "CHLT*"
                         },
                         {
-                            "color_index": 520,
+                            "color_index": 521,
                             "breed_name_url": "french-bulldog",
                             "breed_name": "French Bulldog",
                             "akc_code": "305",
@@ -840,7 +840,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775369483",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781240501",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24410%5D",
@@ -889,8 +889,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

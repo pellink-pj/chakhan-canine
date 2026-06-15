@@ -204,8 +204,8 @@
                             "temperament": "bright / spirited / keenly observant"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -505,7 +505,7 @@
                 "whippet": {
                     "markings": [
                         {
-                            "marking_index": 268,
+                            "marking_index": 270,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -515,7 +515,7 @@
                             "markings_short": "BLK MSK"
                         },
                         {
-                            "marking_index": 269,
+                            "marking_index": 271,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -525,7 +525,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 270,
+                            "marking_index": 272,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -535,7 +535,7 @@
                             "markings_short": "BL MSK"
                         },
                         {
-                            "marking_index": 271,
+                            "marking_index": 273,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -545,7 +545,7 @@
                             "markings_short": "WTR MRKD"
                         },
                         {
-                            "marking_index": 272,
+                            "marking_index": 274,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -555,7 +555,7 @@
                             "markings_short": "WHT MRK BL MSK"
                         },
                         {
-                            "marking_index": 273,
+                            "marking_index": 275,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -565,7 +565,7 @@
                             "markings_short": "WHT MRK BLK MSK"
                         },
                         {
-                            "marking_index": 274,
+                            "marking_index": 276,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -581,7 +581,7 @@
                 "whippet": {
                     "colors": [
                         {
-                            "color_index": 927,
+                            "color_index": 928,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -592,7 +592,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 928,
+                            "color_index": 929,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -603,7 +603,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 929,
+                            "color_index": 930,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -614,7 +614,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 930,
+                            "color_index": 931,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -625,7 +625,7 @@
                             "color_short": "BL FN"
                         },
                         {
-                            "color_index": 931,
+                            "color_index": 932,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -636,7 +636,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 932,
+                            "color_index": 933,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -647,7 +647,7 @@
                             "color_short": "FN BRDL"
                         },
                         {
-                            "color_index": 933,
+                            "color_index": 934,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -658,7 +658,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 934,
+                            "color_index": 935,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -669,7 +669,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 935,
+                            "color_index": 936,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -680,7 +680,7 @@
                             "color_short": "WH & FN"
                         },
                         {
-                            "color_index": 936,
+                            "color_index": 937,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -691,7 +691,7 @@
                             "color_short": "WH & RD"
                         },
                         {
-                            "color_index": 937,
+                            "color_index": 938,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -702,7 +702,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 938,
+                            "color_index": 939,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -713,7 +713,7 @@
                             "color_short": "SBL"
                         },
                         {
-                            "color_index": 939,
+                            "color_index": 940,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -724,7 +724,7 @@
                             "color_short": "BLK BRDL"
                         },
                         {
-                            "color_index": 940,
+                            "color_index": 941,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -735,7 +735,7 @@
                             "color_short": "WH & BL FN"
                         },
                         {
-                            "color_index": 941,
+                            "color_index": 942,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -746,7 +746,7 @@
                             "color_short": "WH & SBL"
                         },
                         {
-                            "color_index": 942,
+                            "color_index": 943,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -757,7 +757,7 @@
                             "color_short": "WH & BLK"
                         },
                         {
-                            "color_index": 943,
+                            "color_index": 944,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -768,7 +768,7 @@
                             "color_short": "WH & BL"
                         },
                         {
-                            "color_index": 944,
+                            "color_index": 945,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -779,7 +779,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 945,
+                            "color_index": 946,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -790,7 +790,7 @@
                             "color_short": "WH & BL BRDL"
                         },
                         {
-                            "color_index": 946,
+                            "color_index": 947,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -801,7 +801,7 @@
                             "color_short": "WH & RD BRDL"
                         },
                         {
-                            "color_index": 947,
+                            "color_index": 948,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -812,7 +812,7 @@
                             "color_short": "WFB"
                         },
                         {
-                            "color_index": 948,
+                            "color_index": 949,
                             "breed_name_url": "whippet",
                             "breed_name": "Whippet",
                             "akc_code": "419",
@@ -924,7 +924,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775198602",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781238593",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B26002%5D",
@@ -973,8 +973,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

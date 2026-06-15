@@ -186,8 +186,8 @@
                             "temperament": "friendly / quick / keenly alert"
                         }
                     },
-                    "total_breed_count": 293,
-                    "breed_count_display": 205
+                    "total_breed_count": 296,
+                    "breed_count_display": 208
                 }
             },
             "traits": {
@@ -488,7 +488,7 @@
                 "havanese": {
                     "markings": [
                         {
-                            "marking_index": 396,
+                            "marking_index": 413,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -498,7 +498,7 @@
                             "markings_short": "PRTI"
                         },
                         {
-                            "marking_index": 397,
+                            "marking_index": 414,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -508,7 +508,7 @@
                             "markings_short": "IRSH PIED"
                         },
                         {
-                            "marking_index": 398,
+                            "marking_index": 415,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -518,7 +518,7 @@
                             "markings_short": "WH MKGS"
                         },
                         {
-                            "marking_index": 399,
+                            "marking_index": 416,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -528,7 +528,7 @@
                             "markings_short": "CR MKGS"
                         },
                         {
-                            "marking_index": 400,
+                            "marking_index": 417,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -538,7 +538,7 @@
                             "markings_short": "SLVR MKGS"
                         },
                         {
-                            "marking_index": 401,
+                            "marking_index": 418,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -548,7 +548,7 @@
                             "markings_short": "TN PTS"
                         },
                         {
-                            "marking_index": 402,
+                            "marking_index": 419,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -558,7 +558,7 @@
                             "markings_short": "SLVR PNTS"
                         },
                         {
-                            "marking_index": 403,
+                            "marking_index": 420,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -574,7 +574,7 @@
                 "havanese": {
                     "colors": [
                         {
-                            "color_index": 1319,
+                            "color_index": 1340,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -585,7 +585,7 @@
                             "color_short": "WH"
                         },
                         {
-                            "color_index": 1320,
+                            "color_index": 1341,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -596,7 +596,7 @@
                             "color_short": "BLK"
                         },
                         {
-                            "color_index": 1321,
+                            "color_index": 1342,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -607,7 +607,7 @@
                             "color_short": "BLK BRDL"
                         },
                         {
-                            "color_index": 1322,
+                            "color_index": 1343,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -618,7 +618,7 @@
                             "color_short": "BL"
                         },
                         {
-                            "color_index": 1323,
+                            "color_index": 1344,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -629,7 +629,7 @@
                             "color_short": "BL BRDL"
                         },
                         {
-                            "color_index": 1324,
+                            "color_index": 1345,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -640,7 +640,7 @@
                             "color_short": "CHLT"
                         },
                         {
-                            "color_index": 1325,
+                            "color_index": 1346,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -651,7 +651,7 @@
                             "color_short": "CR"
                         },
                         {
-                            "color_index": 1326,
+                            "color_index": 1347,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -662,7 +662,7 @@
                             "color_short": "FN"
                         },
                         {
-                            "color_index": 1327,
+                            "color_index": 1348,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -673,7 +673,7 @@
                             "color_short": "GLD"
                         },
                         {
-                            "color_index": 1328,
+                            "color_index": 1349,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -684,7 +684,7 @@
                             "color_short": "GLD BRDL"
                         },
                         {
-                            "color_index": 1329,
+                            "color_index": 1350,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -695,7 +695,7 @@
                             "color_short": "GLD SBL"
                         },
                         {
-                            "color_index": 1330,
+                            "color_index": 1351,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -706,7 +706,7 @@
                             "color_short": "RD"
                         },
                         {
-                            "color_index": 1331,
+                            "color_index": 1352,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -717,7 +717,7 @@
                             "color_short": "RD SBL"
                         },
                         {
-                            "color_index": 1332,
+                            "color_index": 1353,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -728,7 +728,7 @@
                             "color_short": "RD BRDL"
                         },
                         {
-                            "color_index": 1333,
+                            "color_index": 1354,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -739,7 +739,7 @@
                             "color_short": "SLVR"
                         },
                         {
-                            "color_index": 1334,
+                            "color_index": 1355,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -750,7 +750,7 @@
                             "color_short": "SLVR BRDL"
                         },
                         {
-                            "color_index": 1335,
+                            "color_index": 1356,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -761,7 +761,7 @@
                             "color_short": "BLK & TN"
                         },
                         {
-                            "color_index": 1336,
+                            "color_index": 1357,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -772,7 +772,7 @@
                             "color_short": "BLK & SLVR"
                         },
                         {
-                            "color_index": 1337,
+                            "color_index": 1358,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -783,7 +783,7 @@
                             "color_short": "FN BRDL"
                         },
                         {
-                            "color_index": 1338,
+                            "color_index": 1359,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -794,7 +794,7 @@
                             "color_short": "FN SBL"
                         },
                         {
-                            "color_index": 1339,
+                            "color_index": 1360,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -805,7 +805,7 @@
                             "color_short": "CHLT SBL"
                         },
                         {
-                            "color_index": 1340,
+                            "color_index": 1361,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -816,7 +816,7 @@
                             "color_short": "CHLT BRDL"
                         },
                         {
-                            "color_index": 1341,
+                            "color_index": 1362,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -827,7 +827,7 @@
                             "color_short": "BLK & TN BRDL"
                         },
                         {
-                            "color_index": 1342,
+                            "color_index": 1363,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -838,7 +838,7 @@
                             "color_short": "BLK $ SLVR BRDL"
                         },
                         {
-                            "color_index": 1343,
+                            "color_index": 1364,
                             "breed_name_url": "havanese",
                             "breed_name": "Havanese",
                             "akc_code": "518",
@@ -950,7 +950,7 @@
         },
         "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
         "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
-        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775215604",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1781104019",
         "updated_at": "2026-02-04T20:41:03+00:00",
         "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
         "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24653%5D",
@@ -999,8 +999,8 @@
                 "post_name": "australian-shepherd",
                 "to_ping": "",
                 "pinged": "",
-                "post_modified": "2026-03-16 15:08:00",
-                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_modified": "2026-06-09 10:31:15",
+                "post_modified_gmt": "2026-06-09 14:31:15",
                 "post_content_filtered": "",
                 "post_parent": 0,
                 "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",

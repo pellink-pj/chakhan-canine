@@ -1,0 +1,19 @@
+<!-- @dsCard group="Spacing" viewport="700x170" name="Shadows" subtitle="Warm, coral-tinted — never hard gray drop-shadows" -->
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body{margin:0;font-family:var(--font-sans);background:var(--bg-app);padding:24px 24px}
+  .row{display:flex;gap:22px;align-items:center}
+  .col{display:flex;flex-direction:column;align-items:center;gap:11px}
+  .box{width:96px;height:64px;background:#fff;border-radius:var(--radius-xl);border:1px solid var(--border-card)}
+  .brand{background:var(--brand-gradient);border:0}
+  .lab{font-family:var(--font-mono);font-size:10px;color:var(--text-caption);text-align:center}
+</style></head>
+<body>
+  <div class="row">
+    <div class="col"><div class="box" style="box-shadow:var(--shadow-sm)"></div><div class="lab">shadow-sm</div></div>
+    <div class="col"><div class="box" style="box-shadow:var(--shadow-card)"></div><div class="lab">shadow-card</div></div>
+    <div class="col"><div class="box" style="box-shadow:var(--shadow-lg)"></div><div class="lab">shadow-lg</div></div>
+    <div class="col"><div class="box brand" style="box-shadow:var(--shadow-brand)"></div><div class="lab">shadow-brand</div></div>
+  </div>
+</body></html>

@@ -1,0 +1,1449 @@
+{
+    "settings": {
+        "current_breed": "irish-wolfhound",
+        "current_breed_group": {
+            "name": "Hound Group",
+            "url": "https://www.akc.org/dog-breeds/hound/",
+            "tooltip": "<p>The AKC has grouped all of the breeds that it registers into seven categories, or groups, roughly based on function and heritage. Breeds are grouped together because they share traits of form and function or a common heritage.</p>\n"
+        },
+        "api_url": "https://sbdapi.akc.org/admin-api/",
+        "breed_data": {
+            "health": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "parent_club_health_statement_link": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23161241/Irish-Wolfhound-Health-Statement-November-2014.pdf",
+                    "mp_health": "<p>Irish Wolfhounds are generally a healthy breed. Like all breeds there may be some health issues, like hip and elbow dysplasia, eye disease and cardiac disease. Some dogs may be faced with these health challenges in their lives, but the majority of Irish Wolfhounds are healthy dogs.</p>",
+                    "akc_org_health": "<p>Like other large and deep-chested breeds, Wolfhounds can experience bloat, a sudden and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to do should bloat occur. Responsible breeders will screen their breeding stock for health and genetic conditions such as pneumonia, heart disease, certain cancers and liver shunt. An annual examination, preferably by a veterinarian familiar with sighthounds, is recommended and should include an EKG. Extensive health information is available on the sites of the AKC breed club, the Irish Wolfhound Club of America, and its sister health organization, the Irish Wolfhound Foundation.</p>",
+                    "akc_org_nutrition": "<p>A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) and ideally formulated for large breeds should have all the nutrients the Irish Wolfhound needs. Because of the risk of bloat, strenuous exercise is not recommended before or after feeding time. Check with the dog's breeder and your vet if you have any questions or concerns about your dog's weight, diet, or feeding schedule.</p>",
+                    "akc_org_grooming": "<p>Irish Wolfhounds have a double coat that consists of a harsh, wiry outer coat covering a soft undercoat. They shed throughout the year, but not to an excessive degree. A thorough brushing once a week or so will help to remove dirt and loose hair and keep the dog looking his best. Unlike many double-coated breeds, Irish Wolfhounds don't 'blow out'\u009d their coats during an annual or semi-annual shedding season. As with all breeds, the nails should be trimmed regularly, as overly long nails can be painful to the dog and cause problems walking and running.</p>",
+                    "akc_org_exercise": "<p>Wolfhounds need exercise throughout their lives. Because they retain a strong instinct to hunt and chase prey, they should only be allowed loose in areas that are securely fenced, and any walks must be taken on a leash. As adults, Irish Wolfhounds can become couch potatoes if allowed to, but regular exercise such as long walks or play sessions will help keep them physically and mentally healthy. A home with a fairly large fenced area is necessary to provide the kind of environment in which they can thrive. The breed can also exercise mind and body by participating in canine sports like tracking, agility, and lure coursing.</p>",
+                    "akc_org_training": "<p>Wolfhound puppies take 18 months or more to mature, and they can be very destructive, and possibly prone to injuring themselves, when left alone for extended periods. Puppies should have reasonable access to age-appropriate free play, but not with adult dogs, and with no forced exercise. Early socialization and puppy training classes (using positive training methods only) are recommended. Because of their intelligence, Irish Wolfhounds are fast learners. Wolfhounds crave the company of their people, and their sensitivity to humans makes them excellent candidates for therapy work.</p>",
+                    "text_yumove_link": null,
+                    "test_1": "Hip Evaluation",
+                    "test_2": "Elbow Evaluation",
+                    "test_3": "Cardiac Exam",
+                    "test_4": "Ophthalmologist Evaluation",
+                    "test_5": "Serum Bile Acids",
+                    "test_6": "",
+                    "test_7": "",
+                    "test_8": "",
+                    "test_9": "",
+                    "tests_pipe_delimited_list": "Hip Evaluation | Elbow Evaluation | Cardiac Exam | Ophthalmologist Evaluation | Serum Bile Acids"
+                }
+            },
+            "basics": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "breed_name_oracle": "Irish Wolfhound",
+                    "matches_oracle": "Irish Wolfhound",
+                    "akc_code": "413",
+                    "breed_name_plural": "Irish Wolfhounds",
+                    "breed_nicknames": "Wolfhound, IW",
+                    "origin": "Ireland",
+                    "breed_group": "Hound Group",
+                    "year_recognized": "1897",
+                    "life_expectancy": "6-8 years",
+                    "related_breeds": "Scottish Deerhound, Greyhound, Afghan Hound, Great Dane, Borzoi",
+                    "links": [],
+                    "popularity_2025": 75,
+                    "popularity_2024": 76,
+                    "popularity_2023": 73,
+                    "popularity_2022": 89,
+                    "popularity_2021": 85,
+                    "popularity_2020": 74,
+                    "popularity_2019": 77,
+                    "popularity_2018": 76,
+                    "popularity_2017": 73,
+                    "popularity_2016": 73,
+                    "popularity_2015": 69,
+                    "related_groups_characteristics": "Largest Dog Breeds",
+                    "related_breeds_items_url": [
+                        "scottish-deerhound",
+                        "greyhound",
+                        "afghan-hound",
+                        "great-dane",
+                        "borzoi"
+                    ],
+                    "related_breeds_items": {
+                        "scottish-deerhound": {
+                            "breed_name_url": "scottish-deerhound",
+                            "breed_name": "Scottish Deerhound",
+                            "breed_name_oracle": "Scottish Deerhound",
+                            "matches_oracle": "Scottish Deerhound",
+                            "akc_code": "418",
+                            "breed_name_plural": "Scottish Deerhounds",
+                            "breed_nicknames": "Deerhound, Royal Dog of Scotland",
+                            "origin": "Scotland",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1886",
+                            "life_expectancy": "8-11 years",
+                            "related_breeds": "Greyhound, Irish Wolfhound, Otterhound, Afghan Hound, Borzoi",
+                            "links": [],
+                            "popularity_2025": 156,
+                            "popularity_2024": 165,
+                            "popularity_2023": 171,
+                            "popularity_2022": 155,
+                            "popularity_2021": 158,
+                            "popularity_2020": 166,
+                            "popularity_2019": 151,
+                            "popularity_2018": 158,
+                            "popularity_2017": 168,
+                            "popularity_2016": 154,
+                            "popularity_2015": 152,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "dignified / gentle / polite"
+                        },
+                        "greyhound": {
+                            "breed_name_url": "greyhound",
+                            "breed_name": "Greyhound",
+                            "breed_name_oracle": "Greyhound",
+                            "matches_oracle": "Greyhound",
+                            "akc_code": "411",
+                            "breed_name_plural": "Greyhounds",
+                            "breed_nicknames": "greyhound",
+                            "origin": "Egypt",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1885",
+                            "life_expectancy": "10-13 years",
+                            "related_breeds": "Italian Greyhound, Whippet, Saluki, Azawakh, Sloughi",
+                            "links": [],
+                            "popularity_2025": 151,
+                            "popularity_2024": 118,
+                            "popularity_2023": 127,
+                            "popularity_2022": 129,
+                            "popularity_2021": 132,
+                            "popularity_2020": 142,
+                            "popularity_2019": 164,
+                            "popularity_2018": 145,
+                            "popularity_2017": 156,
+                            "popularity_2016": 151,
+                            "popularity_2015": 147,
+                            "related_groups_characteristics": "Best Dogs for Apartment Dwellers, Largest Dog Breeds",
+                            "temperament": "independent / gentle / noble"
+                        },
+                        "afghan-hound": {
+                            "breed_name_url": "afghan-hound",
+                            "breed_name": "Afghan Hound",
+                            "breed_name_oracle": "Afghan Hound",
+                            "matches_oracle": "Afghan Hound",
+                            "akc_code": "401",
+                            "breed_name_plural": "Afghan Hounds",
+                            "breed_nicknames": "Afghan",
+                            "origin": "Afghanistan",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1926",
+                            "life_expectancy": "12-18 years",
+                            "related_breeds": "Borzoi, Saluki, Scottish Deerhound, Greyhound, Azawakh",
+                            "links": [],
+                            "popularity_2025": 117,
+                            "popularity_2024": 110,
+                            "popularity_2023": 111,
+                            "popularity_2022": 117,
+                            "popularity_2021": 114,
+                            "popularity_2020": 122,
+                            "popularity_2019": 113,
+                            "popularity_2018": 113,
+                            "popularity_2017": 93,
+                            "popularity_2016": 113,
+                            "popularity_2015": 100,
+                            "related_groups_characteristics": "Hypoallergenic Dogs, Largest Dog Breeds",
+                            "temperament": "independent / sweet"
+                        },
+                        "great-dane": {
+                            "breed_name_url": "great-dane",
+                            "breed_name": "Great Dane",
+                            "breed_name_oracle": "Great Dane",
+                            "matches_oracle": "Great Dane",
+                            "akc_code": "614",
+                            "breed_name_plural": "Great Danes",
+                            "breed_nicknames": "Dane, the Apollo of Dogs",
+                            "origin": "Germany",
+                            "breed_group": "Working Group",
+                            "year_recognized": "1887",
+                            "life_expectancy": "7-10 years",
+                            "related_breeds": "Mastiff, Weimaraner, Beauceron, German Pinscher, Doberman Pinscher",
+                            "links": {
+                                "mp_url": "marketplace.akc.org/puppies/",
+                                "akc_url": "https://akc.org/dog-breeds/golden-retrievers"
+                            },
+                            "popularity_2025": 22,
+                            "popularity_2024": 21,
+                            "popularity_2023": 19,
+                            "popularity_2022": 19,
+                            "popularity_2021": 17,
+                            "popularity_2020": 15,
+                            "popularity_2019": 17,
+                            "popularity_2018": 16,
+                            "popularity_2017": 14,
+                            "popularity_2016": 14,
+                            "popularity_2015": 15,
+                            "related_groups_characteristics": "Largest Dog Breeds",
+                            "temperament": "friendly / patient / dependable"
+                        },
+                        "borzoi": {
+                            "breed_name_url": "borzoi",
+                            "breed_name": "Borzoi",
+                            "breed_name_oracle": "Borzoi",
+                            "matches_oracle": "Borzoi",
+                            "akc_code": "407",
+                            "breed_name_plural": "Borzoi",
+                            "breed_nicknames": "",
+                            "origin": "Russia",
+                            "breed_group": "Hound Group",
+                            "year_recognized": "1891",
+                            "life_expectancy": "9-14 years",
+                            "related_breeds": "Irish Wolfhound, Saluki, Scottish Deerhound, Azawakh, Greyhound",
+                            "links": [],
+                            "popularity_2025": 99,
+                            "popularity_2024": 102,
+                            "popularity_2023": 101,
+                            "popularity_2022": 101,
+                            "popularity_2021": 104,
+                            "popularity_2020": 103,
+                            "popularity_2019": 107,
+                            "popularity_2018": 103,
+                            "popularity_2017": 102,
+                            "popularity_2016": 98,
+                            "popularity_2015": 89,
+                            "related_groups_characteristics": "Best Family Dogs, Largest Dog Breeds, ",
+                            "temperament": "loyal / affectionate / regally dignified"
+                        }
+                    },
+                    "total_breed_count": 293,
+                    "breed_count_display": 205
+                }
+            },
+            "traits": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "temperament": "dignified / courageous / calm",
+                    "traits": {
+                        "adaptability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "adaptability_level",
+                            "traits": "Adaptability Level",
+                            "description": "How easily a breed handles change. This can include changes in living conditions, noise, weather, daily schedule, and other variations in day-to-day life.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Lives For Routine",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Highly Adaptable"
+                        },
+                        "affectionate_with_family": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "affectionate_with_family",
+                            "traits": "Affectionate With Family",
+                            "description": "How affectionate a breed is likely to be with family members, or other people he knows well. Some breeds can be aloof with everyone but their owner, while other breeds treat everyone they know like their best friend.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Independent",
+                            "middle_value_3": "Friendly",
+                            "high_value_5": "Lovey-Dovey"
+                        },
+                        "barking_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 1,
+                            "traits_url": "barking_level",
+                            "traits": "Barking Level",
+                            "description": "How often this breed vocalizes, whether it's with barks or howls. While some breeds will bark at every passer-by or bird in the window, others will only bark in particular situations. Some barkless breeds can still be vocal, using other sounds to express themselves.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Only To Alert",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Very Vocal"
+                        },
+                        "coat_grooming_frequency": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "coat_grooming_frequency",
+                            "traits": "Coat Grooming Frequency",
+                            "description": "How frequently a breed requires bathing, brushing, trimming, or other kinds of coat maintenance. Consider how much time, patience, and budget you have for this type of care when looking at the grooming effort needed. All breeds require regular nail trimming.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Monthly",
+                            "middle_value_3": "Weekly",
+                            "high_value_5": "Daily"
+                        },
+                        "good_with_young_children": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "good_with_young_children",
+                            "traits": "Good With Young Children",
+                            "description": "A breed's level of tolerance and patience with childrens' behavior, and overall family-friendly nature. Dogs should always be supervised around young children, or children of any age who have little exposure to dogs.",
+                            "breed_group": "Family Life",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Children"
+                        },
+                        "coat_length": {
+                            "selected": [
+                                "Medium"
+                            ],
+                            "choices": [
+                                "Short",
+                                "Medium",
+                                "Long"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_length",
+                            "traits": "Coat Length",
+                            "description": "How long the breed's coat is expected to be. Some long-haired breeds can be trimmed short, but this will require additional upkeep to maintain.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "coat_type": {
+                            "selected": [
+                                "Wiry"
+                            ],
+                            "choices": [
+                                "Wiry",
+                                "Hairless",
+                                "Smooth",
+                                "Rough",
+                                "Corded",
+                                "Double",
+                                "Curly",
+                                "Wavy",
+                                "Silky"
+                            ],
+                            "score": 0,
+                            "traits_url": "coat_type",
+                            "traits": "Coat Type",
+                            "description": "Canine coats come in many different types, depending on the breed's purpose. Each coat type comes with different grooming needs, allergen potential, and shedding level. You may also just prefer the look or feel of certain coat types over others when choosing a family pet.",
+                            "breed_group": "Physical",
+                            "type": "checkbox",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": ""
+                        },
+                        "drooling_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 2,
+                            "traits_url": "drooling_level",
+                            "traits": "Drooling Level",
+                            "description": "How drool-prone a breed tends to be. If you're a neat freak, dogs that can leave ropes of slobber on your arm or big wet spots on your clothes may not be the right choice for you.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "Less Likely to Drool",
+                            "middle_value_3": "Average",
+                            "high_value_5": "Always Have a Towel"
+                        },
+                        "energy_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "energy_level",
+                            "traits": "Energy Level",
+                            "description": "The amount of exercise and mental stimulation a breed needs. High energy breeds are ready to go and eager for their next adventure. They'll spend their time running, jumping, and playing throughout the day. Low energy breeds are like couch potatoes - they're happy to simply lay around and snooze.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Couch Potato",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "High Energy"
+                        },
+                        "good_with_other_dogs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 4,
+                            "traits_url": "good_with_other_dogs",
+                            "traits": "Good With Other Dogs",
+                            "description": "How generally friendly a breed is towards other dogs. Dogs should always be supervised for interactions and introductions with other dogs, but some breeds are innately more likely to get along with other dogs, both at home and in public.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Not Recommended",
+                            "middle_value_3": "With Supervision",
+                            "high_value_5": "Good With Other Dogs"
+                        },
+                        "mental_stimulation_needs": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "mental_stimulation_needs",
+                            "traits": "Mental Stimulation Needs",
+                            "description": "How much mental stimulation a breed needs to stay happy and healthy. Purpose-bred dogs can have jobs that require decision-making, problem-solving, concentration, or other qualities, and without the brain exercise they need, they'll create their own projects to keep their minds busy -- and they probably won't be the kind of projects you'd like.",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Happy to Lounge",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Needs a Job or Activity"
+                        },
+                        "openness_to_strangers": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "openness_to_strangers",
+                            "traits": "Openness To Strangers",
+                            "description": "How welcoming a breed is likely to be towards strangers. Some breeds will be reserved or cautious around all strangers, regardless of the location, while other breeds will be happy to meet a new human whenever one is around!",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Reserved",
+                            "middle_value_3": "Ambivalent",
+                            "high_value_5": "Everyone Is My Best Friend"
+                        },
+                        "playfulness_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "playfulness_level",
+                            "traits": "Playfulness Level",
+                            "description": "How enthusiastic about play a breed is likely to be, even past the age of puppyhood. Some breeds will continue wanting to play tug-of-war or fetch well into their adult years, while others will be happy to just relax on the couch with you most of the time.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "Only When You Want To Play",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Non-Stop"
+                        },
+                        "shedding_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "shedding_level",
+                            "traits": "Shedding Level",
+                            "description": "How much fur and hair you can expect the breed to leave behind. Breeds with high shedding will need to be brushed more frequently, are more likely to trigger certain types of allergies, and are more likely to require more consistent vacuuming and lint-rolling.",
+                            "breed_group": "Physical",
+                            "type": "radio",
+                            "low_value_1": "No Shedding",
+                            "middle_value_3": "Moderate",
+                            "high_value_5": "Hair Everywhere"
+                        },
+                        "trainability_level": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 3,
+                            "traits_url": "trainability_level",
+                            "traits": "Trainability Level",
+                            "description": "How easy it will be to train your dog, and how willing your dog will be to learn new things. Some breeds just want to make their owner proud, while others prefer to do what they want, when they want to, wherever they want!",
+                            "breed_group": "Character",
+                            "type": "radio",
+                            "low_value_1": "Self-Willed",
+                            "middle_value_3": "Agreeable",
+                            "high_value_5": "Eager to Please"
+                        },
+                        "watchdogprotective_nature": {
+                            "selected": [],
+                            "choices": false,
+                            "score": 5,
+                            "traits_url": "watchdogprotective_nature",
+                            "traits": "Watchdog/Protective Nature",
+                            "description": "A breed's tendency to alert you that strangers are around. These breeds are more likely to react to any potential threat, whether it's the mailman or a squirrel outside the window. These breeds are likely to warm to strangers who enter the house and are accepted by their family.",
+                            "breed_group": "Social",
+                            "type": "radio",
+                            "low_value_1": "What's Mine Is Yours",
+                            "middle_value_3": "Occasional",
+                            "high_value_5": "Vigilant"
+                        },
+                        "other_petsanimals_this_breed_may_not_interact_well_with": {
+                            "traits_url": "other_petsanimals_this_breed_may_not_interact_well_with",
+                            "traits": "Other Pets/Animals This Breed May Not Interact Well With",
+                            "description": "Some breeds are better suited than others to interact with animals other than dogs, whether it's around the house or around the yard. Always supervise interactions between species to help keep your dog and other animals safe.",
+                            "breed_group": "Social",
+                            "low_value_1": "Checkbox (can have multiple values)",
+                            "middle_value_3": "",
+                            "high_value_5": "",
+                            "choices": false,
+                            "selected": []
+                        }
+                    }
+                }
+            },
+            "description": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "akc_org_blurb": "<p>The calm, dignified, and kindly Irish Wolfhound is the tallest of all AKC breeds. Once fearless big-game hunters capable of dispatching a wolf in single combat, Wolfhounds today are the most serene and agreeable of companions.</p>",
+                    "akc_org_about": "<p>The amiable Irish Wolfhound is an immense, muscular hound gracefully built along classic Greyhound lines, capable of great speed at the gallop. A male might stand nearly 3 feet at the shoulder and weigh up to 180 pounds. Females will run smaller but are still a whole lot of hound. The rough, hard coat comes in many colors, including white, gray, brindle, red, black, and fawn. &nbsp;&nbsp;&nbsp;&nbsp;IWs are too serene to be fierce guard dogs, but just the sight of them is enough to deter intruders. IWs are characteristically patient with kids, though animals their size should be supervised around small children. Owning an Irish Wolfhound is a unique, rewarding experience'\u00bfbut acquiring a giant galloping hound is a commitment as big as the dog itself.</p>",
+                    "mp_description": "<p>Consider the size of your house, car and yard if you're planning to add an Irish Wolfhound to the family. The tallest of breeds, he's a muscular, graceful dog, weighing up to 120 pounds. The breed dates back centuries in Ireland, where they were big-game and wolf hunters as well as mellow, calm family companions. Your Irish Wolfhound puppy will grow up (and up and up) to be a great family dog, good with kids and gentle around the house. With his athleticism, he'll thrive on the time and space for exercise and a full-out gallop.</p>"
+                }
+            },
+            "standards": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "title_1": "General Appearance",
+                    "description_1": "Of great size and commanding appearance, the Irish Wolfhound is remarkable in combining power and swiftness with keen sight. The largest and tallest of the galloping hounds, in general type he is a rough-coated, Greyhound-like breed; very muscular, strong though gracefully built; movements easy and active; head and neck carried high, the tail carried with an upward sweep with a slight curve towards the extremity. The minimum height and weight of dogs should be 32 inches and 120 pounds; of bitches, 30 inches and 105 pounds; these to apply only to hounds over 18 months of age. Anything below this should be debarred from competition. Great size, including height at shoulder and proportionate length of body, is the desideratum to be aimed at, and it is desired to firmly establish a race that shall average from 32 to 34 inches in dogs, showing the requisite power, activity, courage and symmetry.",
+                    "title_2": "Head",
+                    "description_2": "Long, the frontal bones of the forehead very slightly raised and very little indentation between the eyes. Skull, not too broad. Muzzle, long and moderately pointed. Ears, small and Greyhound-like in carriage.",
+                    "title_3": "Body",
+                    "description_3": "Neck: Rather long, very strong and muscular, well arched, without dewlap or loose skin about the throat. Chest: Very deep. Breast, wide. Back: Rather long than short. Loins arched.",
+                    "title_4": "Forequarters",
+                    "description_4": "Shoulders, muscular, giving breadth of chest, set sloping. Elbows well under, neither turned inwards nor outwards. Forearm muscular, and the whole leg strong and quite straight.",
+                    "title_5": "Coat",
+                    "description_5": "Rough and hard on body, legs and head; especially wiry and long over eyes and underjaw.",
+                    "title_6": "Hindquarters",
+                    "description_6": "Muscular thighs and second thigh long and strong as in the Greyhound, and hocks well let down and turning neither in nor out. Feet are moderately large and round, neither turned inwards nor outwards. Toes, well arched and closed. Nails, very strong and curved.",
+                    "title_7": "",
+                    "description_7": "",
+                    "title_8": "",
+                    "description_8": "",
+                    "height_min": "30",
+                    "height_max": "32",
+                    "weight_min": "105",
+                    "weight_max": "120",
+                    "size": "XLarge",
+                    "breed_standard_PDF": "http://images.akc.org/pdf/breeds/standards/IrishWolfhound.pdf",
+                    "height_min_f": "30",
+                    "height_max_f": "32",
+                    "height_min_m": "30",
+                    "height_max_m": "32",
+                    "height_display": "32 inches minimum (male), 30 inches minimum (female)",
+                    "weight_min_f": "105",
+                    "weight_max_f": "120",
+                    "weight_min_m": "105",
+                    "weight_max_m": "120",
+                    "weight_display": "120 pounds (male), 105 pounds (female)"
+                }
+            },
+            "markings": {
+                "irish-wolfhound": {
+                    "markings": [
+                        {
+                            "marking_index": 244,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "A",
+                            "cde_markings": "002",
+                            "markings_long": "Black Markings",
+                            "markings_short": "BLK MKGS"
+                        },
+                        {
+                            "marking_index": 245,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "A",
+                            "cde_markings": "028",
+                            "markings_long": "Gray Markings",
+                            "markings_short": "GR MKGS"
+                        },
+                        {
+                            "marking_index": 246,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "A",
+                            "cde_markings": "014",
+                            "markings_long": "White Markings",
+                            "markings_short": "WH MKGS"
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "irish-wolfhound": {
+                    "colors": [
+                        {
+                            "color_index": 868,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "007",
+                            "color_long": "Black",
+                            "color_short": "BLK"
+                        },
+                        {
+                            "color_index": 869,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "057",
+                            "color_long": "Brindle",
+                            "color_short": "BRDL"
+                        },
+                        {
+                            "color_index": 870,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "076",
+                            "color_long": "Cream",
+                            "color_short": "CR"
+                        },
+                        {
+                            "color_index": 871,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "100",
+                            "color_long": "Gray",
+                            "color_short": "GR"
+                        },
+                        {
+                            "color_index": 872,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "102",
+                            "color_long": "Gray & Brindle",
+                            "color_short": "GR & BRDL"
+                        },
+                        {
+                            "color_index": 873,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "140",
+                            "color_long": "Red",
+                            "color_short": "RD"
+                        },
+                        {
+                            "color_index": 874,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "142",
+                            "color_long": "Red & Brindle",
+                            "color_short": "RD & BRDL"
+                        },
+                        {
+                            "color_index": 875,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "156",
+                            "color_long": "Red Wheaten",
+                            "color_short": "RD WHTN"
+                        },
+                        {
+                            "color_index": 876,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "176",
+                            "color_long": "Silver",
+                            "color_short": "SLVR"
+                        },
+                        {
+                            "color_index": 877,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "224",
+                            "color_long": "Wheaten",
+                            "color_short": "WHTN"
+                        },
+                        {
+                            "color_index": 878,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "225",
+                            "color_long": "Wheaten & Brindle",
+                            "color_short": "WHTN & BRDL"
+                        },
+                        {
+                            "color_index": 879,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "037",
+                            "color_long": "Blue",
+                            "color_short": "BL"
+                        },
+                        {
+                            "color_index": 880,
+                            "breed_name_url": "irish-wolfhound",
+                            "breed_name": "Irish Wolfhound",
+                            "akc_code": "413",
+                            "standard_alternate": "S",
+                            "conformation_eligible": null,
+                            "cde_color": "199",
+                            "color_long": "White",
+                            "color_short": "WH"
+                        }
+                    ]
+                }
+            },
+            "clubs": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "breed_club_name": "Irish Wolfhound Club of America",
+                    "breed_club_url": "www.iwclubofamerica.org",
+                    "breed_club_pdf_url": "http://cdn.akc.org/IrishWolfhound-club-flier.pdf",
+                    "breed_rescue_url": "http://www.iwclubofamerica.org/rescue",
+                    "national_breed_club": "Irish Wolfhound Club of America",
+                    "national_breed_club_url": "www.iwclubofamerica.org",
+                    "breed_referral_contact_name": "David Smith",
+                    "breed_referral_contact_phone_number": "(484) 201-5667",
+                    "breed_referral_contact_email": "president@iwclubofamerica.org",
+                    "breed_referral_contact_address": "180 WALKER MEADOWS LN\nMUNFORD, TN 38058-5021",
+                    "breed_referral_directory_title": "website",
+                    "breed_referral_directory_url": "http://www.iwclubofamerica.org/contacts.htm",
+                    "breed_referral_regional_club_title": "website",
+                    "breed_referral_regional_club_url": "http://www.iwclubofamerica.org/clubs.htm",
+                    "breed_referral_breed_steward_title": "",
+                    "breed_referral_breed_steward_url": "",
+                    "breed_referral_breed_mentor_title": "",
+                    "breed_referral_breed_mentor_url": "",
+                    "breed_rescue_link": "http://www.iwclubofamerica.org/rescue",
+                    "breed_club_metadata": [
+                        {
+                            "id": 1551,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: National Breed Club Content",
+                            "text_metafield_key": "national_breed_club_mp_freetext",
+                            "date_create": "2022-04-21 15:41:23",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 137,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "National Breed Club & Rescue Paragraph",
+                            "text_metafield_key": "national_breed_club_rescue",
+                            "date_create": "2021-12-13 15:50:11",
+                            "date_updated": null,
+                            "clob_metafield_value": "Want to connect with other people who love the same breed as much as you do? We have plenty of opportunities to get involved in your local community, thanks to AKC Breed Clubs located in every state, and more than 450 AKC Rescue Network groups across the country."
+                        },
+                        {
+                            "id": 828,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Email",
+                            "text_metafield_key": "national_breed_club_rescue_email",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 830,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue (freetext field)",
+                            "text_metafield_key": "national_breed_club_rescue_freetext",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 827,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Name",
+                            "text_metafield_key": "national_breed_club_rescue_name",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        },
+                        {
+                            "id": 829,
+                            "breed_id": "138",
+                            "text_model_name": "ParentClub",
+                            "text_metafield_label": "MP: Breed Rescue Phone",
+                            "text_metafield_key": "national_breed_club_rescue_phone",
+                            "date_create": "2022-04-13 18:35:18",
+                            "date_updated": null,
+                            "clob_metafield_value": null
+                        }
+                    ]
+                }
+            },
+            "history": {
+                "irish-wolfhound": {
+                    "breed_name_url": "irish-wolfhound",
+                    "breed_name": "Irish Wolfhound",
+                    "akc_org_history": "<p>The Wolfhound's long history goes back to antiquity and over the centuries has acquired a patina of myth and legend. It can be reliably stated, however, that they were created by breeding the indigenous large dogs of Britain to the Middle Eastern coursing hounds that were bartered around the known world in the earliest days of international trade. By the time the Roman Empire had gained a toehold in the British Isles, the giant hounds of Ireland were already long-established. In the year 391, the Roman consul received a gift of seven of these hounds that 'all Rome viewed with wonder.' These majestic hunters, whose motto was 'Gentle when stroked, fierce when provoked,' were used on such quarry as the now-extinct Irish elk, a massive, ferocious beast said to stand six feet at the shoulder. In 15th-century Ireland, wolves were overrunning the countryside. The Irish hounds, already renowned big-game hunters, began to specialize on wolves. By the late 1700s, when wolves and other big-game animals of Ireland were hunted to extinction, IWs lost their job and nearly went extinct themselves. This was a case of a breed doing its job too well for its own good. In 1862, British army captain George Augustus Graham began scouring the country for remaining specimens of Ireland's national hound. Graham made it his life's work to protect, standardize, and promote the breed, and today his name is still spoken with reverence wherever IW fanciers gather. Among the many Irish legends inspired by the breed is the melancholy tale of loyalty and remorse 'Gelert, the Faithful Hound.'\u009d</p>",
+                    "mp_history_job": "<p>The Wolfhound's long history is entangled in myth and legend, but we can reliably say that they were created by breeding Middle Eastern hounds to large dogs of Britain. We pick up reliable accounts of these ancient giants at about the 15th century when wolves were overrunning the Irish countryside. IWs, already renowned big-game hunters, began to specialize on wolves. By the late 1700s, when the wolves of Ireland were hunted to extinction, IWs lost their job and nearly went extinct themselves.</p>",
+                    "did_you_know": "Irish Wolfhounds are called, interchangeably, \"Irish dogs,\" \"Big Dogs of Ireland,\" \"Greyhounds (or Grehounds) of Ireland,\" \"Wolfdogs of Ireland\" and \"Great Hounds of Ireland.\" Irish Wolfhound is the more modern name. | By the year 391 AD, the Irish Wolfhound was known in Rome, when the first authentic mention of it was written by the Roman Consul Quintus Aurelius, who had received seven of them as a gift which \"all Rome viewed with wonder.\" | Despite his intimidating size, the nature and temperament of the Wolfhound make him totally unsuitable as guard dog, watch dog, or patrol dog. Though alert he is not suspicious; though courageous he is not aggressive. | Wolfhound puppyhood lasts a year or more, and a Wolfhound \"puppy\" can weigh about 100 lbs. | The Irish Wolfhound was coveted for his hunting prowess, particularly in pursuit of the wolf and the gigantic Irish elk. However, with the disappearance from Ireland of these animals, and the excessive exportation of the Wolfhound, the breed became almost extinct."
+                }
+            }
+        },
+        "wp_breed_api_url": "https://www.akc.org/wp-json/json/v2/breedlist.json",
+        "breed_standard_text": "<p><b>Breed Standard:</b> A description of the ideal dog of each recognized breed, to serve as an ideal against which dogs are judged at shows, originally laid down by a parent breed club and accepted officially by national or international bodies.</p>\n",
+        "icons_path": "https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=1775202168",
+        "updated_at": "2026-02-04T20:41:03+00:00",
+        "admin_ajax_url": "https://www.akc.org/wp-admin/admin-ajax.php",
+        "compare_breeds_url": "https://www.akc.org/compare-breeds/?selected=%5B24759%5D",
+        "bounce_sponsor_link": "https://www.bouncefresh.com/en-us/pethair-lint-mega-sheet/pssocial?ps-utid=pet_referral_0723_akc&ps-utparam=akc_referral&utm_source=akc&utm_medium=referral&utm_campaign=pet_referral_0723_akc",
+        "bounce_sponsor_text": "AKC and Bounce Pet bring you the fur and hair scale!",
+        "is_bounce_sponsored": false,
+        "show_modal_for_breeds": [
+            {
+                "ID": 25249,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:36:00",
+                "post_date_gmt": "2017-11-07 02:36:00",
+                "post_content": "Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one of the world's most popular herding breeds.",
+                "post_title": "Pembroke Welsh Corgi",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "pembroke-welsh-corgi",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-10-07 18:07:16",
+                "post_modified_gmt": "2021-10-07 22:07:16",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/pembroke-welsh-corgi/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23378,
+                "post_author": "127",
+                "post_date": "2017-11-06 21:23:22",
+                "post_date_gmt": "2017-11-06 21:23:22",
+                "post_content": "The Australian Shepherd, a lean, tough ranch dog, is one of those \u201conly in America\u201d stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+                "post_title": "Australian Shepherd",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "australian-shepherd",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-16 15:08:00",
+                "post_modified_gmt": "2026-03-16 19:08:00",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/australian-shepherd/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 26092,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:41:40",
+                "post_date_gmt": "2017-11-07 02:41:40",
+                "post_content": "Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies.",
+                "post_title": "Yorkshire Terrier",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "yorkshire-terrier",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2021-06-29 10:30:41",
+                "post_modified_gmt": "2021-06-29 14:30:41",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/yorkshire-terrier/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23951,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:27:13",
+                "post_date_gmt": "2017-11-06 21:27:13",
+                "post_content": "The Cavalier King Charles Spaniel wears his connection to British history in his breed\u2019s name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel.",
+                "post_title": "Cavalier King Charles Spaniel",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cavalier-king-charles-spaniel",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 08:30:19",
+                "post_modified_gmt": "2026-03-11 12:30:19",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24216,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:28:55",
+                "post_date_gmt": "2017-11-06 21:28:55",
+                "post_content": "Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs.",
+                "post_title": "Doberman Pinscher",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "doberman-pinscher",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 10:26:35",
+                "post_modified_gmt": "2026-03-11 14:26:35",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/doberman-pinscher/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23914,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:26:58",
+                "post_date_gmt": "2017-11-06 21:26:58",
+                "post_content": "Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso\u2019s lineage goes back to ancient Roman times, and the breed\u2019s name roughly translates from the Latin as \u201cbodyguard dog.\u201d",
+                "post_title": "Cane Corso",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "cane-corso",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-10 15:35:05",
+                "post_modified_gmt": "2026-03-10 19:35:05",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/cane-corso/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25043,
+                "post_author": "120",
+                "post_date": "2017-11-06 21:34:33",
+                "post_date_gmt": "2017-11-06 21:34:33",
+                "post_content": "The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you\u2019ve got an ideal family dog.",
+                "post_title": "Miniature Schnauzer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "miniature-schnauzer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2020-07-19 11:36:42",
+                "post_modified_gmt": "2020-07-19 15:36:42",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/miniature-schnauzer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 23758,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:25:53",
+                "post_date_gmt": "2017-11-06 21:25:53",
+                "post_content": "Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America\u2019s most popular dog breeds for a very long time.",
+                "post_title": "Boxer",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "boxer",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2022-04-10 17:16:32",
+                "post_modified_gmt": "2022-04-10 21:16:32",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/boxer/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 24572,
+                "post_author": "1",
+                "post_date": "2017-11-06 21:31:19",
+                "post_date_gmt": "2017-11-06 21:31:19",
+                "post_content": "The easygoing Great Dane, the mighty \u201cApollo of Dogs,\u201d is a total joy to live with\u2014but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane.",
+                "post_title": "Great Dane",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "great-dane",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2024-02-07 14:22:25",
+                "post_modified_gmt": "2024-02-07 19:22:25",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/great-dane/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            },
+            {
+                "ID": 25664,
+                "post_author": "10",
+                "post_date": "2017-11-06 21:38:51",
+                "post_date_gmt": "2017-11-07 02:38:51",
+                "post_content": "That face! Those big dark eyes looking up at you with that sweet expression! It\u2019s no surprise that Shih Tzu owners have been so delighted with this little \u201cLion Dog\u201d for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+                "post_title": "Shih Tzu",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "shih-tzu",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-03-11 14:36:09",
+                "post_modified_gmt": "2026-03-11 18:36:09",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "https://devetr.akc.org/dog-breeds/shih-tzu/",
+                "menu_order": 0,
+                "post_type": "breed",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw"
+            }
+        ],
+        "shop_cta_block": false,
+        "show_shop_cta_on_breeds": null
+    },
+    "ads": {
+        "mid1": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid1"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid2": {
+            "has_label": true,
+            "size": [
+                728,
+                90
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        468,
+                        60
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid2"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid3": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid3"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid4": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        336,
+                        280
+                    ]
+                ],
+                "641,0": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "0,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ]
+            },
+            "targeting": {
+                "pos": "mid4"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        },
+        "mid5_desktop": {
+            "has_label": true,
+            "size": [
+                300,
+                250
+            ],
+            "size_mapping": {
+                "976,0": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        320,
+                        50
+                    ],
+                    [
+                        320,
+                        100
+                    ],
+                    [
+                        300,
+                        100
+                    ],
+                    [
+                        300,
+                        50
+                    ]
+                ],
+                "641,0": [],
+                "0,0": []
+            },
+            "targeting": {
+                "pos": "mid5_desktop"
+            },
+            "slot_name": "/120519536/AKC.Breeds/name"
+        }
+    },
+    "breed": {
+        "media": {
+            "video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "about_video": {
+                "type": "",
+                "src": "",
+                "description": "",
+                "poster": "",
+                "akctv_embed_id": ""
+            },
+            "gallery": [
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-standing-in-a-field.jpg",
+                    "alt": "Irish Wolfhound standing in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Nadine Haase - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/ANC2016-Conformation-Hound-Group-David-0E9A5775.jpg",
+                    "alt": "Best of Breed, Best of Winners, Winners Dog, and AMBRED- -D-1: Kellykerry Keiran Of Aerie, Irish Wolfhound; Hound Group judging at the 2016 AKC National Championship presented by Royal Canin in Orlando, FL.",
+                    "caption": "",
+                    "credit": "David Woo \u00a9American Kennel Club"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-sitting-outdoors-in-the-grass.20200428162205351.jpg",
+                    "alt": "Irish Wolfhound sitting outdoors in the grass.",
+                    "caption": "",
+                    "credit": "Bigandt_Photography/Getty Images Plus via Getty Images"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-running-in-a-field.jpg",
+                    "alt": "Irish Wolfhound running in a field.",
+                    "caption": "",
+                    "credit": "\u00a9krushelss - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhounds-standing-together-in-a-meadow.jpg",
+                    "alt": "Irish Wolfhounds standing together in a meadow.",
+                    "caption": "",
+                    "credit": "\u00a9Dogs - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhounds-in-a-field.jpg",
+                    "alt": "Irish Wolfhounds in a field.",
+                    "caption": "",
+                    "credit": "\u00a9DragoNika - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-standing-in-a-field.1.jpg",
+                    "alt": "Irish Wolfhound standing in a field.",
+                    "caption": "",
+                    "credit": "\u00a9Nadine Haase - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhounds-standing-together-in-a-field.jpg",
+                    "alt": "Irish Wolfhounds standing together in a field.",
+                    "caption": "",
+                    "credit": "\u00a9zuzule - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhounds-running-in-the-yard.jpg",
+                    "alt": "Irish Wolfhounds running in the yard.",
+                    "caption": "",
+                    "credit": "\u00a9Bara - stock.adobe.com"
+                },
+                {
+                    "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-in-a-lake.jpg",
+                    "alt": "Irish Wolfhound in a lake.",
+                    "caption": "",
+                    "credit": "\u00a9Kamila - stock.adobe.com"
+                }
+            ],
+            "standard": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-Illo-2.jpg",
+                "alt": "Irish Wolfhound illustration."
+            }
+        },
+        "standard": {
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-Illo-2.jpg"
+        },
+        "puppies": {
+            "image": {
+                "src": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-puppy-sitting.jpg",
+                "alt": "Irish Wolfhound puppy sitting."
+            },
+            "title": "Find Puppies",
+            "text": "AKC Marketplace is the only site to exclusively list 100% AKC puppies from AKC-Registered litters and the breeders who have cared for and raised these puppies are required to follow rules and regulations established by the AKC.",
+            "button": {
+                "text": "Look for your Puppy",
+                "url": "https://marketplace.akc.org/puppies/irish-wolfhound",
+                "is_external": false
+            }
+        },
+        "clubs": {
+            "image": {
+                "src": false,
+                "alt": null
+            },
+            "title": null,
+            "text": null
+        },
+        "popularity": {
+            "title": "AKC Breed Popularity Ranking",
+            "text": "<p>Every year the American Kennel Club releases the list of \"most popular breeds\", based on registration statistics for that year.</p>\n"
+        },
+        "history": [],
+        "health": {
+            "description": "<p>Owning a dog <strong><i>is not just a privilege; it\u2019s a responsibility.</i></strong> They depend on us for, at minimum, food and shelter, and deserve much more. When you take a dog into your life, you need to understand the commitment that dog ownership entails.</p>\n",
+            "yumove_ad_text": "",
+            "yumove_ad_logo": false
+        },
+        "color": {
+            "footer_text": "."
+        },
+        "breed_name_formatted": "Irish Wolfhound",
+        "shopCta": false
+    }
+}
